@@ -1,126 +1,96 @@
-      "Stade de Reims"
-    ],
-    "correctIndex": 1,
-    "status": "do_weryfikacji"
-  },
+[
   {
-    "id": "SPORT-0093",
-    "region": "Świat",
+    "id": "SPORT-0001",
+    "region": "Polska",
     "sport": "Koszykówka",
-    "difficulty": "Ekspert",
-    "question": "Który zespół Chicago Bulls pokonali w finale NBA w 1991 roku?",
+    "difficulty": "Łatwy",
+    "question": "Który polski koszykarz grał w NBA w barwach San Antonio Spurs?",
     "answers": [
-      "Los Angeles Lakers",
-      "Detroit Pistons",
-      "Portland Trail Blazers",
-      "Phoenix Suns"
+      "Jeremy Sochan",
+      "Adam Waczyński",
+      "Mateusz Ponitka",
+      "Łukasz Koszarek"
     ],
     "correctIndex": 0,
     "status": "do_weryfikacji"
   },
   {
-    "id": "SPORT-0094",
-    "region": "Świat",
+    "id": "SPORT-0002",
+    "region": "Polska",
     "sport": "Koszykówka",
-    "difficulty": "Ekspert",
-    "question": "W jakiej drużynie Wilt Chamberlain zdobył 100 punktów w jednym meczu NBA?",
+    "difficulty": "Łatwy",
+    "question": "Ilu zawodników jednej drużyny przebywa na boisku podczas meczu koszykówki?",
     "answers": [
-      "Philadelphia Warriors",
-      "Philadelphia 76ers",
-      "Los Angeles Lakers",
-      "San Francisco Warriors"
-    ],
-    "correctIndex": 0,
-    "status": "do_weryfikacji"
-  },
-  {
-    "id": "SPORT-0095",
-    "region": "Świat",
-    "sport": "Siatkówka",
-    "difficulty": "Ekspert",
-    "question": "Która reprezentacja zdobyła pierwsze olimpijskie złoto w siatkówce mężczyzn w 1964 roku?",
-    "answers": [
-      "Japonia",
-      "ZSRR",
-      "Czechosłowacja",
-      "Brazylia"
+      "4",
+      "5",
+      "6",
+      "7"
     ],
     "correctIndex": 1,
     "status": "do_weryfikacji"
   },
   {
-    "id": "SPORT-0096",
-    "region": "Świat",
-    "sport": "Siatkówka",
-    "difficulty": "Ekspert",
-    "question": "Który kraj wygrał mistrzostwa świata siatkarzy w 2002 roku?",
+    "id": "SPORT-0003",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobywał mistrzostwo Polski w koszykówce mężczyzn i pochodzi z Włocławka?",
     "answers": [
-      "Rosja",
-      "Brazylia",
-      "Włochy",
-      "Serbia i Czarnogóra"
+      "Anwil",
+      "Śląsk",
+      "Trefl",
+      "Start"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0004",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najwyższa klasa rozgrywkowa koszykówki mężczyzn w Polsce (nazwa ogólna)?",
+    "answers": [
+      "I liga",
+      "Polska Liga Koszykówki",
+      "II liga",
+      "Liga Akademicka"
     ],
     "correctIndex": 1,
     "status": "do_weryfikacji"
   },
   {
-    "id": "SPORT-0097",
-    "region": "Świat",
-    "sport": "Tenis",
-    "difficulty": "Ekspert",
-    "question": "Kto pokonał Rogera Federera w finale Wimbledonu 2008?",
+    "id": "SPORT-0005",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który z wymienionych zawodników reprezentował Polskę w koszykówce?",
     "answers": [
-      "Novak Djoković",
-      "Andy Murray",
-      "Rafael Nadal",
-      "Andy Roddick"
+      "Robert Lewandowski",
+      "Marcin Gortat",
+      "Bartosz Kurek",
+      "Hubert Hurkacz"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "status": "do_weryfikacji"
   },
   {
-    "id": "SPORT-0098",
-    "region": "Świat",
-    "sport": "Tenis",
-    "difficulty": "Ekspert",
-    "question": "Który tenisista wygrał French Open w 1989 roku jako 17-latek?",
+    "id": "SPORT-0006",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów daje celny rzut wolny w koszykówce?",
     "answers": [
-      "Michael Chang",
-      "Boris Becker",
-      "Jim Courier",
-      "Andre Agassi"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
     "correctIndex": 0,
     "status": "do_weryfikacji"
   },
   {
-    "id": "SPORT-0099",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Ekspert",
-    "question": "Kto zdobył złoto olimpijskie w biegu na 400 m przez płotki w Tokio 2020 z rekordem świata 45,94?",
-    "answers": [
-      "Karsten Warholm",
-      "Rai Benjamin",
-      "Alison dos Santos",
-      "Abderrahman Samba"
-    ],
-    "correctIndex": 0,
-    "status": "do_weryfikacji"
-  },
-  {
-    "id": "SPORT-0100",
-    "region": "Świat",
-    "sport": "Sporty zimowe",
-    "difficulty": "Ekspert",
-    "question": "Który zawodnik zdobył pięć złotych medali olimpijskich w łyżwiarstwie szybkim na igrzyskach w Lake Placid 1980?",
-    "answers": [
-      "Eric Heiden",
-      "Sven Kramer",
-      "Johann Olav Koss",
-      "Ireen Wüst"
-    ],
-    "correctIndex": 0,
-    "status": "do_weryfikacji"
-  }
-]
+    "id": "SPORT-0007",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
