@@ -1,0 +1,3752 @@
+[
+  {
+    "id": "SPORT-0001",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który polski koszykarz grał w NBA w barwach San Antonio Spurs?",
+    "answers": [
+      "Jeremy Sochan",
+      "Adam Waczyński",
+      "Mateusz Ponitka",
+      "Łukasz Koszarek"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0002",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ilu zawodników jednej drużyny przebywa na boisku podczas meczu koszykówki?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0003",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobywał mistrzostwo Polski w koszykówce mężczyzn i pochodzi z Włocławka?",
+    "answers": [
+      "Anwil",
+      "Śląsk",
+      "Trefl",
+      "Start"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0004",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najwyższa klasa rozgrywkowa koszykówki mężczyzn w Polsce (nazwa ogólna)?",
+    "answers": [
+      "I liga",
+      "Polska Liga Koszykówki",
+      "II liga",
+      "Liga Akademicka"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0005",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który z wymienionych zawodników reprezentował Polskę w koszykówce?",
+    "answers": [
+      "Robert Lewandowski",
+      "Marcin Gortat",
+      "Bartosz Kurek",
+      "Hubert Hurkacz"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0006",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów daje celny rzut wolny w koszykówce?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0007",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście swoje mecze rozgrywa klub koszykarski Śląsk?",
+    "answers": [
+      "Wrocław",
+      "Kraków",
+      "Gdynia",
+      "Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0008",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się naruszenie przepisów polegające na wykonaniu zbyt wielu kroków bez kozłowania?",
+    "answers": [
+      "Aut",
+      "Kroki",
+      "Spalony",
+      "Róg"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0009",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który polski koszykarz grał w NBA dla Orlando Magic?",
+    "answers": [
+      "Maciej Lampe",
+      "Marcin Gortat",
+      "Adam Hrycaniuk",
+      "Przemysław Karnowski"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0010",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów daje celny rzut zza linii trzech punktów?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "W której lidze grają drużyny Los Angeles Lakers i Boston Celtics?",
+    "answers": [
+      "NBA",
+      "NFL",
+      "NHL",
+      "MLB"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik jest znany pod pseudonimem „King James”?",
+    "answers": [
+      "Stephen Curry",
+      "LeBron James",
+      "Kevin Durant",
+      "Nikola Jokić"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "W jakim kraju powstała koszykówka?",
+    "answers": [
+      "Kanada",
+      "USA",
+      "Hiszpania",
+      "Francja"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile kwart ma standardowy mecz koszykówki?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna NBA ma w nazwie słowo Bulls?",
+    "answers": [
+      "Chicago",
+      "Miami",
+      "Dallas",
+      "Phoenix"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najwyższy międzynarodowy turniej reprezentacyjny rozgrywany przez FIBA co cztery lata?",
+    "answers": [
+      "Mistrzostwa Świata",
+      "Puchar Davisa",
+      "Super Bowl",
+      "Liga Narodów UEFA"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który polski napastnik występował w FC Barcelonie?",
+    "answers": [
+      "Robert Lewandowski",
+      "Jakub Błaszczykowski",
+      "Kamil Glik",
+      "Wojciech Szczęsny"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ile minut trwa regulaminowy czas meczu piłki nożnej seniorów?",
+    "answers": [
+      "60",
+      "80",
+      "90",
+      "100"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który polski klub rozgrywa mecze domowe przy Łazienkowskiej?",
+    "answers": [
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Widzew Łódź",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku Polska zajęła trzecie miejsce na mistrzostwach świata w RFN?",
+    "answers": [
+      "1966",
+      "1974",
+      "1982",
+      "1990"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0021",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ilu zawodników jednej drużyny rozpoczyna mecz piłki nożnej na boisku?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0022",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który kraj wygrał piłkarski mundial w 2022 roku?",
+    "answers": [
+      "Francja",
+      "Argentyna",
+      "Brazylia",
+      "Chorwacja"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0023",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub gra na stadionie Santiago Bernabéu?",
+    "answers": [
+      "FC Barcelona",
+      "Real Madryt",
+      "Atlético Madryt",
+      "Sevilla FC"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0024",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się europejski turniej klubowy organizowany przez UEFA, w którym grają czołowe zespoły?",
+    "answers": [
+      "Liga Mistrzów",
+      "Copa América",
+      "Puchar Azji",
+      "Gold Cup"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0025",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ilu zawodników jednej drużyny gra na boisku w siatkówce halowej?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0026",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Który polski siatkarz jest znany z gry na pozycji atakującego?",
+    "answers": [
+      "Bartosz Kurek",
+      "Piotr Żyła",
+      "Hubert Hurkacz",
+      "Kamil Stoch"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0027",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najwyższa liga siatkówki mężczyzn w Polsce?",
+    "answers": [
+      "PlusLiga",
+      "Ekstraklasa",
+      "ORLEN Basket Liga",
+      "Superliga"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0028",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów zwykle trzeba zdobyć, aby wygrać set siatkówki halowej (nie tie-break), z przewagą dwóch?",
+    "answers": [
+      "15",
+      "21",
+      "25",
+      "30"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0029",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ile setów musi wygrać drużyna, aby wygrać mecz siatkówki halowej?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0030",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się zawodnik w siatkówce specjalizujący się w obronie i przyjęciu, noszący inny kolor koszulki?",
+    "answers": [
+      "Libero",
+      "Rozgrywający",
+      "Atakujący",
+      "Środkowy"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0031",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Czy w siatkówce halowej wolno odbić piłkę nogą?",
+    "answers": [
+      "Tak",
+      "Nie",
+      "Tylko przy zagrywce",
+      "Tylko w tie-breaku"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0032",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ile maksymalnie odbić może wykonać drużyna przed przebiciem piłki na drugą stronę (bez liczenia bloku)?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0033",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Która polska tenisistka wygrała Roland Garros w 2020 roku?",
+    "answers": [
+      "Agnieszka Radwańska",
+      "Iga Świątek",
+      "Magda Linette",
+      "Magdalena Fręch"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0034",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Który polski tenisista dotarł do półfinału Wimbledonu w singlu w 2013 roku?",
+    "answers": [
+      "Hubert Hurkacz",
+      "Jerzy Janowicz",
+      "Łukasz Kubot",
+      "Mariusz Fyrstenberg"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0035",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się polska tenisistka, która dotarła do finału Wimbledonu w 2012 roku?",
+    "answers": [
+      "Agnieszka Radwańska",
+      "Iga Świątek",
+      "Magda Linette",
+      "Katarzyna Kawa"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0036",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Który z wymienionych sportowców reprezentuje Polskę w tenisie?",
+    "answers": [
+      "Hubert Hurkacz",
+      "Bartosz Zmarzlik",
+      "Kamil Stoch",
+      "Marcin Gortat"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0037",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Na jakiej nawierzchni rozgrywany jest Wimbledon?",
+    "answers": [
+      "Mączka ceglana",
+      "Trawa",
+      "Beton",
+      "Dywan"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0038",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się wynik 40:40 w gemie tenisowym?",
+    "answers": [
+      "Tie-break",
+      "Równowaga",
+      "Setbol",
+      "Break"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0039",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Ile turniejów wielkoszlemowych rozgrywa się w sezonie tenisowym?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0040",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Który turniej wielkoszlemowy odbywa się w Paryżu?",
+    "answers": [
+      "US Open",
+      "Australian Open",
+      "Roland Garros",
+      "Wimbledon"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0041",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Które miejsce zajęła Polska na mistrzostwach świata koszykarzy w 2019 roku?",
+    "answers": [
+      "4.",
+      "8.",
+      "6.",
+      "10."
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0042",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z którym klubem NBA Marcin Gortat rozpoczął występy w tej lidze?",
+    "answers": [
+      "Phoenix Suns",
+      "Orlando Magic",
+      "Washington Wizards",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0043",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto strzelił zwycięskiego gola dla Polski w meczu z Portugalią na MŚ 1986?",
+    "answers": [
+      "Zbigniew Boniek",
+      "Włodzimierz Smolarek",
+      "Jan Urban",
+      "Nikt — Polska przegrała"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0044",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub wygrał Puchar Polski w sezonie 2022/23?",
+    "answers": [
+      "Legia Warszawa",
+      "Raków Częstochowa",
+      "Lech Poznań",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0045",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "W którym roku polscy siatkarze zdobyli złoto mistrzostw świata w Katowicach?",
+    "answers": [
+      "2006",
+      "2010",
+      "2014",
+      "2018"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0046",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Który polski siatkarz nosi pseudonim „Kuraś”?",
+    "answers": [
+      "Michał Kubiak",
+      "Bartosz Kurek",
+      "Wilfredo León",
+      "Paweł Zatorski"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0047",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "W jakim turnieju wielkoszlemowym Iga Świątek zdobyła pierwszy tytuł singlowy?",
+    "answers": [
+      "US Open",
+      "Wimbledon",
+      "Australian Open",
+      "Roland Garros"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0048",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał Wimbledon w deblu mężczyzn w 2017 roku razem z Marcelo Melo?",
+    "answers": [
+      "Łukasz Kubot",
+      "Hubert Hurkacz",
+      "Jerzy Janowicz",
+      "Mariusz Fyrstenberg"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0049",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Anita Włodarczyk zdobywała złote medale olimpijskie?",
+    "answers": [
+      "Rzut dyskiem",
+      "Pchnięcie kulą",
+      "Rzut młotem",
+      "Rzut oszczepem"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0050",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "W jakiej dyscyplinie Justyna Kowalczyk zdobyła złoto olimpijskie w Vancouver?",
+    "answers": [
+      "Biathlon",
+      "Biegi narciarskie",
+      "Łyżwiarstwo szybkie",
+      "Skoki narciarskie"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0051",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Ile sekund drużyna ma zwykle na oddanie rzutu w NBA po uzyskaniu posiadania?",
+    "answers": [
+      "14",
+      "20",
+      "24",
+      "30"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0052",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna NBA wybrała Michaela Jordana w drafcie 1984?",
+    "answers": [
+      "Chicago Bulls",
+      "Portland Trail Blazers",
+      "Houston Rockets",
+      "Los Angeles Lakers"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0053",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja wygrała mistrzostwa świata w 2010 roku?",
+    "answers": [
+      "Holandia",
+      "Hiszpania",
+      "Niemcy",
+      "Włochy"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0054",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył Złotą Piłkę w 2018 roku?",
+    "answers": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Luka Modrić",
+      "Karim Benzema"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0055",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Do ilu punktów rozgrywa się tie-break w siatkówce halowej (z przewagą dwóch)?",
+    "answers": [
+      "11",
+      "15",
+      "21",
+      "25"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0056",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Ile punktów daje wygrana akcja w siatkówce halowej?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "Zależy od zagrywki"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0057",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Który tenisista wygrał Australian Open w singlu mężczyzn w 2022 roku?",
+    "answers": [
+      "Novak Djoković",
+      "Rafael Nadal",
+      "Roger Federer",
+      "Daniił Miedwiediew"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0058",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Który turniej Wielkiego Szlema jest rozgrywany na kortach ziemnych?",
+    "answers": [
+      "Wimbledon",
+      "US Open",
+      "Roland Garros",
+      "Australian Open"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0059",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Ile metrów ma jedno okrążenie standardowej bieżni stadionowej?",
+    "answers": [
+      "200",
+      "300",
+      "400",
+      "500"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0060",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "W której dyscyplinie olimpijskiej używa się kamieni i szczotek?",
+    "answers": [
+      "Curling",
+      "Skeleton",
+      "Bobsleje",
+      "Short track"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0061",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto był selekcjonerem reprezentacji Polski na mistrzostwach świata w 1974 roku?",
+    "answers": [
+      "Kazimierz Górski",
+      "Antoni Piechniczek",
+      "Jacek Gmoch",
+      "Ryszard Kulesza"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0062",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Z kim Polska zagrała w meczu o 3. miejsce MŚ 1982?",
+    "answers": [
+      "Francja",
+      "ZSRR",
+      "Włochy",
+      "Belgia"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0063",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym roku polscy koszykarze zdobyli srebro mistrzostw Europy?",
+    "answers": [
+      "1963",
+      "1971",
+      "1987",
+      "2009"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0064",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W jakim mieście rozegrano finał EuroBasketu 1963, w którym wystąpiła Polska?",
+    "answers": [
+      "Wrocław",
+      "Warszawa",
+      "Łódź",
+      "Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0065",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Kto prowadził reprezentację Polski siatkarzy podczas triumfu na MŚ 2014?",
+    "answers": [
+      "Andrea Anastasi",
+      "Stéphane Antiga",
+      "Vital Heynen",
+      "Nikola Grbić"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0066",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Który polski klub siatkarski wygrał Ligę Mistrzów CEV w 2021 roku?",
+    "answers": [
+      "Jastrzębski Węgiel",
+      "ZAKSA Kędzierzyn-Koźle",
+      "Asseco Resovia",
+      "PGE Skra Bełchatów"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0067",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Kto był rywalką Agnieszki Radwańskiej w finale Wimbledonu 2012?",
+    "answers": [
+      "Maria Szarapowa",
+      "Petra Kvitová",
+      "Serena Williams",
+      "Wiktoria Azarenka"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0068",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "W jakiej konkurencji Tomasz Majewski zdobywał złote medale olimpijskie?",
+    "answers": [
+      "Rzut dyskiem",
+      "Pchnięcie kulą",
+      "Rzut młotem",
+      "Rzut oszczepem"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0069",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "W którym roku Wojciech Fortuna zdobył złoto olimpijskie w skokach narciarskich?",
+    "answers": [
+      "1968",
+      "1972",
+      "1976",
+      "1980"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0070",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "W którym zespole Robert Kubica odniósł swoje jedyne zwycięstwo w Formule 1?",
+    "answers": [
+      "Renault",
+      "Williams",
+      "BMW Sauber",
+      "Lotus"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0071",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja wygrała pierwsze mistrzostwa świata FIFA w 1930 roku?",
+    "answers": [
+      "Argentyna",
+      "Urugwaj",
+      "Brazylia",
+      "Włochy"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0072",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył jedyną bramkę w finale MŚ 2014?",
+    "answers": [
+      "Thomas Müller",
+      "Mario Götze",
+      "Miroslav Klose",
+      "André Schürrle"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0073",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który klub NBA wybrał Kobego Bryanta w drafcie 1996 roku, zanim został wymieniony?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Charlotte Hornets",
+      "Philadelphia 76ers",
+      "New Jersey Nets"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0074",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył najwięcej punktów w jednym meczu NBA (100)?",
+    "answers": [
+      "Michael Jordan",
+      "Kobe Bryant",
+      "Wilt Chamberlain",
+      "LeBron James"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0075",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja wygrała olimpijski turniej siatkarzy w Tokio 2020 (rozegrany w 2021)?",
+    "answers": [
+      "Brazylia",
+      "Francja",
+      "Rosyjski Komitet Olimpijski",
+      "Polska"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0076",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "W którym roku siatkówka halowa zadebiutowała na igrzyskach olimpijskich?",
+    "answers": [
+      "1952",
+      "1960",
+      "1964",
+      "1972"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0077",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Który tenisista zdobył kalendarzowego Wielkiego Szlema w singlu mężczyzn w 1969 roku?",
+    "answers": [
+      "Rod Laver",
+      "Björn Borg",
+      "Pete Sampras",
+      "Andre Agassi"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0078",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Która tenisistka wygrała wszystkie cztery turnieje wielkoszlemowe w singlu w 1988 roku?",
+    "answers": [
+      "Martina Navrátilová",
+      "Steffi Graf",
+      "Chris Evert",
+      "Monica Seles"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0079",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Kto ustanowił rekord świata na 100 m mężczyzn wynoszący 9,58 s?",
+    "answers": [
+      "Tyson Gay",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Yohan Blake"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0080",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który kraj jest tradycyjnie gospodarzem konkursu Turnieju Czterech Skoczni w Innsbrucku?",
+    "answers": [
+      "Niemcy",
+      "Austria",
+      "Szwajcaria",
+      "Norwegia"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0081",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył bramkę dla Polski w meczu z Anglią na Wembley w 1973 roku?",
+    "answers": [
+      "Jan Domarski",
+      "Grzegorz Lato",
+      "Robert Gadocha",
+      "Kazimierz Deyna"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0082",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Z jaką drużyną Górnik Zabrze zagrał w finale Pucharu Zdobywców Pucharów 1970?",
+    "answers": [
+      "Manchester City",
+      "Chelsea",
+      "Arsenal",
+      "Leeds United"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0083",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który z polskich koszykarzy został wybrany w drafcie NBA 2005 z numerem 57?",
+    "answers": [
+      "Marcin Gortat",
+      "Maciej Lampe",
+      "Cezary Trybański",
+      "Jeremy Sochan"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0084",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był trenerem reprezentacji Polski koszykarzy podczas EuroBasketu 1963?",
+    "answers": [
+      "Witold Zagórski",
+      "Mike Taylor",
+      "Igor Miličić",
+      "Andrzej Kowalczyk"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0085",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był trenerem polskich siatkarzy podczas olimpijskiego złota w Montrealu 1976?",
+    "answers": [
+      "Hubert Wagner",
+      "Waldemar Wspaniały",
+      "Raúl Lozano",
+      "Stéphane Antiga"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0086",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Który klub zdobył pierwszy w historii polskiej siatkówki męskiej tytuł Ligi Mistrzów CEV w 2021?",
+    "answers": [
+      "ZAKSA Kędzierzyn-Koźle",
+      "Jastrzębski Węgiel",
+      "Skra Bełchatów",
+      "Resovia Rzeszów"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0087",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Z kim Łukasz Kubot wygrał Wimbledon 2017 w deblu mężczyzn?",
+    "answers": [
+      "Marcelo Melo",
+      "Robert Lindstedt",
+      "Horia Tecău",
+      "Nicolas Mahut"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0088",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Na których igrzyskach Janusz Kusociński zdobył złoto w biegu na 10 000 m?",
+    "answers": [
+      "Amsterdam 1928",
+      "Los Angeles 1932",
+      "Berlin 1936",
+      "Londyn 1948"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0089",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Na jakiej skoczni Wojciech Fortuna zdobył złoto olimpijskie w 1972 roku?",
+    "answers": [
+      "Normalnej w Sapporo",
+      "Dużej w Sapporo",
+      "Dużej w Innsbrucku",
+      "Normalnej w Grenoble"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0090",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "Na którym torze Robert Kubica wygrał Grand Prix Kanady w 2008 roku?",
+    "answers": [
+      "Circuit Gilles-Villeneuve",
+      "Silverstone",
+      "Monza",
+      "Spa-Francorchamps"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0091",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Kto strzelił zwycięskiego gola w finale mistrzostw świata 2010?",
+    "answers": [
+      "David Villa",
+      "Andrés Iniesta",
+      "Xavi",
+      "Fernando Torres"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0092",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który klub wygrał pierwszy Puchar Europy Mistrzów Krajowych w 1956 roku?",
+    "answers": [
+      "Benfica",
+      "Real Madryt",
+      "AC Milan",
+      "Stade de Reims"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0093",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zespół Chicago Bulls pokonali w finale NBA w 1991 roku?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Detroit Pistons",
+      "Portland Trail Blazers",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0094",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W jakiej drużynie Wilt Chamberlain zdobył 100 punktów w jednym meczu NBA?",
+    "answers": [
+      "Philadelphia Warriors",
+      "Philadelphia 76ers",
+      "Los Angeles Lakers",
+      "San Francisco Warriors"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0095",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Która reprezentacja zdobyła pierwsze olimpijskie złoto w siatkówce mężczyzn w 1964 roku?",
+    "answers": [
+      "Japonia",
+      "ZSRR",
+      "Czechosłowacja",
+      "Brazylia"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0096",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Który kraj wygrał mistrzostwa świata siatkarzy w 2002 roku?",
+    "answers": [
+      "Rosja",
+      "Brazylia",
+      "Włochy",
+      "Serbia i Czarnogóra"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0097",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Kto pokonał Rogera Federera w finale Wimbledonu 2008?",
+    "answers": [
+      "Novak Djoković",
+      "Andy Murray",
+      "Rafael Nadal",
+      "Andy Roddick"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0098",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Który tenisista wygrał French Open w 1989 roku jako 17-latek?",
+    "answers": [
+      "Michael Chang",
+      "Boris Becker",
+      "Jim Courier",
+      "Andre Agassi"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0099",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył złoto olimpijskie w biegu na 400 m przez płotki w Tokio 2020 z rekordem świata 45,94?",
+    "answers": [
+      "Karsten Warholm",
+      "Rai Benjamin",
+      "Alison dos Santos",
+      "Abderrahman Samba"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0100",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik zdobył pięć złotych medali olimpijskich w łyżwiarstwie szybkim na igrzyskach w Lake Placid 1980?",
+    "answers": [
+      "Eric Heiden",
+      "Sven Kramer",
+      "Johann Olav Koss",
+      "Ireen Wüst"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0101",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najwyższa klasa rozgrywkowa piłki nożnej mężczyzn w Polsce?",
+    "answers": [
+      "I liga",
+      "Ekstraklasa",
+      "Puchar Polski",
+      "II liga"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0102",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ilu zawodników jednej drużyny jest na boisku w siatkówce halowej?",
+    "answers": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0103",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się polska tenisistka, która wygrała Roland Garros w 2020 roku?",
+    "answers": [
+      "Magda Linette",
+      "Agnieszka Radwańska",
+      "Iga Świątek",
+      "Magdalena Fręch"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0104",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "Jaką konkurencję uprawiała Anita Włodarczyk?",
+    "answers": [
+      "Rzut oszczepem",
+      "Bieg na 100 m",
+      "Rzut młotem",
+      "Skok wzwyż"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0105",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "W jakiej dyscyplinie medale olimpijskie zdobywał Adam Małysz?",
+    "answers": [
+      "Biathlon",
+      "Łyżwiarstwo figurowe",
+      "Bobsleje",
+      "Skoki narciarskie"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0106",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Łatwy",
+    "question": "Który Polak startował w Formule 1 w zespole BMW Sauber?",
+    "answers": [
+      "Kajetan Kajetanowicz",
+      "Krzysztof Hołowczyc",
+      "Bartosz Zmarzlik",
+      "Robert Kubica"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0113",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów jest wart rzut wolny w koszykówce?",
+    "answers": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0114",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się turniej wielkoszlemowy rozgrywany na trawie w Londynie?",
+    "answers": [
+      "US Open",
+      "Wimbledon",
+      "Roland Garros",
+      "Australian Open"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0115",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Do ilu punktów zwykle gra się set w siatkówce halowej, z wyjątkiem tie-breaka?",
+    "answers": [
+      "30",
+      "21",
+      "25",
+      "15"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0116",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "Jaki dystans ma bieg maratoński?",
+    "answers": [
+      "21,0975 km",
+      "42,195 km",
+      "50 km",
+      "40 km"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0117",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "W jakiej dyscyplinie zawodnicy strzelają do tarcz i biegną na nartach?",
+    "answers": [
+      "Skeleton",
+      "Curling",
+      "Kombinacja norweska",
+      "Biathlon"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0118",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Łatwy",
+    "question": "Co oznacza skrót F1 w wyścigach samochodowych?",
+    "answers": [
+      "Formuła 1",
+      "Federacja 1",
+      "Faza 1",
+      "Finał 1"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0123",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku Polska po raz pierwszy zajęła trzecie miejsce na mundialu?",
+    "answers": [
+      "1978",
+      "1970",
+      "1974",
+      "1982"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0124",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Kto był trenerem polskich siatkarzy podczas zdobycia mistrzostwa świata w 2014 roku?",
+    "answers": [
+      "Stéphane Antiga",
+      "Raúl Lozano",
+      "Vital Heynen",
+      "Nikola Grbić"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0125",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Do finału którego turnieju wielkoszlemowego dotarła Agnieszka Radwańska w 2012 roku?",
+    "answers": [
+      "US Open",
+      "Wimbledon",
+      "Roland Garros",
+      "Australian Open"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0126",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Tomasz Majewski zdobył dwa złote medale olimpijskie?",
+    "answers": [
+      "Skok o tyczce",
+      "Rzut dyskiem",
+      "Rzut młotem",
+      "Pchnięcie kulą"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0127",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "W jakiej miejscowości Kamil Stoch zdobył dwa złote medale olimpijskie w 2014 roku?",
+    "answers": [
+      "Pjongczang",
+      "Soczi",
+      "Turyn",
+      "Vancouver"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0128",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Normalny",
+    "question": "W jakiej serii wyścigowej Robert Kubica wygrał Grand Prix Kanady w 2008 roku?",
+    "answers": [
+      "IndyCar",
+      "WRC",
+      "Formuła 1",
+      "DTM"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0134",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "W którym roku polscy koszykarze zajęli ósme miejsce na mistrzostwach świata w Chinach?",
+    "answers": [
+      "2019",
+      "2023",
+      "2006",
+      "2014"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0135",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "W jakiej dyscyplinie olimpijskiej startowała multimedalistka Justyna Kowalczyk?",
+    "answers": [
+      "Biathlon",
+      "Kajakarstwo",
+      "Biegi narciarskie",
+      "Wioślarstwo"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0136",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja wygrała mistrzostwa świata w piłce nożnej w 2010 roku?",
+    "answers": [
+      "Hiszpania",
+      "Niemcy",
+      "Brazylia",
+      "Holandia"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0137",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który klub NBA wybrał Michaela Jordana w drafcie 1984 roku?",
+    "answers": [
+      "New York Knicks",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Los Angeles Lakers"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0138",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Który tenisista zdobył złoto olimpijskie w singlu mężczyzn w Pekinie w 2008 roku?",
+    "answers": [
+      "Rafael Nadal",
+      "Novak Djoković",
+      "Andy Murray",
+      "Roger Federer"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0139",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "W którym kraju narodziła się siatkówka?",
+    "answers": [
+      "Włochy",
+      "Brazylia",
+      "Japonia",
+      "Stany Zjednoczone"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0140",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto ustanowił rekord świata mężczyzn na 100 m wynoszący 9,58 s?",
+    "answers": [
+      "Tyson Gay",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Yohan Blake"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0141",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Z którym krajem związana jest nazwa „kombinacja norweska”?",
+    "answers": [
+      "Kanada",
+      "Szwajcaria",
+      "Norwegia",
+      "Austria"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0142",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Normalny",
+    "question": "Który kierowca zdobył siedem tytułów mistrza świata Formuły 1 do końca sezonu 2020?",
+    "answers": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Ayrton Senna",
+      "Fernando Alonso"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0149",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto strzelił zwycięskiego gola dla Polski w meczu z ZSRR na mundialu 1982?",
+    "answers": [
+      "Zbigniew Boniek",
+      "Włodzimierz Smolarek",
+      "Grzegorz Lato",
+      "Nikt, mecz zakończył się 0:0"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0150",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Który polski siatkarz został MVP mistrzostw świata w 2018 roku?",
+    "answers": [
+      "Piotr Nowakowski",
+      "Wilfredo León",
+      "Michał Kubiak",
+      "Bartosz Kurek"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0151",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Kogo pokonała Iga Świątek w finale Roland Garros w 2020 roku?",
+    "answers": [
+      "Barborę Krejčíkovą",
+      "Simonę Halep",
+      "Sofię Kenin",
+      "Naomi Osakę"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0152",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Który Polak zdobył złoto olimpijskie w rzucie młotem mężczyzn na igrzyskach Tokio 2020?",
+    "answers": [
+      "Szymon Ziółkowski",
+      "Wojciech Nowicki",
+      "Marcin Wrotyński",
+      "Paweł Fajdek"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0153",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "W którym roku Justyna Kowalczyk zdobyła złoto olimpijskie na 30 km stylem klasycznym?",
+    "answers": [
+      "2014",
+      "2018",
+      "2010",
+      "2006"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0154",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "Z którym pilotem Krzysztof Hołowczyc zajął trzecie miejsce w Rajdzie Dakar 2015?",
+    "answers": [
+      "Xavier Panseri",
+      "Łukasz Kurzeja",
+      "Jacek Czachor",
+      "Maciej Wisławski"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0160",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który Polak był trenerem reprezentacji koszykarzy na MŚ 2019?",
+    "answers": [
+      "Muli Katzurin",
+      "Andrej Urlep",
+      "Mike Taylor",
+      "Igor Miličić"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0162",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik strzelił decydującego gola w finale mundialu 2014?",
+    "answers": [
+      "Thomas Müller",
+      "Mario Götze",
+      "André Schürrle",
+      "Miroslav Klose"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0163",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna NBA wybrała Kobe Bryanta w drafcie 1996 roku, zanim trafił do Lakers?",
+    "answers": [
+      "New Jersey Nets",
+      "Philadelphia 76ers",
+      "Charlotte Hornets",
+      "Los Angeles Lakers"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0164",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał finał Wimbledonu mężczyzn w 2008 roku po pięciu setach?",
+    "answers": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Andy Roddick",
+      "Novak Djoković"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0165",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Jak nazywał się twórca siatkówki w 1895 roku?",
+    "answers": [
+      "William G. Morgan",
+      "James Naismith",
+      "Avery Brundage",
+      "Pierre de Coubertin"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0166",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Kto ustanowił rekord świata w skoku w dal mężczyzn 8,95 m w 1991 roku?",
+    "answers": [
+      "Bob Beamon",
+      "Iván Pedroso",
+      "Carl Lewis",
+      "Mike Powell"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0167",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który norweski biathlonista zdobył osiem złotych medali olimpijskich w karierze?",
+    "answers": [
+      "Emil Hegle Svendsen",
+      "Tarjei Bø",
+      "Ole Einar Bjørndalen",
+      "Johannes Thingnes Bø"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0168",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "Na jakim torze zginął Ayrton Senna podczas Grand Prix San Marino 1994?",
+    "answers": [
+      "Spa-Francorchamps",
+      "Imola",
+      "Monza",
+      "Silverstone"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0175",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Kto był selekcjonerem Polski podczas mistrzostw świata w 1978 roku?",
+    "answers": [
+      "Jacek Gmoch",
+      "Kazimierz Górski",
+      "Wojciech Łazarek",
+      "Antoni Piechniczek"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0176",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Który polski siatkarz został wybrany MVP mistrzostw świata 2014?",
+    "answers": [
+      "Mariusz Wlazły",
+      "Michał Winiarski",
+      "Karol Kłos",
+      "Paweł Zagumny"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0177",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Z kim Łukasz Kubot wygrał debel Wimbledonu w 2017 roku?",
+    "answers": [
+      "Horia Tecău",
+      "Marcelo Melo",
+      "Robert Lindstedt",
+      "Marcin Matkowski"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0178",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "W którym roku Szymon Ziółkowski zdobył złoto olimpijskie w rzucie młotem?",
+    "answers": [
+      "2004",
+      "1996",
+      "2008",
+      "2000"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0179",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył dla Polski pierwszy złoty medal zimowych igrzysk olimpijskich?",
+    "answers": [
+      "Wojciech Fortuna",
+      "Kamil Stoch",
+      "Adam Małysz",
+      "Justyna Kowalczyk"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0180",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "W którym roku Robert Kubica wygrał Grand Prix Kanady?",
+    "answers": [
+      "2008",
+      "2006",
+      "2009",
+      "2010"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0186",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Z jakiego miasta pochodził klub Prokom Trefl, wielokrotny mistrz Polski w koszykówce?",
+    "answers": [
+      "Wrocław",
+      "Włocławek",
+      "Sopot",
+      "Gdynia"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0188",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Kto strzelił pierwszego gola w historii finałów mistrzostw świata w 1930 roku?",
+    "answers": [
+      "José Nasazzi",
+      "Héctor Castro",
+      "Lucien Laurent",
+      "Guillermo Stábile"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0189",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik jako pierwszy zdobył 100 punktów w jednym meczu NBA?",
+    "answers": [
+      "Kobe Bryant",
+      "Michael Jordan",
+      "Elgin Baylor",
+      "Wilt Chamberlain"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0190",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Kto wygrał pierwszy turniej singlowy mężczyzn Australian Open rozgrywany na kortach Melbourne Park w 1988 roku?",
+    "answers": [
+      "Mats Wilander",
+      "Stefan Edberg",
+      "Ivan Lendl",
+      "Pat Cash"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0191",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Który kraj zdobył złoto olimpijskie w siatkówce mężczyzn w 1984 roku?",
+    "answers": [
+      "Brazylia",
+      "ZSRR",
+      "Stany Zjednoczone",
+      "Włochy"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0192",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Kto ustanowił rekord świata 2,45 m w skoku wzwyż mężczyzn w 1993 roku?",
+    "answers": [
+      "Stefan Holm",
+      "Mutaz Essa Barshim",
+      "Bohdan Bondarenko",
+      "Javier Sotomayor"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0193",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył złoto w skokach narciarskich na dużej skoczni na igrzyskach w Calgary 1988?",
+    "answers": [
+      "Pavel Ploc",
+      "Andreas Felder",
+      "Jens Weißflog",
+      "Matti Nykänen"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0194",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "Kto wygrał pierwszy wyścig mistrzostw świata Formuły 1 w 1950 roku?",
+    "answers": [
+      "Alberto Ascari",
+      "Giuseppe Farina",
+      "Stirling Moss",
+      "Juan Manuel Fangio"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0201",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "Ile metrów ma jedno okrążenie standardowej bieżni lekkoatletycznej na stadionie?",
+    "answers": [
+      "200",
+      "500",
+      "300",
+      "400"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0202",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się konkurencja polegająca na przeskakiwaniu poprzeczki bez użycia tyczki?",
+    "answers": [
+      "Skok wzwyż",
+      "Skok o tyczce",
+      "Skok w dal",
+      "Trójskok"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0203",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Normalny",
+    "question": "Z jaką dyscypliną sportów motorowych kojarzony jest Bartosz Zmarzlik?",
+    "answers": [
+      "Formuła 1",
+      "Rajdy WRC",
+      "Żużel",
+      "Motocross freestyle"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0204",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Łatwy",
+    "question": "W jakiej serii wyścigowej Robert Kubica odniósł zwycięstwo w Grand Prix Kanady?",
+    "answers": [
+      "IndyCar",
+      "Formuła 1",
+      "MotoGP",
+      "WRC"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0205",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył pierwszy tytuł mistrza świata Formuły 1 w 1950 roku?",
+    "answers": [
+      "Juan Manuel Fangio",
+      "Giuseppe Farina",
+      "Alberto Ascari",
+      "Stirling Moss"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0206",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "W którym roku Ayrton Senna zdobył pierwszy tytuł mistrza świata F1?",
+    "answers": [
+      "1986",
+      "1988",
+      "1991",
+      "1990"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0207",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "Który kierowca wygrał Grand Prix Monako F1 w 1984 roku?",
+    "answers": [
+      "Alain Prost",
+      "Nelson Piquet",
+      "Ayrton Senna",
+      "Niki Lauda"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0208",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Normalny",
+    "question": "Który kierowca Formuły 1 zdobył siedem tytułów mistrza świata do końca 2020 roku?",
+    "answers": [
+      "Max Verstappen",
+      "Fernando Alonso",
+      "Sebastian Vettel",
+      "Lewis Hamilton"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0209",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Normalny",
+    "question": "W jakim kraju odbywa się Grand Prix Monako Formuły 1?",
+    "answers": [
+      "Monako",
+      "Hiszpania",
+      "Francja",
+      "Włochy"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0210",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "Na jakim torze rozgrywany jest wyścig 24 godziny Le Mans?",
+    "answers": [
+      "Circuit de la Sarthe",
+      "Silverstone",
+      "Spa-Francorchamps",
+      "Monza"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0211",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "Który producent wygrał 24 godziny Le Mans w klasyfikacji generalnej w 2023 roku?",
+    "answers": [
+      "Toyota",
+      "Porsche",
+      "Audi",
+      "Ferrari"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0212",
+    "region": "Świat",
+    "sport": "Sporty motorowe",
+    "difficulty": "Łatwy",
+    "question": "Ile kół ma standardowy bolid Formuły 1?",
+    "answers": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0213",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "Z jakim sportem zimowym kojarzony jest Adam Małysz?",
+    "answers": [
+      "Skoki narciarskie",
+      "Łyżwiarstwo szybkie",
+      "Biathlon",
+      "Bobsleje"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0214",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się sport łączący biegi narciarskie i strzelanie?",
+    "answers": [
+      "Skeleton",
+      "Narciarstwo alpejskie",
+      "Biathlon",
+      "Curling"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0215",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Ile złotych medali olimpijskich zdobył Robert Korzeniowski?",
+    "answers": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0216",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Który Polak zdobył złoto olimpijskie w trójskoku w Rzymie w 1960 roku?",
+    "answers": [
+      "Zdzisław Hoffmann",
+      "Marian Woronin",
+      "Władysław Komar",
+      "Józef Szmidt"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0217",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji specjalizowała się Anita Włodarczyk?",
+    "answers": [
+      "Rzut dyskiem",
+      "Pchnięcie kulą",
+      "Rzut młotem",
+      "Rzut oszczepem"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0218",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji startowała polska mistrzyni olimpijska Kamila Skolimowska?",
+    "answers": [
+      "Rzut oszczepem",
+      "Bieg na 400 m",
+      "Skok wzwyż",
+      "Rzut młotem"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0219",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Który Polak zdobył złoto olimpijskie w chodzie na 50 km w Tokio 2020?",
+    "answers": [
+      "Paweł Fajdek",
+      "Dawid Tomala",
+      "Robert Korzeniowski",
+      "Wojciech Nowicki"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0220",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która Polka zdobyła złoto olimpijskie w biegu na 400 m w Montrealu w 1976 roku?",
+    "answers": [
+      "Anna Kiełbasińska",
+      "Irena Szewińska",
+      "Ewa Kłobukowska",
+      "Justyna Święty-Ersetic"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0221",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył cztery złote medale olimpijskie na igrzyskach w Berlinie w 1936 roku?",
+    "answers": [
+      "Paavo Nurmi",
+      "Jesse Owens",
+      "Emil Zátopek",
+      "Carl Lewis"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0222",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik zdobył złoto olimpijskie na 5000 m, 10000 m i w maratonie podczas jednych igrzysk w 1952 roku?",
+    "answers": [
+      "Emil Zátopek",
+      "Kenenisa Bekele",
+      "Mo Farah",
+      "Paavo Nurmi"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0223",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Jaką długość ma bieg maratoński?",
+    "answers": [
+      "40 km",
+      "42 km",
+      "45 km",
+      "42,195 km"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0224",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Ile prób przysługuje zawodnikowi w kwalifikacjach rzutu dyskiem na mistrzostwach świata?",
+    "answers": [
+      "4",
+      "3",
+      "6",
+      "2"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0225",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Który sprinter ustanowił rekord świata 100 m mężczyzn 9,58 s?",
+    "answers": [
+      "Yohan Blake",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Tyson Gay"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0226",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka zdobyła złoto olimpijskie w biegu na 100 m kobiet w Tokio 2020?",
+    "answers": [
+      "Dina Asher-Smith",
+      "Shericka Jackson",
+      "Elaine Thompson-Herah",
+      "Shelly-Ann Fraser-Pryce"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0227",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "W jakim zespole Robert Kubica rozpoczął sezon F1 w 2019 roku?",
+    "answers": [
+      "Williams",
+      "Haas",
+      "Renault",
+      "Sauber"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0228",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Ekspert",
+    "question": "Który polski kierowca wygrał Rajd Dakar w kategorii quadów w 2015 roku?",
+    "answers": [
+      "Jakub Przygoński",
+      "Rafał Sonik",
+      "Krzysztof Hołowczyc",
+      "Adam Małysz"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0229",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "W którym roku Robert Kubica wygrał Grand Prix Kanady Formuły 1?",
+    "answers": [
+      "2012",
+      "2010",
+      "2008",
+      "2006"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0230",
+    "region": "Polska",
+    "sport": "Sporty motorowe",
+    "difficulty": "Trudny",
+    "question": "Który Polak zdobył tytuł mistrza świata WRC2 w 2013 roku?",
+    "answers": [
+      "Krzysztof Hołowczyc",
+      "Robert Kubica",
+      "Kajetan Kajetanowicz",
+      "Leszek Kuzaj"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0231",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Który polski biegacz narciarski zdobył brąz na 30 km na igrzyskach w Vancouver 2010?",
+    "answers": [
+      "Paulina Maciuszek",
+      "Sylwia Jaśkowiec",
+      "Justyna Kowalczyk",
+      "Żaden polski biegacz"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0232",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Który polski skoczek zdobył brąz olimpijski na dużej skoczni w Salt Lake City 2002?",
+    "answers": [
+      "Piotr Żyła",
+      "Adam Małysz",
+      "Wojciech Fortuna",
+      "Kamil Stoch"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0233",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "W którym roku Adam Małysz zdobył pierwszy Kryształowy Glob?",
+    "answers": [
+      "1999",
+      "2001",
+      "2003",
+      "2005"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0234",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który polski panczenista zdobył złoto olimpijskie na 1500 m w Soczi 2014?",
+    "answers": [
+      "Konrad Niedźwiedzki",
+      "Artur Waś",
+      "Jan Szymański",
+      "Zbigniew Bródka"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0235",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "W którym roku odbyły się pierwsze zimowe igrzyska olimpijskie w Chamonix?",
+    "answers": [
+      "1920",
+      "1924",
+      "1932",
+      "1928"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0236",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Która norweska biegaczka narciarska zdobyła łącznie osiem złotych medali olimpijskich?",
+    "answers": [
+      "Therese Johaug",
+      "Charlotte Kalla",
+      "Justyna Kowalczyk",
+      "Marit Bjørgen"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0237",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Ile zawodników jednej drużyny hokeja na lodzie przebywa zwykle na tafli łącznie z bramkarzem?",
+    "answers": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0238",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "W jakim sporcie zimowym stosuje się kamienie i szczotki na lodzie?",
+    "answers": [
+      "Biathlon",
+      "Curling",
+      "Saneczkarstwo",
+      "Skeleton"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0239",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który kraj wygrał turniej hokeja mężczyzn na igrzyskach w Pekinie 2022?",
+    "answers": [
+      "Finlandia",
+      "Szwecja",
+      "Kanada",
+      "Rosja"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0240",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który kraj wygrał najwięcej złotych medali na zimowych igrzyskach w Pekinie 2022?",
+    "answers": [
+      "Chiny",
+      "USA",
+      "Norwegia",
+      "Niemcy"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0241",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Który polski tenisista wystąpił w finale turnieju ATP w Paryżu w 2012 roku?",
+    "answers": [
+      "Jerzy Janowicz",
+      "Hubert Hurkacz",
+      "Łukasz Kubot",
+      "Wojciech Fibak"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0242",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "W którym roku Wojciech Fibak wygrał Australian Open w grze podwójnej?",
+    "answers": [
+      "1982",
+      "1974",
+      "1986",
+      "1978"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0243",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Która polska tenisistka dotarła do finału Wimbledonu w singlu w 2012 roku?",
+    "answers": [
+      "Magda Linette",
+      "Agnieszka Radwańska",
+      "Iga Świątek",
+      "Katarzyna Piter"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0244",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Który polski tenisista zagrał w półfinale Wimbledonu w 2013 roku?",
+    "answers": [
+      "Hubert Hurkacz",
+      "Michał Przysiężny",
+      "Jerzy Janowicz",
+      "Łukasz Kubot"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0245",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W którym roku Polska zdobyła brązowy medal EuroBasketu mężczyzn po raz ostatni w XX wieku?",
+    "answers": [
+      "1963",
+      "1975",
+      "1971",
+      "1967"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0246",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który klub z Zielonej Góry zdobywał mistrzostwa Polski w koszykówce mężczyzn?",
+    "answers": [
+      "Astoria Bydgoszcz",
+      "Stelmet Zielona Góra",
+      "Spójnia Stargard",
+      "Polonia Warszawa"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0247",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "W którym mieście swoje mecze domowe rozgrywa Śląsk Wrocław?",
+    "answers": [
+      "Wrocław",
+      "Gdynia",
+      "Poznań",
+      "Toruń"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0248",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który polski koszykarz występował w NBA w Orlando Magic?",
+    "answers": [
+      "Marcin Gortat",
+      "Łukasz Koszarek",
+      "Maciej Lampe",
+      "Adam Waczyński"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0249",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który polski klub zdobył mistrzostwo Polski w koszykówce mężczyzn w 2023 roku?",
+    "answers": [
+      "Anwil Włocławek",
+      "King Szczecin",
+      "Śląsk Wrocław",
+      "Trefl Sopot"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0250",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Jak nazywa się klub koszykarski z Włocławka występujący w polskiej ekstraklasie?",
+    "answers": [
+      "Start",
+      "Anwil",
+      "Czarni",
+      "Trefl"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0251",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W którym roku odbyły się pierwsze mistrzostwa świata FIBA mężczyzn?",
+    "answers": [
+      "1950",
+      "1948",
+      "1954",
+      "1960"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0252",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który kraj zdobył złoto olimpijskie w koszykówce mężczyzn w 2004 roku?",
+    "answers": [
+      "Włochy",
+      "Argentyna",
+      "Hiszpania",
+      "USA"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0253",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z jakim klubem NBA kojarzony jest Dirk Nowitzki?",
+    "answers": [
+      "Dallas Mavericks",
+      "Chicago Bulls",
+      "Boston Celtics",
+      "Miami Heat"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0254",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik nosił przydomek Black Mamba?",
+    "answers": [
+      "Kevin Garnett",
+      "Tim Duncan",
+      "Shaquille O'Neal",
+      "Kobe Bryant"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0255",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja wygrała mistrzostwa świata FIBA mężczyzn w 2023 roku?",
+    "answers": [
+      "Niemcy",
+      "Serbia",
+      "Kanada",
+      "USA"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0256",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który klub NBA wybrał Stephena Curry'ego w drafcie 2009?",
+    "answers": [
+      "Minnesota Timberwolves",
+      "Charlotte Bobcats",
+      "Golden State Warriors",
+      "New York Knicks"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0257",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Kto był selekcjonerem Polski podczas mundialu w 1974 roku?",
+    "answers": [
+      "Wojciech Łazarek",
+      "Jacek Gmoch",
+      "Antoni Piechniczek",
+      "Kazimierz Górski"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0258",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "W którym roku Polska po raz pierwszy zdobyła medal mistrzostw świata w piłce nożnej?",
+    "answers": [
+      "1982",
+      "1978",
+      "1974",
+      "1938"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0259",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym mieście gra klub Widzew?",
+    "answers": [
+      "Gdańsk",
+      "Kraków",
+      "Poznań",
+      "Łódź"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0260",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski piłkarz zdobył Złotego Buta Bundesligi w sezonie 2020/21?",
+    "answers": [
+      "Arkadiusz Milik",
+      "Krzysztof Piątek",
+      "Piotr Zieliński",
+      "Robert Lewandowski"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0261",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub wygrał Puchar Zdobywców Pucharów w 1970 roku?",
+    "answers": [
+      "Górnik Zabrze",
+      "Żaden polski klub",
+      "Legia Warszawa",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0262",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub dotarł do finału Pucharu Zdobywców Pucharów w 1970 roku?",
+    "answers": [
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0263",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Kto strzelił zwycięskiego gola w finale mundialu 2014?",
+    "answers": [
+      "Miroslav Klose",
+      "Mario Götze",
+      "Thomas Müller",
+      "André Schürrle"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0264",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Która reprezentacja wygrała Euro 1992?",
+    "answers": [
+      "Holandia",
+      "Szwecja",
+      "Dania",
+      "Niemcy"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0265",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który kraj wygrał mundial piłkarski w 2010 roku?",
+    "answers": [
+      "Hiszpania",
+      "Niemcy",
+      "Brazylia",
+      "Holandia"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0266",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub rozgrywa mecze na stadionie Anfield?",
+    "answers": [
+      "Everton",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0267",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub wygrał pierwszą edycję Ligi Mistrzów UEFA pod tą nazwą w 1993 roku?",
+    "answers": [
+      "Ajax",
+      "FC Barcelona",
+      "AC Milan",
+      "Olympique Marsylia"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0268",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który kraj został pierwszym mistrzem świata w piłce nożnej mężczyzn?",
+    "answers": [
+      "Brazylia",
+      "Włochy",
+      "Urugwaj",
+      "Argentyna"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0269",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Kto prowadził reprezentację Polski siatkarzy do złota MŚ w 2014 roku?",
+    "answers": [
+      "Raúl Lozano",
+      "Vital Heynen",
+      "Nikola Grbić",
+      "Stéphane Antiga"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0270",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "W którym roku polscy siatkarze zdobyli złoto olimpijskie w Montrealu?",
+    "answers": [
+      "1980",
+      "1976",
+      "1968",
+      "1972"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0271",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Który polski klub siatkarski pochodzi z Kędzierzyna-Koźla?",
+    "answers": [
+      "Projekt Warszawa",
+      "Resovia",
+      "Jastrzębski Węgiel",
+      "ZAKSA"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0272",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "W którym mieście ma siedzibę siatkarska Asseco Resovia?",
+    "answers": [
+      "Lublin",
+      "Olsztyn",
+      "Radom",
+      "Rzeszów"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0273",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "W którym roku Polska zdobyła mistrzostwo świata siatkarzy w Katowicach?",
+    "answers": [
+      "2010",
+      "2006",
+      "2018",
+      "2014"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0274",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Który polski siatkarz był MVP mistrzostw świata w 2018 roku?",
+    "answers": [
+      "Bartosz Kurek",
+      "Wilfredo León",
+      "Michał Kubiak",
+      "Piotr Nowakowski"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0275",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Ekspert",
+    "question": "Który kraj wygrał pierwsze mistrzostwa świata siatkarzy w 1949 roku?",
+    "answers": [
+      "Polska",
+      "ZSRR",
+      "Rumunia",
+      "Czechosłowacja"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0276",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Do ilu punktów zwykle gra się set siatkówki halowej poza tie-breakiem?",
+    "answers": [
+      "21",
+      "25",
+      "30",
+      "15"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0277",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się zawodnik w specjalnym stroju odpowiedzialny głównie za obronę i przyjęcie?",
+    "answers": [
+      "Środkowy",
+      "Rozgrywający",
+      "Libero",
+      "Atakujący"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0278",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył złoto olimpijskie w siatkówce mężczyzn w Tokio 2020?",
+    "answers": [
+      "Brazylia",
+      "Rosja",
+      "Francja",
+      "Argentyna"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0279",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja wygrała MŚ siatkarzy w 2022 roku?",
+    "answers": [
+      "Francja",
+      "Brazylia",
+      "Polska",
+      "Włochy"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0280",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Który polski skoczek narciarski zdobył dwa złote medale olimpijskie w Soczi 2014?",
+    "answers": [
+      "Piotr Żyła",
+      "Dawid Kubacki",
+      "Kamil Stoch",
+      "Adam Małysz"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0281",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Justyna Kowalczyk zdobyła złoto olimpijskie w Soczi 2014?",
+    "answers": [
+      "10 km stylem klasycznym",
+      "Sztafeta 4 × 5 km",
+      "30 km stylem dowolnym",
+      "Sprint stylem dowolnym"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0282",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Która Polka wygrała French Open w grze pojedynczej w 2020 roku?",
+    "answers": [
+      "Agnieszka Radwańska",
+      "Magda Linette",
+      "Iga Świątek",
+      "Magdalena Fręch"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0283",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Który polski tenisista wygrał turniej ATP Masters 1000 w Miami w 2021 roku?",
+    "answers": [
+      "Kamil Majchrzak",
+      "Łukasz Kubot",
+      "Jerzy Janowicz",
+      "Hubert Hurkacz"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0284",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Kto wygrał pierwszy turniej singlowy mężczyzn na Wimbledonie w 1877 roku?",
+    "answers": [
+      "Spencer Gore",
+      "Fred Perry",
+      "William Renshaw",
+      "Laurence Doherty"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0285",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "W którym roku rozpoczęła się era Open w tenisie?",
+    "answers": [
+      "1968",
+      "1972",
+      "1958",
+      "1980"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0286",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Na jakiej nawierzchni rozgrywa się Wimbledon?",
+    "answers": [
+      "Trawa",
+      "Beton",
+      "Mączka ceglana",
+      "Dywan"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0287",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Który tenisista zdobył złoty medal singla mężczyzn na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Carlos Alcaraz",
+      "Jannik Sinner",
+      "Rafael Nadal",
+      "Novak Djoković"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0288",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Która tenisistka zdobyła kalendarzowego Wielkiego Szlema w 1988 roku?",
+    "answers": [
+      "Chris Evert",
+      "Steffi Graf",
+      "Serena Williams",
+      "Martina Navratilova"
+    ],
+    "correctIndex": 1,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0289",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów otrzymuje drużyna za zwycięstwo w ligowym meczu piłkarskim według standardowego systemu?",
+    "answers": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0290",
+    "region": "Polska",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ilu siatkarzy jednej drużyny gra na boisku w hali?",
+    "answers": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0291",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów potrzeba, by wygrać tie-break w siatkówce halowej przy przewadze dwóch punktów?",
+    "answers": [
+      "21",
+      "10",
+      "25",
+      "15"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0292",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Z jaką dyscypliną kojarzona jest Iga Świątek?",
+    "answers": [
+      "Siatkówka",
+      "Squash",
+      "Badminton",
+      "Tenis"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0293",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Ile turniejów tworzy tenisowego Wielkiego Szlema w jednym sezonie?",
+    "answers": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0294",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ilu zawodników jednej drużyny przebywa jednocześnie na boisku w koszykówce?",
+    "answers": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "correctIndex": 2,
+    "status": "do_weryfikacji"
+  },
+  {
+    "id": "SPORT-0295",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów warte jest trafienie rzutu wolnego w koszykówce?",
+    "answers": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctIndex": 3,
+    "status": "do_weryfikacji"
+  }
+]
