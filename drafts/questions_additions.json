@@ -4544,38 +4544,6 @@
     "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
   },
   {
-    "id": "SPORT-N20261119-ATH-001",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w biegu kobiet na 400 m podczas igrzysk w Paryżu w 2024 roku?",
-    "answers": [
-      "Marileidy Paulino",
-      "Natalia Kaczmarek",
-      "Salwa Eid Naser",
-      "Femke Bol"
-    ],
-    "correctIndex": 0,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-002",
-    "region": "Polska",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Łatwy",
-    "question": "Jaki medal zdobyła Natalia Kaczmarek w olimpijskim finale 400 m w Paryżu 2024?",
-    "answers": [
-      "Srebrny",
-      "Złoty",
-      "Brązowy",
-      "Nie zdobyła medalu"
-    ],
-    "correctIndex": 2,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
-  },
-  {
     "id": "SPORT-N20261119-ATH-003",
     "region": "Polska",
     "sport": "Lekkoatletyka",
@@ -4586,38 +4554,6 @@
       "48,98 s",
       "48,53 s",
       "48,17 s"
-    ],
-    "correctIndex": 1,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-004",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Normalny",
-    "question": "Kto wygrał olimpijski bieg mężczyzn na 400 m przez płotki w Paryżu 2024?",
-    "answers": [
-      "Karsten Warholm",
-      "Alison dos Santos",
-      "Rai Benjamin",
-      "Abderrahman Samba"
-    ],
-    "correctIndex": 2,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-005",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Trudny",
-    "question": "Kto był srebrnym medalistą biegu mężczyzn na 400 m przez płotki w Paryżu 2024?",
-    "answers": [
-      "Rai Benjamin",
-      "Karsten Warholm",
-      "Alison dos Santos",
-      "Kyron McMaster"
     ],
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
@@ -4720,22 +4656,6 @@
     "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
   },
   {
-    "id": "SPORT-N20261119-ATH-012",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Normalny",
-    "question": "Kto wygrał olimpijski bieg mężczyzn na 800 m w Paryżu 2024?",
-    "answers": [
-      "Marco Arop",
-      "Emmanuel Wanyonyi",
-      "Djamel Sedjati",
-      "Bryce Hoppel"
-    ],
-    "correctIndex": 1,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
-  },
-  {
     "id": "SPORT-N20261119-ATH-013",
     "region": "Świat",
     "sport": "Lekkoatletyka",
@@ -4746,54 +4666,6 @@
       "1:41,50",
       "1:41,19",
       "1:40,91"
-    ],
-    "correctIndex": 2,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-014",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Trudny",
-    "question": "Która zawodniczka zdobyła złoto na 100 m przez płotki kobiet w Paryżu 2024?",
-    "answers": [
-      "Masai Russell",
-      "Jasmine Camacho-Quinn",
-      "Cyrena Samba-Mayela",
-      "Tobi Amusan"
-    ],
-    "correctIndex": 0,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-015",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Trudny",
-    "question": "Która reprezentantka Francji wywalczyła srebro na 100 m przez płotki w Paryżu 2024?",
-    "answers": [
-      "Alice Finot",
-      "Cyréna Samba-Mayela",
-      "Clémence Calvin",
-      "Mélina Robert-Michon"
-    ],
-    "correctIndex": 1,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-016",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w rzucie oszczepem kobiet podczas igrzysk w Paryżu 2024?",
-    "answers": [
-      "Nikola Ogrodníková",
-      "Jo-Ane van Dyk",
-      "Haruka Kitaguchi",
-      "Sara Kolak"
     ],
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-19",
@@ -4812,22 +4684,6 @@
       "Hamish Kerr"
     ],
     "correctIndex": 3,
-    "status": "zweryfikowano_zrodlo_2026-11-19",
-    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
-  },
-  {
-    "id": "SPORT-N20261119-ATH-018",
-    "region": "Świat",
-    "sport": "Lekkoatletyka",
-    "difficulty": "Trudny",
-    "question": "Która reprezentacja zdobyła srebro w sztafecie mężczyzn 4 × 400 m w Paryżu 2024?",
-    "answers": [
-      "Botswana",
-      "Wielka Brytania",
-      "Francja",
-      "Belgia"
-    ],
-    "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
   },
