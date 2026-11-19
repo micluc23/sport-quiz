@@ -6878,5 +6878,165 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-001",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "W którym roku PGE Turów Zgorzelec zdobył swoje pierwsze mistrzostwo Polski?",
+    "answers": [
+      "2011",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15582576/upragniony-tytul-turow-zgorzelec-mistrzem-polski"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-002",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kogo PGE Turów Zgorzelec pokonał w finale mistrzostw Polski 2014?",
+    "answers": [
+      "Anwil Włocławek",
+      "Śląsk Wrocław",
+      "Trefl Sopot",
+      "Stelmet Zielona Góra"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15582576/upragniony-tytul-turow-zgorzelec-mistrzem-polski"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-003",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Jakim wynikiem w meczach zakończył się finał PLK 2014 wygrany przez Turów?",
+    "answers": [
+      "4:2",
+      "4:0",
+      "4:1",
+      "4:3"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15582576/upragniony-tytul-turow-zgorzelec-mistrzem-polski"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-004",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto prowadził PGE Turów Zgorzelec do mistrzostwa Polski w sezonie 2013/14?",
+    "answers": [
+      "Sašo Filipovski",
+      "Miodrag Rajković",
+      "Andrej Urlep",
+      "Igor Miličić"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/internalfiles/fckfiles/file/dokumenty/Skarb_Kibica_2014-15.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-005",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał tytuł MVP finałów PLK 2014, grając w Turowie?",
+    "answers": [
+      "Damian Kulig",
+      "Michał Chyliński",
+      "Filip Dylewicz",
+      "J.P. Prince"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/internalfiles/fckfiles/file/dokumenty/Skarb_Kibica_2014-15.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-006",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z którym klubem Turów odniósł pierwsze zwycięstwo w Eurolidze w listopadzie 2014?",
+    "answers": [
+      "FC Barcelona",
+      "Fenerbahçe",
+      "Panathinaikos",
+      "Bayern Monachium"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/aktualnosci/13564/euroliga-pierwsze-zwyciestwo-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-007",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Jaki był wynik pierwszego zwycięskiego meczu Turowa w Eurolidze, przeciwko Bayernowi w 2014 roku?",
+    "answers": [
+      "89:78",
+      "78:89",
+      "91:76",
+      "82:79"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/aktualnosci/13564/euroliga-pierwsze-zwyciestwo-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-008",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobył Damian Kulig w pierwszym wygranym przez Turów meczu Euroligi w 2014 roku?",
+    "answers": [
+      "15",
+      "22",
+      "18",
+      "27"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/aktualnosci/13564/euroliga-pierwsze-zwyciestwo-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-009",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W której grupie Euroligi 2014/15 występował PGE Turów Zgorzelec?",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15992580/euroliga-bardzo-trudna-grupa-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-010",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kogo PGE Turów pokonał w meczu o Superpuchar Polski w październiku 2014 roku?",
+    "answers": [
+      "Stelmet Zielona Góra",
+      "Rosa Radom",
+      "AZS Koszalin",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/internalfiles/fckfiles/file/biuro_prasowe/KOMUNIKAT%2011%20PODSUMOWANIE%20SEZONU_2014_2015_.pdf"
   }
 ]
