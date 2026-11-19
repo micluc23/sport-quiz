@@ -4750,5 +4750,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nbcolympics.com/news/olympic-track-and-field-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-001",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Która para zdobyła złoto w mikście tenisa stołowego podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Wang Chuqin i Sun Yingsha",
+      "Ri Jong Sik i Kim Kum Yong",
+      "Lim Jonghoon i Shin Yubin",
+      "Wong Chun Ting i Doo Hoi Kem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-002",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jaki wynik w setach padł w finale miksta tenisa stołowego Paryż 2024?",
+    "answers": [
+      "4:0",
+      "4:1",
+      "4:2",
+      "4:3"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-003",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył srebro w mikście tenisa stołowego w Paryżu 2024?",
+    "answers": [
+      "Japonia",
+      "Korea Północna",
+      "Korea Południowa",
+      "Hongkong"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-004",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto był partnerem Kim Kum Yong w srebrnym mikście olimpijskim Paryż 2024?",
+    "answers": [
+      "Ri Jong Sik",
+      "Lim Jonghoon",
+      "Wang Chuqin",
+      "Tomokazu Harimoto"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-005",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto był partnerką Ri Jong Sika w finale miksta olimpijskiego Paryż 2024?",
+    "answers": [
+      "Shin Yubin",
+      "Sun Yingsha",
+      "Kim Kum Yong",
+      "Hina Hayata"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-006",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Który kraj wywalczył brąz w mikście tenisa stołowego na igrzyskach Paryż 2024?",
+    "answers": [
+      "Korea Południowa",
+      "Japonia",
+      "Niemcy",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-007",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Który duet zdobył brąz w olimpijskim mikście tenisa stołowego w Paryżu 2024?",
+    "answers": [
+      "Wong Chun Ting i Doo Hoi Kem",
+      "Lim Jonghoon i Shin Yubin",
+      "Ri Jong Sik i Kim Kum Yong",
+      "Tomokazu Harimoto i Hina Hayata"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-008",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Jakim wynikiem zakończył się mecz o brąz miksta tenisa stołowego Paryż 2024?",
+    "answers": [
+      "4:3",
+      "4:2",
+      "4:1",
+      "4:0"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-009",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Z kim Korea Południowa wygrała mecz o brąz miksta tenisa stołowego w Paryżu 2024?",
+    "answers": [
+      "Z Japonią",
+      "Z Hongkongiem",
+      "Z Francją",
+      "Z Niemcami"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-010",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Którym wynikiem zakończył się szósty set finału miksta tenisa stołowego Paryż 2024?",
+    "answers": [
+      "11:6 dla Chin",
+      "11:8 dla Chin",
+      "11:5 dla Chin",
+      "11:7 dla Korei Północnej"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-011",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał drugi set finału miksta tenisa stołowego na igrzyskach Paryż 2024?",
+    "answers": [
+      "Chiny 11:7",
+      "Korea Północna 11:7",
+      "Chiny 11:8",
+      "Korea Północna 11:5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/07/30/table-tennis-at-paris-2024-follow-the-action-here-from-first-medals-day/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-012",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Chiny zdobyły w Paryżu 2024 swoje pierwsze olimpijskie złoto w historii tej konkurencji tenisa stołowego?",
+    "answers": [
+      "W singlu kobiet",
+      "W singlu mężczyzn",
+      "W mikście",
+      "W drużynie mężczyzn"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2025/07/30/one-year-ago-table-tennis-crowned-its-first-paris-2024-champions/"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-013",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobył Toby Roberts łącznie w finale olimpijskiej kombinacji boulder i prowadzenie Paryż 2024?",
+    "answers": [
+      "145,4",
+      "155,2",
+      "139,6",
+      "168,5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-014",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów w prowadzeniu uzyskał Toby Roberts w finale kombinacji olimpijskiej Paryż 2024?",
+    "answers": [
+      "76,1",
+      "84,1",
+      "92,1",
+      "96,0"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-015",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w kombinacji boulder i prowadzenie mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Jakob Schubert",
+      "Sorato Anraku",
+      "Toby Roberts",
+      "Adam Ondra"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-016",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka zdobyła brąz w kombinacji boulder i prowadzenie kobiet w Paryżu 2024?",
+    "answers": [
+      "Brooke Raboutou",
+      "Janja Garnbret",
+      "Jessica Pilz",
+      "Ai Mori"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-017",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Jaki czas uzyskał Sam Watson w wyścigu o brąz wspinaczki na czas w Paryżu 2024, ustanawiając rekord świata?",
+    "answers": [
+      "4,74 s",
+      "4,75 s",
+      "4,77 s",
+      "4,85 s"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-018",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Jaki kraj reprezentował Sam Watson, brązowy medalista wspinaczki na czas Paryż 2024?",
+    "answers": [
+      "Kanadę",
+      "Wielką Brytanię",
+      "Stany Zjednoczone",
+      "Australię"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-019",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Ekspert",
+    "question": "Jaką przewagą czasową Veddriq Leonardo wygrał finał wspinaczki na czas mężczyzn Paryż 2024?",
+    "answers": [
+      "0,01 s",
+      "0,02 s",
+      "0,05 s",
+      "0,10 s"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-MIX-020",
+    "region": "Polska",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Ile łącznie medali zdobyła Polska we wspinaczce sportowej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Jeden",
+      "Dwa",
+      "Trzy",
+      "Cztery"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
   }
 ]
