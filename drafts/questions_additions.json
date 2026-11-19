@@ -3838,5 +3838,325 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-001",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył złoto olimpijskie w saneczkarskich jedynkach mężczyzn w 2026 roku?",
+    "answers": [
+      "Max Langenhan",
+      "Felix Loch",
+      "Jonas Müller",
+      "Dominik Fischnaller"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-002",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj reprezentowała srebrna medalistka saneczkarskich jedynek kobiet w 2026 roku, Elīna Bota?",
+    "answers": [
+      "Niemcy",
+      "Łotwę",
+      "Austrię",
+      "Włochy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-003",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła brąz w olimpijskich jedynkach saneczkarskich kobiet w Cortinie 2026?",
+    "answers": [
+      "Julia Taubitz",
+      "Elīna Bota",
+      "Ashley Farquharson",
+      "Lisa Schulte"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-004",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Która para wygrała pierwszy olimpijski konkurs dwójek saneczkarskich kobiet w 2026 roku?",
+    "answers": [
+      "Eitberger i Matschina",
+      "Egle i Kipp",
+      "Forgan i Kirkby",
+      "Vötter i Oberhofer"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-005",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Z jakiego kraju pochodziła złota para w saneczkarskich dwójkach mężczyzn na igrzyskach 2026?",
+    "answers": [
+      "Włochy",
+      "Niemcy",
+      "Austria",
+      "Łotwa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-006",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Która para wywalczyła srebro olimpijskie w dwójkach saneczkarskich mężczyzn w 2026 roku?",
+    "answers": [
+      "Wendl i Arlt",
+      "Steu i Kindl",
+      "Rieder i Kainzwaldner",
+      "Bots i Plūme"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-007",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Które państwo wygrało olimpijską sztafetę saneczkarską w 2026 roku?",
+    "answers": [
+      "Austria",
+      "Włochy",
+      "Niemcy",
+      "Łotwa"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-008",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył brąz w sztafecie saneczkarskiej na igrzyskach 2026?",
+    "answers": [
+      "Łotwa",
+      "USA",
+      "Austria",
+      "Włochy"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-009",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile konkurencji medalowych w saneczkarstwie rozegrano na igrzyskach 2026?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-010",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Który saneczkarz zajął czwarte miejsce w olimpijskich jedynkach mężczyzn w 2026 roku?",
+    "answers": [
+      "Felix Loch",
+      "Kristers Aparjods",
+      "Nico Gleirscher",
+      "Wolfgang Kindl"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/media/olympic-winter-games-4"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-011",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył srebro w olimpijskiej sztafecie saneczkarskiej w 2026 roku?",
+    "answers": [
+      "Włochy",
+      "Łotwa",
+      "Austria",
+      "USA"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://milanocortina2026.coni.it/en/italia-team/previous-olympic-games/all-time-finalists/finalisti_all_time/709.html"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-012",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Ekspert",
+    "question": "Który kraj uplasował się tuż za podium w sztafecie saneczkarskiej podczas igrzysk 2026?",
+    "answers": [
+      "USA",
+      "Polska",
+      "Ukraina",
+      "Łotwa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://milanocortina2026.coni.it/en/italia-team/previous-olympic-games/all-time-finalists/finalisti_all_time/709.html"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-013",
+    "region": "Polska",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Które miejsce zajęła polska sztafeta saneczkarska na igrzyskach Mediolan–Cortina 2026?",
+    "answers": [
+      "Ósme",
+      "Szóste",
+      "Siódme",
+      "Dziewiąte"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://milanocortina2026.coni.it/en/italia-team/previous-olympic-games/all-time-finalists/finalisti_all_time/709.html"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-014",
+    "region": "Polska",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Która polska para zajęła szóste miejsce w olimpijskich dwójkach saneczkarskich kobiet w 2026 roku?",
+    "answers": [
+      "Klaudia Domaradzka i Dominika Piwkowska",
+      "Nikola Domowicz i Dominika Piwkowska",
+      "Nikola Domowicz i Klaudia Domaradzka",
+      "Dominika Piwkowska i Elīna Bota"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/media/olympic-winter-games-4"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-015",
+    "region": "Polska",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaką lokatę zajęli Wojciech Chmielewski i Michał Gancarczyk w dwójkach saneczkarskich mężczyzn na igrzyskach 2026?",
+    "answers": [
+      "Dziesiątą",
+      "Jedenastą",
+      "Trzynastą",
+      "Piętnastą"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/media/olympic-winter-games-4"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-016",
+    "region": "Polska",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która Polka wystąpiła w jedynkach saneczkarskich podczas igrzysk Mediolan–Cortina 2026?",
+    "answers": [
+      "Nikola Domowicz",
+      "Dominika Piwkowska",
+      "Marta Robežniece",
+      "Klaudia Domaradzka"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/media/olympic-winter-games-4"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-017",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył srebrny medal w olimpijskich jedynkach saneczkarskich mężczyzn w 2026 roku?",
+    "answers": [
+      "Jonas Müller",
+      "Dominik Fischnaller",
+      "Felix Loch",
+      "Max Langenhan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-018",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła brąz w pierwszych olimpijskich dwójkach saneczkarskich kobiet w 2026 roku?",
+    "answers": [
+      "Eitberger i Matschina",
+      "Egle i Kipp",
+      "Vötter i Oberhofer",
+      "Forgan i Kirkby"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-019",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Ekspert",
+    "question": "Kto wywalczył brąz olimpijski w saneczkarskich jedynkach mężczyzn w 2026 roku?",
+    "answers": [
+      "Jonas Müller",
+      "Felix Loch",
+      "Dominik Fischnaller",
+      "Kristers Aparjods"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-LUG-020",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która niemiecka para zdobyła brąz w olimpijskich dwójkach saneczkarskich mężczyzn w 2026 roku?",
+    "answers": [
+      "Eggert i Müller",
+      "Steu i Kindl",
+      "Rieder i Kainzwaldner",
+      "Wendl i Arlt"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
   }
 ]
