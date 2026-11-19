@@ -2494,5 +2494,357 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.lemonde.fr/en/sports/article/2024/08/10/canadian-b-boy-phil-wizard-wins-gold-in-paris-olympics-breaking-final_6712348_9.html"
+  },
+  {
+    "id": "SPORT-N20261119-157",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył złoto olimpijskie w podnoszeniu ciężarów mężczyzn do 89 kg w Paryżu 2024?",
+    "answers": [
+      "Karlos Nasar",
+      "Li Fabin",
+      "Rizki Juniansyah",
+      "Liu Huanhua"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-158",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Który kraj reprezentował mistrz olimpijski Paryża 2024 w kategorii 89 kg, Karlos Nasar?",
+    "answers": [
+      "Gruzję",
+      "Bułgarię",
+      "Armenię",
+      "Turcję"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-159",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Jaki wynik w dwuboju uzyskał Karlos Nasar, wygrywając kategorię 89 kg w Paryżu 2024?",
+    "answers": [
+      "390 kg",
+      "404 kg",
+      "406 kg",
+      "384 kg"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-160",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijską rywalizację ciężarowców w kategorii 61 kg w Paryżu 2024?",
+    "answers": [
+      "Hampton Morris",
+      "Theerapong Silachai",
+      "Li Fabin",
+      "Rizki Juniansyah"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-161",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz olimpijski w podnoszeniu ciężarów mężczyzn do 61 kg w Paryżu 2024?",
+    "answers": [
+      "Hampton Morris",
+      "Bozhidar Andreev",
+      "Antonino Pizzolato",
+      "Akbar Djuraev"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-162",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Który reprezentant Indonezji został mistrzem olimpijskim w podnoszeniu ciężarów do 73 kg w Paryżu 2024?",
+    "answers": [
+      "Rizki Juniansyah",
+      "Eko Yuli Irawan",
+      "Rahmat Erwin Abdullah",
+      "Windy Cantika Aisah"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-163",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Kto zajął drugie miejsce w kategorii 73 kg mężczyzn w podnoszeniu ciężarów na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Bozhidar Andreev",
+      "Weeraphon Wichuma",
+      "Yeison López",
+      "Theerapong Silachai"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-164",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal olimpijski w kategorii 102 kg mężczyzn w podnoszeniu ciężarów w Paryżu 2024?",
+    "answers": [
+      "Akbar Djuraev",
+      "Lasha Talakhadze",
+      "Liu Huanhua",
+      "Karlos Nasar"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-165",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile kilogramów wyniósł dwubój zwycięzcy olimpijskiej kategorii 102 kg mężczyzn w Paryżu 2024?",
+    "answers": [
+      "404 kg",
+      "406 kg",
+      "402 kg",
+      "410 kg"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-166",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał podnoszenie ciężarów mężczyzn w kategorii powyżej 102 kg na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Varazdat Lalayan",
+      "Gor Minasyan",
+      "Lasha Talakhadze",
+      "Liu Huanhua"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-167",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Kto był wicemistrzem olimpijskim w kategorii powyżej 102 kg w podnoszeniu ciężarów w Paryżu 2024?",
+    "answers": [
+      "Gor Minasyan",
+      "Varazdat Lalayan",
+      "Akbar Djuraev",
+      "Yauheni Tsikhantsou"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-168",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Która Amerykanka zdobyła złoto olimpijskie w podnoszeniu ciężarów kobiet do 71 kg w Paryżu 2024?",
+    "answers": [
+      "Olivia Reeves",
+      "Sarah Robles",
+      "Kate Vibert",
+      "Mattie Rogers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-169",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Która Norweżka wygrała kategorię 81 kg kobiet w podnoszeniu ciężarów na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Solfrid Koanda",
+      "Olivia Reeves",
+      "Luo Shifang",
+      "Hou Zhihui"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-170",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła złoto olimpijskie w kategorii 59 kg kobiet w podnoszeniu ciężarów w Paryżu 2024?",
+    "answers": [
+      "Li Wenwen",
+      "Luo Shifang",
+      "Hou Zhihui",
+      "Olivia Reeves"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-171",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka triumfowała w kategorii powyżej 81 kg kobiet w podnoszeniu ciężarów na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Solfrid Koanda",
+      "Li Wenwen",
+      "Luo Shifang",
+      "Olivia Reeves"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fitnessvolt.com/weightlifting/competitions/2024-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261119-172",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Która Japonka zdobyła złoto olimpijskie w zapasach kobiet do 53 kg w Paryżu 2024?",
+    "answers": [
+      "Akari Fujinami",
+      "Tsugumi Sakurai",
+      "Yui Susaki",
+      "Sakura Motoki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/wrestling-esmaeili-novikov-win-greco-roman-golds-2024-08-08/"
+  },
+  {
+    "id": "SPORT-N20261119-173",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Z reprezentantką którego kraju Akari Fujinami wygrała finał zapasów kobiet do 53 kg w Paryżu 2024?",
+    "answers": [
+      "Chin",
+      "Ekwadoru",
+      "Korei Północnej",
+      "Mongolii"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/wrestling-esmaeili-novikov-win-greco-roman-golds-2024-08-08/"
+  },
+  {
+    "id": "SPORT-N20261119-174",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w zapasach w stylu klasycznym mężczyzn do 67 kg na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Parviz Nasibov",
+      "Saeid Esmaeili",
+      "Luis Orta",
+      "Semen Novikov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/wrestling-esmaeili-novikov-win-greco-roman-golds-2024-08-08/"
+  },
+  {
+    "id": "SPORT-N20261119-175",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik reprezentujący Bułgarię zdobył złoto w zapasach w stylu klasycznym do 87 kg w Paryżu 2024?",
+    "answers": [
+      "Semen Novikov",
+      "Zhan Beleniuk",
+      "Alireza Mohmadipiani",
+      "Saeid Esmaeili"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/wrestling-esmaeili-novikov-win-greco-roman-golds-2024-08-08/"
+  },
+  {
+    "id": "SPORT-N20261119-176",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Która Amerykanka wygrała olimpijski turniej zapasów kobiet do 68 kg w Paryżu 2024?",
+    "answers": [
+      "Helen Maroulis",
+      "Sarah Hildebrandt",
+      "Amit Elor",
+      "Adeline Gray"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.mmafighting.com/2024/8/6/24214811/amit-elor-becomes-youngest-american-to-win-gold-medal-in-wrestling"
+  },
+  {
+    "id": "SPORT-N20261119-177",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Która Kanadyjka zdobyła złoto w judo kobiet do 57 kg na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Christa Deguchi",
+      "Jessica Klimkait",
+      "Huh Mi-mi",
+      "Haruka Funakubo"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/judo-canadas-christa-deguchi-wins-womens-under-57kg-gold-2024-07-29/"
+  },
+  {
+    "id": "SPORT-N20261119-178",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoto olimpijskie w judo mężczyzn do 73 kg w Paryżu 2024?",
+    "answers": [
+      "Joan-Benjamin Gaba",
+      "Hidayat Heydarov",
+      "Soichi Hashimoto",
+      "Adil Osmanov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/judo-canadas-christa-deguchi-wins-womens-under-57kg-gold-2024-07-29/"
   }
 ]
