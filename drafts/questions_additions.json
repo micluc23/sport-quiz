@@ -5070,5 +5070,405 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-001",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w wyścigu szosowego kobiet paryż 2024?",
+    "answers": [
+      "Kristen Faulkner",
+      "Marianne Vos",
+      "Lotte Kopecky",
+      "Grace Brown"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-002",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w jazdy na czas kobiet paryż 2024?",
+    "answers": [
+      "Chloe Dygert",
+      "Grace Brown",
+      "Anna Henderson",
+      "Kristen Faulkner"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-003",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebrny medal w wyścigu szosowego mężczyzn paryż 2024?",
+    "answers": [
+      "Christophe Laporte",
+      "Wout van Aert",
+      "Valentin Madouas",
+      "Filippo Ganna"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-004",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brązowy medal w jazdy na czas mężczyzn paryż 2024?",
+    "answers": [
+      "Wout van Aert",
+      "Filippo Ganna",
+      "Remco Evenepoel",
+      "Valentin Madouas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-005",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Łatwy",
+    "question": "Która Polka zdobyła srebrny medal w omnium na igrzyskach Paryż 2024?",
+    "answers": [
+      "Katarzyna Niewiadoma",
+      "Daria Pikulik",
+      "Marta Lach",
+      "Agnieszka Skalniak-Sójka"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://olympics.auscycling.org.au/results"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-006",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobyła Daria Pikulik w olimpijskim omnium w Paryżu 2024?",
+    "answers": [
+      "125",
+      "131",
+      "144",
+      "116"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://olympics.auscycling.org.au/results"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-007",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brązowy medal w omnium kobiet paryż 2024?",
+    "answers": [
+      "Georgia Baker",
+      "Ally Wollaston",
+      "Lotte Kopecky",
+      "Daria Pikulik"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://olympics.auscycling.org.au/results"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-008",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w keirinu kobiet paryż 2024?",
+    "answers": [
+      "Lea Friedrich",
+      "Emma Finucane",
+      "Ellesse Andrews",
+      "Hetty van de Wouw"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-olympic-games-paris-2024-french-and-kiwi-track/7MEyDXdPPu2uiMBCn0UuK"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-009",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebrny medal w keirinu kobiet paryż 2024?",
+    "answers": [
+      "Hetty van de Wouw",
+      "Ellesse Andrews",
+      "Emma Finucane",
+      "Lea Friedrich"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-olympic-games-paris-2024-french-and-kiwi-track/7MEyDXdPPu2uiMBCn0UuK"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-010",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w omnium mężczyzn paryż 2024?",
+    "answers": [
+      "Iúri Leitão",
+      "Benjamin Thomas",
+      "Fabio van den Bossche",
+      "Harrie Lavreysen"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-olympic-games-paris-2024-french-and-kiwi-track/7MEyDXdPPu2uiMBCn0UuK"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-011",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebrny medal w omnium mężczyzn paryż 2024?",
+    "answers": [
+      "Fabio van den Bossche",
+      "Benjamin Thomas",
+      "Iúri Leitão",
+      "Rui Oliveira"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-olympic-games-paris-2024-french-and-kiwi-track/7MEyDXdPPu2uiMBCn0UuK"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-012",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobył Benjamin Thomas, wygrywając olimpijskie omnium w Paryżu 2024?",
+    "answers": [
+      "153",
+      "144",
+      "164",
+      "131"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-olympic-games-paris-2024-french-and-kiwi-track/7MEyDXdPPu2uiMBCn0UuK"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-013",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w sprintu kobiet paryż 2024?",
+    "answers": [
+      "Emma Finucane",
+      "Lea Friedrich",
+      "Ellesse Andrews",
+      "Jennifer Valente"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-a-momentous-finale-in-the-velodrome/79BzPhbVSwHLO4IgPZFtdr"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-014",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebrny medal w sprintu kobiet paryż 2024?",
+    "answers": [
+      "Lea Friedrich",
+      "Emma Finucane",
+      "Hetty van de Wouw",
+      "Ellesse Andrews"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-a-momentous-finale-in-the-velodrome/79BzPhbVSwHLO4IgPZFtdr"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-015",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w keirinu mężczyzn paryż 2024?",
+    "answers": [
+      "Matthew Richardson",
+      "Harrie Lavreysen",
+      "Jack Carlin",
+      "Matthew Glaetzer"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-a-momentous-finale-in-the-velodrome/79BzPhbVSwHLO4IgPZFtdr"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-016",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile złotych medali zdobył Harrie Lavreysen na igrzyskach na igrzyskach Paryż 2024?",
+    "answers": [
+      "Jeden",
+      "Dwa",
+      "Trzy",
+      "Cztery"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-a-momentous-finale-in-the-velodrome/79BzPhbVSwHLO4IgPZFtdr"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-017",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoty medal w bmx freestyle park mężczyzn paryż 2024?",
+    "answers": [
+      "Kieran Reilly",
+      "Anthony Jeanjean",
+      "José Torres Gil",
+      "Joris Daudet"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-018",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoty medal w bmx freestyle park kobiet paryż 2024?",
+    "answers": [
+      "Perris Benegas",
+      "Deng Yawen",
+      "Natalya Diehm",
+      "Hannah Roberts"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-019",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył wszystkie trzy medale w BMX racing mężczyzn na igrzyskach na igrzyskach Paryż 2024?",
+    "answers": [
+      "Australia",
+      "Holandia",
+      "Francja",
+      "Wielka Brytania"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.cyclingnews.com/features/2024-paris-olympic-games-medal-table/"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-020",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoty medal w bmx racing kobiet paryż 2024?",
+    "answers": [
+      "Saya Sakakibara",
+      "Manon Veenstra",
+      "Zoe Claessens",
+      "Perris Benegas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.cyclingnews.com/features/2024-paris-olympic-games-medal-table/"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-021",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w mtb cross-country kobiet paryż 2024?",
+    "answers": [
+      "Haley Batten",
+      "Pauline Ferrand-Prévot",
+      "Jenny Rissveds",
+      "Lotte Kopecky"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.cyclingnews.com/features/2024-paris-olympic-games-medal-table/"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-022",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w mtb cross-country mężczyzn paryż 2024?",
+    "answers": [
+      "Victor Koretzky",
+      "Alan Hatherly",
+      "Tom Pidcock",
+      "Mathieu van der Poel"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.cyclingnews.com/features/2024-paris-olympic-games-medal-table/"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-023",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brązowy medal w mtb cross-country mężczyzn paryż 2024?",
+    "answers": [
+      "Alan Hatherly",
+      "Victor Koretzky",
+      "Tom Pidcock",
+      "Nino Schurter"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.cyclingnews.com/features/2024-paris-olympic-games-medal-table/"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-024",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Która para wygrała madison mężczyzn na igrzyskach Paryż 2024?",
+    "answers": [
+      "Simone Consonni i Elia Viviani",
+      "Iúri Leitão i Rui Oliveira",
+      "Niklas Larsen i Michael Mørkøv",
+      "Benjamin Thomas i Donavan Grondin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://olympics.auscycling.org.au/results"
+  },
+  {
+    "id": "SPORT-N20261119-CYC-025",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Która para wygrała madison kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Elinor Barker i Neah Evans",
+      "Chiara Consonni i Vittoria Guazzini",
+      "Jennifer Valente i Lily Williams",
+      "Daria Pikulik i Wiktoria Pikulik"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://olympics.auscycling.org.au/results"
   }
 ]
