@@ -2846,5 +2846,357 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.reuters.com/sports/olympics/judo-canadas-christa-deguchi-wins-womens-under-57kg-gold-2024-07-29/"
+  },
+  {
+    "id": "SPORT-N20261119-179",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal olimpijski w łucznictwie indywidualnym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Kim Woojin",
+      "Brady Ellison",
+      "Lee Woo Seok",
+      "Mete Gazoz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201767/kim-woojin-becomes-greatest-archery-olympian-all-time-five-gold-medals"
+  },
+  {
+    "id": "SPORT-N20261119-180",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Kogo Kim Woojin pokonał w finale indywidualnym igrzysk w Paryżu 2024?",
+    "answers": [
+      "Lee Woo Seok",
+      "Brady Ellison",
+      "Florian Unruh",
+      "Kim Je Deok"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201767/kim-woojin-becomes-greatest-archery-olympian-all-time-five-gold-medals"
+  },
+  {
+    "id": "SPORT-N20261119-181",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Ekspert",
+    "question": "Ile złotych medali olimpijskich miał Kim Woojin po igrzyskach w Paryżu 2024?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201767/kim-woojin-becomes-greatest-archery-olympian-all-time-five-gold-medals"
+  },
+  {
+    "id": "SPORT-N20261119-182",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka wygrała indywidualne zawody łucznicze kobiet na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Lisa Barbelin",
+      "Nam Suhyeon",
+      "Jeon Hunyoung",
+      "Lim Sihyeon"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201764/lim-sihyeon-wins-individual-gold-korea-almost-completes-clean-sweep"
+  },
+  {
+    "id": "SPORT-N20261119-183",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w indywidualnym łucznictwie kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Lisa Barbelin",
+      "Jeon Hunyoung",
+      "Nam Suhyeon",
+      "Alejandra Valencia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201764/lim-sihyeon-wins-individual-gold-korea-almost-completes-clean-sweep"
+  },
+  {
+    "id": "SPORT-N20261119-184",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Ekspert",
+    "question": "Jakim wynikiem setowym Lim Sihyeon pokonała Nam Suhyeon w finale indywidualnym Paryż 2024?",
+    "answers": [
+      "6:4",
+      "7:3",
+      "6:2",
+      "5:5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201764/lim-sihyeon-wins-individual-gold-korea-almost-completes-clean-sweep"
+  },
+  {
+    "id": "SPORT-N20261119-185",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj przegrał z Koreą Południową finał drużynowy łuczniczek na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Meksyk",
+      "Francja",
+      "Chiny",
+      "USA"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201745/korea-wins-10th-olympics-row"
+  },
+  {
+    "id": "SPORT-N20261119-186",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Ekspert",
+    "question": "Ile kolejnych olimpijskich złotych medali drużynowych zdobyły Koreanki w łucznictwie do Paryża 2024 włącznie?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201745/korea-wins-10th-olympics-row"
+  },
+  {
+    "id": "SPORT-N20261119-187",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w drużynowym łucznictwie kobiet na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Meksyk",
+      "Chiny",
+      "Włochy",
+      "Niemcy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201745/korea-wins-10th-olympics-row"
+  },
+  {
+    "id": "SPORT-N20261119-188",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył srebro w drużynowym łucznictwie mężczyzn na igrzyskach Paryż 2024?",
+    "answers": [
+      "Turcja",
+      "Francja",
+      "Chiny",
+      "Japonia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201749/korean-men-win-again-france-turkiye-completes-historic-podium"
+  },
+  {
+    "id": "SPORT-N20261119-189",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj wywalczył brąz w drużynowym łucznictwie mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Włochy",
+      "USA",
+      "Turcja",
+      "Indie"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201749/korean-men-win-again-france-turkiye-completes-historic-podium"
+  },
+  {
+    "id": "SPORT-N20261119-190",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Ekspert",
+    "question": "Który z tych zawodników należał do złotej drużyny łuczników Korei Południowej w Paryżu 2024?",
+    "answers": [
+      "Brady Ellison",
+      "Florian Unruh",
+      "Mete Gazoz",
+      "Kim Je Deok"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.worldarchery.sport/news/201749/korean-men-win-again-france-turkiye-completes-historic-podium"
+  },
+  {
+    "id": "SPORT-N20261119-191",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył złoto w olimpijskim mikście łuczniczym w Paryżu 2024?",
+    "answers": [
+      "Korea Południowa",
+      "Niemcy",
+      "USA",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-archery-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-192",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Z którym krajem Korea Południowa wygrała finał miksta łuczniczego na igrzyskach Paryż 2024?",
+    "answers": [
+      "USA",
+      "Niemcy",
+      "Chiny",
+      "Meksyk"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-archery-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-193",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła brąz w mikście łuczniczym w Paryżu 2024?",
+    "answers": [
+      "Lim Sihyeon i Kim Woojin",
+      "Michelle Kroppen i Florian Unruh",
+      "Casey Kaufhold i Brady Ellison",
+      "Lisa Barbelin i Jean-Charles Valladont"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-archery-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-194",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył złoto olimpijskie w drużynowym tenisie stołowym kobiet w Paryżu 2024?",
+    "answers": [
+      "Japonia",
+      "Korea Południowa",
+      "Niemcy",
+      "Chiny"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/08/10/womens-team-bronze-and-gold-medal-match-to-wrap-up-table-tennis-at-paris-2024/"
+  },
+  {
+    "id": "SPORT-N20261119-195",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Z jakim krajem Chinki wygrały finał drużynowego tenisa stołowego kobiet w Paryżu 2024?",
+    "answers": [
+      "Japonią",
+      "Koreą Południową",
+      "Szwecją",
+      "Francją"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/08/10/womens-team-bronze-and-gold-medal-match-to-wrap-up-table-tennis-at-paris-2024/"
+  },
+  {
+    "id": "SPORT-N20261119-196",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Która zawodniczka była najmłodszą medalistką tenisa stołowego na igrzyskach Paryż 2024?",
+    "answers": [
+      "Sun Yingsha",
+      "Miwa Harimoto",
+      "Hina Hayata",
+      "Chen Meng"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/08/10/womens-team-bronze-and-gold-medal-match-to-wrap-up-table-tennis-at-paris-2024/"
+  },
+  {
+    "id": "SPORT-N20261119-197",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Która z tych zawodniczek grała w złotej drużynie Chinek w tenisie stołowym w Paryżu 2024?",
+    "answers": [
+      "Hina Hayata",
+      "Shin Yubin",
+      "Wang Manyu",
+      "Miu Hirano"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.ittf.com/2024/08/10/womens-team-bronze-and-gold-medal-match-to-wrap-up-table-tennis-at-paris-2024/"
+  },
+  {
+    "id": "SPORT-N20261119-198",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Ile złotych medali olimpijskich miał Ma Long po turnieju drużynowym w Paryżu 2024?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-table-tennis-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-199",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył srebro w drużynowym tenisie stołowym mężczyzn na igrzyskach Paryż 2024?",
+    "answers": [
+      "Szwecja",
+      "Japonia",
+      "Francja",
+      "Niemcy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-table-tennis-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-200",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Jakim wynikiem meczowym Chiny pokonały Szwecję w finale drużynowego tenisa stołowego mężczyzn Paryż 2024?",
+    "answers": [
+      "3:1",
+      "3:0",
+      "3:2",
+      "4:1"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-table-tennis-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
   }
 ]
