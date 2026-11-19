@@ -4158,5 +4158,389 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.fil-luge.org/en/news/olympic-winter-games-milano-cortina-2026-luge"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-001",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył srebro w kobiecym slalomie kajakowym K-1 na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Klaudia Zwolińska",
+      "Jessica Fox",
+      "Elena Lilik",
+      "Kimberley Woods"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-002",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka wygrała olimpijski slalom K-1 kobiet w Paryżu w 2024 roku?",
+    "answers": [
+      "Klaudia Zwolińska",
+      "Jessica Fox",
+      "Evy Leibfarth",
+      "Noémie Fox"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-003",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w slalomie K-1 kobiet na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Elena Lilik",
+      "Evy Leibfarth",
+      "Kimberley Woods",
+      "Tamara Csipes"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-004",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła złoto w slalomie C-1 kobiet w Paryżu w 2024 roku?",
+    "answers": [
+      "Elena Lilik",
+      "Klaudia Zwolińska",
+      "Noémie Fox",
+      "Jessica Fox"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-005",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Która Niemka zdobyła srebro w olimpijskim slalomie C-1 kobiet w 2024 roku?",
+    "answers": [
+      "Elena Lilik",
+      "Kimberley Woods",
+      "Ricarda Funk",
+      "Evy Leibfarth"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-006",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Która Amerykanka zdobyła brąz w slalomie C-1 kobiet w Paryżu w 2024 roku?",
+    "answers": [
+      "Nevin Harrison",
+      "Evy Leibfarth",
+      "Katie Vincent",
+      "Noémie Fox"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-007",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zwyciężył w olimpijskim slalomie C-1 mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Adam Burgess",
+      "Matej Beňuš",
+      "Nicolas Gestin",
+      "Giovanni De Gennaro"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-008",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Który Brytyjczyk został wicemistrzem olimpijskim w slalomie C-1 mężczyzn w 2024 roku?",
+    "answers": [
+      "Joe Clarke",
+      "Titouan Castryck",
+      "Adam Varga",
+      "Adam Burgess"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-009",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył brąz w slalomie C-1 mężczyzn na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Matej Beňuš",
+      "Pau Echaniz",
+      "Noah Hegge",
+      "Josef Dostál"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-010",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Który Włoch zdobył złoto w olimpijskim slalomie K-1 mężczyzn w 2024 roku?",
+    "answers": [
+      "Nicolas Gestin",
+      "Giovanni De Gennaro",
+      "Titouan Castryck",
+      "Finn Butcher"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-011",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Który Francuz zdobył srebro w slalomie K-1 mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Nicolas Gestin",
+      "Adam Burgess",
+      "Titouan Castryck",
+      "Joe Clarke"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-012",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Ekspert",
+    "question": "Który Hiszpan zdobył brąz w slalomie K-1 mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Joan Antoni Moreno",
+      "Matej Beňuš",
+      "Noah Hegge",
+      "Pau Echaniz"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-013",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał pierwszy w historii olimpijski finał kayak cross mężczyzn w 2024 roku?",
+    "answers": [
+      "Finn Butcher",
+      "Joe Clarke",
+      "Noah Hegge",
+      "Giovanni De Gennaro"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-014",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Który Brytyjczyk zdobył srebro w olimpijskim kayak cross mężczyzn w 2024 roku?",
+    "answers": [
+      "Adam Burgess",
+      "Joe Clarke",
+      "Titouan Castryck",
+      "Jacob Schopf"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-015",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Ekspert",
+    "question": "Który Niemiec zdobył brąz w olimpijskim kayak cross mężczyzn w 2024 roku?",
+    "answers": [
+      "Max Lemke",
+      "Max Rendschmidt",
+      "Noah Hegge",
+      "Jacob Schopf"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-016",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która Nowozelandka wygrała olimpijski sprint kajakowy K-1 500 m kobiet w Paryżu w 2024 roku?",
+    "answers": [
+      "Alicia Hoskin",
+      "Tamara Csipes",
+      "Emma Jørgensen",
+      "Lisa Carrington"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-017",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Która Węgierka zdobyła srebro w olimpijskim K-1 500 m kobiet w 2024 roku?",
+    "answers": [
+      "Tamara Csipes",
+      "Alida Gazsó",
+      "Noémi Pupp",
+      "Sara Fojt"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-018",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Z którą zawodniczką Lisa Carrington zdobyła złoto w K-2 500 m kobiet w Paryżu w 2024 roku?",
+    "answers": [
+      "Tamara Csipes",
+      "Alicia Hoskin",
+      "Emma Jørgensen",
+      "Jule Hake"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-019",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która niemiecka para wygrała olimpijskie K-2 500 m mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Nádas i Totka",
+      "Green i van der Westhuyzen",
+      "Schopf i Lemke",
+      "Rendschmidt i Rauhe"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-020",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoto w olimpijskim K-1 1000 m mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Ádám Varga",
+      "Bálint Kopasz",
+      "Martin Fuksa",
+      "Josef Dostál"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-021",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoto w olimpijskim C-1 1000 m mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Martin Fuksa",
+      "Isaquias Queiroz",
+      "Serghei Tarnovschi",
+      "Josef Dostál"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-022",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Która chińska para wygrała olimpijskie C-2 500 m mężczyzn w 2024 roku?",
+    "answers": [
+      "Casadei i Tacchini",
+      "Liu Hao i Ji Bowen",
+      "Moreno i Domínguez",
+      "Schopf i Lemke"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-023",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja zdobyła najwięcej złotych medali w kajakarstwie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Australia",
+      "Niemcy",
+      "Nowa Zelandia",
+      "Chiny"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-CAN-024",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile złotych medali w kajakarstwie zdobyła Nowa Zelandia podczas igrzysk w Paryżu w 2024 roku?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
   }
 ]
