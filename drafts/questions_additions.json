@@ -7438,5 +7438,405 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1982/83?",
+    "answers": [
+      "Clifford Robinson",
+      "Bobby Jones",
+      "Bobby Jackson",
+      "James Harden"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1985/86?",
+    "answers": [
+      "Bill Walton",
+      "Dell Curry",
+      "Ben Gordon",
+      "Naz Reid"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1987/88?",
+    "answers": [
+      "Toni Kukoč",
+      "Manu Ginóbili",
+      "Payton Pritchard",
+      "Roy Tarpley"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1992/93?",
+    "answers": [
+      "Darrell Armstrong",
+      "James Harden",
+      "Clifford Robinson",
+      "Bobby Jones"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1993/94?",
+    "answers": [
+      "Bobby Jackson",
+      "Dell Curry",
+      "Naz Reid",
+      "Bill Walton"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1995/96?",
+    "answers": [
+      "Toni Kukoč",
+      "Ben Gordon",
+      "Payton Pritchard",
+      "Roy Tarpley"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1998/99?",
+    "answers": [
+      "Manu Ginóbili",
+      "Bobby Jones",
+      "Clifford Robinson",
+      "Darrell Armstrong"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2002/03?",
+    "answers": [
+      "James Harden",
+      "Bill Walton",
+      "Bobby Jackson",
+      "Dell Curry"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2004/05?",
+    "answers": [
+      "Naz Reid",
+      "Ben Gordon",
+      "Roy Tarpley",
+      "Toni Kukoč"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2007/08?",
+    "answers": [
+      "Manu Ginóbili",
+      "Payton Pritchard",
+      "Clifford Robinson",
+      "Darrell Armstrong"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2011/12?",
+    "answers": [
+      "Bobby Jones",
+      "Dell Curry",
+      "Bobby Jackson",
+      "James Harden"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2023/24?",
+    "answers": [
+      "Bill Walton",
+      "Toni Kukoč",
+      "Naz Reid",
+      "Ben Gordon"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2024/25?",
+    "answers": [
+      "Roy Tarpley",
+      "Payton Pritchard",
+      "Darrell Armstrong",
+      "Manu Ginóbili"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1980/81?",
+    "answers": [
+      "Shaquille O'Neal",
+      "Darrell Griffith",
+      "Michael Carter-Williams",
+      "Paolo Banchero"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1983/84?",
+    "answers": [
+      "Ralph Sampson",
+      "Chris Webber",
+      "Malcolm Brogdon",
+      "Stephon Castle"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1987/88?",
+    "answers": [
+      "Derrick Rose",
+      "Luka Dončić",
+      "Darrell Griffith",
+      "Mark Jackson"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1992/93?",
+    "answers": [
+      "Kyrie Irving",
+      "Paolo Banchero",
+      "Shaquille O'Neal",
+      "Ralph Sampson"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1993/94?",
+    "answers": [
+      "Michael Carter-Williams",
+      "Chris Webber",
+      "Stephon Castle",
+      "Mark Jackson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2008/09?",
+    "answers": [
+      "Derrick Rose",
+      "Malcolm Brogdon",
+      "Darrell Griffith",
+      "Shaquille O'Neal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2011/12?",
+    "answers": [
+      "Luka Dončić",
+      "Ralph Sampson",
+      "Chris Webber",
+      "Kyrie Irving"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2013/14?",
+    "answers": [
+      "Paolo Banchero",
+      "Mark Jackson",
+      "Michael Carter-Williams",
+      "Derrick Rose"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2016/17?",
+    "answers": [
+      "Stephon Castle",
+      "Malcolm Brogdon",
+      "Shaquille O'Neal",
+      "Kyrie Irving"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2018/19?",
+    "answers": [
+      "Luka Dončić",
+      "Darrell Griffith",
+      "Chris Webber",
+      "Michael Carter-Williams"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2022/23?",
+    "answers": [
+      "Ralph Sampson",
+      "Derrick Rose",
+      "Malcolm Brogdon",
+      "Paolo Banchero"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2024/25?",
+    "answers": [
+      "Mark Jackson",
+      "Kyrie Irving",
+      "Stephon Castle",
+      "Luka Dončić"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
   }
 ]
