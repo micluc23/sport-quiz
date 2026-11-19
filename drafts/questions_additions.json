@@ -238,5 +238,357 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-named-fiba-basketball-world-cup-2023-tissot-mvp"
+  },
+  {
+    "id": "SPORT-N20261119-B001",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył zwycięską bramkę dla Hiszpanii w finale EURO 2024?",
+    "answers": [
+      "Nico Williams",
+      "Dani Olmo",
+      "Álvaro Morata",
+      "Mikel Oyarzabal"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B002",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz strzelił pierwszego gola w finale EURO 2024?",
+    "answers": [
+      "Nico Williams",
+      "Lamine Yamal",
+      "Cole Palmer",
+      "Mikel Oyarzabal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B003",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył wyrównującą bramkę dla Anglii w finale EURO 2024?",
+    "answers": [
+      "Bukayo Saka",
+      "Cole Palmer",
+      "Harry Kane",
+      "Jude Bellingham"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B004",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik asystował przy pierwszej bramce Hiszpanii w finale EURO 2024?",
+    "answers": [
+      "Fabián Ruiz",
+      "Rodri",
+      "Lamine Yamal",
+      "Dani Carvajal"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B005",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto prowadził reprezentację Anglii jako selekcjoner w finale EURO 2024?",
+    "answers": [
+      "Roy Hodgson",
+      "Graham Potter",
+      "Lee Carsley",
+      "Gareth Southgate"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B006",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile spotkań wygrała Hiszpania podczas turnieju finałowego EURO 2024?",
+    "answers": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B007",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile goli strzeliła Hiszpania w całym turnieju finałowym EURO 2024?",
+    "answers": [
+      "16",
+      "15",
+      "13",
+      "14"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/"
+  },
+  {
+    "id": "SPORT-N20261119-B008",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę dla najlepszego młodego zawodnika EURO 2024?",
+    "answers": [
+      "Jude Bellingham",
+      "Jamal Musiala",
+      "Lamine Yamal",
+      "Nico Williams"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b593529fcc2-02d376d78144-1000--lamine-yamal-s-record-breaking-euro-spain-prodigy-wins-f/"
+  },
+  {
+    "id": "SPORT-N20261119-B009",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile asyst zanotował Lamine Yamal podczas EURO 2024?",
+    "answers": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b593529fcc2-02d376d78144-1000--lamine-yamal-s-record-breaking-euro-spain-prodigy-wins-f/"
+  },
+  {
+    "id": "SPORT-N20261119-B010",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Przeciwko której reprezentacji Lamine Yamal zdobył swoją bramkę na EURO 2024?",
+    "answers": [
+      "Francja",
+      "Gruzja",
+      "Niemcy",
+      "Chorwacja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/uefaeuro/history/news/028f-1b593529fcc2-02d376d78144-1000--lamine-yamal-s-record-breaking-euro-spain-prodigy-wins-f/"
+  },
+  {
+    "id": "SPORT-N20261119-B011",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna przegrała z Hiszpanią w finale kobiecych MŚ 2023?",
+    "answers": [
+      "Australia",
+      "Anglia",
+      "Szwecja",
+      "Holandia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/027a-166817b8be17-9e0082e122cd-1000--spain-win-2023-women-s-world-cup-all-the-results/"
+  },
+  {
+    "id": "SPORT-N20261119-B012",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył jedyną bramkę w finale kobiecych MŚ 2023?",
+    "answers": [
+      "Salma Paralluelo",
+      "Jennifer Hermoso",
+      "Olga Carmona",
+      "Aitana Bonmatí"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/027a-166817b8be17-9e0082e122cd-1000--spain-win-2023-women-s-world-cup-all-the-results/"
+  },
+  {
+    "id": "SPORT-N20261119-B013",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Która bramkarka obroniła rzut karny Jennifer Hermoso w finale kobiecych MŚ 2023?",
+    "answers": [
+      "Hannah Hampton",
+      "Cata Coll",
+      "Alyssa Naeher",
+      "Mary Earps"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/027a-166817b8be17-9e0082e122cd-1000--spain-win-2023-women-s-world-cup-all-the-results/"
+  },
+  {
+    "id": "SPORT-N20261119-B014",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście rozegrano finał kobiecych MŚ w piłce nożnej w 2023 roku?",
+    "answers": [
+      "Sydney",
+      "Melbourne",
+      "Auckland",
+      "Brisbane"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/027a-166817b8be17-9e0082e122cd-1000--spain-win-2023-women-s-world-cup-all-the-results/"
+  },
+  {
+    "id": "SPORT-N20261119-B015",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Hiszpanię 4:0 w fazie grupowej kobiecych MŚ 2023?",
+    "answers": [
+      "Kostaryka",
+      "Japonia",
+      "Zambia",
+      "Szwecja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/0283-1876f3d5e72e-ab17ccc76e64-1000--spain-win-the-2023-women-s-world-cup-fixtures-results-squ/"
+  },
+  {
+    "id": "SPORT-N20261119-B016",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kogo Hiszpania wyeliminowała w półfinale kobiecych MŚ 2023?",
+    "answers": [
+      "Szwajcarię",
+      "Japonię",
+      "Szwecję",
+      "Holandię"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/0283-1876f3d5e72e-ab17ccc76e64-1000--spain-win-the-2023-women-s-world-cup-fixtures-results-squ/"
+  },
+  {
+    "id": "SPORT-N20261119-B017",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto strzelił zwycięskiego gola Hiszpanii w dogrywce ćwierćfinału kobiecych MŚ 2023 przeciwko Holandii?",
+    "answers": [
+      "Olga Carmona",
+      "Mariona Caldentey",
+      "Alba Redondo",
+      "Salma Paralluelo"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uefa.com/news-media/news/0283-1876f3d5e72e-ab17ccc76e64-1000--spain-win-the-2023-women-s-world-cup-fixtures-results-squ/"
+  },
+  {
+    "id": "SPORT-N20261119-B018",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Ile indywidualnych złotych medali wywalczył Léon Marchand na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.bbc.co.uk/sport/olympics/articles/ced3dkx7gnko"
+  },
+  {
+    "id": "SPORT-N20261119-B019",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Na jakim dystansie w stylu zmiennym Léon Marchand zdobył swój czwarty złoty medal igrzysk Paryż 2024?",
+    "answers": [
+      "800 m",
+      "200 m",
+      "100 m",
+      "400 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.bbc.co.uk/sport/olympics/articles/ced3dkx7gnko"
+  },
+  {
+    "id": "SPORT-N20261119-B020",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja wygrała męską sztafetę 4 × 100 m stylem zmiennym na igrzyskach Paryż 2024?",
+    "answers": [
+      "USA",
+      "Australia",
+      "Chiny",
+      "Francja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.beinsports.com/en-us/olympics-games/olympic-games/articles-video/l%C3%A9on-marchand-ends-gold-streak-with-a-bronze-2024-08-04"
+  },
+  {
+    "id": "SPORT-N20261119-B021",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Które miejsce zajęła Francja w męskiej sztafecie 4 × 100 m stylem zmiennym na igrzyskach Paryż 2024?",
+    "answers": [
+      "Pierwsze",
+      "Drugie",
+      "Czwarte",
+      "Trzecie"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.beinsports.com/en-us/olympics-games/olympic-games/articles-video/l%C3%A9on-marchand-ends-gold-streak-with-a-bronze-2024-08-04"
+  },
+  {
+    "id": "SPORT-N20261119-B022",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro na 200 m stylem zmiennym mężczyzn w Paryżu 2024, za Léonem Marchandem?",
+    "answers": [
+      "Duncan Scott",
+      "Tom Dean",
+      "Ben Proud",
+      "Ryan Lochte"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.bbc.co.uk/sport/olympics/articles/ced3dkx7gnko"
   }
 ]
