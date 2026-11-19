@@ -7838,5 +7838,405 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2024 roku?",
+    "answers": [
+      "Zaccharie Risacher",
+      "Cade Cunningham",
+      "Ben Simmons",
+      "Blake Griffin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2023 roku?",
+    "answers": [
+      "Anthony Edwards",
+      "Victor Wembanyama",
+      "Karl-Anthony Towns",
+      "Derrick Rose"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2022 roku?",
+    "answers": [
+      "Zion Williamson",
+      "Andrew Wiggins",
+      "Paolo Banchero",
+      "Greg Oden"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2021 roku?",
+    "answers": [
+      "Deandre Ayton",
+      "Anthony Bennett",
+      "Andrea Bargnani",
+      "Cade Cunningham"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2020 roku?",
+    "answers": [
+      "Anthony Edwards",
+      "Markelle Fultz",
+      "Anthony Davis",
+      "Andrew Bogut"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2019 roku?",
+    "answers": [
+      "Ben Simmons",
+      "Zion Williamson",
+      "Kyrie Irving",
+      "Dwight Howard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2018 roku?",
+    "answers": [
+      "Karl-Anthony Towns",
+      "John Wall",
+      "Deandre Ayton",
+      "LeBron James"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2017 roku?",
+    "answers": [
+      "Andrew Wiggins",
+      "Blake Griffin",
+      "Yao Ming",
+      "Markelle Fultz"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2016 roku?",
+    "answers": [
+      "Ben Simmons",
+      "Anthony Bennett",
+      "Derrick Rose",
+      "Kwame Brown"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2015 roku?",
+    "answers": [
+      "Anthony Davis",
+      "Karl-Anthony Towns",
+      "Greg Oden",
+      "Kenyon Martin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2014 roku?",
+    "answers": [
+      "Kyrie Irving",
+      "Andrea Bargnani",
+      "Andrew Wiggins",
+      "Zaccharie Risacher"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2013 roku?",
+    "answers": [
+      "John Wall",
+      "Andrew Bogut",
+      "Victor Wembanyama",
+      "Anthony Bennett"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2012 roku?",
+    "answers": [
+      "Anthony Davis",
+      "Blake Griffin",
+      "Dwight Howard",
+      "Paolo Banchero"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2011 roku?",
+    "answers": [
+      "Derrick Rose",
+      "Kyrie Irving",
+      "LeBron James",
+      "Cade Cunningham"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2010 roku?",
+    "answers": [
+      "Greg Oden",
+      "Yao Ming",
+      "John Wall",
+      "Anthony Edwards"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2009 roku?",
+    "answers": [
+      "Andrea Bargnani",
+      "Kwame Brown",
+      "Zion Williamson",
+      "Blake Griffin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2008 roku?",
+    "answers": [
+      "Derrick Rose",
+      "Andrew Bogut",
+      "Kenyon Martin",
+      "Deandre Ayton"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2007 roku?",
+    "answers": [
+      "Dwight Howard",
+      "Greg Oden",
+      "Zaccharie Risacher",
+      "Markelle Fultz"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2006 roku?",
+    "answers": [
+      "LeBron James",
+      "Victor Wembanyama",
+      "Andrea Bargnani",
+      "Ben Simmons"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2005 roku?",
+    "answers": [
+      "Yao Ming",
+      "Paolo Banchero",
+      "Karl-Anthony Towns",
+      "Andrew Bogut"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2004 roku?",
+    "answers": [
+      "Dwight Howard",
+      "Kwame Brown",
+      "Cade Cunningham",
+      "Andrew Wiggins"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2003 roku?",
+    "answers": [
+      "Kenyon Martin",
+      "LeBron James",
+      "Anthony Edwards",
+      "Anthony Bennett"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2002 roku?",
+    "answers": [
+      "Zaccharie Risacher",
+      "Zion Williamson",
+      "Yao Ming",
+      "Anthony Davis"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2001 roku?",
+    "answers": [
+      "Victor Wembanyama",
+      "Deandre Ayton",
+      "Kyrie Irving",
+      "Kwame Brown"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2000",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2000 roku?",
+    "answers": [
+      "Kenyon Martin",
+      "Paolo Banchero",
+      "Markelle Fultz",
+      "John Wall"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
   }
 ]
