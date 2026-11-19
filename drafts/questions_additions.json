@@ -7038,5 +7038,405 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://plk.pl/internalfiles/fckfiles/file/biuro_prasowe/KOMUNIKAT%2011%20PODSUMOWANIE%20SEZONU_2014_2015_.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 2025/26?",
+    "answers": [
+      "Evan Mobley",
+      "Rudy Gobert",
+      "Victor Wembanyama",
+      "Bam Adebayo"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 2024/25?",
+    "answers": [
+      "Victor Wembanyama",
+      "Evan Mobley",
+      "Draymond Green",
+      "Jaren Jackson Jr."
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik otrzymał nagrodę najlepszego obrońcy NBA w sezonie 2023/24?",
+    "answers": [
+      "Rudy Gobert",
+      "Bam Adebayo",
+      "Anthony Davis",
+      "Jaren Jackson Jr."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 2022/23?",
+    "answers": [
+      "Brook Lopez",
+      "Rudy Gobert",
+      "Marcus Smart",
+      "Jaren Jackson Jr."
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Boston Celtics zdobył nagrodę najlepszego obrońcy NBA w sezonie 2021/22?",
+    "answers": [
+      "Jayson Tatum",
+      "Jaylen Brown",
+      "Marcus Smart",
+      "Robert Williams III"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto był najlepszym obrońcą NBA w sezonie 2019/20?",
+    "answers": [
+      "Rudy Gobert",
+      "Giannis Antetokounmpo",
+      "Anthony Davis",
+      "Kawhi Leonard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Golden State Warriors zdobył nagrodę najlepszego obrońcy NBA za sezon 2016/17?",
+    "answers": [
+      "Draymond Green",
+      "Klay Thompson",
+      "Andre Iguodala",
+      "Kevin Durant"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył nagrodę najlepszego obrońcy NBA w sezonie 2013/14?",
+    "answers": [
+      "Marc Gasol",
+      "Dwight Howard",
+      "Tyson Chandler",
+      "Joakim Noah"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 2012/13?",
+    "answers": [
+      "Pau Gasol",
+      "Serge Ibaka",
+      "Marc Gasol",
+      "Roy Hibbert"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który koszykarz New York Knicks zdobył nagrodę najlepszego obrońcy NBA w sezonie 2011/12?",
+    "answers": [
+      "Carmelo Anthony",
+      "Tyson Chandler",
+      "Iman Shumpert",
+      "Amar'e Stoudemire"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 2007/08?",
+    "answers": [
+      "Kevin Garnett",
+      "Paul Pierce",
+      "Tim Duncan",
+      "Ben Wallace"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który gracz Denver Nuggets został najlepszym obrońcą NBA w sezonie 2006/07?",
+    "answers": [
+      "Carmelo Anthony",
+      "Kenyon Martin",
+      "Nené",
+      "Marcus Camby"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 2003/04?",
+    "answers": [
+      "Ben Wallace",
+      "Jermaine O'Neal",
+      "Ron Artest",
+      "Bruce Bowen"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który koszykarz Miami Heat został najlepszym obrońcą NBA w sezonie 1999/2000?",
+    "answers": [
+      "Tim Hardaway",
+      "Alonzo Mourning",
+      "P.J. Brown",
+      "Eddie Jones"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który rozgrywający Seattle SuperSonics zdobył nagrodę najlepszego obrońcy NBA w sezonie 1995/96?",
+    "answers": [
+      "Gary Payton",
+      "Shawn Kemp",
+      "Nate McMillan",
+      "Hersey Hawkins"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 1991/92?",
+    "answers": [
+      "Dennis Rodman",
+      "Hakeem Olajuwon",
+      "Patrick Ewing",
+      "David Robinson"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Chicago Bulls zdobył nagrodę najlepszego obrońcy NBA w sezonie 1987/88?",
+    "answers": [
+      "Scottie Pippen",
+      "Dennis Rodman",
+      "Michael Jordan",
+      "Horace Grant"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 1986/87?",
+    "answers": [
+      "Magic Johnson",
+      "Michael Cooper",
+      "Kareem Abdul-Jabbar",
+      "James Worthy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik San Antonio Spurs został najlepszym obrońcą NBA w sezonie 1985/86?",
+    "answers": [
+      "Alvin Robertson",
+      "David Robinson",
+      "George Gervin",
+      "Artis Gilmore"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był najlepszym obrońcą NBA w sezonie 1984/85?",
+    "answers": [
+      "Sidney Moncrief",
+      "Michael Cooper",
+      "Alvin Robertson",
+      "Mark Eaton"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz otrzymał pierwszą w historii nagrodę najlepszego obrońcy NBA za sezon 1982/83?",
+    "answers": [
+      "Mark Eaton",
+      "Dennis Rodman",
+      "Sidney Moncrief",
+      "Michael Jordan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W barwach którego klubu Rudy Gobert zdobył nagrodę najlepszego obrońcy NBA w sezonie 2023/24?",
+    "answers": [
+      "Utah Jazz",
+      "Minnesota Timberwolves",
+      "Denver Nuggets",
+      "San Antonio Spurs"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który klub reprezentował Kawhi Leonard, zdobywając nagrodę najlepszego obrońcy NBA w sezonie 2014/15?",
+    "answers": [
+      "San Antonio Spurs",
+      "Toronto Raptors",
+      "Los Angeles Clippers",
+      "Indiana Pacers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W którym klubie grał Dikembe Mutombo, gdy zdobył nagrodę najlepszego obrońcy NBA w sezonie 1994/95?",
+    "answers": [
+      "Atlanta Hawks",
+      "Philadelphia 76ers",
+      "Houston Rockets",
+      "Denver Nuggets"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-025",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zespół reprezentował Ben Wallace, zdobywając nagrodę najlepszego obrońcy NBA w sezonie 2005/06?",
+    "answers": [
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Detroit Pistons",
+      "Orlando Magic"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
   }
 ]
