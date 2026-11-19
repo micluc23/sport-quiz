@@ -5902,5 +5902,325 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nbcolympics.com/news/olympic-rhythmic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-001",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył złoty medal w rywalizacji solistów w łyżwiarstwie figurowym na igrzyskach w Pekinie w 2022 roku?",
+    "answers": [
+      "Nathan Chen",
+      "Yuma Kagiyama",
+      "Shoma Uno",
+      "Yuzuru Hanyu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-002",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Który łyżwiarz wywalczył srebro wśród solistów na igrzyskach w Pekinie 2022?",
+    "answers": [
+      "Shoma Uno",
+      "Yuma Kagiyama",
+      "Nathan Chen",
+      "Vincent Zhou"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-003",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Kto stanął na trzecim stopniu podium solistów w Pekinie 2022?",
+    "answers": [
+      "Yuzuru Hanyu",
+      "Jason Brown",
+      "Shoma Uno",
+      "Jun-hwan Cha"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-004",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "Która zawodniczka wygrała olimpijską rywalizację solistek w Pekinie 2022?",
+    "answers": [
+      "Kaori Sakamoto",
+      "Aleksandra Trusowa",
+      "Kamila Walijewa",
+      "Anna Szczerbakowa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-005",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył srebrny medal wśród solistek na igrzyskach w Pekinie 2022?",
+    "answers": [
+      "Aleksandra Trusowa",
+      "Kaori Sakamoto",
+      "Anna Szczerbakowa",
+      "Wakaba Higuchi"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-006",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Która reprezentantka Japonii zdobyła brąz wśród solistek w Pekinie 2022?",
+    "answers": [
+      "Wakaba Higuchi",
+      "Kaori Sakamoto",
+      "Yelim Kim",
+      "Rika Kihira"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-007",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Jakie miejsce zajęła Kamila Walijewa w indywidualnej rywalizacji solistek w Pekinie 2022 według ogłoszonych wówczas wyników?",
+    "answers": [
+      "Drugie",
+      "Trzecie",
+      "Czwarte",
+      "Szóste"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-008",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Łatwy",
+    "question": "Które państwo reprezentowali mistrzowie olimpijscy w parach sportowych Sui Wenjing i Han Cong w Pekinie 2022?",
+    "answers": [
+      "Japonia",
+      "Korea Południowa",
+      "Kanada",
+      "Chiny"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-009",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro w konkurencji par sportowych w Pekinie 2022?",
+    "answers": [
+      "Jewgienija Tarasowa i Władimir Morozow",
+      "Anastazja Miszyna i Aleksandr Galliamow",
+      "Riku Miura i Ryuichi Kihara",
+      "Alexa Knierim i Brandon Frazier"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-010",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Która para wywalczyła brąz w parach sportowych na igrzyskach w Pekinie 2022?",
+    "answers": [
+      "Sui Wenjing i Han Cong",
+      "Anastazja Miszyna i Aleksandr Galliamow",
+      "Peng Cheng i Jin Yang",
+      "Jewgienija Tarasowa i Władimir Morozow"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-011",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w tańcach na lodzie podczas igrzysk w Pekinie 2022?",
+    "answers": [
+      "Madison Hubbell i Zachary Donohue",
+      "Victoria Sinitsina i Nikita Katsalapov",
+      "Gabriella Papadakis i Guillaume Cizeron",
+      "Madison Chock i Evan Bates"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-012",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który duet wywalczył srebro w tańcach na lodzie w Pekinie 2022?",
+    "answers": [
+      "Gabriella Papadakis i Guillaume Cizeron",
+      "Madison Hubbell i Zachary Donohue",
+      "Piper Gilles i Paul Poirier",
+      "Victoria Sinitsina i Nikita Katsalapov"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-013",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który duet z USA zdobył brąz w tańcach na lodzie na igrzyskach w Pekinie 2022?",
+    "answers": [
+      "Madison Hubbell i Zachary Donohue",
+      "Madison Chock i Evan Bates",
+      "Alexa Knierim i Brandon Frazier",
+      "Christina Carreira i Anthony Ponomarenko"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/FSK"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-014",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Które państwo ostatecznie zdobyło złoto w drużynowej rywalizacji łyżwiarzy figurowych w Pekinie 2022?",
+    "answers": [
+      "Japonia",
+      "USA",
+      "Kanada",
+      "Chiny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.isu.org/en/news/isu-statement-olympic-winter-games-beijing-2022-figure-skating-team-event-final-ranking-confirmed"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-015",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Które państwo otrzymało srebro w drużynowym łyżwiarstwie figurowym w Pekinie 2022 po ostatecznej zmianie wyników?",
+    "answers": [
+      "Kanada",
+      "ROC",
+      "Japonia",
+      "Francja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.isu.org/en/news/isu-statement-olympic-winter-games-beijing-2022-figure-skating-team-event-final-ranking-confirmed"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-016",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Na którym miejscu ostatecznie sklasyfikowano drużynę ROC w olimpijskim turnieju łyżwiarstwa figurowego Pekin 2022?",
+    "answers": [
+      "Pierwszym",
+      "Drugim",
+      "Czwartym",
+      "Trzecim"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.isu.org/en/news/isu-statement-olympic-winter-games-beijing-2022-figure-skating-team-event-final-ranking-confirmed"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-017",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "W którym roku ISU potwierdziła ostateczny podział medali drużynowych z Pekinu 2022 po rozpatrzeniu odwołań?",
+    "answers": [
+      "2024",
+      "2022",
+      "2023",
+      "2025"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.isu.org/en/news/isu-statement-olympic-winter-games-beijing-2022-figure-skating-team-event-final-ranking-confirmed"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-018",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "W jakim mieście odbyła się ceremonia wręczenia złotych i srebrnych medali drużynowych z Pekinu 2022?",
+    "answers": [
+      "Pekin",
+      "Paryż",
+      "Mediolan",
+      "Lozanna"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/beijing-2022-figure-skaters-receive-team-event-olympic-medals-during-ceremony-in-champions-park-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-019",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Która solistka uzyskała najwyższy wynik w programie dowolnym kobiet w Pekinie 2022, mimo że nie wygrała klasyfikacji łącznej?",
+    "answers": [
+      "Kaori Sakamoto",
+      "Anna Szczerbakowa",
+      "Aleksandra Trusowa",
+      "Wakaba Higuchi"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
+  },
+  {
+    "id": "SPORT-N20261119-FSK-020",
+    "region": "Polska",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Która polska solistka zajęła 12. miejsce w olimpijskiej rywalizacji kobiet w Pekinie 2022?",
+    "answers": [
+      "Natalia Kaliszek",
+      "Jekatierina Kurakowa",
+      "Anna Jurkiewicz",
+      "Dorota Zagórska"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
   }
 ]
