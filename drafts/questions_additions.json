@@ -3198,5 +3198,293 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nbcolympics.com/news/olympic-table-tennis-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-001",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Łatwy",
+    "question": "Który Polak zdobył srebrny medal olimpijski na skoczni normalnej w 2026 roku?",
+    "answers": [
+      "Kacper Tomasiak",
+      "Paweł Wąsek",
+      "Kamil Stoch",
+      "Piotr Żyła"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-002",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijski konkurs skoków mężczyzn na skoczni normalnej w 2026 roku?",
+    "answers": [
+      "Domen Prevc",
+      "Philipp Raimund",
+      "Ren Nikaido",
+      "Jan Hörl"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-003",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobył Kacper Tomasiak w indywidualnym konkursie na dużej skoczni podczas igrzysk 2026?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Nie zdobył medalu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fis-ski.com/ski-jumping/news/2025-26/domen-s-double-delight-prevc-wins-second-olympic-gold"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-004",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik został mistrzem olimpijskim na dużej skoczni w 2026 roku?",
+    "answers": [
+      "Ren Nikaido",
+      "Domen Prevc",
+      "Philipp Raimund",
+      "Stephan Embacher"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fis-ski.com/ski-jumping/news/2025-26/domen-s-double-delight-prevc-wins-second-olympic-gold"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-005",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Jaką odległość uzyskał Domen Prevc w finałowym skoku po złoto na dużej skoczni igrzysk 2026?",
+    "answers": [
+      "137,5 m",
+      "139,0 m",
+      "141,5 m",
+      "144,0 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fis-ski.com/ski-jumping/news/2025-26/domen-s-double-delight-prevc-wins-second-olympic-gold"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-006",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro olimpijskie na dużej skoczni mężczyzn w 2026 roku?",
+    "answers": [
+      "Ren Nikaido",
+      "Gregor Deschwanden",
+      "Kacper Tomasiak",
+      "Johann André Forfang"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fis-ski.com/ski-jumping/news/2025-26/domen-s-double-delight-prevc-wins-second-olympic-gold"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-007",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów uzyskał Domen Prevc, zwyciężając konkurs na dużej skoczni podczas igrzysk 2026?",
+    "answers": [
+      "295,0",
+      "301,8",
+      "307,5",
+      "289,4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-008",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Z kim Kacper Tomasiak wywalczył srebro olimpijskie w konkursie duetów w 2026 roku?",
+    "answers": [
+      "Kamilem Stochem",
+      "Piotrem Żyłą",
+      "Pawłem Wąskiem",
+      "Dawidem Kubackim"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-009",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja zdobyła złoto w olimpijskim konkursie duetów skoczków w 2026 roku?",
+    "answers": [
+      "Norwegia",
+      "Austria",
+      "Słowenia",
+      "Niemcy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-010",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła złoto w konkursie duetów skoczków na igrzyskach 2026?",
+    "answers": [
+      "Jan Hörl i Stephan Embacher",
+      "Domen Prevc i Anže Lanišek",
+      "Philipp Raimund i Andreas Wellinger",
+      "Ren Nikaido i Ryōyū Kobayashi"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-011",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył brąz w olimpijskim konkursie duetów skoczków w 2026 roku?",
+    "answers": [
+      "Japonia",
+      "Szwajcaria",
+      "Norwegia",
+      "Niemcy"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-012",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Z jakiego powodu skrócono olimpijski konkurs duetów skoczków w 2026 roku?",
+    "answers": [
+      "Awarii oświetlenia",
+      "Intensywnych opadów śniegu i trudnych warunków",
+      "Protestu drużyn",
+      "Uszkodzenia rozbiegu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-013",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył olimpijskie złoto na skoczni normalnej kobiet w 2026 roku?",
+    "answers": [
+      "Nika Prevc",
+      "Anna Odine Strøm",
+      "Katharina Schmid",
+      "Eirin Maria Kvandal"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-014",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Z którego kraju pochodzi Anna Odine Strøm, mistrzyni olimpijska na skoczni normalnej w 2026 roku?",
+    "answers": [
+      "Norwegia",
+      "Szwecja",
+      "Finlandia",
+      "Austria"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-015",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Ekspert",
+    "question": "Ile medali olimpijskich zdobył Kacper Tomasiak podczas igrzysk 2026?",
+    "answers": [
+      "Jeden",
+      "Dwa",
+      "Trzy",
+      "Cztery"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-016",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Które państwo zdobyło najwięcej medali w skokach narciarskich na igrzyskach 2026?",
+    "answers": [
+      "Słowenia",
+      "Norwegia",
+      "Japonia",
+      "Polska"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-017",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Ekspert",
+    "question": "Ile medali w skokach narciarskich zdobyła reprezentacja Japonii podczas igrzysk 2026?",
+    "answers": [
+      "Dwa",
+      "Trzy",
+      "Cztery",
+      "Pięć"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-SKI-018",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Ekspert",
+    "question": "Ile łącznie medali w skokach narciarskich zdobyła Polska na igrzyskach 2026?",
+    "answers": [
+      "Dwa",
+      "Trzy",
+      "Cztery",
+      "Pięć"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
   }
 ]
