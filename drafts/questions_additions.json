@@ -1022,5 +1022,389 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.tntsports.co.uk/tennis/olympic-games-paris-2024/2024/when-olympic-tennis-finals-medal-matches-singles-doubles-schedule_sto20023230/story.shtml"
+  },
+  {
+    "id": "SPORT-N20261119-065",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobyła Natalia Kaczmarek w olimpijskim finale biegu na 400 m w Paryżu 2024?",
+    "answers": [
+      "Brązowy",
+      "Srebrny",
+      "Złoty",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
+  },
+  {
+    "id": "SPORT-N20261119-066",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Która lekkoatletka wygrała bieg na 400 m kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Salwa Eid Naser",
+      "Marileidy Paulino",
+      "Natalia Kaczmarek",
+      "Shaunae Miller-Uibo"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
+  },
+  {
+    "id": "SPORT-N20261119-067",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Jaki czas uzyskała Marileidy Paulino w zwycięskim finale olimpijskiego biegu na 400 m w 2024 roku?",
+    "answers": [
+      "48,17 s",
+      "48,53 s",
+      "48,98 s",
+      "49,12 s"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
+  },
+  {
+    "id": "SPORT-N20261119-068",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijski finał biegu na 400 m przez płotki mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Karsten Warholm",
+      "Alison dos Santos",
+      "Rai Benjamin",
+      "Abderrahman Samba"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
+  },
+  {
+    "id": "SPORT-N20261119-069",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zajął drugie miejsce w olimpijskim finale biegu na 400 m przez płotki mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Karsten Warholm",
+      "Rai Benjamin",
+      "Alison dos Santos",
+      "Kyron McMaster"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-athletics-7153115/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet"
+  },
+  {
+    "id": "SPORT-N20261119-070",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka zdobyła srebro olimpijskie w biegu na 400 m przez płotki kobiet w Paryżu 2024?",
+    "answers": [
+      "Femke Bol",
+      "Anna Cockrell",
+      "Rushell Clayton",
+      "Jasmine Jones"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxi-olympic-games-7153115/results/women/400-metres-hurdles/final/result"
+  },
+  {
+    "id": "SPORT-N20261119-071",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Ekspert",
+    "question": "Jaki rekord świata ustanowiła Sydney McLaughlin-Levrone w finale 400 m przez płotki w Paryżu 2024?",
+    "answers": [
+      "50,65 s",
+      "50,37 s",
+      "51,46 s",
+      "50,68 s"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxi-olympic-games-7153115/results/women/400-metres-hurdles/final/result"
+  },
+  {
+    "id": "SPORT-N20261119-072",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła brąz na 400 m przez płotki kobiet w Paryżu 2024?",
+    "answers": [
+      "Anna Cockrell",
+      "Rushell Clayton",
+      "Femke Bol",
+      "Jasmine Jones"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxi-olympic-games-7153115/results/women/400-metres-hurdles/final/result"
+  },
+  {
+    "id": "SPORT-N20261119-073",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentantka Francji zdobyła srebro w biegu na 100 m przez płotki w Paryżu 2024?",
+    "answers": [
+      "Cyréna Samba-Mayela",
+      "Nadine Visser",
+      "Jasmine Camacho-Quinn",
+      "Grace Stark"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-7153115/news/article/paris-2024-olympics-report-women-100m-hurdles"
+  },
+  {
+    "id": "SPORT-N20261119-074",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w biegu na 100 m przez płotki kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Jasmine Camacho-Quinn",
+      "Masai Russell",
+      "Cyréna Samba-Mayela",
+      "Nadine Visser"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-7153115/news/article/paris-2024-olympics-report-women-100m-hurdles"
+  },
+  {
+    "id": "SPORT-N20261119-075",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski konkurs rzutu oszczepem kobiet w Paryżu 2024?",
+    "answers": [
+      "Nikola Ogrodníková",
+      "Jo-Ane van Dyk",
+      "Haruka Kitaguchi",
+      "Sara Kolak"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/28th-olympic-games-6913163/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
+  },
+  {
+    "id": "SPORT-N20261119-076",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył złoto olimpijskie w sztafecie 4 × 400 m mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Botswana",
+      "Wielka Brytania",
+      "USA",
+      "Francja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/28th-olympic-games-6913163/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
+  },
+  {
+    "id": "SPORT-N20261119-077",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył srebro w sztafecie 4 × 400 m mężczyzn na igrzyskach Paryż 2024?",
+    "answers": [
+      "Botswana",
+      "USA",
+      "Wielka Brytania",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/28th-olympic-games-6913163/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
+  },
+  {
+    "id": "SPORT-N20261119-078",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski bieg na 800 m mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Marco Arop",
+      "Emmanuel Wanyonyi",
+      "Djamel Sedjati",
+      "Bryce Hoppel"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://worldathletics.org/competitions/olympic-games/28th-olympic-games-6913163/news/article/paris-2024-olympics-evening-day-10-usa-relay-kipyegon-kerr-wanyonyi-kitaguchi"
+  },
+  {
+    "id": "SPORT-N20261119-079",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Łatwy",
+    "question": "Który kraj wygrał olimpijski turniej siatkówki kobiet w Paryżu 2024?",
+    "answers": [
+      "USA",
+      "Brazylia",
+      "Włochy",
+      "Turcja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/what-history-volleyball-game-origin-mintonette-ymca-fivb-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-080",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Z którą reprezentacją Włochy wygrały finał siatkówki kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Brazylia",
+      "USA",
+      "Polska",
+      "Turcja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/what-history-volleyball-game-origin-mintonette-ymca-fivb-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-081",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zdobyła olimpijskie złoto w siatkówce kobiet w Montrealu 1976?",
+    "answers": [
+      "Japonia",
+      "ZSRR",
+      "Kuba",
+      "Chiny"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/what-history-volleyball-game-origin-mintonette-ymca-fivb-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-082",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja wygrała trzy kolejne turnieje olimpijskie siatkówki kobiet w latach 1992–2000?",
+    "answers": [
+      "Brazylia",
+      "Chiny",
+      "Kuba",
+      "USA"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/what-history-volleyball-game-origin-mintonette-ymca-fivb-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-083",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach siatkówka plażowa zadebiutowała w programie olimpijskim?",
+    "answers": [
+      "Barcelona 1992",
+      "Atlanta 1996",
+      "Sydney 2000",
+      "Ateny 2004"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/what-history-volleyball-game-origin-mintonette-ymca-fivb-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-084",
+    "region": "Świat",
+    "sport": "Siatkówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zdobyła złoto olimpijskie w siatkówce kobiet w Seulu 1988?",
+    "answers": [
+      "Japonia",
+      "ZSRR",
+      "Chiny",
+      "Kuba"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/what-history-volleyball-game-origin-mintonette-ymca-fivb-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-085",
+    "region": "Świat",
+    "sport": "Ogólne",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja zdobyła brąz w drużynowym wieloboju gimnastycznym kobiet w Paryżu 2024?",
+    "answers": [
+      "Brazylia",
+      "Włochy",
+      "Francja",
+      "Japonia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/rebeca-andrade-brazil-women-second-olympic-team-bronze-paris-2024-amazing"
+  },
+  {
+    "id": "SPORT-N20261119-086",
+    "region": "Świat",
+    "sport": "Ogólne",
+    "difficulty": "Trudny",
+    "question": "Która gimnastyczka pomogła Brazylii zdobyć pierwszy w historii drużynowy medal olimpijski kobiet w gimnastyce sportowej w 2024 roku?",
+    "answers": [
+      "Flávia Saraiva",
+      "Rebeca Andrade",
+      "Jade Barbosa",
+      "Júlia Soares"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/rebeca-andrade-brazil-women-second-olympic-team-bronze-paris-2024-amazing"
+  },
+  {
+    "id": "SPORT-N20261119-087",
+    "region": "Świat",
+    "sport": "Ogólne",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył swoje pierwsze złoto olimpijskie dzięki Letsile Tebogo na 200 m w Paryżu 2024?",
+    "answers": [
+      "Botswana",
+      "Namibia",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261119-088",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która lekkoatletka wywalczyła pierwsze złoto olimpijskie dla Saint Lucia w Paryżu 2024?",
+    "answers": [
+      "Thea LaFond",
+      "Julien Alfred",
+      "Marileidy Paulino",
+      "Shelly-Ann Fraser-Pryce"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
   }
 ]
