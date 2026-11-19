@@ -8238,5 +8238,389 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-REC-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym mieście Wilt Chamberlain zdobył rekordowe 100 punktów w meczu NBA w 1962 roku?",
+    "answers": [
+      "Hershey",
+      "Filadelfia",
+      "Nowy Jork",
+      "Boston"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Przeciwko której drużynie Wilt Chamberlain zdobył 100 punktów 2 marca 1962 roku?",
+    "answers": [
+      "Boston Celtics",
+      "New York Knicks",
+      "Los Angeles Lakers",
+      "Syracuse Nationals"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Ile celnych rzutów wolnych zanotował Wilt Chamberlain podczas meczu na 100 punktów?",
+    "answers": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów Kobe Bryant zdobył przeciw Toronto Raptors 22 stycznia 2006 roku?",
+    "answers": [
+      "71",
+      "73",
+      "78",
+      "81"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Miami Heat zdobył 83 punkty przeciw Washington Wizards w marcu 2026 roku?",
+    "answers": [
+      "Bam Adebayo",
+      "Jimmy Butler",
+      "Tyler Herro",
+      "Dwyane Wade"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Przeciw której drużynie Luka Dončić zdobył 73 punkty w styczniu 2024 roku?",
+    "answers": [
+      "Boston Celtics",
+      "Atlanta Hawks",
+      "Phoenix Suns",
+      "New York Knicks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Ile punktów zdobył Joel Embiid przeciw San Antonio Spurs 22 stycznia 2024 roku?",
+    "answers": [
+      "61",
+      "65",
+      "70",
+      "73"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik zdobył 70 punktów w meczu Phoenix Suns z Boston Celtics w marcu 2017 roku?",
+    "answers": [
+      "Chris Paul",
+      "Kevin Durant",
+      "Deandre Ayton",
+      "Devin Booker"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył 63 punkty przeciw Boston Celtics w meczu play-off NBA w 1986 roku?",
+    "answers": [
+      "Michael Jordan",
+      "Larry Bird",
+      "Dominique Wilkins",
+      "Isiah Thomas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik Lakers zdobył 61 punktów przeciw Celtics w piątym meczu finałów NBA 1962?",
+    "answers": [
+      "Jerry West",
+      "Elgin Baylor",
+      "Gail Goodrich",
+      "Wilt Chamberlain"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile zbiórek miał Wilt Chamberlain w rekordowym meczu z Boston Celtics w listopadzie 1960 roku?",
+    "answers": [
+      "45",
+      "51",
+      "55",
+      "60"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz Boston Celtics zanotował 51 zbiórek w meczu przeciw Syracuse Nationals w 1960 roku?",
+    "answers": [
+      "Bob Cousy",
+      "Tom Heinsohn",
+      "Sam Jones",
+      "Bill Russell"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zebrał 37 piłek w jednym meczu NBA w 1979 roku, ustanawiając najwyższy wynik po połączeniu lig NBA i ABA?",
+    "answers": [
+      "Moses Malone",
+      "Dennis Rodman",
+      "Charles Oakley",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik Chicago Bulls zanotował 35 zbiórek przeciw Cleveland Cavaliers w 1988 roku?",
+    "answers": [
+      "Dennis Rodman",
+      "Charles Oakley",
+      "Horace Grant",
+      "Bill Cartwright"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zebrał 41 piłek w meczu play-off przeciw Celtics 5 kwietnia 1967 roku?",
+    "answers": [
+      "Bill Russell",
+      "Nate Thurmond",
+      "Wilt Chamberlain",
+      "Jerry Lucas"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile asyst zanotował Scott Skiles w rekordowym meczu Orlando Magic z Denver Nuggets w 1990 roku?",
+    "answers": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-assists-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Przeciwko jakiej drużynie Scott Skiles ustanowił rekord 30 asyst w grudniu 1990 roku?",
+    "answers": [
+      "Denver Nuggets",
+      "Utah Jazz",
+      "Los Angeles Clippers",
+      "Golden State Warriors"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-assists-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był poprzednim rekordzistą NBA z 29 asystami w jednym meczu, zanim rekord pobił Scott Skiles?",
+    "answers": [
+      "John Stockton",
+      "Kevin Porter",
+      "Magic Johnson",
+      "Isiah Thomas"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-assists-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile punktów zdobył Klay Thompson w jednej kwarcie przeciw Sacramento Kings w styczniu 2015 roku?",
+    "answers": [
+      "29",
+      "33",
+      "37",
+      "40"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn.nba.com/manage/2026/10/2026-27-NBA-Guide_v2.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-REC-020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który gracz Cavaliers zdobył 34 punkty w pierwszej kwarcie meczu z Portland Trail Blazers w 2016 roku?",
+    "answers": [
+      "Kyrie Irving",
+      "LeBron James",
+      "J.R. Smith",
+      "Kevin Love"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn.nba.com/manage/2026/10/2026-27-NBA-Guide_v2.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-REC-021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto jako pierwszy w historii NBA przekroczył 181 triple-double w sezonie zasadniczym, bijąc rekord Oscara Robertsona?",
+    "answers": [
+      "Russell Westbrook",
+      "Nikola Jokić",
+      "LeBron James",
+      "Jason Kidd"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-REC-022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym roku Russell Westbrook pobił rekord Oscara Robertsona w liczbie triple-double w karierze NBA?",
+    "answers": [
+      "2017",
+      "2021",
+      "2023",
+      "2025"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-REC-023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik miał 181 triple-double w karierze, zanim jego rekord pobił Russell Westbrook?",
+    "answers": [
+      "Magic Johnson",
+      "Jason Kidd",
+      "Oscar Robertson",
+      "Larry Bird"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-REC-024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile triple-double w karierze NBA zanotował Magic Johnson według historycznego zestawienia NBA?",
+    "answers": [
+      "107",
+      "120",
+      "131",
+      "138"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
   }
 ]
