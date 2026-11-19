@@ -2110,5 +2110,389 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nbcolympics.com/news/japans-takanori-nagase-slovenias-andreja-leski-win-judo-gold-medals-paris-olympics"
+  },
+  {
+    "id": "SPORT-N20261119-133",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył złoto w skateboardingu street mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Yuto Horigome",
+      "Jagger Eaton",
+      "Nyjah Huston",
+      "Keegan Palmer"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-134",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Kto był wicemistrzem olimpijskim w skateboardingu street mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Nyjah Huston",
+      "Jagger Eaton",
+      "Tom Schaar",
+      "Augusto Akio"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-135",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Kto wywalczył brąz w skateboardingu street mężczyzn na igrzyskach w 2024 roku?",
+    "answers": [
+      "Tom Schaar",
+      "Yuto Horigome",
+      "Nyjah Huston",
+      "Pedro Barros"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-136",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Która zawodniczka wygrała olimpijską konkurencję skateboardingu street kobiet w Paryżu 2024?",
+    "answers": [
+      "Sky Brown",
+      "Rayssa Leal",
+      "Liz Akama",
+      "Coco Yoshizawa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-137",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Która reprezentantka Japonii zdobyła srebro w street kobiet podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Liz Akama",
+      "Cocona Hiraki",
+      "Sakura Yosozumi",
+      "Coco Yoshizawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-138",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Która Brazylijka zdobyła brąz w skateboardingu street kobiet w Paryżu 2024?",
+    "answers": [
+      "Leticia Bufoni",
+      "Rayssa Leal",
+      "Pâmela Rosa",
+      "Coco Yoshizawa"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-139",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Która Australijka zdobyła złoto w skateboardingu park kobiet w Paryżu 2024?",
+    "answers": [
+      "Sky Brown",
+      "Cocona Hiraki",
+      "Arisa Trew",
+      "Liz Akama"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-140",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zajęła drugie miejsce w skateboardingu park kobiet w Paryżu 2024?",
+    "answers": [
+      "Sky Brown",
+      "Arisa Trew",
+      "Rayssa Leal",
+      "Cocona Hiraki"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-141",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijski konkurs skateboardingu park mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Keegan Palmer",
+      "Tom Schaar",
+      "Augusto Akio",
+      "Jagger Eaton"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-142",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brązowy medal w skateboardingu park mężczyzn na igrzyskach Paryż 2024?",
+    "answers": [
+      "Pedro Barros",
+      "Augusto Akio",
+      "Tom Schaar",
+      "Tate Carew"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-skateboarding-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-143",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Która Polka wywalczyła srebro w slalomie kajakowym K-1 na igrzyskach Paryż 2024?",
+    "answers": [
+      "Natalia Pacierpnik",
+      "Marta Walczykiewicz",
+      "Klaudia Zwolińska",
+      "Dorota Borowska"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-144",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Która Australijka zdobyła złoto w slalomie kajakowym K-1 kobiet w Paryżu 2024?",
+    "answers": [
+      "Noemie Fox",
+      "Kimberley Woods",
+      "Evy Leibfarth",
+      "Jessica Fox"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-145",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w slalomie kanadyjkowym C-1 mężczyzn na igrzyskach Paryż 2024?",
+    "answers": [
+      "Nicolas Gestin",
+      "Adam Burgess",
+      "Matej Beňuš",
+      "Giovanni De Gennaro"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-146",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Który Włoch wygrał olimpijski slalom kajakowy K-1 mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Pau Echaniz",
+      "Giovanni De Gennaro",
+      "Titouan Castryck",
+      "Nicolas Gestin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-147",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał pierwszy olimpijski finał kayak cross mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Joe Clarke",
+      "Noah Hegge",
+      "Finn Butcher",
+      "Giovanni De Gennaro"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-148",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro w olimpijskim kayak cross mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Finn Butcher",
+      "Noah Hegge",
+      "Titouan Castryck",
+      "Joe Clarke"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-canoeing-paris-2024-fox-sisters-sweep-slalom-carrington-makes-sprint-history"
+  },
+  {
+    "id": "SPORT-N20261119-149",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Z jakiego kraju pochodzi Lisa Carrington, wielokrotna mistrzyni olimpijska w kajakarstwie?",
+    "answers": [
+      "Nowa Zelandia",
+      "Australia",
+      "Kanada",
+      "Wielka Brytania"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.bbc.co.uk/sport/olympics/articles/c62r4z8p2zpo"
+  },
+  {
+    "id": "SPORT-N20261119-150",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Z kim Lisa Carrington zdobyła złoto w olimpijskim K-2 na 500 m kobiet w Paryżu 2024?",
+    "answers": [
+      "Tamara Csipes",
+      "Alicia Hoskin",
+      "Alida Gazso",
+      "Jule Hake"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.bbc.co.uk/sport/olympics/articles/c62r4z8p2zpo"
+  },
+  {
+    "id": "SPORT-N20261119-151",
+    "region": "Świat",
+    "sport": "Kajakarstwo",
+    "difficulty": "Trudny",
+    "question": "Który Czech wygrał olimpijskie C-1 na 1000 m w kajakarstwie sprinterskim w Paryżu 2024?",
+    "answers": [
+      "Josef Dostál",
+      "Jiří Prskavec",
+      "Martin Fuksa",
+      "Lukáš Rohan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.bbc.co.uk/sport/olympics/articles/c62r4z8p2zpo"
+  },
+  {
+    "id": "SPORT-N20261119-152",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła pierwsze w historii złoto olimpijskie w breakingu kobiet w Paryżu 2024?",
+    "answers": [
+      "B-Girl Nicka",
+      "B-Girl 671",
+      "B-Girl India",
+      "B-Girl Ami"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/breaking-japans-ami-yuasa-wins-first-ever-breaking-gold-paris-games-2024-08-09/"
+  },
+  {
+    "id": "SPORT-N20261119-153",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Z jakiego kraju pochodzi B-Girl Nicka, srebrna medalistka olimpijska z Paryża 2024?",
+    "answers": [
+      "Litwa",
+      "Japonia",
+      "Chiny",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/breaking-japans-ami-yuasa-wins-first-ever-breaking-gold-paris-games-2024-08-09/"
+  },
+  {
+    "id": "SPORT-N20261119-154",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Pod jakim pseudonimem występował zwycięzca olimpijskiego breakingu mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Dany Dann",
+      "Phil Wizard",
+      "Shigekix",
+      "Victor"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.lemonde.fr/en/sports/article/2024/08/10/canadian-b-boy-phil-wizard-wins-gold-in-paris-olympics-breaking-final_6712348_9.html"
+  },
+  {
+    "id": "SPORT-N20261119-155",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył srebro w breakingu mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Shigekix",
+      "Victor Montalvo",
+      "Dany Dann",
+      "Phil Wizard"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.lemonde.fr/en/sports/article/2024/08/10/canadian-b-boy-phil-wizard-wins-gold-in-paris-olympics-breaking-final_6712348_9.html"
+  },
+  {
+    "id": "SPORT-N20261119-156",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w breakingu mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Dany Dann",
+      "Shigekix",
+      "Phil Wizard",
+      "Victor Montalvo"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.lemonde.fr/en/sports/article/2024/08/10/canadian-b-boy-phil-wizard-wins-gold-in-paris-olympics-breaking-final_6712348_9.html"
   }
 ]
