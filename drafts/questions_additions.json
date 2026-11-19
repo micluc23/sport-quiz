@@ -5076,7 +5076,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w wyścigu szosowego kobiet paryż 2024?",
+    "question": "Kto wygrał olimpijski wyścig szosowy kobiet w Paryżu 2024?",
     "answers": [
       "Kristen Faulkner",
       "Marianne Vos",
@@ -5092,7 +5092,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w jazdy na czas kobiet paryż 2024?",
+    "question": "Kto zdobył złoto w jeździe indywidualnej na czas kobiet w Paryżu 2024?",
     "answers": [
       "Chloe Dygert",
       "Grace Brown",
@@ -5108,7 +5108,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył srebrny medal w wyścigu szosowego mężczyzn paryż 2024?",
+    "question": "Kto zdobył srebro w olimpijskim wyścigu szosowym mężczyzn w Paryżu 2024?",
     "answers": [
       "Christophe Laporte",
       "Wout van Aert",
@@ -5124,7 +5124,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył brązowy medal w jazdy na czas mężczyzn paryż 2024?",
+    "question": "Kto zdobył brąz w jeździe indywidualnej na czas mężczyzn w Paryżu 2024?",
     "answers": [
       "Wout van Aert",
       "Filippo Ganna",
@@ -5172,7 +5172,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył brązowy medal w omnium kobiet paryż 2024?",
+    "question": "Kto zdobył brąz w omnium kobiet na igrzyskach Paryż 2024?",
     "answers": [
       "Georgia Baker",
       "Ally Wollaston",
@@ -5188,7 +5188,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w keirinu kobiet paryż 2024?",
+    "question": "Kto zdobył złoto w keirinie kobiet na igrzyskach Paryż 2024?",
     "answers": [
       "Lea Friedrich",
       "Emma Finucane",
@@ -5204,7 +5204,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył srebrny medal w keirinu kobiet paryż 2024?",
+    "question": "Kto zdobył srebro w keirinie kobiet na igrzyskach Paryż 2024?",
     "answers": [
       "Hetty van de Wouw",
       "Ellesse Andrews",
@@ -5220,7 +5220,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w omnium mężczyzn paryż 2024?",
+    "question": "Kto wygrał omnium mężczyzn na igrzyskach Paryż 2024?",
     "answers": [
       "Iúri Leitão",
       "Benjamin Thomas",
@@ -5236,7 +5236,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył srebrny medal w omnium mężczyzn paryż 2024?",
+    "question": "Kto zdobył srebro w omnium mężczyzn na igrzyskach Paryż 2024?",
     "answers": [
       "Fabio van den Bossche",
       "Benjamin Thomas",
@@ -5268,7 +5268,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w sprintu kobiet paryż 2024?",
+    "question": "Kto wygrał sprint kobiet w kolarstwie torowym na igrzyskach Paryż 2024?",
     "answers": [
       "Emma Finucane",
       "Lea Friedrich",
@@ -5284,7 +5284,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył srebrny medal w sprintu kobiet paryż 2024?",
+    "question": "Kto zdobył srebro w sprincie kobiet na torze w Paryżu 2024?",
     "answers": [
       "Lea Friedrich",
       "Emma Finucane",
@@ -5300,7 +5300,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w keirinu mężczyzn paryż 2024?",
+    "question": "Kto zdobył złoto w keirinie mężczyzn na igrzyskach Paryż 2024?",
     "answers": [
       "Matthew Richardson",
       "Harrie Lavreysen",
@@ -5316,7 +5316,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Ile złotych medali zdobył Harrie Lavreysen na igrzyskach na igrzyskach Paryż 2024?",
+    "question": "Ile złotych medali zdobył Harrie Lavreysen na igrzyskach Paryż 2024?",
     "answers": [
       "Jeden",
       "Dwa",
@@ -5332,7 +5332,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył złoty medal w bmx freestyle park mężczyzn paryż 2024?",
+    "question": "Kto wygrał BMX freestyle park mężczyzn na igrzyskach Paryż 2024?",
     "answers": [
       "Kieran Reilly",
       "Anthony Jeanjean",
@@ -5348,7 +5348,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył złoty medal w bmx freestyle park kobiet paryż 2024?",
+    "question": "Kto wygrał BMX freestyle park kobiet na igrzyskach Paryż 2024?",
     "answers": [
       "Perris Benegas",
       "Deng Yawen",
@@ -5364,7 +5364,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Który kraj zdobył wszystkie trzy medale w BMX racing mężczyzn na igrzyskach na igrzyskach Paryż 2024?",
+    "question": "Który kraj zdobył wszystkie trzy medale w BMX racing mężczyzn na igrzyskach Paryż 2024?",
     "answers": [
       "Australia",
       "Holandia",
@@ -5380,7 +5380,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył złoty medal w bmx racing kobiet paryż 2024?",
+    "question": "Kto zdobył złoto w BMX racing kobiet na igrzyskach Paryż 2024?",
     "answers": [
       "Saya Sakakibara",
       "Manon Veenstra",
@@ -5396,7 +5396,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w mtb cross-country kobiet paryż 2024?",
+    "question": "Kto wygrał olimpijski wyścig MTB cross-country kobiet w Paryżu 2024?",
     "answers": [
       "Haley Batten",
       "Pauline Ferrand-Prévot",
@@ -5412,7 +5412,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Normalny",
-    "question": "Kto zdobył złoty medal w mtb cross-country mężczyzn paryż 2024?",
+    "question": "Kto wygrał olimpijski wyścig MTB cross-country mężczyzn w Paryżu 2024?",
     "answers": [
       "Victor Koretzky",
       "Alan Hatherly",
@@ -5428,7 +5428,7 @@
     "region": "Świat",
     "sport": "Kolarstwo",
     "difficulty": "Trudny",
-    "question": "Kto zdobył brązowy medal w mtb cross-country mężczyzn paryż 2024?",
+    "question": "Kto zdobył brąz w MTB cross-country mężczyzn na igrzyskach Paryż 2024?",
     "answers": [
       "Alan Hatherly",
       "Victor Koretzky",
