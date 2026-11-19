@@ -590,5 +590,437 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.bbc.co.uk/sport/olympics/articles/ced3dkx7gnko"
+  },
+  {
+    "id": "SPORT-N20261119-C001",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi Remco Evenepoel, dwukrotny złoty medalista igrzysk Paryż 2024?",
+    "answers": [
+      "Belgia",
+      "Holandia",
+      "Francja",
+      "Włochy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-evenepoels-extraordinary-double-triumph/7bTX17xnKnj82dlu6ie2lg"
+  },
+  {
+    "id": "SPORT-N20261119-C002",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Które dwie konkurencje szosowe wygrał Remco Evenepoel w Paryżu 2024?",
+    "answers": [
+      "Wyścig ze startu wspólnego i jazdę indywidualną na czas",
+      "Wyścig ze startu wspólnego i keirin",
+      "Jazdę drużynową na czas i sprint",
+      "Omnium i wyścig punktowy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-evenepoels-extraordinary-double-triumph/7bTX17xnKnj82dlu6ie2lg"
+  },
+  {
+    "id": "SPORT-N20261119-C003",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto wywalczył srebro w olimpijskim wyścigu szosowym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Valentin Madouas",
+      "Christophe Laporte",
+      "Wout van Aert",
+      "Filippo Ganna"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-evenepoels-extraordinary-double-triumph/7bTX17xnKnj82dlu6ie2lg"
+  },
+  {
+    "id": "SPORT-N20261119-C004",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w wyścigu szosowym mężczyzn podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Christophe Laporte",
+      "Valentin Madouas",
+      "Mathieu van der Poel",
+      "Ben Healy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-evenepoels-extraordinary-double-triumph/7bTX17xnKnj82dlu6ie2lg"
+  },
+  {
+    "id": "SPORT-N20261119-C005",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile medali zdobyli francuscy kolarze w wyścigu szosowym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Dwa",
+      "Jeden",
+      "Trzy",
+      "Żadnego"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.uci.org/article/olympic-games-paris-2024-evenepoels-extraordinary-double-triumph/7bTX17xnKnj82dlu6ie2lg"
+  },
+  {
+    "id": "SPORT-N20261119-C006",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka wygrała kobiecy wyścig szosowy ze startu wspólnego w Paryżu 2024?",
+    "answers": [
+      "Kristen Faulkner",
+      "Marianne Vos",
+      "Lotte Kopecky",
+      "Grace Brown"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C007",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro w kobiecym wyścigu szosowym ze startu wspólnego w Paryżu 2024?",
+    "answers": [
+      "Marianne Vos",
+      "Kristen Faulkner",
+      "Anna Henderson",
+      "Chloé Dygert"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C008",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w kobiecym wyścigu szosowym ze startu wspólnego w Paryżu 2024?",
+    "answers": [
+      "Lotte Kopecky",
+      "Marianne Vos",
+      "Kristen Faulkner",
+      "Grace Brown"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C009",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w kobiecej jeździe indywidualnej na czas w Paryżu 2024?",
+    "answers": [
+      "Grace Brown",
+      "Anna Henderson",
+      "Chloé Dygert",
+      "Kristen Faulkner"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C010",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro w męskiej jeździe indywidualnej na czas w Paryżu 2024?",
+    "answers": [
+      "Filippo Ganna",
+      "Wout van Aert",
+      "Valentin Madouas",
+      "Christophe Laporte"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C011",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w męskiej jeździe indywidualnej na czas w Paryżu 2024?",
+    "answers": [
+      "Wout van Aert",
+      "Filippo Ganna",
+      "Mathieu van der Poel",
+      "Valentin Madouas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C012",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Normalny",
+    "question": "Który holenderski kolarz zdobył trzy złote medale w konkurencjach sprintowych na igrzyskach Paryż 2024?",
+    "answers": [
+      "Harrie Lavreysen",
+      "Mathieu van der Poel",
+      "Jeffrey Hoogland",
+      "Dylan Groenewegen"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C013",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Ekspert",
+    "question": "Który kraj zajął całe podium w olimpijskim BMX racing mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Francja",
+      "Holandia",
+      "Australia",
+      "Wielka Brytania"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C014",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski BMX freestyle kobiet w Paryżu 2024?",
+    "answers": [
+      "Deng Yawen",
+      "Perris Benegas",
+      "Natalya Diehm",
+      "Hannah Roberts"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C015",
+    "region": "Świat",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski BMX freestyle mężczyzn w Paryżu 2024?",
+    "answers": [
+      "José Augusto Torres",
+      "Kieran Reilly",
+      "Anthony Jeanjean",
+      "Joris Daudet"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-cycling-paris-2024-biggest-stories-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-C016",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Kogo pokonał Novak Djoković w finale olimpijskiego singla mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Carlosa Alcaraza",
+      "Lorenza Musettiego",
+      "Rafaela Nadala",
+      "Alexandra Zvereva"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/2024-olympic-tennis-mens-singles-final-result-highlights-novak-djokovics-gold-medal-match"
+  },
+  {
+    "id": "SPORT-N20261119-C017",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Ile setów stracił Novak Djoković w turnieju singlowym na igrzyskach Paryż 2024?",
+    "answers": [
+      "Zero",
+      "Jeden",
+      "Dwa",
+      "Trzy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/2024-olympic-tennis-mens-singles-final-result-highlights-novak-djokovics-gold-medal-match"
+  },
+  {
+    "id": "SPORT-N20261119-C018",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Jaki był wynik setów finału singla mężczyzn Djoković–Alcaraz w Paryżu 2024?",
+    "answers": [
+      "7:6, 7:6",
+      "6:4, 6:4",
+      "6:7, 7:6, 6:3",
+      "7:5, 6:3"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/2024-olympic-tennis-mens-singles-final-result-highlights-novak-djokovics-gold-medal-match"
+  },
+  {
+    "id": "SPORT-N20261119-C019",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w singlu kobiet podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Zheng Qinwen",
+      "Donna Vekić",
+      "Iga Świątek",
+      "Coco Gauff"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.tntsports.co.uk/tennis/olympic-games-paris-2024/2024/when-olympic-tennis-finals-medal-matches-singles-doubles-schedule_sto20023230/story.shtml"
+  },
+  {
+    "id": "SPORT-N20261119-C020",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył srebro w olimpijskim singlu kobiet w Paryżu 2024?",
+    "answers": [
+      "Donna Vekić",
+      "Zheng Qinwen",
+      "Iga Świątek",
+      "Jasmine Paolini"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.tntsports.co.uk/tennis/olympic-games-paris-2024/2024/when-olympic-tennis-finals-medal-matches-singles-doubles-schedule_sto20023230/story.shtml"
+  },
+  {
+    "id": "SPORT-N20261119-C021",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Normalny",
+    "question": "Jaki medal w singlu kobiet zdobyła Iga Świątek na igrzyskach Paryż 2024?",
+    "answers": [
+      "Brązowy",
+      "Złoty",
+      "Srebrny",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.tntsports.co.uk/tennis/olympic-games-paris-2024/2024/when-olympic-tennis-finals-medal-matches-singles-doubles-schedule_sto20023230/story.shtml"
+  },
+  {
+    "id": "SPORT-N20261119-C022",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Która para wygrała olimpijski debel kobiet w Paryżu 2024?",
+    "answers": [
+      "Sara Errani i Jasmine Paolini",
+      "Mirra Andriejewa i Diana Sznajder",
+      "Cristina Bucșa i Sara Sorribes Tormo",
+      "Linda Nosková i Karolína Muchová"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-tennis-recap-aug-4-djokovic-completes-golden-slam"
+  },
+  {
+    "id": "SPORT-N20261119-C023",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Którą parę pokonały Sara Errani i Jasmine Paolini w finale debla kobiet w Paryżu 2024?",
+    "answers": [
+      "Mirrę Andriejewą i Dianę Sznajder",
+      "Cristinę Bucșę i Sarę Sorribes Tormo",
+      "Lindę Noskovą i Karolínę Muchovą",
+      "Barborę Krejčíkovą i Kateřinę Siniakovą"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-tennis-recap-aug-4-djokovic-completes-golden-slam"
+  },
+  {
+    "id": "SPORT-N20261119-C024",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w singlu mężczyzn podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Lorenzo Musetti",
+      "Félix Auger-Aliassime",
+      "Carlos Alcaraz",
+      "Taylor Fritz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-tennis-recap-aug-4-djokovic-completes-golden-slam"
+  },
+  {
+    "id": "SPORT-N20261119-C025",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Ekspert",
+    "question": "Która reprezentacja zdobyła pierwszy w historii złoty medal olimpijski w tenisie dzięki deblowi kobiet w Paryżu 2024?",
+    "answers": [
+      "Włochy",
+      "Czechy",
+      "Chorwacja",
+      "Kanada"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-tennis-recap-aug-4-djokovic-completes-golden-slam"
+  },
+  {
+    "id": "SPORT-N20261119-C026",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Która para wygrała olimpijski debel mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Matthew Ebden i John Peers",
+      "Austin Krajicek i Rajeev Ram",
+      "Tomáš Macháč i Adam Pavlásek",
+      "Carlos Alcaraz i Rafael Nadal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.tntsports.co.uk/tennis/olympic-games-paris-2024/2024/when-olympic-tennis-finals-medal-matches-singles-doubles-schedule_sto20023230/story.shtml"
+  },
+  {
+    "id": "SPORT-N20261119-C027",
+    "region": "Świat",
+    "sport": "Tenis",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski mikst w Paryżu 2024?",
+    "answers": [
+      "Kateřina Siniaková i Tomáš Macháč",
+      "Sara Errani i Andrea Vavassori",
+      "Iga Świątek i Hubert Hurkacz",
+      "Jasmine Paolini i Lorenzo Musetti"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.tntsports.co.uk/tennis/olympic-games-paris-2024/2024/when-olympic-tennis-finals-medal-matches-singles-doubles-schedule_sto20023230/story.shtml"
   }
 ]
