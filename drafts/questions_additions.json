@@ -6222,5 +6222,357 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.olympics.com/ioc/news/shcherbakova-trusova-sakamoto--figure-skating-beijing-olympics-2022"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-001",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w biegu mężczyzn na 500 m w łyżwiarstwie szybkim podczas igrzysk Pekin 2022?",
+    "answers": [
+      "Gao Tingyu",
+      "Cha Min-kyu",
+      "Wataru Morishige",
+      "Thomas Krol"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-002",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył srebro na 500 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Gao Tingyu",
+      "Cha Min-kyu",
+      "Laurent Dubreuil",
+      "Kjeld Nuis"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-003",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz na 500 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Håvard Lorentzen",
+      "Cha Min-kyu",
+      "Wataru Morishige",
+      "Patrick Roest"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-004",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto został mistrzem olimpijskim na 1000 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Kjeld Nuis",
+      "Laurent Dubreuil",
+      "Nils van der Poel",
+      "Thomas Krol"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-005",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który łyżwiarz zdobył srebro na 1000 m mężczyzn w Pekinie 2022?",
+    "answers": [
+      "Laurent Dubreuil",
+      "Thomas Krol",
+      "Håvard Lorentzen",
+      "Gao Tingyu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-006",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył brąz na 1000 m mężczyzn w Pekinie 2022?",
+    "answers": [
+      "Laurent Dubreuil",
+      "Håvard Lorentzen",
+      "Kjeld Nuis",
+      "Wataru Morishige"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-007",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto wygrał bieg na 1500 m mężczyzn w łyżwiarstwie szybkim na igrzyskach Pekin 2022?",
+    "answers": [
+      "Thomas Krol",
+      "Kim Min-seok",
+      "Kjeld Nuis",
+      "Patrick Roest"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-008",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył srebro na 1500 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Kjeld Nuis",
+      "Kim Min-seok",
+      "Gao Tingyu",
+      "Thomas Krol"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-009",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto był brązowym medalistą biegu na 1500 m mężczyzn w Pekinie 2022?",
+    "answers": [
+      "Kim Min-seok",
+      "Kjeld Nuis",
+      "Patrick Roest",
+      "Laurent Dubreuil"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-010",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył złoto na 5000 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Patrick Roest",
+      "Nils van der Poel",
+      "Hallgeir Engebråten",
+      "Davide Ghiotto"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-011",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik zdobył srebro na 5000 m mężczyzn w Pekinie 2022?",
+    "answers": [
+      "Nils van der Poel",
+      "Hallgeir Engebråten",
+      "Patrick Roest",
+      "Kjeld Nuis"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-012",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz na 5000 m mężczyzn w Pekinie 2022?",
+    "answers": [
+      "Patrick Roest",
+      "Davide Ghiotto",
+      "Thomas Krol",
+      "Hallgeir Engebråten"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-013",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył złoto na 10000 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Nils van der Poel",
+      "Patrick Roest",
+      "Davide Ghiotto",
+      "Kjeld Nuis"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-014",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro na 10000 m mężczyzn w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Nils van der Poel",
+      "Patrick Roest",
+      "Davide Ghiotto",
+      "Hallgeir Engebråten"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-015",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz na 10000 m mężczyzn w Pekinie 2022?",
+    "answers": [
+      "Patrick Roest",
+      "Nils van der Poel",
+      "Davide Ghiotto",
+      "Thomas Krol"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-016",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka wygrała bieg na 500 m kobiet w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Miho Takagi",
+      "Angelina Golikowa",
+      "Ireen Wüst",
+      "Erin Jackson"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-017",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro na 500 m kobiet w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Miho Takagi",
+      "Erin Jackson",
+      "Angelina Golikowa",
+      "Jutta Leerdam"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-018",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka wygrała 1000 m kobiet w łyżwiarstwie szybkim na igrzyskach Pekin 2022?",
+    "answers": [
+      "Jutta Leerdam",
+      "Miho Takagi",
+      "Brittany Bowe",
+      "Erin Jackson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-019",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył srebro na 1000 m kobiet w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Miho Takagi",
+      "Brittany Bowe",
+      "Jutta Leerdam",
+      "Ireen Wüst"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-020",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka wygrała bieg na 1500 m kobiet w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Miho Takagi",
+      "Irene Schouten",
+      "Antoinette de Jong",
+      "Ireen Wüst"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-021",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto na 3000 m kobiet w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Irene Schouten",
+      "Francesca Lollobrigida",
+      "Isabelle Weidemann",
+      "Martina Sáblíková"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-SSK-022",
+    "region": "Świat",
+    "sport": "Sporty zimowe",
+    "difficulty": "Ekspert",
+    "question": "Która reprezentacja zdobyła złoto w drużynowym wyścigu na dochodzenie kobiet w łyżwiarstwie szybkim w Pekinie 2022?",
+    "answers": [
+      "Japonia",
+      "Kanada",
+      "Holandia",
+      "Norwegia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympedia.org/editions/62/sports/SSK"
   }
 ]
