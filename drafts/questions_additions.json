@@ -1758,5 +1758,357 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://thephryge.com/paris-2024-results/sports/badminton"
+  },
+  {
+    "id": "SPORT-N20261119-111",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal w jedynce mężczyzn podczas igrzysk w Paryżu w 2024 roku?",
+    "answers": [
+      "Oliver Zeidler",
+      "Simon van Dorp",
+      "Yauheni Zalaty",
+      "Martin Sinković"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-112",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył złoto w dwójce podwójnej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Holandia",
+      "Irlandia",
+      "Rumunia",
+      "Włochy"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-113",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Z jakiego kraju pochodzili zwycięzcy dwójki bez sternika mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Chorwacja",
+      "Wielka Brytania",
+      "Szwajcaria",
+      "Australia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-114",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Jakie państwo wygrało olimpijski finał czwórki bez sternika mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Nowa Zelandia",
+      "USA",
+      "Wielka Brytania",
+      "Rumunia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-115",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja zdobyła złoto w ósemce mężczyzn w Paryżu 2024?",
+    "answers": [
+      "USA",
+      "Holandia",
+      "Wielka Brytania",
+      "Niemcy"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-116",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zwyciężyła w ósemce kobiet podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Kanada",
+      "Rumunia",
+      "Wielka Brytania",
+      "Holandia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-117",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaką przewagą czasową Holenderki wygrały finał czwórki bez sterniczki z Brytyjkami w Paryżu 2024?",
+    "answers": [
+      "0,18 s",
+      "0,85 s",
+      "1,20 s",
+      "2,18 s"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-118",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj wywalczył złoto w czwórce podwójnej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Włochy",
+      "Polska",
+      "Holandia",
+      "Niemcy"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-119",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobyła polska czwórka podwójna mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-120",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Który irlandzki duet zwyciężył w olimpijskiej dwójce podwójnej wagi lekkiej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Paul O’Donovan i Fintan McCarthy",
+      "Daire Lynch i Philip Doyle",
+      "Martin i Valent Sinković",
+      "Stef Broenink i Melvin Twellaar"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rowing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-121",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto został mistrzem olimpijskim we wspinaczce na czas mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Sam Watson",
+      "Wu Peng",
+      "Veddriq Leonardo",
+      "Toby Roberts"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-122",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Jakie państwo reprezentował mistrz olimpijski w kombinacji bouldering i prowadzenie mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Japonia",
+      "Wielka Brytania",
+      "Austria",
+      "USA"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-123",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła złoto w kombinacji bouldering i prowadzenie kobiet w Paryżu 2024?",
+    "answers": [
+      "Brooke Raboutou",
+      "Jessica Pilz",
+      "Janja Garnbret",
+      "Natalia Grossman"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-124",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro w kombinacji bouldering i prowadzenie mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Jakob Schubert",
+      "Sorato Anraku",
+      "Colin Duffy",
+      "Hamish McArthur"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-125",
+    "region": "Polska",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Która Polka zdobyła brązowy medal we wspinaczce na czas na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Natalia Kałucka",
+      "Aleksandra Mirosław",
+      "Aleksandra Kałucka",
+      "Anna Brożek"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-126",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto został wicemistrzem olimpijskim we wspinaczce na czas mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Wu Peng",
+      "Sam Watson",
+      "Reza Alipour",
+      "Veddriq Leonardo"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-127",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka zdobyła srebro w kombinacji bouldering i prowadzenie kobiet w Paryżu 2024?",
+    "answers": [
+      "Jessica Pilz",
+      "Janja Garnbret",
+      "Brooke Raboutou",
+      "Emma Hunt"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "SPORT-N20261119-128",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijską kategorię judo kobiet do 48 kg w Paryżu 2024?",
+    "answers": [
+      "Shirine Boukli",
+      "Natsumi Tsunoda",
+      "Baasankhuu Bavuudorj",
+      "Tara Babulfath"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/japans-natsumi-tsunoda-kazakhstans-yeldos-smetov-win-judo-gold"
+  },
+  {
+    "id": "SPORT-N20261119-129",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Jakie państwo reprezentował mistrz olimpijski judo mężczyzn do 60 kg w Paryżu 2024?",
+    "answers": [
+      "Francja",
+      "Japonia",
+      "Kazachstan",
+      "Hiszpania"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/japans-natsumi-tsunoda-kazakhstans-yeldos-smetov-win-judo-gold"
+  },
+  {
+    "id": "SPORT-N20261119-130",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto olimpijskie w judo mężczyzn powyżej 100 kg w Paryżu 2024?",
+    "answers": [
+      "Kim Min-jong",
+      "Teddy Riner",
+      "Tatsuru Saito",
+      "Luka Mkheidze"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-131",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Który kraj pokonała Francja w finale drużyn mieszanych w judo podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Brazylia",
+      "Korea Południowa",
+      "Japonia",
+      "Gruzja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-132",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Kto wywalczył złoto w judo kobiet do 63 kg podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Andreja Leški",
+      "Clarisse Agbegnenou",
+      "Miku Tashiro",
+      "Christa Deguchi"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/japans-takanori-nagase-slovenias-andreja-leski-win-judo-gold-medals-paris-olympics"
   }
 ]
