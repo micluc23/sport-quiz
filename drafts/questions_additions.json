@@ -6574,5 +6574,309 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz został MVP sezonu zasadniczego NBA 2010/11?",
+    "answers": [
+      "LeBron James",
+      "Derrick Rose",
+      "Kobe Bryant",
+      "Dwight Howard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik zdobył nagrodę MVP NBA w sezonie 2000/01?",
+    "answers": [
+      "Allen Iverson",
+      "Tim Duncan",
+      "Shaquille O'Neal",
+      "Jason Kidd"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto był MVP sezonu zasadniczego NBA 2003/04?",
+    "answers": [
+      "Steve Nash",
+      "Tim Duncan",
+      "Tracy McGrady",
+      "Kevin Garnett"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto został MVP NBA w sezonie 1992/93?",
+    "answers": [
+      "Michael Jordan",
+      "Hakeem Olajuwon",
+      "Charles Barkley",
+      "Karl Malone"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył nagrodę MVP sezonu zasadniczego NBA 1994/95?",
+    "answers": [
+      "Hakeem Olajuwon",
+      "David Robinson",
+      "Shaquille O'Neal",
+      "Patrick Ewing"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył MVP sezonu zasadniczego NBA 2006/07?",
+    "answers": [
+      "Dirk Nowitzki",
+      "Steve Nash",
+      "Kobe Bryant",
+      "LeBron James"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został MVP NBA w sezonie 2017/18?",
+    "answers": [
+      "Russell Westbrook",
+      "Stephen Curry",
+      "Kevin Durant",
+      "James Harden"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył MVP NBA w sezonie 2016/17?",
+    "answers": [
+      "James Harden",
+      "Kawhi Leonard",
+      "Russell Westbrook",
+      "LeBron James"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik otrzymał MVP finałów NBA w 1988 roku?",
+    "answers": [
+      "Magic Johnson",
+      "James Worthy",
+      "Isiah Thomas",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był MVP finałów NBA w 1979 roku?",
+    "answers": [
+      "Dennis Johnson",
+      "Gus Williams",
+      "Jack Sikma",
+      "Wes Unseld"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz został MVP finałów NBA w 1975 roku?",
+    "answers": [
+      "Jamaal Wilkes",
+      "Elvin Hayes",
+      "Wes Unseld",
+      "Rick Barry"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył nagrodę MVP finałów NBA w 1981 roku?",
+    "answers": [
+      "Larry Bird",
+      "Robert Parish",
+      "Cedric Maxwell",
+      "Kevin McHale"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę MVP finałów NBA w 1990 roku?",
+    "answers": [
+      "Joe Dumars",
+      "Isiah Thomas",
+      "Dennis Rodman",
+      "Bill Laimbeer"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z kim Chicago Bulls wygrali finały NBA w 1995/96?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Utah Jazz",
+      "Phoenix Suns",
+      "Portland Trail Blazers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który klub przegrał finały NBA 1994/95 z Houston Rockets?",
+    "answers": [
+      "New York Knicks",
+      "Indiana Pacers",
+      "San Antonio Spurs",
+      "Orlando Magic"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który klub przegrał finały NBA 2000/01 z Los Angeles Lakers?",
+    "answers": [
+      "New Jersey Nets",
+      "Indiana Pacers",
+      "Philadelphia 76ers",
+      "Boston Celtics"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna zdobyła mistrzostwo NBA w sezonie 1982/83?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Philadelphia 76ers",
+      "Boston Celtics",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto wygrał finały NBA w sezonie 1978/79?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Washington Bullets",
+      "Portland Trail Blazers",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna została mistrzem NBA w sezonie 2005/06?",
+    "answers": [
+      "Dallas Mavericks",
+      "San Antonio Spurs",
+      "Detroit Pistons",
+      "Miami Heat"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
   }
 ]
