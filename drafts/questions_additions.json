@@ -1406,5 +1406,357 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261119B-001",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto olimpijskie w szpadzie indywidualnej mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Koki Kano",
+      "Yannick Borel",
+      "Cheung Ka Long",
+      "Oh Sang-uk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fie.org/news/1427-fencing-at-the-paris-2024-olympic-games-concludes-a-spectacular-achievement"
+  },
+  {
+    "id": "SPORT-N20261119B-002",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Który kraj zwyciężył w drużynowej rywalizacji mężczyzn we florecie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Włochy",
+      "Japonia",
+      "Francja",
+      "USA"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fie.org/news/1427-fencing-at-the-paris-2024-olympic-games-concludes-a-spectacular-achievement"
+  },
+  {
+    "id": "SPORT-N20261119B-003",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka zdobyła złoto w szabli indywidualnej kobiet na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Sara Balzer",
+      "Olha Kharlan",
+      "Manon Apithy-Brunet",
+      "Lee Kiefer"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-004",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski turniej floretu indywidualnego mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Filippo Macchi",
+      "Nick Itkin",
+      "Koki Kano",
+      "Cheung Ka Long"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-005",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył złoto w szabli drużynowej kobiet na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Ukraina",
+      "Korea Południowa",
+      "Japonia",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-006",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył złoto olimpijskie w szpadzie drużynowej mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Japonia",
+      "Węgry",
+      "Czechy",
+      "Francja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fie.org/news/1424-hungary-wins-gold-medal-in-men-s-team-epee-fencing-at-the-paris-2024-olympic-games"
+  },
+  {
+    "id": "SPORT-N20261119B-007",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył złoto w szpadzie indywidualnej kobiet na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Auriane Mallo-Breton",
+      "Eszter Muhari",
+      "Vivian Kong",
+      "Lee Kiefer"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-008",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka obroniła tytuł olimpijski we florecie indywidualnym kobiet w Paryżu w 2024 roku?",
+    "answers": [
+      "Lauren Scruggs",
+      "Eleanor Harvey",
+      "Manon Apithy-Brunet",
+      "Lee Kiefer"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-fencing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119B-009",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył złoto w drużynowym florecie kobiet na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "USA",
+      "Włochy",
+      "Japonia",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fie.org/news/1427-fencing-at-the-paris-2024-olympic-games-concludes-a-spectacular-achievement"
+  },
+  {
+    "id": "SPORT-N20261119B-010",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijski turniej szabli indywidualnej mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Fares Ferjani",
+      "Oh Sang-uk",
+      "Luigi Samele",
+      "Aron Szilagyi"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-011",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zdobyła złoto w szabli drużynowej mężczyzn na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Węgry",
+      "Francja",
+      "Korea Południowa",
+      "Japonia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-012",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Ekspert",
+    "question": "Który kraj zdobył najwięcej medali w szermierce na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Japonia",
+      "Włochy",
+      "USA",
+      "Francja"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fencing.net/guides/paris-2024-olympics/"
+  },
+  {
+    "id": "SPORT-N20261119B-013",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "W której konkurencji polska drużyna kobiet zdobyła brązowy medal szermierczy na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Szpada drużynowa",
+      "Floret drużynowy",
+      "Szabla drużynowa",
+      "Szpada indywidualna"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fie.org/news/1420-italy-wins-gold-medal-in-women-s-team-epee-fencing-at-the-paris-2024-olympic-games"
+  },
+  {
+    "id": "SPORT-N20261119B-014",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Z jaką reprezentacją Polki wygrały mecz o brąz w szpadzie drużynowej kobiet na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Ukraina",
+      "Chiny",
+      "USA",
+      "Korea Południowa"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://fie.org/news/1420-italy-wins-gold-medal-in-women-s-team-epee-fencing-at-the-paris-2024-olympic-games"
+  },
+  {
+    "id": "SPORT-N20261119B-015",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył złoty medal olimpijski w badmintonie w singlu mężczyzn w Paryżu w 2024 roku?",
+    "answers": [
+      "Kunlavut Vitidsarn",
+      "Lee Zii Jia",
+      "Viktor Axelsen",
+      "Shi Yuqi"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Paris-2024/badminton.php"
+  },
+  {
+    "id": "SPORT-N20261119B-016",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w singlu kobiet w badmintonie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "He Bingjiao",
+      "Gregoria Mariska Tunjung",
+      "Chen Yufei",
+      "An Se-young"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Paris-2024/badminton.php"
+  },
+  {
+    "id": "SPORT-N20261119B-017",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Z którego kraju pochodził srebrny medalista singla mężczyzn w badmintonie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Tajlandia",
+      "Malezja",
+      "Indonezja",
+      "Japonia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Paris-2024/badminton.php"
+  },
+  {
+    "id": "SPORT-N20261119B-018",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Który kraj reprezentowały złote medalistki debla kobiet w badmintonie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Japonia",
+      "Chiny",
+      "Korea Południowa",
+      "Malezja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Paris-2024/badminton.php"
+  },
+  {
+    "id": "SPORT-N20261119B-019",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Który duet zdobył złoto w mikście badmintona na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Kim Won-ho i Jeong Na-eun",
+      "Yuta Watanabe i Arisa Higashino",
+      "Zheng Siwei i Huang Yaqiong",
+      "Lee Yang i Wang Chi-lin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Paris-2024/badminton.php"
+  },
+  {
+    "id": "SPORT-N20261119B-020",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Ekspert",
+    "question": "Która para zdobyła złoto w deblu mężczyzn w badmintonie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Liang Weikeng i Wang Chang",
+      "Aaron Chia i Soh Wooi Yik",
+      "Kim Won-ho i Jeong Na-eun",
+      "Lee Yang i Wang Chi-lin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Paris-2024/badminton.php"
+  },
+  {
+    "id": "SPORT-N20261119B-021",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Który badmintonista obronił złoto olimpijskie w singlu mężczyzn, wygrywając w Tokio i Paryżu?",
+    "answers": [
+      "Viktor Axelsen",
+      "Kunlavut Vitidsarn",
+      "Lee Zii Jia",
+      "Shi Yuqi"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://thephryge.com/paris-2024-results/sports/badminton"
+  },
+  {
+    "id": "SPORT-N20261119B-022",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Ekspert",
+    "question": "Który kraj zdobył najwięcej złotych medali w badmintonie na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Dania",
+      "Chiny",
+      "Korea Południowa",
+      "Tajwan"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://thephryge.com/paris-2024-results/sports/badminton"
   }
 ]
