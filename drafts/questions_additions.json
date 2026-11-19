@@ -5470,5 +5470,437 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://olympics.auscycling.org.au/results"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-001",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja wygrała drużynowy turniej gimnastyki sportowej mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Japonia",
+      "Chiny",
+      "USA",
+      "Wielka Brytania"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-002",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w drużynowym wieloboju gimnastycznym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Wielka Brytania",
+      "USA",
+      "Japonia",
+      "Włochy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-003",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył srebro w drużynowym wieloboju gimnastycznym kobiet w Paryżu 2024?",
+    "answers": [
+      "Brazylia",
+      "Francja",
+      "Włochy",
+      "Chiny"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-004",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Który kraj wywalczył pierwszy w historii brąz olimpijski w drużynowej gimnastyce sportowej kobiet w Paryżu 2024?",
+    "answers": [
+      "Kanada",
+      "Brazylia",
+      "Rumunia",
+      "Niemcy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-005",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebrny medal w wieloboju indywidualnym gimnastyki sportowej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Zhang Boheng",
+      "Xiao Ruoteng",
+      "Daiki Hashimoto",
+      "Illia Kovtun"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-006",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zajął trzecie miejsce w wieloboju indywidualnym gimnastyki sportowej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Shinnosuke Oka",
+      "Zhang Boheng",
+      "Xiao Ruoteng",
+      "Joe Fraser"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-007",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył brąz w wieloboju indywidualnym gimnastyki sportowej kobiet w Paryżu 2024?",
+    "answers": [
+      "Rebeca Andrade",
+      "Sunisa Lee",
+      "Alice D'Amato",
+      "Kaylia Nemour"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-008",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Który gimnastyk wygrał ćwiczenia wolne mężczyzn na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Jake Jarman",
+      "Artem Dolgopyat",
+      "Carlos Yulo",
+      "Shinnosuke Oka"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-009",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro w ćwiczeniach wolnych gimnastyki sportowej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Carlos Yulo",
+      "Artem Dolgopyat",
+      "Jake Jarman",
+      "Illia Kovtun"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-010",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz w ćwiczeniach wolnych gimnastyki sportowej mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Jake Jarman",
+      "Carlos Yulo",
+      "Artem Dolgopyat",
+      "Daiki Hashimoto"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-011",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brązowy medal w skoku gimnastycznym kobiet na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Jade Carey",
+      "Sunisa Lee",
+      "Kaylia Nemour",
+      "Alice D'Amato"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-012",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto na koniu z łękami podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Stephen Nedoroscik",
+      "Nariman Kurbanov",
+      "Rhys McClenaghan",
+      "Max Whitlock"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-013",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Ekspert",
+    "question": "Który reprezentant Kazachstanu zdobył srebro na koniu z łękami w Paryżu 2024?",
+    "answers": [
+      "Nariman Kurbanov",
+      "Rhys McClenaghan",
+      "Milad Karimi",
+      "Stephen Nedoroscik"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-014",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył brąz na koniu z łękami w gimnastyce sportowej na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Max Whitlock",
+      "Stephen Nedoroscik",
+      "Rhys McClenaghan",
+      "Nariman Kurbanov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-015",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał finał na kółkach mężczyzn w gimnastyce sportowej na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Zou Jingyuan",
+      "Eleftherios Petrounias",
+      "Liu Yang",
+      "Shinnosuke Oka"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-017",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła złoto na poręczach asymetrycznych w Paryżu 2024, reprezentując Algierię?",
+    "answers": [
+      "Qiu Qiyuan",
+      "Kaylia Nemour",
+      "Sunisa Lee",
+      "Nina Derwael"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-018",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro na poręczach asymetrycznych kobiet w Paryżu 2024?",
+    "answers": [
+      "Sunisa Lee",
+      "Nina Derwael",
+      "Qiu Qiyuan",
+      "Kaylia Nemour"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-019",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w skoku gimnastycznym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Carlos Yulo",
+      "Artur Davtyan",
+      "Harry Hepworth",
+      "Jake Jarman"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-020",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Który gimnastyk zdobył srebro w skoku mężczyzn w Paryżu 2024, reprezentując Armenię?",
+    "answers": [
+      "Artur Davtyan",
+      "Carlos Yulo",
+      "Harry Hepworth",
+      "Vahagn Davtyan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-021",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał ćwiczenia na poręczach równoległych mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Illia Kovtun",
+      "Shinnosuke Oka",
+      "Zou Jingyuan",
+      "Liu Yang"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-022",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Która Włoszka zdobyła złoto na równoważni w Paryżu 2024?",
+    "answers": [
+      "Manila Esposito",
+      "Alice D'Amato",
+      "Giorgia Villa",
+      "Asia D'Amato"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-023",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył srebro na równoważni kobiet w Paryżu 2024?",
+    "answers": [
+      "Manila Esposito",
+      "Simone Biles",
+      "Zhou Yaqin",
+      "Sunisa Lee"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-024",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto na drążku mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Zhang Boheng",
+      "Angel Barajas",
+      "Daiki Hashimoto",
+      "Shinnosuke Oka"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-025",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Ekspert",
+    "question": "Który Kolumbijczyk zdobył srebro na drążku w gimnastyce sportowej w Paryżu 2024?",
+    "answers": [
+      "Angel Barajas",
+      "Jossimar Calvo",
+      "Carlos Yulo",
+      "Zhang Boheng"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-026",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Która gimnastyczka zdobyła złoto w ćwiczeniach wolnych kobiet na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Simone Biles",
+      "Rebeca Andrade",
+      "Alice D'Amato",
+      "Jade Carey"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-027",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał indywidualny wielobój w gimnastyce artystycznej na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Boryana Kaleyn",
+      "Sofia Raffaeli",
+      "Darja Varfolomeev",
+      "Daria Atamanov"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rhythmic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-GYM-028",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja zdobyła złoto w drużynowym wieloboju gimnastyki artystycznej w Paryżu 2024?",
+    "answers": [
+      "Izrael",
+      "Bułgaria",
+      "Włochy",
+      "Chiny"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-rhythmic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes"
   }
 ]
