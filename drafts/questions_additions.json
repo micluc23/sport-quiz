@@ -3486,5 +3486,357 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.nbcolympics.com/news/olympic-ski-jumping-milan-cortina-2026-biggest-stories-highlights-replays-medal-results-and-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-001",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w boksie kobiet w kategorii 50 kg na igrzyskach w Paryżu w 2024 roku?",
+    "answers": [
+      "Wu Yu",
+      "Chang Yuan",
+      "Li Qian",
+      "Buse Naz Çakıroğlu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-002",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Która reprezentantka Chin triumfowała w olimpijskiej kategorii bokserskiej kobiet do 54 kg w Paryżu 2024?",
+    "answers": [
+      "Li Qian",
+      "Chang Yuan",
+      "Wu Yu",
+      "Yang Liu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-003",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Z którą zawodniczką Julia Szeremeta przegrała finał olimpijski w boksie do 57 kg w Paryżu 2024?",
+    "answers": [
+      "Imane Khelif",
+      "Li Qian",
+      "Lin Yu-ting",
+      "Chang Yuan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.theguardian.com/sport/article/2024/aug/11/boxer-lin-yu-ting-sobs-after-winning-olympic-gold-amid-gender-row"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-004",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Która pięściarka zdobyła w Paryżu 2024 złoty medal w kategorii kobiet do 75 kg?",
+    "answers": [
+      "Atheyna Bylon",
+      "Cindy Ngamba",
+      "Caitlin Parker",
+      "Li Qian"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-005",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Z jakiego kraju pochodził Hasanboy Dusmatov, mistrz olimpijski w boksie do 51 kg w Paryżu 2024?",
+    "answers": [
+      "Uzbekistan",
+      "Kazachstan",
+      "Kirgistan",
+      "Azerbejdżan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-006",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Ekspert",
+    "question": "Kogo pokonał Hasanboy Dusmatov w finale olimpijskiej kategorii bokserskiej do 51 kg w Paryżu 2024?",
+    "answers": [
+      "Sofiane Oumiha",
+      "Billal Bennama",
+      "Munarbek Seiitbek Uulu",
+      "Marco Verde"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-007",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Ekspert",
+    "question": "Który bokser zdobył olimpijskie złoto w kategorii do 57 kg mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Hasanboy Dusmatov",
+      "Erislandy Alvarez",
+      "Abdumalik Khalokov",
+      "Lazizbek Mullojonov"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-008",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Które państwo reprezentował Erislandy Alvarez, złoty medalista boksu do 63,5 kg na igrzyskach 2024?",
+    "answers": [
+      "Francję",
+      "Uzbekistan",
+      "Meksyk",
+      "Kubę"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-009",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Ekspert",
+    "question": "Kto wywalczył srebro olimpijskie w boksie mężczyzn do 57 kg w Paryżu 2024?",
+    "answers": [
+      "Munarbek Seiitbek Uulu",
+      "Charlie Senior",
+      "Javier Ibanez",
+      "Abdumalik Khalokov"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-010",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył pięć złotych medali w męskim boksie podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Kuba",
+      "Uzbekistan",
+      "Chiny",
+      "Francja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-boxing-paris-2024-biggest-stories-replays-medal-results-top-athletes-highlights"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-011",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Która zawodniczka zwyciężyła w indywidualnym triathlonie kobiet na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Beth Potter",
+      "Laura Lindemann",
+      "Cassandre Beaugrand",
+      "Taylor Knibb"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-triathlon-paris-2024-biggest-stories-replays-medal-results-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-012",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Kto został mistrzem olimpijskim w indywidualnym triathlonie mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Lasse Lührs",
+      "Tim Hellwig",
+      "Morgan Pearson",
+      "Alex Yee"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/olympic-triathlon-paris-2024-biggest-stories-replays-medal-results-top-athletes"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-013",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Która reprezentacja wygrała sztafetę mieszaną w triathlonie podczas igrzysk 2024?",
+    "answers": [
+      "Niemcy",
+      "USA",
+      "Wielka Brytania",
+      "Francja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://triathlon.org/news/thriller-on-the-seine-as-germany-earn-stunning-olympic-mixed-relay-gold-in-paris"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-014",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka finiszowała jako ostatnia w zwycięskiej niemieckiej sztafecie mieszanej triathlonu w Paryżu 2024?",
+    "answers": [
+      "Lisa Tertsch",
+      "Laura Lindemann",
+      "Cassandre Beaugrand",
+      "Beth Potter"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://triathlon.org/news/thriller-on-the-seine-as-germany-earn-stunning-olympic-mixed-relay-gold-in-paris"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-015",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zajęła drugie miejsce w olimpijskiej sztafecie mieszanej triathlonu w 2024 roku?",
+    "answers": [
+      "Francja",
+      "Wielka Brytania",
+      "USA",
+      "Portugalia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/triathlon-recap-aug-5-germany-surges-gold-us-earns-silver-team-relay"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-016",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Kto zamykał skład amerykańskiej sztafety mieszanej triathlonu, która zdobyła srebro w Paryżu 2024?",
+    "answers": [
+      "Taylor Spivey",
+      "Seth Rider",
+      "Morgan Pearson",
+      "Taylor Knibb"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nbcolympics.com/news/triathlon-recap-aug-5-germany-surges-gold-us-earns-silver-team-relay"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-017",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaką lokatę zajęła Francja w olimpijskiej sztafecie mieszanej triathlonu w Paryżu 2024?",
+    "answers": [
+      "Czwartą",
+      "Drugą",
+      "Trzecią",
+      "Piątą"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.tri247.com/triathlon-news/elite/olympic-games-triathlon-paris-2024-mixed-relay-results-report"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-018",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył pierwsze w historii olimpijskie złoto w kobiecej konkurencji Formula Kite w Paryżu 2024?",
+    "answers": [
+      "Lauriane Nolot",
+      "Ellie Aldridge",
+      "Annelous Lammerts",
+      "Daniela Moroz"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sailing.org/2024/08/08/olympic-sailing-2024-aldridge-wins-first-ever-formula-kite-olympic-gold-for-great-britain/"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-019",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Z jakiego kraju pochodzi Ellie Aldridge, mistrzyni olimpijska Formula Kite z 2024 roku?",
+    "answers": [
+      "Francja",
+      "Holandia",
+      "Wielka Brytania",
+      "USA"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.sailing.org/2024/08/08/olympic-sailing-2024-aldridge-wins-first-ever-formula-kite-olympic-gold-for-great-britain/"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-020",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która zawodniczka zdobyła srebro w kobiecym Formula Kite na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Daniela Moroz",
+      "Annelous Lammerts",
+      "Ellie Aldridge",
+      "Lauriane Nolot"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.reuters.com/sports/olympics/sailing-britains-aldridge-wins-womens-kiteboarding-gold-2024-08-08/"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-021",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile konkurencji medalowych w żeglarstwie rozegrano na igrzyskach Paryż 2024?",
+    "answers": [
+      "10",
+      "8",
+      "12",
+      "14"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-PAR-022",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Ekspert",
+    "question": "Jak nazywała się olimpijska klasa jednoosobowej łódki przeznaczona dla kobiet w Paryżu 2024?",
+    "answers": [
+      "ILCA 7",
+      "ILCA 6",
+      "470",
+      "49er FX"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
   }
 ]
