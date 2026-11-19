@@ -1,0 +1,242 @@
+[
+  {
+    "id": "SPORT-N20261119-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Z kim Niemcy wygrali finał mistrzostw świata w koszykówce mężczyzn w 2023 roku?",
+    "answers": [
+      "Serbia",
+      "Kanada",
+      "USA",
+      "Słowenia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Jakim wynikiem zakończył się finał MŚ koszykarzy 2023 Niemcy–Serbia?",
+    "answers": [
+      "83:77",
+      "87:83",
+      "79:75",
+      "91:86"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę MVP mistrzostw świata koszykarzy w 2023 roku?",
+    "answers": [
+      "Dennis Schröder",
+      "Luka Dončić",
+      "Franz Wagner",
+      "Bogdan Bogdanović"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-named-fiba-basketball-world-cup-2023-tissot-mvp"
+  },
+  {
+    "id": "SPORT-N20261119-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile punktów zdobył Dennis Schröder w finale MŚ koszykarzy 2023?",
+    "answers": [
+      "28",
+      "19",
+      "31",
+      "24"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-named-fiba-basketball-world-cup-2023-tissot-mvp"
+  },
+  {
+    "id": "SPORT-N20261119-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna zajęła trzecie miejsce na MŚ koszykarzy 2023?",
+    "answers": [
+      "Kanada",
+      "USA",
+      "Łotwa",
+      "Litwa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z kim Kanada wygrała mecz o brąz MŚ koszykarzy 2023?",
+    "answers": [
+      "USA",
+      "Litwa",
+      "Łotwa",
+      "Słowenia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył 39 punktów dla Kanady w meczu o brąz MŚ koszykarzy 2023?",
+    "answers": [
+      "Dillon Brooks",
+      "Shai Gilgeous-Alexander",
+      "RJ Barrett",
+      "Kelly Olynyk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zajęła piąte miejsce na MŚ koszykarzy 2023?",
+    "answers": [
+      "Łotwa",
+      "Litwa",
+      "Włochy",
+      "Słowenia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto był trenerem mistrzowskiej reprezentacji Niemiec na MŚ koszykarzy 2023?",
+    "answers": [
+      "Gordon Herbert",
+      "Svetislav Pešić",
+      "Steve Kerr",
+      "Jordi Fernández"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-game-report-germany-v-serbia"
+  },
+  {
+    "id": "SPORT-N20261119-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobył Aleksa Avramović dla Serbii w finale MŚ koszykarzy 2023?",
+    "answers": [
+      "21",
+      "17",
+      "28",
+      "13"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który niemiecki zawodnik otrzymał wyróżnienie gracza meczu w finale MŚ koszykarzy 2023?",
+    "answers": [
+      "Franz Wagner",
+      "Andreas Obst",
+      "Daniel Theis",
+      "Isaac Bonga"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-game-report-germany-v-serbia"
+  },
+  {
+    "id": "SPORT-N20261119-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobył Franz Wagner w finale MŚ koszykarzy 2023?",
+    "answers": [
+      "19",
+      "28",
+      "15",
+      "23"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-game-report-germany-v-serbia"
+  },
+  {
+    "id": "SPORT-N20261119-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście rozegrano finał MŚ koszykarzy 2023?",
+    "answers": [
+      "Manila",
+      "Tokio",
+      "Dżakarta",
+      "Okinawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna zajęła czwarte miejsce na MŚ koszykarzy 2023?",
+    "answers": [
+      "USA",
+      "Kanada",
+      "Litwa",
+      "Serbia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-carries-germany-to-first-ever-world-cup-title"
+  },
+  {
+    "id": "SPORT-N20261119-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto był kapitanem reprezentacji Niemiec podczas zwycięskich MŚ koszykarzy 2023?",
+    "answers": [
+      "Dennis Schröder",
+      "Franz Wagner",
+      "Daniel Theis",
+      "Moritz Wagner"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.fiba.basketball/en/news/basketballworldcup-2023-news-dennis-schroder-named-fiba-basketball-world-cup-2023-tissot-mvp"
+  }
+]
