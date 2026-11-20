@@ -13822,5 +13822,373 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R12-001",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście odbyło się spotkanie założycielskie poprzedzające powstanie ITTF w styczniu 1926 roku?",
+    "answers": [
+      "Berlin",
+      "Londyn",
+      "Paryż",
+      "Wiedeń"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-002",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Którego dnia stycznia 1926 roku przedstawiciele czterech krajów spotkali się w sprawie utworzenia ITTF?",
+    "answers": [
+      "16 stycznia",
+      "6 stycznia",
+      "26 stycznia",
+      "31 stycznia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-003",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Ile państw miało przedstawicieli na berlińskim spotkaniu inicjującym ITTF w 1926 roku?",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-004",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto zaoferował pokrycie ewentualnych strat organizacji pierwszych mistrzostw świata w tenisie stołowym?",
+    "answers": [
+      "Ivor Montagu",
+      "Victor Barna",
+      "Jan-Ove Waldner",
+      "Richard Bergmann"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-005",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście rozegrano pierwsze mistrzostwa świata w tenisie stołowym w 1926 roku?",
+    "answers": [
+      "Londyn",
+      "Berlin",
+      "Praga",
+      "Budapeszt"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/05/ittf-kicks-off-centenary-year-as-world-table-tennis-championships-returns-to-london-100-years-on/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-006",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W którym roku powstała Międzynarodowa Federacja Tenisa Stołowego ITTF?",
+    "answers": [
+      "1926",
+      "1900",
+      "1936",
+      "1948"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/05/ittf-kicks-off-centenary-year-as-world-table-tennis-championships-returns-to-london-100-years-on/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-007",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W jakim roku po raz pierwszy rozegrano olimpijski turniej tenisa stołowego?",
+    "answers": [
+      "1988",
+      "1984",
+      "1992",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-table-tennis-at-paris-2024-the-olympics-qualification-system-"
+  },
+  {
+    "id": "SPORT-N20261120-R12-008",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Które igrzyska jako pierwsze gościły olimpijski tenis stołowy?",
+    "answers": [
+      "Seul 1988",
+      "Barcelona 1992",
+      "Los Angeles 1984",
+      "Atlanta 1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-009",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto został pierwszym mistrzem olimpijskim w singlu mężczyzn w tenisie stołowym?",
+    "answers": [
+      "Yoo Nam-kyu",
+      "Ma Long",
+      "Jan-Ove Waldner",
+      "Liu Guoliang"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-010",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył pierwsze złoto olimpijskie w singlu kobiet w tenisie stołowym?",
+    "answers": [
+      "Chen Jing",
+      "Deng Yaping",
+      "Sun Yingsha",
+      "Chen Meng"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-011",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Ilu zawodników wystąpiło w olimpijskim turnieju tenisa stołowego w Seulu 1988?",
+    "answers": [
+      "129",
+      "96",
+      "172",
+      "64"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-012",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Ile reprezentacji narodowych wystąpiło w olimpijskim tenisie stołowym w Seulu 1988?",
+    "answers": [
+      "41",
+      "24",
+      "32",
+      "56"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-013",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach konkurencje drużynowe zastąpiły deble w olimpijskim tenisie stołowym?",
+    "answers": [
+      "Pekin 2008",
+      "Ateny 2004",
+      "Londyn 2012",
+      "Rio 2016"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-table-tennis-at-paris-2024-the-olympics-qualification-system-"
+  },
+  {
+    "id": "SPORT-N20261120-R12-014",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach olimpijskich zadebiutował mikst w tenisie stołowym?",
+    "answers": [
+      "Tokio 2020",
+      "Paryż 2024",
+      "Rio 2016",
+      "Londyn 2012"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-table-tennis-at-paris-2024-the-olympics-qualification-system-"
+  },
+  {
+    "id": "SPORT-N20261120-R12-015",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "W którym roku zainaugurowano Puchar Świata mężczyzn w singlu tenisa stołowego?",
+    "answers": [
+      "1980",
+      "1972",
+      "1990",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2020/05/19/message-ceo-i-world-table-tennis-origins/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-016",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "W którym roku po raz pierwszy zorganizowano Puchar Świata kobiet w singlu tenisa stołowego?",
+    "answers": [
+      "1996",
+      "1980",
+      "1988",
+      "2004"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2020/05/19/message-ceo-i-world-table-tennis-origins/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-017",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jak pierwotnie nazywał się cykl turniejów ITTF uruchomiony w 1996 roku?",
+    "answers": [
+      "Pro Tour",
+      "Grand Slam",
+      "Champions League",
+      "World Series"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2020/05/19/message-ceo-i-world-table-tennis-origins/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-018",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Kogo pokonał Fan Zhendong w finale singla mistrzostw świata 2023?",
+    "answers": [
+      "Wang Chuqina",
+      "Ma Longa",
+      "Liang Jingkuna",
+      "Tomokazu Harimoto"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ittf-world-table-tennis-championships-finals-2023-results"
+  },
+  {
+    "id": "SPORT-N20261120-R12-019",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jakim wynikiem setowym zakończył się finał singla mężczyzn MŚ 2023 Fan Zhendong–Wang Chuqin?",
+    "answers": [
+      "4:2",
+      "4:0",
+      "4:1",
+      "4:3"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ittf-world-table-tennis-championships-finals-2023-results"
+  },
+  {
+    "id": "SPORT-N20261120-R12-020",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła tytuł mistrzów świata w deblu mężczyzn w 2023 roku?",
+    "answers": [
+      "Fan Zhendong i Wang Chuqin",
+      "Ma Long i Lin Gaoyuan",
+      "Jang Woojin i Lim Jonghoon",
+      "Dimitrij Ovtcharov i Patrick Franziska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ittf-world-table-tennis-championships-finals-2023-results"
+  },
+  {
+    "id": "SPORT-N20261120-R12-021",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "W jakich dwóch obiektach zaplanowano drużynowe MŚ w tenisie stołowym w Londynie w 2026 roku?",
+    "answers": [
+      "OVO Arena Wembley i Copper Box Arena",
+      "O2 Arena i Wembley Stadium",
+      "Royal Albert Hall i Emirates Arena",
+      "Alexandra Palace i ExCeL London"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/05/ittf-kicks-off-centenary-year-as-world-table-tennis-championships-returns-to-london-100-years-on/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-022",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Który kraj wygrał pierwsze drużynowe mistrzostwa świata mężczyzn w tenisie stołowym w 1926 roku?",
+    "answers": [
+      "Węgry",
+      "Austria",
+      "Anglia",
+      "Niemcy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2016/12/06/raise-glass-90-years-ago-today-first-ball-struck-world-championships/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-023",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Kogo Węgry pokonały w dodatkowym meczu o tytuł drużynowych mistrzów świata w 1926 roku?",
+    "answers": [
+      "Austrię",
+      "Anglię",
+      "Niemcy",
+      "Czechosłowację"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2016/12/06/raise-glass-90-years-ago-today-first-ball-struck-world-championships/"
   }
 ]
