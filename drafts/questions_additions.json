@@ -15598,5 +15598,309 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://olimpijski.pl/pkol/projekty-i-konkursy/nagroda-im-eugeniusza-pietrasika/"
+  },
+  {
+    "id": "GS-N20261121-0000-001",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Która gimnastyczka jako pierwsza otrzymała olimpijską ocenę 10,00?",
+    "answers": [
+      "Nadia Comăneci",
+      "Simone Biles",
+      "Olga Korbut",
+      "Nellie Kim"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/snapped-reflections-and-revelations-on-comaneci-s-perfect-10"
+  },
+  {
+    "id": "GS-N20261121-0000-002",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Na których igrzyskach po raz pierwszy przyznano gimnastyczce idealną notę 10,00?",
+    "answers": [
+      "Monachium 1972",
+      "Montreal 1976",
+      "Moskwa 1980",
+      "Los Angeles 1984"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/snapped-reflections-and-revelations-on-comaneci-s-perfect-10"
+  },
+  {
+    "id": "GS-N20261121-0000-003",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "W której konkurencji Nadia Comăneci uzyskała pierwszą olimpijską dziesiątkę?",
+    "answers": [
+      "Skok",
+      "Ćwiczenia wolne",
+      "Poręcze asymetryczne",
+      "Równoważnia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/snapped-reflections-and-revelations-on-comaneci-s-perfect-10"
+  },
+  {
+    "id": "GS-N20261121-0000-004",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Normalny",
+    "question": "Jaką ocenę wyświetliła tablica wyników po historycznym występie Nadii Comăneci w Montrealu?",
+    "answers": [
+      "9,99",
+      "10,00",
+      "0,10",
+      "1,00"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/snapped-reflections-and-revelations-on-comaneci-s-perfect-10"
+  },
+  {
+    "id": "GS-N20261121-0000-005",
+    "region": "Świat",
+    "sport": "Gimnastyka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Który kraj reprezentowała Nadia Comăneci podczas igrzysk w Montrealu?",
+    "answers": [
+      "Rumunia",
+      "Węgry",
+      "Bułgaria",
+      "ZSRR"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/snapped-reflections-and-revelations-on-comaneci-s-perfect-10"
+  },
+  {
+    "id": "GS-N20261121-0000-006",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Ile metrów ma ściana używana w olimpijskiej konkurencji wspinaczki na czas?",
+    "answers": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-007",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Która konkurencja wspinaczkowa polega na jak najszybszym dotarciu na szczyt ściany?",
+    "answers": [
+      "Bouldering",
+      "Lead",
+      "Trudność",
+      "Speed"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-008",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Jakie dwie konkurencje łączono w olimpijskim wieloboju wspinaczkowym w Paryżu 2024?",
+    "answers": [
+      "Bouldering i prowadzenie",
+      "Speed i bouldering",
+      "Speed i prowadzenie",
+      "Speed i wspinaczka lodowa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-009",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Jaki był maksymalny łączny wynik punktowy we wspinaczkowym wieloboju Paryż 2024?",
+    "answers": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-010",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Ile złotych medali przyznano łącznie we wspinaczce sportowej podczas igrzysk Paryż 2024?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-011",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "W której konkurencji wspinaczkowej zawodnicy ścigają się bezpośrednio parami?",
+    "answers": [
+      "Speed",
+      "Bouldering",
+      "Lead",
+      "Wielobój"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-012",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "W której części Paryża znajdował się olimpijski obiekt wspinaczki sportowej w 2024 roku?",
+    "answers": [
+      "Wersal",
+      "Le Bourget",
+      "La Défense",
+      "Bercy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-what-is-the-new-sport-climbing-format"
+  },
+  {
+    "id": "GS-N20261121-0000-013",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Ile rund trwała standardowa walka bokserska na igrzyskach Paryż 2024?",
+    "answers": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0000-014",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Ile minut trwała pojedyncza runda olimpijskiej walki bokserskiej w Paryżu 2024?",
+    "answers": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0000-015",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Ilu sędziów punktowych oceniało olimpijskie walki bokserskie w Paryżu 2024?",
+    "answers": [
+      "5",
+      "3",
+      "4",
+      "7"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0000-016",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Ile punktów otrzymywał zwycięzca rundy od jednego sędziego w olimpijskim boksie Paryż 2024?",
+    "answers": [
+      "9",
+      "10",
+      "8",
+      "12"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0000-017",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Ilu przegranych półfinalistów otrzymywało brązowe medale w każdej kategorii boksu na igrzyskach Paryż 2024?",
+    "answers": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0000-018",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Ile kategorii wagowych mężczyzn rozegrano w boksie podczas igrzysk Paryż 2024?",
+    "answers": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0000-020",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Od których igrzysk dopuszczono zawodowych bokserów do olimpijskiej rywalizacji?",
+    "answers": [
+      "Londyn 2012",
+      "Rio 2016",
+      "Tokio 2020",
+      "Paryż 2024"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
   }
 ]
