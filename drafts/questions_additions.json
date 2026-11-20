@@ -12382,5 +12382,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A14-001",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Jaka jest minimalna masa łodzi klasy 1x według tabeli World Rowing?",
+    "answers": [
+      "14 kg",
+      "22 kg",
+      "27 kg",
+      "32 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-002",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Która klasa łodzi ma według World Rowing minimalną masę 52 kg?",
+    "answers": [
+      "Czwórka podwójna (4x)",
+      "Czwórka bez sternika (4-)",
+      "Dwójka podwójna (2x)",
+      "Ósemka (8+)"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-003",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile wynosi minimalna masa ósemki (8+) według World Rowing?",
+    "answers": [
+      "96 kg",
+      "52 kg",
+      "75 kg",
+      "110 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-004",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ile wioseł używa łącznie osada czwórki bez sternika (4-)?",
+    "answers": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/2024/07/09/the-top-10-most-asked-questions-about-rowing-at-the-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-005",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Co oznacza znak „x” w symbolu wioślarskiej klasy 2x?",
+    "answers": [
+      "Wiosłowanie na dwa wiosła przez zawodnika",
+      "Obecność sternika",
+      "Wyścig na skróconym dystansie",
+      "Osadę mieszaną"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/wp-content/uploads/2022/05/real_0518_2022-WR-Season-media-guide-v6.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-006",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile konkurencji wioślarskich znalazło się w programie igrzysk Paryż 2024?",
+    "answers": [
+      "14",
+      "12",
+      "16",
+      "18"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-007",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile kobiecych konkurencji wioślarskich przewidywał program igrzysk Paryż 2024?",
+    "answers": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-008",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Która z wymienionych konkurencji była w programie wioślarskim Paryża 2024?",
+    "answers": [
+      "Dwójka podwójna wagi lekkiej kobiet",
+      "Jedynka wagi lekkiej kobiet",
+      "Czwórka podwójna wagi lekkiej kobiet",
+      "Dwójka ze sternikiem kobiet"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-009",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile miejsc zawodniczych w wioślarstwie przewidywał program igrzysk Paryż 2024?",
+    "answers": [
+      "502",
+      "330",
+      "400",
+      "600"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-010",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "W którym roku para-wioślarstwo zadebiutowało na igrzyskach paralimpijskich?",
+    "answers": [
+      "2008",
+      "2000",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-011",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakim mieście odbyły się pierwsze paralimpijskie zawody wioślarskie w 2008 roku?",
+    "answers": [
+      "Pekin",
+      "Londyn",
+      "Ateny",
+      "Rio de Janeiro"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-012",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Na jakim dystansie odbywają się zawody para-wioślarskie po zmianie w 2017 roku opisanej przez World Rowing?",
+    "answers": [
+      "2000 m",
+      "500 m",
+      "1000 m",
+      "1500 m"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-013",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile klas łodzi para-wioślarskich wymienia World Rowing w opisie dyscypliny?",
+    "answers": [
+      "9",
+      "5",
+      "7",
+      "12"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-014",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile z klas para-wioślarskich World Rowing zalicza do klas paralimpijskich?",
+    "answers": [
+      "5",
+      "4",
+      "7",
+      "9"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-015",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się wioślarska klasa łodzi oznaczona symbolem 2-?",
+    "answers": [
+      "Dwójka bez sternika",
+      "Dwójka podwójna",
+      "Dwójka ze sternikiem",
+      "Jedynka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-016",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ile osób wiosłuje w osadzie ósemki (8+), nie licząc sternika?",
+    "answers": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/2024/07/09/the-top-10-most-asked-questions-about-rowing-at-the-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-017",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Jaka jest minimalna masa czwórki bez sternika (4-) według World Rowing?",
+    "answers": [
+      "50 kg",
+      "52 kg",
+      "51 kg",
+      "40 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-018",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "W której klasie każdy zawodnik ma jedno wiosło?",
+    "answers": [
+      "Czwórka bez sternika (4-)",
+      "Czwórka podwójna (4x)",
+      "Dwójka podwójna (2x)",
+      "Jedynka (1x)"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/wp-content/uploads/2022/05/real_0518_2022-WR-Season-media-guide-v6.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-019",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ilu wioślarzy (bez sternika) zasiada w łodzi klasy 2+?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-020",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która para klas ma taką samą minimalną masę 27 kg według World Rowing?",
+    "answers": [
+      "2x i 2-",
+      "1x i 2x",
+      "4x i 4-",
+      "2+ i 4+"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
   }
 ]
