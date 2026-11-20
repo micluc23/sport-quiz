@@ -9742,5 +9742,389 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "GS-20261120-BAL-001",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Który pływak wygrał olimpijski finał 100 m stylem dowolnym w Paryżu 2024, bijąc rekord świata?",
+    "answers": [
+      "Caeleb Dressel",
+      "Pan Zhanle",
+      "David Popovici",
+      "Kyle Chalmers"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-002",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Jaki czas dał Panowi Zhanle rekord świata na 100 m stylem dowolnym w finale olimpijskim w Paryżu 2024?",
+    "answers": [
+      "46,40 s",
+      "46,92 s",
+      "47,02 s",
+      "47,50 s"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072580/deux-delight-marchand-delivers-two-olympic-records-on-night-five"
+  },
+  {
+    "id": "GS-20261120-BAL-003",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi Sarah Sjöström, złota medalistka olimpijska na 50 i 100 m stylem dowolnym w 2024 roku?",
+    "answers": [
+      "Norwegia",
+      "Dania",
+      "Szwecja",
+      "Finlandia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-004",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Która pływaczka zdobyła w Paryżu 2024 złoto zarówno na 50 m, jak i 100 m stylem dowolnym?",
+    "answers": [
+      "Mollie O'Callaghan",
+      "Sarah Sjöström",
+      "Emma McKeon",
+      "Torri Huske"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-005",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal olimpijski na 200 m stylem dowolnym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "David Popovici",
+      "Duncan Scott",
+      "Lukas Märtens",
+      "Matthew Richards"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-006",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył w Paryżu 2024 pierwsze w historii męskie złoto olimpijskie w pływaniu dzięki triumfowi na 200 m stylem dowolnym?",
+    "answers": [
+      "Węgry",
+      "Rumunia",
+      "Grecja",
+      "Chorwacja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-007",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Która Australijka zwyciężyła w olimpijskim finale 400 m stylem dowolnym kobiet w Paryżu 2024?",
+    "answers": [
+      "Summer McIntosh",
+      "Katie Ledecky",
+      "Ariarne Titmus",
+      "Mollie O'Callaghan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-008",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijski finał 200 m stylem dowolnym kobiet w Paryżu 2024?",
+    "answers": [
+      "Ariarne Titmus",
+      "Mollie O'Callaghan",
+      "Sarah Sjöström",
+      "Katie Ledecky"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-009",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka obroniła w Paryżu 2024 oba olimpijskie tytuły na 100 i 200 m stylem grzbietowym?",
+    "answers": [
+      "Regan Smith",
+      "Kaylee McKeown",
+      "Kylie Masse",
+      "Katharine Berkoff"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-010",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył w Paryżu 2024 czwarte z rzędu olimpijskie złoto na 800 m stylem dowolnym kobiet?",
+    "answers": [
+      "Katie Ledecky",
+      "Summer McIntosh",
+      "Ariarne Titmus",
+      "Sarah Sjöström"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-011",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Który pływak ustanowił w Paryżu 2024 rekord świata na 1500 m stylem dowolnym mężczyzn?",
+    "answers": [
+      "Daniel Wiffen",
+      "Gregorio Paltrinieri",
+      "Bobby Finke",
+      "Ahmed Hafnaoui"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-012",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Który Włoch pokonał Adama Peaty'ego w finale olimpijskim 100 m stylem klasycznym w Paryżu 2024?",
+    "answers": [
+      "Nicolò Martinenghi",
+      "Thomas Ceccon",
+      "Federico Burdisso",
+      "Gregorio Paltrinieri"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-013",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Które dwa style przyniosły Léonowi Marchandowi złote medale olimpijskie na dystansie 200 m tego samego wieczoru w Paryżu 2024?",
+    "answers": [
+      "Dowolny i grzbietowy",
+      "Motylkowy i klasyczny",
+      "Klasyczny i grzbietowy",
+      "Motylkowy i dowolny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072570/leon-marchand-sarah-sjostrom-world-record-swimming-paris-2024-olympics-games"
+  },
+  {
+    "id": "GS-20261120-BAL-014",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Jaki kraj reprezentował Daniel Wiffen, rekordzista olimpijski na 800 m stylem dowolnym w Paryżu 2024?",
+    "answers": [
+      "Wielka Brytania",
+      "Irlandia",
+      "Australia",
+      "Kanada"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072580/deux-delight-marchand-delivers-two-olympic-records-on-night-five"
+  },
+  {
+    "id": "GS-20261120-BAL-015",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Ekspert",
+    "question": "Która pływaczka uzyskała rekord olimpijski 55,38 s na 100 m stylem motylkowym w Paryżu 2024?",
+    "answers": [
+      "Torri Huske",
+      "Gretchen Walsh",
+      "Regan Smith",
+      "Zhang Yufei"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072580/deux-delight-marchand-delivers-two-olympic-records-on-night-five"
+  },
+  {
+    "id": "GS-20261120-BAL-016",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Ile kompletów medali w zapasach przewidziano na igrzyskach olimpijskich Paryż 2024?",
+    "answers": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-017",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Ile kobiecych kategorii wagowych w zapasach rozegrano podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-018",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakim stylu rywalizowały kobiety w olimpijskich zapasach podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Klasycznym",
+      "Wolnym",
+      "Obu stylach",
+      "Sumo"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-019",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Który reprezentant San Marino zdobył historyczny medal olimpijski w zapasach w Tokio 2020?",
+    "answers": [
+      "Myles Nazem Amine",
+      "David Taylor",
+      "Hassan Yazdani",
+      "Gable Steveson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-020",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Który Amerykanin odwrócił losy finału zapasów w stylu wolnym do 125 kg na igrzyskach Tokio 2020?",
+    "answers": [
+      "David Taylor",
+      "Gable Steveson",
+      "Kyle Snyder",
+      "Jordan Burroughs"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-021",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Kto pokonał Hassana Yazdaniego w olimpijskim finale zapasów w stylu wolnym do 86 kg w Tokio 2020?",
+    "answers": [
+      "David Taylor",
+      "Myles Nazem Amine",
+      "Abdulrashid Sadulaev",
+      "Gable Steveson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-022",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Ekspert",
+    "question": "Która zawodniczka wywalczyła pierwszy w historii Nigerii awans do olimpijskiego finału zapasów kobiet (Tokio 2020)?",
+    "answers": [
+      "Tamyra Mensah-Stock",
+      "Blessing Oborududu",
+      "Risako Kawai",
+      "Yukako Kawai"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-023",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "W której kategorii wagowej mężczyzn Gable Steveson zdobył złoto olimpijskie w Tokio 2020?",
+    "answers": [
+      "97 kg w stylu wolnym",
+      "125 kg w stylu wolnym",
+      "130 kg w stylu klasycznym",
+      "86 kg w stylu wolnym"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-024",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Ile złotych medali w kobiecych zapasach zdobyły Japonki na igrzyskach Tokio 2020?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
   }
 ]
