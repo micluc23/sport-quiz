@@ -13326,5 +13326,181 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-001",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik jest autorem rekordu świata na 50 m stylem dowolnym ustanowionego w marcu 2026 roku?",
+    "answers": [
+      "Cameron McEvoy",
+      "Caeleb Dressel",
+      "Florent Manaudou",
+      "Ben Proud"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-002",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "W którym chińskim mieście Cameron McEvoy uzyskał rekordowe 20,88 s na 50 m stylem dowolnym w marcu 2026 roku?",
+    "answers": [
+      "Shenzhen",
+      "Szanghaj",
+      "Pekin",
+      "Hangzhou"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-003",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "W jakiej konkurencji pływackiej Kliment Kolesnikov uzyskał rekord świata 23,55 s w lipcu 2023 roku?",
+    "answers": [
+      "50 m stylem grzbietowym",
+      "50 m stylem dowolnym",
+      "50 m stylem motylkowym",
+      "50 m stylem klasycznym"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-004",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Ekspert",
+    "question": "Podczas jakiej imprezy Kliment Kolesnikov ustanowił rekord świata na 50 m stylem grzbietowym w 2023 roku?",
+    "answers": [
+      "Puchar Rosji w Kazaniu",
+      "Mistrzostwa świata w Fukuoce",
+      "Mistrzostwa Europy w Rzymie",
+      "Igrzyska w Tokio"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-005",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "W jakim roku Paul Biedermann ustanowił rekord świata na 200 m stylem dowolnym, który utrzymał się co najmniej do 2026 roku?",
+    "answers": [
+      "2009",
+      "2012",
+      "2016",
+      "2021"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-006",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Kto opracował technikę aerodynamiczną skoków narciarskich z nartami prowadzonymi równolegle w latach 50. XX wieku?",
+    "answers": [
+      "Andreas Dascher",
+      "Jan Boklöv",
+      "Matti Nykänen",
+      "Birger Ruud"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/sporting-innovations"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-007",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Ekspert",
+    "question": "Z jakiego kraju pochodził Andreas Dascher, pionier techniki skoków narciarskich z lat 50. XX wieku?",
+    "answers": [
+      "Szwajcaria",
+      "Szwecja",
+      "Finlandia",
+      "Norwegia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/sporting-innovations"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-008",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Który kraj reprezentował Simon Ammann, czterokrotny indywidualny mistrz olimpijski w skokach?",
+    "answers": [
+      "Szwajcarię",
+      "Austrię",
+      "Niemcy",
+      "Norwegię"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jumping-takes-off-as-a-year-round-sport"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-009",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "W jakim roku rozegrano pierwszy olimpijski konkurs skoków narciarskich kobiet?",
+    "answers": [
+      "2014",
+      "2010",
+      "2018",
+      "2022"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jumping-takes-off-as-a-year-round-sport"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-010",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Jakie dwa rodzaje skoczni przyniosły Kamilowi Stochowi złote medale w Soczi 2014?",
+    "answers": [
+      "Normalna i duża",
+      "Dwie duże",
+      "Normalna i mamucia",
+      "Dwie normalne"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/polish-president-andrzej-duda-welcomed-by-ioc-president-thomas-bach-in-lausanne"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-011",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ile srebrnych medali olimpijskich zdobył Wojciech Zabłocki w drużynowej szabli?",
+    "answers": [
+      "Dwa",
+      "Jeden",
+      "Trzy",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/noc-news/poland"
   }
 ]
