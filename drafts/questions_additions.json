@@ -14510,5 +14510,149 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "GS-N20261120-2003-001",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Łatwy",
+    "question": "W którym kraju Kamil Stoch zdobył dwa indywidualne złote medale olimpijskie w 2014 roku?",
+    "answers": [
+      "Rosja",
+      "Norwegia",
+      "Japonia",
+      "Kanada"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/magic-moments-a-glance-back-at-sochi-2014"
+  },
+  {
+    "id": "GS-N20261120-2003-002",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Który fiński skoczek zdobył dwa indywidualne złota na igrzyskach w Calgary w 1988 roku?",
+    "answers": [
+      "Janne Ahonen",
+      "Matti Nykänen",
+      "Jari Puikkonen",
+      "Toni Nieminen"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/magic-moments-a-glance-back-at-sochi-2014"
+  },
+  {
+    "id": "GS-N20261120-2003-003",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Łatwy",
+    "question": "Jakiej narodowości był Simon Ammann, który dwukrotnie zdobył oba indywidualne złota na jednych igrzyskach?",
+    "answers": [
+      "Austriackiej",
+      "Niemieckiej",
+      "Szwajcarskiej",
+      "Słoweńskiej"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/magic-moments-a-glance-back-at-sochi-2014"
+  },
+  {
+    "id": "GS-N20261120-2003-004",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Na której skoczni w Sapporo 1972 rozgrywano olimpijski konkurs na obiekcie 90-metrowym?",
+    "answers": [
+      "Miyanomori",
+      "Okurayama",
+      "Hakuba",
+      "Ōkurayama w Nagano"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jump-venues"
+  },
+  {
+    "id": "GS-N20261120-2003-005",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "W którym roku powstała pierwotna skocznia Okurayama w Sapporo?",
+    "answers": [
+      "1931",
+      "1952",
+      "1968",
+      "1972"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jump-venues"
+  },
+  {
+    "id": "GS-N20261120-2003-006",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Jak nazywał się fundator, od którego nazwiska pochodzi nazwa skoczni Okurayama?",
+    "answers": [
+      "Kishichiro Okura",
+      "Yukio Kasaya",
+      "Masahiko Harada",
+      "Noriaki Kasai"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jump-venues"
+  },
+  {
+    "id": "GS-N20261120-2003-010",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Na ilu igrzyskach olimpijskich wystąpiła Irena Szewińska?",
+    "answers": [
+      "Trzech",
+      "Czterech",
+      "Pięciu",
+      "Sześciu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/death-of-irena-szewinska-ioc-member"
+  },
+  {
+    "id": "GS-N20261120-2003-011",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Ile tytułów mistrzyni Polski zdobyła Irena Szewińska według biografii MKOl?",
+    "answers": [
+      "16",
+      "21",
+      "26",
+      "31"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/death-of-irena-szewinska-ioc-member"
+  },
+  {
+    "id": "GS-N20261120-2003-012",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W ilu konkurencjach biegowych Irena Szewińska ustanawiała rekordy świata według MKOl?",
+    "answers": [
+      "Dwóch",
+      "Trzech",
+      "Czterech",
+      "Pięciu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/death-of-irena-szewinska-ioc-member"
   }
 ]
