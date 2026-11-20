@@ -10478,5 +10478,341 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
+  },
+  {
+    "id": "GS-20261120-BAL3-001",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakim mieście odbywały się regaty żeglarskie igrzysk olimpijskich Paryż 2024?",
+    "answers": [
+      "Marsylia",
+      "Nicea",
+      "Hawr",
+      "Brest"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympedia.org/editions/63/sports/SAL"
+  },
+  {
+    "id": "GS-20261120-BAL3-002",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile kompletów medali rozdano w żeglarstwie podczas igrzysk w Paryżu w 2024 roku?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-003",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył złoto w męskim windsurfingu iQFOiL na igrzyskach w 2024 roku?",
+    "answers": [
+      "Australia",
+      "Izrael",
+      "Włochy",
+      "Holandia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-004",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijską rywalizację kobiet w windsurfingu iQFOiL w Paryżu 2024?",
+    "answers": [
+      "Sharon Kantor",
+      "Emma Wilson",
+      "Marta Maggetti",
+      "Lauriane Nolot"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-005",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto wywalczył złoto w pierwszej olimpijskiej rywalizacji mężczyzn w kiteboardingu w 2024 roku?",
+    "answers": [
+      "Toni Vodišek",
+      "Max Maeder",
+      "Valentin Bontus",
+      "Tom Reuveny"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-006",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka została pierwszą mistrzynią olimpijską w kobiecym kiteboardingu w 2024 roku?",
+    "answers": [
+      "Eleanor Aldridge",
+      "Lauriane Nolot",
+      "Annelous Lammerts",
+      "Marta Maggetti"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-007",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaki medal w męskim kiteboardingu w Paryżu 2024 zdobył reprezentant Singapuru Max Maeder?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żadnego"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-008",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył olimpijskie złoto w klasie ILCA 7 mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Pavlos Kontides",
+      "Matt Wearn",
+      "Stefano Peschiera",
+      "Grae Morris"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-009",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która żeglarka zdobyła złoty medal olimpijski w klasie ILCA 6 kobiet w 2024 roku?",
+    "answers": [
+      "Anne-Marie Rindom",
+      "Line Flem Høst",
+      "Marit Bouwmeester",
+      "Odile van Aanholt"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-010",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Z jakiego kraju pochodził Stefano Peschiera, brązowy medalista olimpijski w klasie ILCA 7 w 2024 roku?",
+    "answers": [
+      "Chile",
+      "Peru",
+      "Urugwaj",
+      "Ekwador"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympedia.org/editions/63/sports/SAL"
+  },
+  {
+    "id": "GS-20261120-BAL3-011",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj reprezentowała zwycięska załoga męskiej klasy 49er na igrzyskach Paryż 2024?",
+    "answers": [
+      "Hiszpania",
+      "Nowa Zelandia",
+      "USA",
+      "Szwecja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-012",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaki kraj reprezentowały Odile van Aanholt i Annette Duetz, mistrzynie olimpijskie klasy 49er FX w 2024 roku?",
+    "answers": [
+      "Dania",
+      "Szwecja",
+      "Holandia",
+      "Francja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-013",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zwyciężył w olimpijskiej mieszanej klasie 470 w Paryżu 2024?",
+    "answers": [
+      "Keiju Okada i Miho Yoshioka",
+      "Lara Vadlau i Lukas Mähr",
+      "Anton Dahlberg i Lovisa Karlsson",
+      "Ruggero Tita i Caterina Banti"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-014",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która para zdobyła złoto w mieszanej klasie Nacra 17 podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Mateo Majdalani i Eugenia Bosco",
+      "Micah Wilkinson i Erica Dawson",
+      "Ruggero Tita i Caterina Banti",
+      "Lara Vadlau i Lukas Mähr"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-015",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaki sprzęt wykorzystuje olimpijska konkurencja kiteboarding?",
+    "answers": [
+      "Deską ciągniętą przez latawiec",
+      "Kajakiem z wiosłem",
+      "Jednoosobowym katamaranem",
+      "Łodzią z silnikiem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-016",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się sprzęt windsurfingowy zastosowany na igrzyskach Paryż 2024?",
+    "answers": [
+      "RS:X",
+      "iQFOiL",
+      "Finn",
+      "470"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-017",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która klasa łodzi służyła kobietom do rywalizacji jednoosobowej na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "ILCA 7",
+      "Nacra 17",
+      "ILCA 6",
+      "49er"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-018",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która olimpijska klasa w 2024 roku była mieszana, zamiast dawnych osobnych konkurencji kobiet i mężczyzn?",
+    "answers": [
+      "470",
+      "49er FX",
+      "ILCA 7",
+      "iQFOiL"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympedia.org/editions/63/sports/SAL"
+  },
+  {
+    "id": "GS-20261120-BAL3-019",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Z jakim krajem Francja wygrała finał olimpijskiego turnieju drużyn mieszanych w judo w Paryżu 2024?",
+    "answers": [
+      "Brazylią",
+      "Japonią",
+      "Koreą Południową",
+      "Gruzją"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "GS-20261120-BAL3-020",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył decydujący punkt dla Francji w finale olimpijskich drużyn mieszanych judo w Paryżu 2024?",
+    "answers": [
+      "Joan-Benjamin Gaba",
+      "Clarisse Agbegnenou",
+      "Teddy Riner",
+      "Luka Mkheidze"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "GS-20261120-BAL3-021",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Ile medali w judo zdobyła Francja na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
   }
 ]
