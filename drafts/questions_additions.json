@@ -13502,5 +13502,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/noc-news/poland"
+  },
+  {
+    "id": "SPORT-N20261120-R11-001",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Jak zmienia się kolejność serwowania w tenisie stołowym po wyniku 10:10 w secie?",
+    "answers": [
+      "Serw co jeden punkt",
+      "Serw co dwa punkty",
+      "Serw co trzy punkty",
+      "Serw co cztery punkty"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-002",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "Jaki minimalny odstęp punktowy musi uzyskać zwycięzca seta przy stanie 10:10 w tenisie stołowym?",
+    "answers": [
+      "Jeden punkt",
+      "Dwa punkty",
+      "Trzy punkty",
+      "Cztery punkty"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-003",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Na jaką minimalną wysokość trzeba podrzucić piłeczkę przy prawidłowym serwisie w tenisie stołowym?",
+    "answers": [
+      "10 cm",
+      "12 cm",
+      "16 cm",
+      "20 cm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-004",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jaką średnicę ma standardowa plastikowa piłeczka do tenisa stołowego oznaczona 40+?",
+    "answers": [
+      "38 mm",
+      "39 mm",
+      "40 mm",
+      "42 mm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-005",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Jakiej wysokości jest siatka do tenisa stołowego według podstawowych przepisów?",
+    "answers": [
+      "12,25 cm",
+      "15,25 cm",
+      "17,25 cm",
+      "20,25 cm"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-006",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "Ile setów musi wygrać zawodnik w meczu tenisa stołowego rozgrywanym do czterech wygranych setów?",
+    "answers": [
+      "Dwa",
+      "Trzy",
+      "Cztery",
+      "Pięć"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-007",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Co przewidują przepisy tenisa stołowego, gdy prawidłowy serwis dotknie siatki i trafi na właściwą połowę stołu?",
+    "answers": [
+      "Punkt dla odbierającego",
+      "Powtórzenie serwisu",
+      "Punkt dla serwującego",
+      "Zmianę stron"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-008",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Gdzie względem końcowej krawędzi stołu musi nastąpić kontakt rakietki z piłeczką przy serwisie?",
+    "answers": [
+      "Za linią końcową",
+      "Nad środkiem stołu",
+      "Nad siatką",
+      "Przed linią końcową"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-009",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Jaki minimalny wiek przewidywały przepisy World Triathlon z 2025 r. dla startu na dystansie standardowym?",
+    "answers": [
+      "15 lat",
+      "16 lat",
+      "17 lat",
+      "18 lat"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-010",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jaki minimalny wiek przewidywały przepisy World Triathlon z 2025 r. dla startu na dystansie sprint?",
+    "answers": [
+      "15 lat",
+      "16 lat",
+      "17 lat",
+      "18 lat"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-011",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaki maksymalny dystans pływacki określono w 2025 r. dla triathlonu na dystansie super sprint?",
+    "answers": [
+      "300 m",
+      "400 m",
+      "500 m",
+      "750 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-012",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Jaki maksymalny dystans rowerowy określono w 2025 r. dla triathlonu na dystansie super sprint?",
+    "answers": [
+      "10 km",
+      "13 km",
+      "15 km",
+      "20 km"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-013",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Ile kilometrów biegu przewiduje standardowy dystans triathlonu według przepisów World Triathlon z 2025 r.?",
+    "answers": [
+      "5 km",
+      "8 km",
+      "10 km",
+      "15 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-014",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Jaki zakres długości etapu rowerowego określono w 2025 r. dla triathlonu na dystansie średnim?",
+    "answers": [
+      "40–60 km",
+      "60–70 km",
+      "80–90 km",
+      "100–120 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-015",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaki minimalny dystans pływacki przewidują przepisy World Triathlon z 2025 r. dla dystansu długiego?",
+    "answers": [
+      "1900 m",
+      "2500 m",
+      "3000 m",
+      "4000 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-016",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile wynosiła od 27 lutego 2025 r. kara czasowa za naruszenie zasad draftingu na dystansie sprint według World Triathlon?",
+    "answers": [
+      "10 sekund",
+      "20 sekund",
+      "30 sekund",
+      "60 sekund"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-017",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Ile wynosiła od 27 lutego 2025 r. kara czasowa za drafting na dystansie średnim według World Triathlon?",
+    "answers": [
+      "1 minuta",
+      "2 minuty",
+      "3 minuty",
+      "5 minut"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-018",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaką długość strefy draftingu przyjęto od 27 lutego 2025 r. w przepisach World Triathlon?",
+    "answers": [
+      "7 m",
+      "10 m",
+      "12 m",
+      "15 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-019",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile sekund przewidziano od 27 lutego 2025 r. na wyprzedzenie zawodnika w strefie draftingu według World Triathlon?",
+    "answers": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-020",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaką karę czasową za inne naruszenia przepisów wprowadzono dla super sprintu w regulacjach World Triathlon z 2025 r.?",
+    "answers": [
+      "5 sekund",
+      "10 sekund",
+      "15 sekund",
+      "30 sekund"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
   }
 ]
