@@ -11742,5 +11742,325 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A12-001",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Na jaką odległość strzelają zawodnicy z łuku klasycznego (recurve) w międzynarodowym łucznictwie tarczowym na otwartym stadionie?",
+    "answers": [
+      "50 m",
+      "60 m",
+      "70 m",
+      "90 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-002",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Jaką średnicę ma tarcza w międzynarodowej konkurencji recurve na 70 metrów?",
+    "answers": [
+      "80 cm",
+      "100 cm",
+      "122 cm",
+      "150 cm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-003",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile strzał oddaje łucznik recurve podczas rundy kwalifikacyjnej w zawodach międzynarodowych?",
+    "answers": [
+      "36",
+      "60",
+      "72",
+      "90"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-004",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Do ilu punktów setowych gra się indywidualny mecz recurve w systemie World Archery?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-005",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile punktów setowych otrzymuje łucznik recurve za wygranie seta w pojedynku indywidualnym?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-006",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile strzał oddaje jeden zawodnik w secie indywidualnego meczu recurve?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-007",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Ile strzał łącznie oddaje drużyna mieszana recurve w jednym secie meczu?",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-008",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Z jakiej odległości strzelają zawodnicy z łuku bloczkowego (compound) w międzynarodowym łucznictwie tarczowym?",
+    "answers": [
+      "30 m",
+      "50 m",
+      "60 m",
+      "70 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/news/201820/beginners-guide-tlaxcala-2024-hyundai-archery-world-cup-final"
+  },
+  {
+    "id": "SPORT-N20261120-A12-009",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Ile strzał obejmuje mecz indywidualny compound rozgrywany według punktacji sumarycznej?",
+    "answers": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/news/201820/beginners-guide-tlaxcala-2024-hyundai-archery-world-cup-final"
+  },
+  {
+    "id": "SPORT-N20261120-A12-010",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Który kolor na tarczy łuczniczej odpowiada pierścieniom za 7 i 8 punktów?",
+    "answers": [
+      "Żółty",
+      "Czerwony",
+      "Niebieski",
+      "Czarny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/disciplines/target-archery"
+  },
+  {
+    "id": "SPORT-N20261120-A12-011",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się bój, w którym sztangę przenosi się z pomostu nad głowę jednym ciągłym ruchem?",
+    "answers": [
+      "Podrzut",
+      "Rwanie",
+      "Wyciskanie",
+      "Zarzut"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/2025/03/29/iwf120y-47-2025-knowing-one-of-the-basic-lifts-snatch/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-012",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Który bój odbywa się jako pierwszy w zawodach podnoszenia ciężarów według IWF?",
+    "answers": [
+      "Podrzut",
+      "Rwanie",
+      "Wyciskanie",
+      "Zarzut"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-013",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile prób rwania przysługuje zawodnikowi w standardowych zawodach IWF?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-014",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile prób podrzutu przysługuje zawodnikowi w standardowych zawodach IWF?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-015",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile minut przed startem danej grupy zawodników rozpoczyna się oficjalne ważenie według IWF?",
+    "answers": [
+      "60",
+      "90",
+      "120",
+      "180"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-016",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile trwa oficjalne ważenie grupy zawodników w zawodach IWF?",
+    "answers": [
+      "30 minut",
+      "45 minut",
+      "60 minut",
+      "90 minut"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-017",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile czasu na wykonanie próby ma ciężarowiec, gdy wykonuje dwie próby bezpośrednio po sobie?",
+    "answers": [
+      "1 minutę",
+      "2 minuty",
+      "3 minuty",
+      "4 minuty"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-018",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jak oblicza się wynik dwuboju w podnoszeniu ciężarów według przepisów IWF z 2025 roku?",
+    "answers": [
+      "Sumuje się wszystkie udane próby",
+      "Sumuje się najlepsze rwanie i najlepszy podrzut",
+      "Liczy się tylko cięższy z dwóch bojów",
+      "Uśrednia się dwie najlepsze próby"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/2025/11/05/updated-iwf-tcrr-is-now-available/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-019",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jaki minimalny wzrost ciężaru obowiązuje przy automatycznym podniesieniu sztangi po udanej próbie w zawodach IWF?",
+    "answers": [
+      "0,5 kg",
+      "1 kg",
+      "2 kg",
+      "5 kg"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-020",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile minut przerwy przewiduje opis przebiegu zawodów IWF między rwaniem a podrzutem?",
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
   }
 ]
