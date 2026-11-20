@@ -12062,5 +12062,325 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A13-001",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Który styl zapasów olimpijskich zabrania aktywnego używania nóg do wykonania akcji?",
+    "answers": [
+      "Styl klasyczny",
+      "Styl wolny",
+      "Zapasy kobiet",
+      "Zapasy plażowe"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-002",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Jaką przewagę punktową trzeba uzyskać w stylu klasycznym, aby wygrać przez przewagę techniczną?",
+    "answers": [
+      "6 punktów",
+      "8 punktów",
+      "10 punktów",
+      "12 punktów"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-003",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Jaka przewaga punktowa kończy walkę przez przewagę techniczną w zapasach w stylu wolnym?",
+    "answers": [
+      "6 punktów",
+      "8 punktów",
+      "10 punktów",
+      "12 punktów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-004",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "W którym olimpijskim stylu zapasów dozwolone są ataki na nogi przeciwnika?",
+    "answers": [
+      "Wyłącznie w stylu klasycznym",
+      "W stylu wolnym",
+      "W żadnym stylu",
+      "Wyłącznie w zapasach plażowych"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-005",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Która technika jest według UWW zabroniona w zapasach kobiet, mimo że inne reguły odpowiadają stylowi wolnemu?",
+    "answers": [
+      "Podwójny nelson (double Nelson)",
+      "Chwyt za nadgarstek",
+      "Obejście za plecy",
+      "Przejście do parteru"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-006",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Która organizacja zarządza międzynarodowymi zapasami olimpijskimi?",
+    "answers": [
+      "World Aquatics",
+      "United World Wrestling",
+      "World Athletics",
+      "International Judo Federation"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-007",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Który styl zapasów olimpijskich pozwala zawodnikom wykorzystywać zarówno ręce, jak i nogi w atakach?",
+    "answers": [
+      "Styl klasyczny",
+      "Styl wolny",
+      "Wyłącznie sumo",
+      "Wyłącznie grappling"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-008",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Jaka jest wysokość standardowej ściany we wspinaczce sportowej na czas?",
+    "answers": [
+      "10 m",
+      "12 m",
+      "15 m",
+      "20 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www1.ifsc-climbing.org/~/speed/index"
+  },
+  {
+    "id": "SPORT-N20261120-A13-009",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Co w finałowym pojedynku wspinaczki na czas decyduje o zwycięstwie?",
+    "answers": [
+      "Liczba chwytów",
+      "Pierwsze dotknięcie panelu mety na szczycie",
+      "Ocena stylu",
+      "Liczba odpoczynków"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www1.ifsc-climbing.org/~/speed/index"
+  },
+  {
+    "id": "SPORT-N20261120-A13-010",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Ile minut ma zawodnik na próbę w konkurencji prowadzenie (lead) według opisu World Climbing?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-011",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Co jest podstawą klasyfikacji w konkurencji prowadzenie (lead)?",
+    "answers": [
+      "Najwyżej osiągnięty chwyt",
+      "Najkrótszy czas wejścia",
+      "Liczba wykonanych skoków",
+      "Liczba wykorzystanych lin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-012",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Co oznacza znak „+” dopisany do wyniku zawodnika w prowadzeniu (lead)?",
+    "answers": [
+      "Przekroczenie limitu czasu",
+      "Ruch w kierunku kolejnego chwytu",
+      "Dotknięcie ściany stopą",
+      "Ukończenie drogi bez liny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-013",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Ile minut trwa wspólna obserwacja drogi przed finałową próbą w prowadzeniu według World Climbing?",
+    "answers": [
+      "3",
+      "4",
+      "6",
+      "10"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-014",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Jakim zabezpieczeniem posługują się zawodnicy w konkurencji prowadzenie (lead)?",
+    "answers": [
+      "Liną asekuracyjną",
+      "Wyłącznie materacem",
+      "Pasem biodrowym bez liny",
+      "Siatką pod ścianą"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-015",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Która konkurencja wspinaczki ma oficjalnie uznawane rekordy świata czasu przejścia trasy?",
+    "answers": [
+      "Bouldering",
+      "Prowadzenie",
+      "Wspinaczka na czas",
+      "Kombinacja boulder i prowadzenie"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www1.ifsc-climbing.org/~/speed/index"
+  },
+  {
+    "id": "SPORT-N20261120-A13-016",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Ile osób tworzy drużynę triathlonowej sztafety mieszanej?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-017",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się w triathlonie linia, za którą wolno dopiero wsiąść na rower?",
+    "answers": [
+      "Finish line",
+      "Mount line",
+      "Start line",
+      "Penalty line"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-018",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się w triathlonie wydzielone miejsce odbywania kary czasowej?",
+    "answers": [
+      "Penalty box",
+      "Start gate",
+      "Feed zone",
+      "Finish chute"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-019",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile kilometrów wynosi odcinek rowerowy w długim triathlonie opisanym w słowniku World Triathlon (4 km pływania, 30 km biegu)?",
+    "answers": [
+      "90 km",
+      "100 km",
+      "120 km",
+      "180 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-020",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Jaką czynność wykonuje każdy uczestnik triathlonowej sztafety mieszanej przed przekazaniem zmiany?",
+    "answers": [
+      "Pływanie, jazdę na rowerze i bieg",
+      "Tylko pływanie",
+      "Tylko jazdę na rowerze",
+      "Pływanie i bieg bez roweru"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
   }
 ]
