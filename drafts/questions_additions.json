@@ -14190,5 +14190,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.ittf.com/2016/12/06/raise-glass-90-years-ago-today-first-ball-struck-world-championships/"
+  },
+  {
+    "id": "SPORT-N20261120-R13-002",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Ilu łącznie uczestników przewidywał olimpijski turniej breakingu w Paryżu 2024?",
+    "answers": [
+      "32",
+      "16",
+      "48",
+      "64"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-003",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "W jakiej formule odbywały się olimpijskie pojedynki breakingowe w Paryżu 2024?",
+    "answers": [
+      "Indywidualne bitwy",
+      "Duety mieszane",
+      "Drużyny pięcioosobowe",
+      "Sztafety"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-004",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "W jakim mieście przedstawiono alaskańską scenę breakingu w serii Breaking Life?",
+    "answers": [
+      "Anchorage",
+      "Juneau",
+      "Fairbanks",
+      "Nome"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-005",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Jak nazywa się dokumentalna seria olimpijska poświęcona kulturze breakingu?",
+    "answers": [
+      "Breaking Life",
+      "Dance Olympic",
+      "Urban Rhythm",
+      "Battle Stories"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-006",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Ekspert",
+    "question": "Która kolumbijska organizacja edukacyjna pojawia się w olimpijskiej serii Breaking Life?",
+    "answers": [
+      "4ESKuela",
+      "Ballet Nacional",
+      "Casa del Ritmo",
+      "Escuela Andina"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-007",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Który B-Boy wygrał etap kwalifikacji olimpijskich w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Lee",
+      "Victor",
+      "Phil Wizard",
+      "Dany Dann"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-008",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Która B-Girl wygrała budapeszteński etap kwalifikacji olimpijskich 2024?",
+    "answers": [
+      "Ami",
+      "Nicka",
+      "India",
+      "671"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-009",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "W jakim mieście odbył się pierwszy etap Olympic Qualifier Series 2024 przed Budapesztem?",
+    "answers": [
+      "Szanghaj",
+      "Osaka",
+      "Seul",
+      "Londyn"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-010",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "W którym roku badminton po raz pierwszy znalazł się w programie igrzysk jako sport medalowy?",
+    "answers": [
+      "1992",
+      "1984",
+      "1996",
+      "2000"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-011",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Które miasto gościło olimpijski debiut badmintona jako dyscypliny medalowej?",
+    "answers": [
+      "Barcelona",
+      "Atlanta",
+      "Seul",
+      "Sydney"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-012",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Ile łącznie miejsc startowych przewidziano w badmintonie na igrzyska Paryż 2024?",
+    "answers": [
+      "172",
+      "128",
+      "192",
+      "160"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-013",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Na jaki dzień ustalono ranking kwalifikacyjny do turnieju badmintona Paryż 2024?",
+    "answers": [
+      "30 kwietnia 2024",
+      "1 stycznia 2024",
+      "30 czerwca 2024",
+      "31 grudnia 2023"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-014",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Ile par rywalizowało w każdej z trzech konkurencji deblowych badmintona na igrzyskach Paryż 2024?",
+    "answers": [
+      "16",
+      "8",
+      "24",
+      "32"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-015",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Ekspert",
+    "question": "Który turniej drużynowy badmintona zaliczano do rankingu kwalifikacyjnego Paryż 2024?",
+    "answers": [
+      "Puchar Sudirmana",
+      "Puchar Davisa",
+      "Puchar Hopmana",
+      "Puchar Laver"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-016",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Który Duńczyk obronił olimpijski tytuł w badmintonowym singlu mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Viktor Axelsen",
+      "Anders Antonsen",
+      "Peter Gade",
+      "Jan Ø. Jørgensen"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-017",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła złoto w deblu kobiet na igrzyskach Tokio 2020?",
+    "answers": [
+      "Greysia Polii i Apriyani Rahayu",
+      "Chen Qingchen i Jia Yifan",
+      "Kim So-yeong i Kong Hee-yong",
+      "Yuki Fukushima i Sayaka Hirota"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-018",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył złoto w mikście badmintona na igrzyskach Tokio 2020?",
+    "answers": [
+      "Chiny",
+      "Japonia",
+      "Indonezja",
+      "Korea Południowa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-019",
+    "region": "Polska",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Która Polka wygrała zawody wspinaczki na czas podczas kwalifikacji olimpijskich w Budapeszcie 2024?",
+    "answers": [
+      "Aleksandra Kałucka",
+      "Aleksandra Mirosław",
+      "Natalia Kałucka",
+      "Kinga Ociepka-Grzegulska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-020",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał męską konkurencję boulder i prowadzenie w budapeszteńskim etapie OQS 2024?",
+    "answers": [
+      "Sam Avezou",
+      "Adam Ondra",
+      "Jakob Schubert",
+      "Toby Roberts"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-021",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał kobiecą konkurencję boulder i prowadzenie w Budapeszcie podczas OQS 2024?",
+    "answers": [
+      "Brooke Raboutou",
+      "Janja Garnbret",
+      "Natalia Grossman",
+      "Ai Mori"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
   }
 ]
