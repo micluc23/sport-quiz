@@ -15902,5 +15902,309 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://www.bbc.co.uk/sport/articles/cw88dlxd7gwo"
+  },
+  {
+    "id": "GS-N20261121-0056-001",
+    "region": "Polska",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Który polski judoka zdobył złoto olimpijskie w Atlancie w 1996 roku?",
+    "answers": [
+      "Paweł Nastula",
+      "Janusz Pawłowski",
+      "Waldemar Legień",
+      "Tomasz Kowalski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-002",
+    "region": "Polska",
+    "sport": "Judo",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal w judo zdobyła Aneta Szczepańska na igrzyskach Atlanta 1996?",
+    "answers": [
+      "Złoty",
+      "Brązowy",
+      "Srebrny",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-003",
+    "region": "Polska",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej klasie żeglarskiej Mateusz Kusznierewicz zdobył złoto olimpijskie w Atlancie 1996?",
+    "answers": [
+      "Laser",
+      "Finn",
+      "470",
+      "Star"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-004",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal zdobyła polska kobieca drużyna łucznicza na igrzyskach Atlanta 1996?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żadnego"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-005",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Która z zawodniczek należała do brązowej polskiej drużyny łuczniczej w Atlancie 1996?",
+    "answers": [
+      "Katarzyna Klata",
+      "Sylwia Gruchała",
+      "Renata Mauer",
+      "Aneta Szczepańska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-006",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Na jakim dystansie Piotr Markiewicz zdobył brąz olimpijski w Atlancie 1996?",
+    "answers": [
+      "K-1 1000 m",
+      "K-2 500 m",
+      "K-1 500 m",
+      "C-1 500 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-007",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "W jakim stylu zapaśniczym Włodzimierz Zawadzki został mistrzem olimpijskim w Atlancie 1996?",
+    "answers": [
+      "Wolnym",
+      "Klasycznym",
+      "Plażowym",
+      "Mieszanym"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-008",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "W jakiej kategorii wagowej Andrzej Wroński zdobył złoto w Atlancie 1996?",
+    "answers": [
+      "Do 62 kg",
+      "Do 74 kg",
+      "Do 90 kg",
+      "Do 100 kg"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-009",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Który polski zapaśnik zdobył srebro w Atlancie 1996 w stylu klasycznym do 90 kg?",
+    "answers": [
+      "Jacek Fafiński",
+      "Józef Tracz",
+      "Ryszard Wolny",
+      "Andrzej Supron"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-010",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej broni polska drużyna mężczyzn zdobyła srebro olimpijskie w Atlancie 1996?",
+    "answers": [
+      "Szpada",
+      "Szabla",
+      "Floret",
+      "Rapier"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-011",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Który z wymienionych szermierzy był członkiem srebrnej drużyny florecistów w Atlancie 1996?",
+    "answers": [
+      "Adam Krzesiński",
+      "Jerzy Pawłowski",
+      "Sylwia Gruchała",
+      "Aleksandra Jarecka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-014",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Krzysztof Kołomański i Michał Staniszewski zdobyli srebro w Sydney 2000?",
+    "answers": [
+      "K-2 500 m",
+      "C-2 slalom",
+      "K-4 1000 m",
+      "C-1 500 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-015",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal wywalczyła polska drużyna florecistek na igrzyskach Sydney 2000?",
+    "answers": [
+      "Brązowy",
+      "Złoty",
+      "Srebrny",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-016",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal zdobyła Agata Wróbel na igrzyskach Sydney 2000?",
+    "answers": [
+      "Brązowy",
+      "Srebrny",
+      "Złoty",
+      "Żadnego"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-017",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "W jakiej kategorii wagowej Szymon Kołecki zdobył srebro olimpijskie w Sydney 2000?",
+    "answers": [
+      "85 kg",
+      "105 kg",
+      "94 kg",
+      "77 kg"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-018",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Kamila Skolimowska została mistrzynią olimpijską w Sydney 2000?",
+    "answers": [
+      "Pchnięcie kulą",
+      "Rzut dyskiem",
+      "Rzut oszczepem",
+      "Rzut młotem"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-019",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "Który dystans chodu Robert Korzeniowski wygrał na igrzyskach Sydney 2000 oprócz 50 km?",
+    "answers": [
+      "10 km",
+      "20 km",
+      "30 km",
+      "Maraton"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-020",
+    "region": "Polska",
+    "sport": "Strzelectwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Renata Mauer-Różańska zdobyła złoto na igrzyskach Sydney 2000?",
+    "answers": [
+      "Skeet",
+      "Pistolet sportowy",
+      "Karabin w trzech postawach",
+      "Trap"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0056-021",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Jaki medal w boksie zdobył Wojciech Bartnik na igrzyskach Barcelona 1992?",
+    "answers": [
+      "Brązowy",
+      "Srebrny",
+      "Złoty",
+      "Żadnego"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
   }
 ]
