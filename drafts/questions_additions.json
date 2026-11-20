@@ -15278,5 +15278,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-PL-20261120-2300-001",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Która z wymienionych łuczniczek zdobyła drużynowy brąz olimpijski w Atlancie w 1996 roku?",
+    "answers": [
+      "Katarzyna Klata",
+      "Sylwia Gruchała",
+      "Agata Wróbel",
+      "Anna Puławska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-002",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji polskie łuczniczki zdobyły brąz na igrzyskach Atlanta 1996?",
+    "answers": [
+      "Indywidualnej kobiet",
+      "Drużynowej kobiet",
+      "Mikście",
+      "Drużynowej mężczyzn"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-003",
+    "region": "Polska",
+    "sport": "Judo",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal w judo wywalczyła Aneta Szczepańska podczas igrzysk Atlanta 1996?",
+    "answers": [
+      "Złoty",
+      "Brązowy",
+      "Srebrny",
+      "Żadnego"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-004",
+    "region": "Polska",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "W której kategorii wagowej Aneta Szczepańska zdobyła medal olimpijski w Atlancie 1996?",
+    "answers": [
+      "Do 52 kg",
+      "Do 61 kg",
+      "Do 72 kg",
+      "Do 66 kg"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-005",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Który z polskich zapaśników został mistrzem olimpijskim w Atlancie w 1996 roku?",
+    "answers": [
+      "Jacek Fafiński",
+      "Ryszard Wolny",
+      "Józef Tracz",
+      "Aleksander Cichoń"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-006",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakim stylu zapaśniczym Włodzimierz Zawadzki zdobył złoto olimpijskie w Atlancie 1996?",
+    "answers": [
+      "Wolnym",
+      "Plażowym",
+      "Klasycznym",
+      "Sumo"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-007",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobył Jacek Fafiński na igrzyskach w Atlancie w 1996 roku?",
+    "answers": [
+      "Srebrny",
+      "Złoty",
+      "Brązowy",
+      "Nie zdobył medalu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-008",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Która polska sztangistka zdobyła srebrny medal olimpijski w Sydney 2000?",
+    "answers": [
+      "Renata Mauer",
+      "Aneta Szczepańska",
+      "Agata Wróbel",
+      "Anna Puławska"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-009",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobył Andrzej Cofalik w podnoszeniu ciężarów podczas igrzysk Atlanta 1996?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Nie zdobył medalu",
+      "Brązowy"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-010",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Który polski kajakarz zdobył brąz olimpijski w konkurencji K-1 500 m w Atlancie 1996?",
+    "answers": [
+      "Piotr Markiewicz",
+      "Grzegorz Kotowicz",
+      "Michał Staniszewski",
+      "Marek Dopierała"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-011",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Jaki medal w kajakarstwie górskim C-2 zdobyli Krzysztof Kołomański i Michał Staniszewski w Sydney 2000?",
+    "answers": [
+      "Brązowy",
+      "Srebrny",
+      "Złoty",
+      "Nie zdobyli medalu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-012",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej dyscyplinie Tomasz Kucharski i Robert Sycz zdobyli złoto olimpijskie w Sydney 2000?",
+    "answers": [
+      "Kajakarstwie",
+      "Żeglarstwie",
+      "Wioślarstwie",
+      "Pływaniu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-013",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "W jakiej osadzie Tomasz Kucharski i Robert Sycz wygrali olimpijskie złoto w Sydney 2000?",
+    "answers": [
+      "Czwórce bez sternika",
+      "Jedynce",
+      "Ósemce",
+      "Dwójce podwójnej wagi lekkiej"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-PL-20261120-2300-014",
+    "region": "Polska",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej klasie żeglarskiej Agnieszka Skrzypulec i Jolanta Ogar zdobyły srebro w Tokio 2020?",
+    "answers": [
+      "470",
+      "Finn",
+      "Laser",
+      "49er"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-PL-20261120-2300-015",
+    "region": "Polska",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobyły Agnieszka Skrzypulec i Jolanta Ogar na igrzyskach Tokio 2020?",
+    "answers": [
+      "Brązowy",
+      "Srebrny",
+      "Złoty",
+      "Nie zdobyły medalu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-PL-20261120-2300-016",
+    "region": "Polska",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Która Polka wygrała wspinaczkę na czas podczas Igrzysk Europejskich Kraków–Małopolska 2023?",
+    "answers": [
+      "Aleksandra Mirosław",
+      "Natalia Partyka",
+      "Natalia Kałucka",
+      "Iga Świątek"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/european_games/krakow-malopolska-2023/medale-polakow/"
+  },
+  {
+    "id": "GS-PL-20261120-2300-017",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Który polski florecista zdobył złoty medal na Igrzyskach Europejskich 2023?",
+    "answers": [
+      "Piotr Kiełpikowski",
+      "Ryszard Sobczak",
+      "Adam Krzesiński",
+      "Michał Siess"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/european_games/krakow-malopolska-2023/medale-polakow/"
+  },
+  {
+    "id": "GS-PL-20261120-2300-018",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Która Polka zdobyła złoto we florecie na Igrzyskach Europejskich Kraków–Małopolska 2023?",
+    "answers": [
+      "Julia Walczyk-Klimaszyk",
+      "Sylwia Gruchała",
+      "Aleksandra Jarecka",
+      "Anna Rybicka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/european_games/krakow-malopolska-2023/medale-polakow/"
+  },
+  {
+    "id": "GS-PL-20261120-2300-019",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Która polska osada wygrała K-2 na 500 m podczas Igrzysk Europejskich 2023?",
+    "answers": [
+      "Anna Puławska i Dominika Putto",
+      "Karolina Naja i Anna Puławska",
+      "Dorota Borowska i Adrianna Kąkol",
+      "Justyna Iskrzycka i Helena Wiśniewska"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/european_games/krakow-malopolska-2023/medale-polakow/"
+  },
+  {
+    "id": "GS-PL-20261120-2300-020",
+    "region": "Polska",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Który polski pływak został laureatem nagrody Nadzieje Olimpijskie im. Eugeniusza Pietrasika za 2022 rok?",
+    "answers": [
+      "Paweł Korzeniowski",
+      "Konrad Czerniak",
+      "Ksawery Masiuk",
+      "Radosław Kawęcki"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://olimpijski.pl/pkol/projekty-i-konkursy/nagroda-im-eugeniusza-pietrasika/"
   }
 ]
