@@ -16894,5 +16894,4245 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-19",
     "source": "https://www.olympedia.org/editions/62/sports/SSK"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz został MVP sezonu zasadniczego NBA 2010/11?",
+    "answers": [
+      "LeBron James",
+      "Derrick Rose",
+      "Kobe Bryant",
+      "Dwight Howard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik zdobył nagrodę MVP NBA w sezonie 2000/01?",
+    "answers": [
+      "Allen Iverson",
+      "Tim Duncan",
+      "Shaquille O'Neal",
+      "Jason Kidd"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto był MVP sezonu zasadniczego NBA 2003/04?",
+    "answers": [
+      "Steve Nash",
+      "Tim Duncan",
+      "Tracy McGrady",
+      "Kevin Garnett"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto został MVP NBA w sezonie 1992/93?",
+    "answers": [
+      "Michael Jordan",
+      "Hakeem Olajuwon",
+      "Charles Barkley",
+      "Karl Malone"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył nagrodę MVP sezonu zasadniczego NBA 1994/95?",
+    "answers": [
+      "Hakeem Olajuwon",
+      "David Robinson",
+      "Shaquille O'Neal",
+      "Patrick Ewing"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył MVP sezonu zasadniczego NBA 2006/07?",
+    "answers": [
+      "Dirk Nowitzki",
+      "Steve Nash",
+      "Kobe Bryant",
+      "LeBron James"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został MVP NBA w sezonie 2017/18?",
+    "answers": [
+      "Russell Westbrook",
+      "Stephen Curry",
+      "Kevin Durant",
+      "James Harden"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył MVP NBA w sezonie 2016/17?",
+    "answers": [
+      "James Harden",
+      "Kawhi Leonard",
+      "Russell Westbrook",
+      "LeBron James"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-mvp-award-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik otrzymał MVP finałów NBA w 1988 roku?",
+    "answers": [
+      "Magic Johnson",
+      "James Worthy",
+      "Isiah Thomas",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był MVP finałów NBA w 1979 roku?",
+    "answers": [
+      "Dennis Johnson",
+      "Gus Williams",
+      "Jack Sikma",
+      "Wes Unseld"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz został MVP finałów NBA w 1975 roku?",
+    "answers": [
+      "Jamaal Wilkes",
+      "Elvin Hayes",
+      "Wes Unseld",
+      "Rick Barry"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył nagrodę MVP finałów NBA w 1981 roku?",
+    "answers": [
+      "Larry Bird",
+      "Robert Parish",
+      "Cedric Maxwell",
+      "Kevin McHale"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę MVP finałów NBA w 1990 roku?",
+    "answers": [
+      "Joe Dumars",
+      "Isiah Thomas",
+      "Dennis Rodman",
+      "Bill Laimbeer"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-finals-mvp-winners"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z kim Chicago Bulls wygrali finały NBA w 1995/96?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Utah Jazz",
+      "Phoenix Suns",
+      "Portland Trail Blazers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który klub przegrał finały NBA 1994/95 z Houston Rockets?",
+    "answers": [
+      "New York Knicks",
+      "Indiana Pacers",
+      "San Antonio Spurs",
+      "Orlando Magic"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który klub przegrał finały NBA 2000/01 z Los Angeles Lakers?",
+    "answers": [
+      "New Jersey Nets",
+      "Indiana Pacers",
+      "Philadelphia 76ers",
+      "Boston Celtics"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna zdobyła mistrzostwo NBA w sezonie 1982/83?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Philadelphia 76ers",
+      "Boston Celtics",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto wygrał finały NBA w sezonie 1978/79?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Washington Bullets",
+      "Portland Trail Blazers",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-NBA-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna została mistrzem NBA w sezonie 2005/06?",
+    "answers": [
+      "Dallas Mavericks",
+      "San Antonio Spurs",
+      "Detroit Pistons",
+      "Miami Heat"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-season-recaps-index"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-001",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "W którym roku PGE Turów Zgorzelec zdobył swoje pierwsze mistrzostwo Polski?",
+    "answers": [
+      "2011",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15582576/upragniony-tytul-turow-zgorzelec-mistrzem-polski"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-002",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kogo PGE Turów Zgorzelec pokonał w finale mistrzostw Polski 2014?",
+    "answers": [
+      "Anwil Włocławek",
+      "Śląsk Wrocław",
+      "Trefl Sopot",
+      "Stelmet Zielona Góra"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15582576/upragniony-tytul-turow-zgorzelec-mistrzem-polski"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-003",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Jakim wynikiem w meczach zakończył się finał PLK 2014 wygrany przez Turów?",
+    "answers": [
+      "4:2",
+      "4:0",
+      "4:1",
+      "4:3"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15582576/upragniony-tytul-turow-zgorzelec-mistrzem-polski"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-004",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto prowadził PGE Turów Zgorzelec do mistrzostwa Polski w sezonie 2013/14?",
+    "answers": [
+      "Sašo Filipovski",
+      "Miodrag Rajković",
+      "Andrej Urlep",
+      "Igor Miličić"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/internalfiles/fckfiles/file/dokumenty/Skarb_Kibica_2014-15.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-005",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał tytuł MVP finałów PLK 2014, grając w Turowie?",
+    "answers": [
+      "Damian Kulig",
+      "Michał Chyliński",
+      "Filip Dylewicz",
+      "J.P. Prince"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/internalfiles/fckfiles/file/dokumenty/Skarb_Kibica_2014-15.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-006",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Z którym klubem Turów odniósł pierwsze zwycięstwo w Eurolidze w listopadzie 2014?",
+    "answers": [
+      "FC Barcelona",
+      "Fenerbahçe",
+      "Panathinaikos",
+      "Bayern Monachium"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/aktualnosci/13564/euroliga-pierwsze-zwyciestwo-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-007",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Jaki był wynik pierwszego zwycięskiego meczu Turowa w Eurolidze, przeciwko Bayernowi w 2014 roku?",
+    "answers": [
+      "89:78",
+      "78:89",
+      "91:76",
+      "82:79"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/aktualnosci/13564/euroliga-pierwsze-zwyciestwo-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-008",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów zdobył Damian Kulig w pierwszym wygranym przez Turów meczu Euroligi w 2014 roku?",
+    "answers": [
+      "15",
+      "22",
+      "18",
+      "27"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/aktualnosci/13564/euroliga-pierwsze-zwyciestwo-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-009",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W której grupie Euroligi 2014/15 występował PGE Turów Zgorzelec?",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://sport.tvp.pl/15992580/euroliga-bardzo-trudna-grupa-pge-turowa"
+  },
+  {
+    "id": "SPORT-N20261119-TUROW-010",
+    "region": "Polska",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kogo PGE Turów pokonał w meczu o Superpuchar Polski w październiku 2014 roku?",
+    "answers": [
+      "Stelmet Zielona Góra",
+      "Rosa Radom",
+      "AZS Koszalin",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://plk.pl/internalfiles/fckfiles/file/biuro_prasowe/KOMUNIKAT%2011%20PODSUMOWANIE%20SEZONU_2014_2015_.pdf"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 2025/26?",
+    "answers": [
+      "Evan Mobley",
+      "Rudy Gobert",
+      "Victor Wembanyama",
+      "Bam Adebayo"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 2024/25?",
+    "answers": [
+      "Victor Wembanyama",
+      "Evan Mobley",
+      "Draymond Green",
+      "Jaren Jackson Jr."
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik otrzymał nagrodę najlepszego obrońcy NBA w sezonie 2023/24?",
+    "answers": [
+      "Rudy Gobert",
+      "Bam Adebayo",
+      "Anthony Davis",
+      "Jaren Jackson Jr."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 2022/23?",
+    "answers": [
+      "Brook Lopez",
+      "Rudy Gobert",
+      "Marcus Smart",
+      "Jaren Jackson Jr."
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Boston Celtics zdobył nagrodę najlepszego obrońcy NBA w sezonie 2021/22?",
+    "answers": [
+      "Jayson Tatum",
+      "Jaylen Brown",
+      "Marcus Smart",
+      "Robert Williams III"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto był najlepszym obrońcą NBA w sezonie 2019/20?",
+    "answers": [
+      "Rudy Gobert",
+      "Giannis Antetokounmpo",
+      "Anthony Davis",
+      "Kawhi Leonard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Golden State Warriors zdobył nagrodę najlepszego obrońcy NBA za sezon 2016/17?",
+    "answers": [
+      "Draymond Green",
+      "Klay Thompson",
+      "Andre Iguodala",
+      "Kevin Durant"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył nagrodę najlepszego obrońcy NBA w sezonie 2013/14?",
+    "answers": [
+      "Marc Gasol",
+      "Dwight Howard",
+      "Tyson Chandler",
+      "Joakim Noah"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 2012/13?",
+    "answers": [
+      "Pau Gasol",
+      "Serge Ibaka",
+      "Marc Gasol",
+      "Roy Hibbert"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który koszykarz New York Knicks zdobył nagrodę najlepszego obrońcy NBA w sezonie 2011/12?",
+    "answers": [
+      "Carmelo Anthony",
+      "Tyson Chandler",
+      "Iman Shumpert",
+      "Amar'e Stoudemire"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 2007/08?",
+    "answers": [
+      "Kevin Garnett",
+      "Paul Pierce",
+      "Tim Duncan",
+      "Ben Wallace"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który gracz Denver Nuggets został najlepszym obrońcą NBA w sezonie 2006/07?",
+    "answers": [
+      "Carmelo Anthony",
+      "Kenyon Martin",
+      "Nené",
+      "Marcus Camby"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 2003/04?",
+    "answers": [
+      "Ben Wallace",
+      "Jermaine O'Neal",
+      "Ron Artest",
+      "Bruce Bowen"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który koszykarz Miami Heat został najlepszym obrońcą NBA w sezonie 1999/2000?",
+    "answers": [
+      "Tim Hardaway",
+      "Alonzo Mourning",
+      "P.J. Brown",
+      "Eddie Jones"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który rozgrywający Seattle SuperSonics zdobył nagrodę najlepszego obrońcy NBA w sezonie 1995/96?",
+    "answers": [
+      "Gary Payton",
+      "Shawn Kemp",
+      "Nate McMillan",
+      "Hersey Hawkins"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto został najlepszym obrońcą NBA w sezonie 1991/92?",
+    "answers": [
+      "Dennis Rodman",
+      "Hakeem Olajuwon",
+      "Patrick Ewing",
+      "David Robinson"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Chicago Bulls zdobył nagrodę najlepszego obrońcy NBA w sezonie 1987/88?",
+    "answers": [
+      "Scottie Pippen",
+      "Dennis Rodman",
+      "Michael Jordan",
+      "Horace Grant"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył nagrodę najlepszego obrońcy NBA w sezonie 1986/87?",
+    "answers": [
+      "Magic Johnson",
+      "Michael Cooper",
+      "Kareem Abdul-Jabbar",
+      "James Worthy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik San Antonio Spurs został najlepszym obrońcą NBA w sezonie 1985/86?",
+    "answers": [
+      "Alvin Robertson",
+      "David Robinson",
+      "George Gervin",
+      "Artis Gilmore"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był najlepszym obrońcą NBA w sezonie 1984/85?",
+    "answers": [
+      "Sidney Moncrief",
+      "Michael Cooper",
+      "Alvin Robertson",
+      "Mark Eaton"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz otrzymał pierwszą w historii nagrodę najlepszego obrońcy NBA za sezon 1982/83?",
+    "answers": [
+      "Mark Eaton",
+      "Dennis Rodman",
+      "Sidney Moncrief",
+      "Michael Jordan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W barwach którego klubu Rudy Gobert zdobył nagrodę najlepszego obrońcy NBA w sezonie 2023/24?",
+    "answers": [
+      "Utah Jazz",
+      "Minnesota Timberwolves",
+      "Denver Nuggets",
+      "San Antonio Spurs"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który klub reprezentował Kawhi Leonard, zdobywając nagrodę najlepszego obrońcy NBA w sezonie 2014/15?",
+    "answers": [
+      "San Antonio Spurs",
+      "Toronto Raptors",
+      "Los Angeles Clippers",
+      "Indiana Pacers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W którym klubie grał Dikembe Mutombo, gdy zdobył nagrodę najlepszego obrońcy NBA w sezonie 1994/95?",
+    "answers": [
+      "Atlanta Hawks",
+      "Philadelphia 76ers",
+      "Houston Rockets",
+      "Denver Nuggets"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-DPOY-025",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zespół reprezentował Ben Wallace, zdobywając nagrodę najlepszego obrońcy NBA w sezonie 2005/06?",
+    "answers": [
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Detroit Pistons",
+      "Orlando Magic"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-defensive-player-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1982/83?",
+    "answers": [
+      "Clifford Robinson",
+      "Bobby Jones",
+      "Bobby Jackson",
+      "James Harden"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1985/86?",
+    "answers": [
+      "Bill Walton",
+      "Dell Curry",
+      "Ben Gordon",
+      "Naz Reid"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1987/88?",
+    "answers": [
+      "Toni Kukoč",
+      "Manu Ginóbili",
+      "Payton Pritchard",
+      "Roy Tarpley"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1992/93?",
+    "answers": [
+      "Darrell Armstrong",
+      "James Harden",
+      "Clifford Robinson",
+      "Bobby Jones"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1993/94?",
+    "answers": [
+      "Bobby Jackson",
+      "Dell Curry",
+      "Naz Reid",
+      "Bill Walton"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1995/96?",
+    "answers": [
+      "Toni Kukoč",
+      "Ben Gordon",
+      "Payton Pritchard",
+      "Roy Tarpley"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 1998/99?",
+    "answers": [
+      "Manu Ginóbili",
+      "Bobby Jones",
+      "Clifford Robinson",
+      "Darrell Armstrong"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2002/03?",
+    "answers": [
+      "James Harden",
+      "Bill Walton",
+      "Bobby Jackson",
+      "Dell Curry"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2004/05?",
+    "answers": [
+      "Naz Reid",
+      "Ben Gordon",
+      "Roy Tarpley",
+      "Toni Kukoč"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2007/08?",
+    "answers": [
+      "Manu Ginóbili",
+      "Payton Pritchard",
+      "Clifford Robinson",
+      "Darrell Armstrong"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2011/12?",
+    "answers": [
+      "Bobby Jones",
+      "Dell Curry",
+      "Bobby Jackson",
+      "James Harden"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2023/24?",
+    "answers": [
+      "Bill Walton",
+      "Toni Kukoč",
+      "Naz Reid",
+      "Ben Gordon"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-SM-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA dla najlepszego rezerwowego (Sixth Man of the Year) w sezonie 2024/25?",
+    "answers": [
+      "Roy Tarpley",
+      "Payton Pritchard",
+      "Darrell Armstrong",
+      "Manu Ginóbili"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://www.nba.com/news/history-sixth-man-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1980/81?",
+    "answers": [
+      "Shaquille O'Neal",
+      "Darrell Griffith",
+      "Michael Carter-Williams",
+      "Paolo Banchero"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1983/84?",
+    "answers": [
+      "Ralph Sampson",
+      "Chris Webber",
+      "Malcolm Brogdon",
+      "Stephon Castle"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1987/88?",
+    "answers": [
+      "Derrick Rose",
+      "Luka Dončić",
+      "Darrell Griffith",
+      "Mark Jackson"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1992/93?",
+    "answers": [
+      "Kyrie Irving",
+      "Paolo Banchero",
+      "Shaquille O'Neal",
+      "Ralph Sampson"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 1993/94?",
+    "answers": [
+      "Michael Carter-Williams",
+      "Chris Webber",
+      "Stephon Castle",
+      "Mark Jackson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2008/09?",
+    "answers": [
+      "Derrick Rose",
+      "Malcolm Brogdon",
+      "Darrell Griffith",
+      "Shaquille O'Neal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2011/12?",
+    "answers": [
+      "Luka Dončić",
+      "Ralph Sampson",
+      "Chris Webber",
+      "Kyrie Irving"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2013/14?",
+    "answers": [
+      "Paolo Banchero",
+      "Mark Jackson",
+      "Michael Carter-Williams",
+      "Derrick Rose"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2016/17?",
+    "answers": [
+      "Stephon Castle",
+      "Malcolm Brogdon",
+      "Shaquille O'Neal",
+      "Kyrie Irving"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2018/19?",
+    "answers": [
+      "Luka Dončić",
+      "Darrell Griffith",
+      "Chris Webber",
+      "Michael Carter-Williams"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2022/23?",
+    "answers": [
+      "Ralph Sampson",
+      "Derrick Rose",
+      "Malcolm Brogdon",
+      "Paolo Banchero"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261119-ROY-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył tytuł debiutanta roku NBA (Rookie of the Year) w sezonie 2024/25?",
+    "answers": [
+      "Mark Jackson",
+      "Kyrie Irving",
+      "Stephon Castle",
+      "Luka Dončić"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-19",
+    "source": "https://api-hub.nba.com/news/history-rookie-of-the-year-winners"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2024 roku?",
+    "answers": [
+      "Zaccharie Risacher",
+      "Cade Cunningham",
+      "Ben Simmons",
+      "Blake Griffin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2023 roku?",
+    "answers": [
+      "Anthony Edwards",
+      "Victor Wembanyama",
+      "Karl-Anthony Towns",
+      "Derrick Rose"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2022 roku?",
+    "answers": [
+      "Zion Williamson",
+      "Andrew Wiggins",
+      "Paolo Banchero",
+      "Greg Oden"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2021 roku?",
+    "answers": [
+      "Deandre Ayton",
+      "Anthony Bennett",
+      "Andrea Bargnani",
+      "Cade Cunningham"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2020 roku?",
+    "answers": [
+      "Anthony Edwards",
+      "Markelle Fultz",
+      "Anthony Davis",
+      "Andrew Bogut"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2019 roku?",
+    "answers": [
+      "Ben Simmons",
+      "Zion Williamson",
+      "Kyrie Irving",
+      "Dwight Howard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2018 roku?",
+    "answers": [
+      "Karl-Anthony Towns",
+      "John Wall",
+      "Deandre Ayton",
+      "LeBron James"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2017 roku?",
+    "answers": [
+      "Andrew Wiggins",
+      "Blake Griffin",
+      "Yao Ming",
+      "Markelle Fultz"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2016 roku?",
+    "answers": [
+      "Ben Simmons",
+      "Anthony Bennett",
+      "Derrick Rose",
+      "Kwame Brown"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2015 roku?",
+    "answers": [
+      "Anthony Davis",
+      "Karl-Anthony Towns",
+      "Greg Oden",
+      "Kenyon Martin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2014 roku?",
+    "answers": [
+      "Kyrie Irving",
+      "Andrea Bargnani",
+      "Andrew Wiggins",
+      "Zaccharie Risacher"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2013 roku?",
+    "answers": [
+      "John Wall",
+      "Andrew Bogut",
+      "Victor Wembanyama",
+      "Anthony Bennett"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2012 roku?",
+    "answers": [
+      "Anthony Davis",
+      "Blake Griffin",
+      "Dwight Howard",
+      "Paolo Banchero"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2011 roku?",
+    "answers": [
+      "Derrick Rose",
+      "Kyrie Irving",
+      "LeBron James",
+      "Cade Cunningham"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2010 roku?",
+    "answers": [
+      "Greg Oden",
+      "Yao Ming",
+      "John Wall",
+      "Anthony Edwards"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2009 roku?",
+    "answers": [
+      "Andrea Bargnani",
+      "Kwame Brown",
+      "Zion Williamson",
+      "Blake Griffin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2008 roku?",
+    "answers": [
+      "Derrick Rose",
+      "Andrew Bogut",
+      "Kenyon Martin",
+      "Deandre Ayton"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2007 roku?",
+    "answers": [
+      "Dwight Howard",
+      "Greg Oden",
+      "Zaccharie Risacher",
+      "Markelle Fultz"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2006 roku?",
+    "answers": [
+      "LeBron James",
+      "Victor Wembanyama",
+      "Andrea Bargnani",
+      "Ben Simmons"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2005 roku?",
+    "answers": [
+      "Yao Ming",
+      "Paolo Banchero",
+      "Karl-Anthony Towns",
+      "Andrew Bogut"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2004 roku?",
+    "answers": [
+      "Dwight Howard",
+      "Kwame Brown",
+      "Cade Cunningham",
+      "Andrew Wiggins"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2003 roku?",
+    "answers": [
+      "Kenyon Martin",
+      "LeBron James",
+      "Anthony Edwards",
+      "Anthony Bennett"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2002 roku?",
+    "answers": [
+      "Zaccharie Risacher",
+      "Zion Williamson",
+      "Yao Ming",
+      "Anthony Davis"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2001 roku?",
+    "answers": [
+      "Victor Wembanyama",
+      "Deandre Ayton",
+      "Kyrie Irving",
+      "Kwame Brown"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-DRAFT-2000",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Którego zawodnika wybrano z pierwszym numerem draftu NBA w 2000 roku?",
+    "answers": [
+      "Kenyon Martin",
+      "Paolo Banchero",
+      "Markelle Fultz",
+      "John Wall"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-draft?vm=r"
+  },
+  {
+    "id": "SPORT-N20261120-REC-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym mieście Wilt Chamberlain zdobył rekordowe 100 punktów w meczu NBA w 1962 roku?",
+    "answers": [
+      "Hershey",
+      "Filadelfia",
+      "Nowy Jork",
+      "Boston"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Przeciwko której drużynie Wilt Chamberlain zdobył 100 punktów 2 marca 1962 roku?",
+    "answers": [
+      "Boston Celtics",
+      "New York Knicks",
+      "Los Angeles Lakers",
+      "Syracuse Nationals"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Ile celnych rzutów wolnych zanotował Wilt Chamberlain podczas meczu na 100 punktów?",
+    "answers": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Ile punktów Kobe Bryant zdobył przeciw Toronto Raptors 22 stycznia 2006 roku?",
+    "answers": [
+      "71",
+      "73",
+      "78",
+      "81"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Miami Heat zdobył 83 punkty przeciw Washington Wizards w marcu 2026 roku?",
+    "answers": [
+      "Bam Adebayo",
+      "Jimmy Butler",
+      "Tyler Herro",
+      "Dwyane Wade"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Przeciw której drużynie Luka Dončić zdobył 73 punkty w styczniu 2024 roku?",
+    "answers": [
+      "Boston Celtics",
+      "Atlanta Hawks",
+      "Phoenix Suns",
+      "New York Knicks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Ile punktów zdobył Joel Embiid przeciw San Antonio Spurs 22 stycznia 2024 roku?",
+    "answers": [
+      "61",
+      "65",
+      "70",
+      "73"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik zdobył 70 punktów w meczu Phoenix Suns z Boston Celtics w marcu 2017 roku?",
+    "answers": [
+      "Chris Paul",
+      "Kevin Durant",
+      "Deandre Ayton",
+      "Devin Booker"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył 63 punkty przeciw Boston Celtics w meczu play-off NBA w 1986 roku?",
+    "answers": [
+      "Michael Jordan",
+      "Larry Bird",
+      "Dominique Wilkins",
+      "Isiah Thomas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik Lakers zdobył 61 punktów przeciw Celtics w piątym meczu finałów NBA 1962?",
+    "answers": [
+      "Jerry West",
+      "Elgin Baylor",
+      "Gail Goodrich",
+      "Wilt Chamberlain"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/most-points-scored-by-a-player-in-an-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile zbiórek miał Wilt Chamberlain w rekordowym meczu z Boston Celtics w listopadzie 1960 roku?",
+    "answers": [
+      "45",
+      "51",
+      "55",
+      "60"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz Boston Celtics zanotował 51 zbiórek w meczu przeciw Syracuse Nationals w 1960 roku?",
+    "answers": [
+      "Bob Cousy",
+      "Tom Heinsohn",
+      "Sam Jones",
+      "Bill Russell"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zebrał 37 piłek w jednym meczu NBA w 1979 roku, ustanawiając najwyższy wynik po połączeniu lig NBA i ABA?",
+    "answers": [
+      "Moses Malone",
+      "Dennis Rodman",
+      "Charles Oakley",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik Chicago Bulls zanotował 35 zbiórek przeciw Cleveland Cavaliers w 1988 roku?",
+    "answers": [
+      "Dennis Rodman",
+      "Charles Oakley",
+      "Horace Grant",
+      "Bill Cartwright"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zebrał 41 piłek w meczu play-off przeciw Celtics 5 kwietnia 1967 roku?",
+    "answers": [
+      "Bill Russell",
+      "Nate Thurmond",
+      "Wilt Chamberlain",
+      "Jerry Lucas"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/the-most-rebounds-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile asyst zanotował Scott Skiles w rekordowym meczu Orlando Magic z Denver Nuggets w 1990 roku?",
+    "answers": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-assists-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Przeciwko jakiej drużynie Scott Skiles ustanowił rekord 30 asyst w grudniu 1990 roku?",
+    "answers": [
+      "Denver Nuggets",
+      "Utah Jazz",
+      "Los Angeles Clippers",
+      "Golden State Warriors"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-assists-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był poprzednim rekordzistą NBA z 29 asystami w jednym meczu, zanim rekord pobił Scott Skiles?",
+    "answers": [
+      "John Stockton",
+      "Kevin Porter",
+      "Magic Johnson",
+      "Isiah Thomas"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-assists-by-a-player-in-a-single-nba-game"
+  },
+  {
+    "id": "SPORT-N20261120-REC-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile punktów zdobył Klay Thompson w jednej kwarcie przeciw Sacramento Kings w styczniu 2015 roku?",
+    "answers": [
+      "29",
+      "33",
+      "37",
+      "40"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn.nba.com/manage/2026/10/2026-27-NBA-Guide_v2.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-REC-020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który gracz Cavaliers zdobył 34 punkty w pierwszej kwarcie meczu z Portland Trail Blazers w 2016 roku?",
+    "answers": [
+      "Kyrie Irving",
+      "LeBron James",
+      "J.R. Smith",
+      "Kevin Love"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn.nba.com/manage/2026/10/2026-27-NBA-Guide_v2.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-REC-021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto jako pierwszy w historii NBA przekroczył 181 triple-double w sezonie zasadniczym, bijąc rekord Oscara Robertsona?",
+    "answers": [
+      "Russell Westbrook",
+      "Nikola Jokić",
+      "LeBron James",
+      "Jason Kidd"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-REC-022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym roku Russell Westbrook pobił rekord Oscara Robertsona w liczbie triple-double w karierze NBA?",
+    "answers": [
+      "2017",
+      "2021",
+      "2023",
+      "2025"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-REC-023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik miał 181 triple-double w karierze, zanim jego rekord pobił Russell Westbrook?",
+    "answers": [
+      "Magic Johnson",
+      "Jason Kidd",
+      "Oscar Robertson",
+      "Larry Bird"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-REC-024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Ile triple-double w karierze NBA zanotował Magic Johnson według historycznego zestawienia NBA?",
+    "answers": [
+      "107",
+      "120",
+      "131",
+      "138"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który koszykarz zdobył nagrodę NBA Most Improved Player za sezon 2024/25?",
+    "answers": [
+      "Dyson Daniels",
+      "Tyrese Maxey",
+      "Jalen Johnson",
+      "Cade Cunningham"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został laureatem nagrody NBA Most Improved Player w sezonie 2023/24?",
+    "answers": [
+      "Jalen Brunson",
+      "Tyrese Maxey",
+      "Coby White",
+      "Alperen Şengün"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który reprezentant Finlandii został najbardziej poprawiającym się graczem NBA w sezonie 2022/23?",
+    "answers": [
+      "Lauri Markkanen",
+      "Sasu Salin",
+      "Mikael Jantunen",
+      "Petteri Koponen"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który gracz Memphis Grizzlies otrzymał nagrodę Most Improved Player za sezon 2021/22?",
+    "answers": [
+      "Desmond Bane",
+      "Jaren Jackson Jr.",
+      "Ja Morant",
+      "Dillon Brooks"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto odebrał nagrodę Most Improved Player NBA w sezonie 2020/21 jako gracz New York Knicks?",
+    "answers": [
+      "RJ Barrett",
+      "Julius Randle",
+      "Immanuel Quickley",
+      "Mitchell Robinson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył nagrodę Most Improved Player NBA w sezonie 2019/20?",
+    "answers": [
+      "Zion Williamson",
+      "Brandon Ingram",
+      "Lonzo Ball",
+      "Jrue Holiday"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Toronto Raptors otrzymał wyróżnienie Most Improved Player za sezon 2018/19?",
+    "answers": [
+      "Fred VanVleet",
+      "OG Anunoby",
+      "Pascal Siakam",
+      "Kyle Lowry"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył nagrodę Most Improved Player w sezonie NBA 2017/18, reprezentując Indiana Pacers?",
+    "answers": [
+      "Myles Turner",
+      "Domantas Sabonis",
+      "Victor Oladipo",
+      "Bojan Bogdanović"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym sezonie Giannis Antetokounmpo został laureatem NBA Most Improved Player?",
+    "answers": [
+      "2014/15",
+      "2016/17",
+      "2018/19",
+      "2020/21"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Portland Trail Blazers zdobył nagrodę Most Improved Player za sezon 2015/16?",
+    "answers": [
+      "Damian Lillard",
+      "CJ McCollum",
+      "Allen Crabbe",
+      "Meyers Leonard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został nagrodzony jako Most Improved Player NBA za sezon 2014/15?",
+    "answers": [
+      "Jimmy Butler",
+      "Kawhi Leonard",
+      "Klay Thompson",
+      "Draymond Green"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W barwach którego klubu Goran Dragić zdobył nagrodę Most Improved Player w sezonie 2013/14?",
+    "answers": [
+      "Miami Heat",
+      "Houston Rockets",
+      "Phoenix Suns",
+      "Toronto Raptors"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Indiana Pacers wygrał NBA Most Improved Player za sezon 2012/13?",
+    "answers": [
+      "Roy Hibbert",
+      "Paul George",
+      "David West",
+      "George Hill"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA Most Improved Player za sezon 2010/11?",
+    "answers": [
+      "Kevin Love",
+      "Blake Griffin",
+      "Kevin Durant",
+      "LaMarcus Aldridge"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Houston Rockets zdobył NBA Most Improved Player w sezonie 2009/10?",
+    "answers": [
+      "Kyle Lowry",
+      "Aaron Brooks",
+      "Luis Scola",
+      "Kevin Martin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym klubie Hedo Türkoğlu grał, gdy zdobył nagrodę Most Improved Player za sezon 2007/08?",
+    "answers": [
+      "Sacramento Kings",
+      "Toronto Raptors",
+      "Orlando Magic",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył nagrodę Most Improved Player w sezonie NBA 2005/06?",
+    "answers": [
+      "Boris Diaw",
+      "Steve Nash",
+      "Amar'e Stoudemire",
+      "Raja Bell"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz Golden State Warriors został Most Improved Player za sezon 2002/03?",
+    "answers": [
+      "Jason Richardson",
+      "Gilbert Arenas",
+      "Antawn Jamison",
+      "Mike Dunleavy Jr."
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Orlando Magic wygrał Most Improved Player w sezonie 2000/01?",
+    "answers": [
+      "Grant Hill",
+      "Mike Miller",
+      "Tracy McGrady",
+      "Darrell Armstrong"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był laureatem NBA Most Improved Player za sezon 1995/96?",
+    "answers": [
+      "Gheorghe Mureșan",
+      "Dikembe Mutombo",
+      "Shawn Bradley",
+      "Arvydas Sabonis"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W jakiej drużynie grał Scott Skiles, kiedy otrzymał NBA Most Improved Player za sezon 1990/91?",
+    "answers": [
+      "Indiana Pacers",
+      "Orlando Magic",
+      "Chicago Bulls",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz otrzymał pierwszą w historii nagrodę NBA Most Improved Player, za sezon 1985/86?",
+    "answers": [
+      "Alvin Robertson",
+      "Dale Ellis",
+      "Kevin Johnson",
+      "Michael Jordan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik Miami Heat został NBA Most Improved Player w sezonie 1989/90?",
+    "answers": [
+      "Rony Seikaly",
+      "Glen Rice",
+      "Steve Smith",
+      "Sherman Douglas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył NBA Most Improved Player za sezon 1999/2000 w barwach Indiana Pacers?",
+    "answers": [
+      "Reggie Miller",
+      "Jalen Rose",
+      "Rik Smits",
+      "Mark Jackson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-025",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik został NBA Most Improved Player w sezonie 2006/07?",
+    "answers": [
+      "Monta Ellis",
+      "Baron Davis",
+      "Stephen Jackson",
+      "Al Harrington"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1970",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1970 roku?",
+    "answers": [
+      "Portland Trail Blazers",
+      "Chicago Bulls",
+      "New York Knicks",
+      "Cleveland Cavaliers"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1971",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Baltimore Bullets w finałach NBA w 1971 roku?",
+    "answers": [
+      "Denver Nuggets",
+      "Milwaukee Bucks",
+      "Boston Celtics",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1972",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała New York Knicks w finałach NBA w 1972 roku?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Phoenix Suns",
+      "Denver Nuggets",
+      "Portland Trail Blazers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1973",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1973 roku?",
+    "answers": [
+      "Indiana Pacers",
+      "Oklahoma City Thunder",
+      "Miami Heat",
+      "New York Knicks"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1974",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Milwaukee Bucks w finałach NBA w 1974 roku?",
+    "answers": [
+      "Detroit Pistons",
+      "San Antonio Spurs",
+      "Boston Celtics",
+      "Orlando Magic"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1976",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Phoenix Suns w finałach NBA w 1976 roku?",
+    "answers": [
+      "Boston Celtics",
+      "Toronto Raptors",
+      "Utah Jazz",
+      "Detroit Pistons"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1977",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Philadelphia 76ers w finałach NBA w 1977 roku?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Detroit Pistons",
+      "Denver Nuggets",
+      "Portland Trail Blazers"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1980",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Philadelphia 76ers w finałach NBA w 1980 roku?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "New York Knicks",
+      "Indiana Pacers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1984",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1984 roku?",
+    "answers": [
+      "Boston Celtics",
+      "San Antonio Spurs",
+      "Houston Rockets",
+      "Seattle SuperSonics"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1985",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Boston Celtics w finałach NBA w 1985 roku?",
+    "answers": [
+      "Portland Trail Blazers",
+      "Chicago Bulls",
+      "Philadelphia 76ers",
+      "Los Angeles Lakers"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1986",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Houston Rockets w finałach NBA w 1986 roku?",
+    "answers": [
+      "Philadelphia 76ers",
+      "Toronto Raptors",
+      "Boston Celtics",
+      "Miami Heat"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1987",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Boston Celtics w finałach NBA w 1987 roku?",
+    "answers": [
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Denver Nuggets",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1989",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1989 roku?",
+    "answers": [
+      "Phoenix Suns",
+      "San Antonio Spurs",
+      "Milwaukee Bucks",
+      "Detroit Pistons"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1993",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Phoenix Suns w finałach NBA w 1993 roku?",
+    "answers": [
+      "Indiana Pacers",
+      "Oklahoma City Thunder",
+      "Miami Heat",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1997",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Utah Jazz w finałach NBA w 1997 roku?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Phoenix Suns",
+      "Denver Nuggets",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1999",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała New York Knicks w finałach NBA w 1999 roku?",
+    "answers": [
+      "Detroit Pistons",
+      "San Antonio Spurs",
+      "Houston Rockets",
+      "Orlando Magic"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Detroit Pistons w finałach NBA w 2005 roku?",
+    "answers": [
+      "Portland Trail Blazers",
+      "Boston Celtics",
+      "Golden State Warriors",
+      "San Antonio Spurs"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Dallas Mavericks w finałach NBA w 2006 roku?",
+    "answers": [
+      "Philadelphia 76ers",
+      "Houston Rockets",
+      "Miami Heat",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Oklahoma City Thunder w finałach NBA w 2012 roku?",
+    "answers": [
+      "Miami Heat",
+      "Phoenix Suns",
+      "San Antonio Spurs",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Golden State Warriors w finałach NBA w 2019 roku?",
+    "answers": [
+      "Detroit Pistons",
+      "Toronto Raptors",
+      "Houston Rockets",
+      "Orlando Magic"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Boston Celtics w finałach NBA w 2022 roku?",
+    "answers": [
+      "Seattle SuperSonics",
+      "New York Knicks",
+      "Golden State Warriors",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Dallas Mavericks w finałach NBA w 2024 roku?",
+    "answers": [
+      "Boston Celtics",
+      "San Antonio Spurs",
+      "Houston Rockets",
+      "Seattle SuperSonics"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2025",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Indiana Pacers w finałach NBA w 2025 roku?",
+    "answers": [
+      "Milwaukee Bucks",
+      "Boston Celtics",
+      "New York Knicks",
+      "Oklahoma City Thunder"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-01",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Kto wygrał pierwszą edycję konkursu rzutów za trzy punkty podczas NBA All-Star Weekend w 1986 roku?",
+    "answers": [
+      "Larry Bird",
+      "Craig Hodges",
+      "Dale Ellis",
+      "Mark Price"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-02",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik wygrał konkurs trójek NBA w 1989 roku, przerywając serię Larry'ego Birda?",
+    "answers": [
+      "Steve Kerr",
+      "Glen Rice",
+      "Reggie Miller",
+      "Dale Ellis"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-03",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zwyciężał w konkursie trójek NBA przez trzy kolejne lata 1990–1992?",
+    "answers": [
+      "Mark Price",
+      "Jeff Hornacek",
+      "Craig Hodges",
+      "Larry Bird"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-04",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Chicago Bulls triumfował w konkursie trójek NBA w 1997 roku?",
+    "answers": [
+      "Toni Kukoč",
+      "Steve Kerr",
+      "Michael Jordan",
+      "Scottie Pippen"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-05",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał konkurs rzutów za trzy punkty NBA w 2001 roku?",
+    "answers": [
+      "Ray Allen",
+      "Peja Stojaković",
+      "Dirk Nowitzki",
+      "Jason Terry"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-06",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Cleveland Cavaliers zwyciężył w konkursie trójek NBA w 1993 roku?",
+    "answers": [
+      "Brad Daugherty",
+      "Terrell Brandon",
+      "Larry Nance",
+      "Mark Price"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-07",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał konkurs trójek NBA w 2016 roku jako zawodnik Golden State Warriors?",
+    "answers": [
+      "Draymond Green",
+      "Harrison Barnes",
+      "Klay Thompson",
+      "Stephen Curry"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-08",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który gracz Brooklyn Nets wygrał konkurs trójek NBA w 2019 roku?",
+    "answers": [
+      "Caris LeVert",
+      "Joe Harris",
+      "Spencer Dinwiddie",
+      "D'Angelo Russell"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-09",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał konkurs trójek NBA w 2022 roku, reprezentując Minnesota Timberwolves?",
+    "answers": [
+      "Karl-Anthony Towns",
+      "Anthony Edwards",
+      "D'Angelo Russell",
+      "Malik Beasley"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-10",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Miami Heat zwyciężył w konkursie trójek NBA w 2025 roku?",
+    "answers": [
+      "Duncan Robinson",
+      "Jimmy Butler",
+      "Bam Adebayo",
+      "Tyler Herro"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-11",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał pierwszą edycję konkursu wsadów NBA w 1984 roku?",
+    "answers": [
+      "Michael Jordan",
+      "Julius Erving",
+      "Larry Nance",
+      "Dominique Wilkins"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-12",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który niski rozgrywający Atlanta Hawks zwyciężył w konkursie wsadów NBA w 1986 roku?",
+    "answers": [
+      "Dee Brown",
+      "Spud Webb",
+      "Muggsy Bogues",
+      "Nate Robinson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-13",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Kto wygrał konkurs wsadów NBA w 1997 roku jako gracz Los Angeles Lakers?",
+    "answers": [
+      "Kobe Bryant",
+      "Shaquille O'Neal",
+      "Eddie Jones",
+      "Nick Van Exel"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-14",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik Toronto Raptors triumfował w konkursie wsadów NBA w 2000 roku?",
+    "answers": [
+      "Tracy McGrady",
+      "Chris Bosh",
+      "DeMar DeRozan",
+      "Vince Carter"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-15",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Orlando Magic wygrał konkurs wsadów NBA w 2008 roku?",
+    "answers": [
+      "Hedo Türkoğlu",
+      "Rashard Lewis",
+      "Dwight Howard",
+      "Jameer Nelson"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-16",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zwyciężył w konkursie wsadów NBA w 2011 roku jako zawodnik Los Angeles Clippers?",
+    "answers": [
+      "Chris Paul",
+      "Blake Griffin",
+      "DeAndre Jordan",
+      "Eric Gordon"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-17",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Minnesota Timberwolves wygrał konkurs wsadów NBA w 2015 roku?",
+    "answers": [
+      "Zach LaVine",
+      "Andrew Wiggins",
+      "Karl-Anthony Towns",
+      "Ricky Rubio"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-18",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał konkurs wsadów NBA w 2022 roku jako zawodnik New York Knicks?",
+    "answers": [
+      "RJ Barrett",
+      "Julius Randle",
+      "Immanuel Quickley",
+      "Obi Toppin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-19",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zanotował pierwsze oficjalnie odnotowane quadruple-double w historii NBA w 1974 roku?",
+    "answers": [
+      "Bill Russell",
+      "Kareem Abdul-Jabbar",
+      "Nate Thurmond",
+      "Wilt Chamberlain"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-20",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik San Antonio Spurs uzyskał quadruple-double przeciw Detroit Pistons w lutym 1994 roku?",
+    "answers": [
+      "Sean Elliott",
+      "David Robinson",
+      "Tim Duncan",
+      "Alvin Robertson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-21",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik uzyskał quadruple-double w NBA w 1986 roku, notując 10 przechwytów?",
+    "answers": [
+      "Alvin Robertson",
+      "Nate Thurmond",
+      "Hakeem Olajuwon",
+      "David Robinson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-22",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Z jaką drużyną Nate Thurmond zmierzył się podczas swojego pierwszego quadruple-double w 1974 roku?",
+    "answers": [
+      "Boston Celtics",
+      "New York Knicks",
+      "Milwaukee Bucks",
+      "Atlanta Hawks"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "GS-20261120-BAL-001",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Który pływak wygrał olimpijski finał 100 m stylem dowolnym w Paryżu 2024, bijąc rekord świata?",
+    "answers": [
+      "Caeleb Dressel",
+      "Pan Zhanle",
+      "David Popovici",
+      "Kyle Chalmers"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-002",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Jaki czas dał Panowi Zhanle rekord świata na 100 m stylem dowolnym w finale olimpijskim w Paryżu 2024?",
+    "answers": [
+      "46,40 s",
+      "46,92 s",
+      "47,02 s",
+      "47,50 s"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072580/deux-delight-marchand-delivers-two-olympic-records-on-night-five"
+  },
+  {
+    "id": "GS-20261120-BAL-003",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi Sarah Sjöström, złota medalistka olimpijska na 50 i 100 m stylem dowolnym w 2024 roku?",
+    "answers": [
+      "Norwegia",
+      "Dania",
+      "Szwecja",
+      "Finlandia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-004",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Która pływaczka zdobyła w Paryżu 2024 złoto zarówno na 50 m, jak i 100 m stylem dowolnym?",
+    "answers": [
+      "Mollie O'Callaghan",
+      "Sarah Sjöström",
+      "Emma McKeon",
+      "Torri Huske"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-005",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoty medal olimpijski na 200 m stylem dowolnym mężczyzn w Paryżu 2024?",
+    "answers": [
+      "David Popovici",
+      "Duncan Scott",
+      "Lukas Märtens",
+      "Matthew Richards"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-006",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył w Paryżu 2024 pierwsze w historii męskie złoto olimpijskie w pływaniu dzięki triumfowi na 200 m stylem dowolnym?",
+    "answers": [
+      "Węgry",
+      "Rumunia",
+      "Grecja",
+      "Chorwacja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-007",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Która Australijka zwyciężyła w olimpijskim finale 400 m stylem dowolnym kobiet w Paryżu 2024?",
+    "answers": [
+      "Summer McIntosh",
+      "Katie Ledecky",
+      "Ariarne Titmus",
+      "Mollie O'Callaghan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-008",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał olimpijski finał 200 m stylem dowolnym kobiet w Paryżu 2024?",
+    "answers": [
+      "Ariarne Titmus",
+      "Mollie O'Callaghan",
+      "Sarah Sjöström",
+      "Katie Ledecky"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-009",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka obroniła w Paryżu 2024 oba olimpijskie tytuły na 100 i 200 m stylem grzbietowym?",
+    "answers": [
+      "Regan Smith",
+      "Kaylee McKeown",
+      "Kylie Masse",
+      "Katharine Berkoff"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-010",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył w Paryżu 2024 czwarte z rzędu olimpijskie złoto na 800 m stylem dowolnym kobiet?",
+    "answers": [
+      "Katie Ledecky",
+      "Summer McIntosh",
+      "Ariarne Titmus",
+      "Sarah Sjöström"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-011",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Który pływak ustanowił w Paryżu 2024 rekord świata na 1500 m stylem dowolnym mężczyzn?",
+    "answers": [
+      "Daniel Wiffen",
+      "Gregorio Paltrinieri",
+      "Bobby Finke",
+      "Ahmed Hafnaoui"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-012",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Który Włoch pokonał Adama Peaty'ego w finale olimpijskim 100 m stylem klasycznym w Paryżu 2024?",
+    "answers": [
+      "Nicolò Martinenghi",
+      "Thomas Ceccon",
+      "Federico Burdisso",
+      "Gregorio Paltrinieri"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4080520/sport-review-swimming-at-the-paris-2024-olympics"
+  },
+  {
+    "id": "GS-20261120-BAL-013",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Które dwa style przyniosły Léonowi Marchandowi złote medale olimpijskie na dystansie 200 m tego samego wieczoru w Paryżu 2024?",
+    "answers": [
+      "Dowolny i grzbietowy",
+      "Motylkowy i klasyczny",
+      "Klasyczny i grzbietowy",
+      "Motylkowy i dowolny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072570/leon-marchand-sarah-sjostrom-world-record-swimming-paris-2024-olympics-games"
+  },
+  {
+    "id": "GS-20261120-BAL-014",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "Jaki kraj reprezentował Daniel Wiffen, rekordzista olimpijski na 800 m stylem dowolnym w Paryżu 2024?",
+    "answers": [
+      "Wielka Brytania",
+      "Irlandia",
+      "Australia",
+      "Kanada"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072580/deux-delight-marchand-delivers-two-olympic-records-on-night-five"
+  },
+  {
+    "id": "GS-20261120-BAL-015",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Ekspert",
+    "question": "Która pływaczka uzyskała rekord olimpijski 55,38 s na 100 m stylem motylkowym w Paryżu 2024?",
+    "answers": [
+      "Torri Huske",
+      "Gretchen Walsh",
+      "Regan Smith",
+      "Zhang Yufei"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldaquatics.com/news/4072580/deux-delight-marchand-delivers-two-olympic-records-on-night-five"
+  },
+  {
+    "id": "GS-20261120-BAL-016",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Ile kompletów medali w zapasach przewidziano na igrzyskach olimpijskich Paryż 2024?",
+    "answers": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-017",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Ile kobiecych kategorii wagowych w zapasach rozegrano podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-018",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakim stylu rywalizowały kobiety w olimpijskich zapasach podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Klasycznym",
+      "Wolnym",
+      "Obu stylach",
+      "Sumo"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-019",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Który reprezentant San Marino zdobył historyczny medal olimpijski w zapasach w Tokio 2020?",
+    "answers": [
+      "Myles Nazem Amine",
+      "David Taylor",
+      "Hassan Yazdani",
+      "Gable Steveson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-020",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Który Amerykanin odwrócił losy finału zapasów w stylu wolnym do 125 kg na igrzyskach Tokio 2020?",
+    "answers": [
+      "David Taylor",
+      "Gable Steveson",
+      "Kyle Snyder",
+      "Jordan Burroughs"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-021",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Kto pokonał Hassana Yazdaniego w olimpijskim finale zapasów w stylu wolnym do 86 kg w Tokio 2020?",
+    "answers": [
+      "David Taylor",
+      "Myles Nazem Amine",
+      "Abdulrashid Sadulaev",
+      "Gable Steveson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-022",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Ekspert",
+    "question": "Która zawodniczka wywalczyła pierwszy w historii Nigerii awans do olimpijskiego finału zapasów kobiet (Tokio 2020)?",
+    "answers": [
+      "Tamyra Mensah-Stock",
+      "Blessing Oborududu",
+      "Risako Kawai",
+      "Yukako Kawai"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-023",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "W której kategorii wagowej mężczyzn Gable Steveson zdobył złoto olimpijskie w Tokio 2020?",
+    "answers": [
+      "97 kg w stylu wolnym",
+      "125 kg w stylu wolnym",
+      "130 kg w stylu klasycznym",
+      "86 kg w stylu wolnym"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL-024",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Ile złotych medali w kobiecych zapasach zdobyły Japonki na igrzyskach Tokio 2020?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL2-001",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Która gimnastyczka zdobyła srebrny medal olimpijskiego wieloboju indywidualnego w Paryżu 2024?",
+    "answers": [
+      "Sofia Raffaeli",
+      "Boryana Kaleyn",
+      "Darja Varfolomeev",
+      "Daria Atamanov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/olympic-rhythmic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes"
+  },
+  {
+    "id": "GS-20261120-BAL2-002",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Dla którego kraju Sofia Raffaeli zdobyła brąz w wieloboju indywidualnym Paryż 2024?",
+    "answers": [
+      "Bułgarii",
+      "Niemiec",
+      "Włoch",
+      "Izraela"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-003",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Kto zajął drugie miejsce w olimpijskim wieloboju zespołowym gimnastyki artystycznej w 2024 roku?",
+    "answers": [
+      "Izrael",
+      "Bułgaria",
+      "Włochy",
+      "Chiny"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-004",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zdobyła brąz w olimpijskim wieloboju zespołowym gimnastyki artystycznej w Paryżu?",
+    "answers": [
+      "Francja",
+      "Hiszpania",
+      "Włochy",
+      "Ukraina"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-005",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Która zawodniczka zdobyła pierwszy w historii Włoch medal olimpijski w indywidualnym wieloboju gimnastyki artystycznej?",
+    "answers": [
+      "Milena Baldassarri",
+      "Sofia Raffaeli",
+      "Alexandra Agiurgiuculese",
+      "Julieta Cantaluppi"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-006",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Który kraj reprezentowała Regina Weber, brązowa medalistka olimpijska gimnastyki artystycznej z 1984 roku?",
+    "answers": [
+      "RFN",
+      "NRD",
+      "Austria",
+      "Szwajcaria"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-007",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Łatwy",
+    "question": "Na których letnich igrzyskach breaking po raz pierwszy znalazł się w programie olimpijskim?",
+    "answers": [
+      "Tokio 2020",
+      "Rio 2016",
+      "Paryż 2024",
+      "Londyn 2012"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-008",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Z jakim krajem związany był B-Boy Shigekix, półfinalista breakingu w Paryżu 2024?",
+    "answers": [
+      "Japonią",
+      "Kanadą",
+      "Francją",
+      "Kazachstanem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-009",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Który B-Boy pokonał Victora w półfinale igrzysk w Paryżu 2024?",
+    "answers": [
+      "Phil Wizard",
+      "Dany Dann",
+      "Shigekix",
+      "Hiro10"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-010",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Kto przegrał z B-Boyem Victorem pojedynek o brąz olimpijski w 2024 roku?",
+    "answers": [
+      "Dany Dann",
+      "Phil Wizard",
+      "Shigekix",
+      "Jeffro"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-011",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Ekspert",
+    "question": "Ile rund wygrał Phil Wizard w półfinale olimpijskim z Shigekixem w Paryżu 2024?",
+    "answers": [
+      "Jedną",
+      "Dwie",
+      "Trzy",
+      "Żadnej"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-012",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaką klasą jednoosobowej łodzi rywalizowali mężczyźni w żeglarstwie olimpijskim Paryż 2024?",
+    "answers": [
+      "ILCA 7",
+      "ILCA 6",
+      "49er FX",
+      "Nacra 17"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-013",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "W której edycji igrzysk wprowadzono do żeglarstwa olimpijskiego konkurencje Formula Kite kobiet i mężczyzn?",
+    "answers": [
+      "Rio 2016",
+      "Tokio 2020",
+      "Paryż 2024",
+      "Londyn 2012"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-014",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Jak nazywał się sprzęt olimpijski do windsurfingu używany w Paryżu 2024 zamiast wcześniejszej klasy RS:X?",
+    "answers": [
+      "iQFOiL",
+      "Finn",
+      "470",
+      "Laser Radial"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-015",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka wywalczyła złoto w olimpijskiej klasie ILCA 6 w Paryżu 2024?",
+    "answers": [
+      "Anne-Marie Rindom",
+      "Marit Bouwmeester",
+      "Emma Plasschaert",
+      "Maria Erdi"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.sailweb.co.uk/2024/08/05/paris-2024-olympics-four-days-of-racing-and-six-gold-medals-still-to-be-won/"
+  },
+  {
+    "id": "GS-20261120-BAL2-016",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która klasa katamaranu w programie żeglarskim Paryż 2024 była przeznaczona dla załóg mieszanych?",
+    "answers": [
+      "49er",
+      "ILCA 7",
+      "Nacra 17",
+      "Formula Kite"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-017",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Z jakiego kraju pochodziła Baasankhuu Bavuudorj, srebrna medalistka judo do 48 kg w Paryżu 2024?",
+    "answers": [
+      "Mongolii",
+      "Japonii",
+      "Kazachstanu",
+      "Korei Południowej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
+  },
+  {
+    "id": "GS-20261120-BAL2-018",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Która Szwedka wywalczyła brąz w judo do 48 kg podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Anna Bernholm",
+      "Tara Babulfath",
+      "Frida Karlsson",
+      "Ida Eriksson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
+  },
+  {
+    "id": "GS-20261120-BAL2-019",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w judo kobiet do 52 kg na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Distria Krasniqi",
+      "Amandine Buchard",
+      "Diyora Keldiyorova",
+      "Larissa Pimenta"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/paris-2024-judo-tous-les-medailles-olympiques-exclu-CNT000002eAp0W.html"
+  },
+  {
+    "id": "GS-20261120-BAL2-020",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Który judoka zdobył złoto olimpijskie w kategorii mężczyzn do 90 kg w Paryżu 2024?",
+    "answers": [
+      "Sanshiro Murao",
+      "Lasha Bekauri",
+      "Zelym Kotsoiev",
+      "Hidayat Heydarov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/paris-2024-judo-tous-les-medailles-olympiques-exclu-CNT000002eAp0W.html"
+  },
+  {
+    "id": "GS-20261120-BAL2-021",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Które państwo reprezentował Zelym Kotsoiev, mistrz olimpijski judo do 100 kg w Paryżu 2024?",
+    "answers": [
+      "Gruzję",
+      "Azerbejdżan",
+      "Uzbekistan",
+      "Kazachstan"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/paris-2024-judo-tous-les-medailles-olympiques-exclu-CNT000002eAp0W.html"
+  },
+  {
+    "id": "GS-20261120-BAL2-022",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "Kto był rywalem Natsumi Tsunody w finale olimpijskiego judo do 48 kg w Paryżu 2024?",
+    "answers": [
+      "Shirine Boukli",
+      "Tara Babulfath",
+      "Baasankhuu Bavuudorj",
+      "Abiba Abuzhakynova"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
+  },
+  {
+    "id": "GS-20261120-BAL3-001",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakim mieście odbywały się regaty żeglarskie igrzysk olimpijskich Paryż 2024?",
+    "answers": [
+      "Marsylia",
+      "Nicea",
+      "Hawr",
+      "Brest"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympedia.org/editions/63/sports/SAL"
+  },
+  {
+    "id": "GS-20261120-BAL3-002",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile kompletów medali rozdano w żeglarstwie podczas igrzysk w Paryżu w 2024 roku?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-003",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Który kraj zdobył złoto w męskim windsurfingu iQFOiL na igrzyskach w 2024 roku?",
+    "answers": [
+      "Australia",
+      "Izrael",
+      "Włochy",
+      "Holandia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-004",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał olimpijską rywalizację kobiet w windsurfingu iQFOiL w Paryżu 2024?",
+    "answers": [
+      "Sharon Kantor",
+      "Emma Wilson",
+      "Marta Maggetti",
+      "Lauriane Nolot"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-005",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto wywalczył złoto w pierwszej olimpijskiej rywalizacji mężczyzn w kiteboardingu w 2024 roku?",
+    "answers": [
+      "Toni Vodišek",
+      "Max Maeder",
+      "Valentin Bontus",
+      "Tom Reuveny"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-006",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka została pierwszą mistrzynią olimpijską w kobiecym kiteboardingu w 2024 roku?",
+    "answers": [
+      "Eleanor Aldridge",
+      "Lauriane Nolot",
+      "Annelous Lammerts",
+      "Marta Maggetti"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-007",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaki medal w męskim kiteboardingu w Paryżu 2024 zdobył reprezentant Singapuru Max Maeder?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żadnego"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-008",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył olimpijskie złoto w klasie ILCA 7 mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Pavlos Kontides",
+      "Matt Wearn",
+      "Stefano Peschiera",
+      "Grae Morris"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-009",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która żeglarka zdobyła złoty medal olimpijski w klasie ILCA 6 kobiet w 2024 roku?",
+    "answers": [
+      "Anne-Marie Rindom",
+      "Line Flem Høst",
+      "Marit Bouwmeester",
+      "Odile van Aanholt"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-010",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Z jakiego kraju pochodził Stefano Peschiera, brązowy medalista olimpijski w klasie ILCA 7 w 2024 roku?",
+    "answers": [
+      "Chile",
+      "Peru",
+      "Urugwaj",
+      "Ekwador"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympedia.org/editions/63/sports/SAL"
+  },
+  {
+    "id": "GS-20261120-BAL3-011",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Który kraj reprezentowała zwycięska załoga męskiej klasy 49er na igrzyskach Paryż 2024?",
+    "answers": [
+      "Hiszpania",
+      "Nowa Zelandia",
+      "USA",
+      "Szwecja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-012",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaki kraj reprezentowały Odile van Aanholt i Annette Duetz, mistrzynie olimpijskie klasy 49er FX w 2024 roku?",
+    "answers": [
+      "Dania",
+      "Szwecja",
+      "Holandia",
+      "Francja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-013",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Kto zwyciężył w olimpijskiej mieszanej klasie 470 w Paryżu 2024?",
+    "answers": [
+      "Keiju Okada i Miho Yoshioka",
+      "Lara Vadlau i Lukas Mähr",
+      "Anton Dahlberg i Lovisa Karlsson",
+      "Ruggero Tita i Caterina Banti"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-014",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która para zdobyła złoto w mieszanej klasie Nacra 17 podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Mateo Majdalani i Eugenia Bosco",
+      "Micah Wilkinson i Erica Dawson",
+      "Ruggero Tita i Caterina Banti",
+      "Lara Vadlau i Lukas Mähr"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://afloat.ie/sail/olympic-sailing/paris-2024/item/64327-paris-olympic-sailing-2024-the-medal-count"
+  },
+  {
+    "id": "GS-20261120-BAL3-015",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaki sprzęt wykorzystuje olimpijska konkurencja kiteboarding?",
+    "answers": [
+      "Deską ciągniętą przez latawiec",
+      "Kajakiem z wiosłem",
+      "Jednoosobowym katamaranem",
+      "Łodzią z silnikiem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-016",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się sprzęt windsurfingowy zastosowany na igrzyskach Paryż 2024?",
+    "answers": [
+      "RS:X",
+      "iQFOiL",
+      "Finn",
+      "470"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-017",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która klasa łodzi służyła kobietom do rywalizacji jednoosobowej na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "ILCA 7",
+      "Nacra 17",
+      "ILCA 6",
+      "49er"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL3-018",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która olimpijska klasa w 2024 roku była mieszana, zamiast dawnych osobnych konkurencji kobiet i mężczyzn?",
+    "answers": [
+      "470",
+      "49er FX",
+      "ILCA 7",
+      "iQFOiL"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympedia.org/editions/63/sports/SAL"
+  },
+  {
+    "id": "GS-20261120-BAL3-019",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Z jakim krajem Francja wygrała finał olimpijskiego turnieju drużyn mieszanych w judo w Paryżu 2024?",
+    "answers": [
+      "Brazylią",
+      "Japonią",
+      "Koreą Południową",
+      "Gruzją"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "GS-20261120-BAL3-020",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył decydujący punkt dla Francji w finale olimpijskich drużyn mieszanych judo w Paryżu 2024?",
+    "answers": [
+      "Joan-Benjamin Gaba",
+      "Clarisse Agbegnenou",
+      "Teddy Riner",
+      "Luka Mkheidze"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "GS-20261120-BAL3-021",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Ile medali w judo zdobyła Francja na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
   }
 ]
