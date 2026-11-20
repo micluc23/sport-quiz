@@ -9022,5 +9022,373 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1970",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1970 roku?",
+    "answers": [
+      "Portland Trail Blazers",
+      "Chicago Bulls",
+      "New York Knicks",
+      "Cleveland Cavaliers"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1971",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Baltimore Bullets w finałach NBA w 1971 roku?",
+    "answers": [
+      "Denver Nuggets",
+      "Milwaukee Bucks",
+      "Boston Celtics",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1972",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała New York Knicks w finałach NBA w 1972 roku?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Phoenix Suns",
+      "Denver Nuggets",
+      "Portland Trail Blazers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1973",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1973 roku?",
+    "answers": [
+      "Indiana Pacers",
+      "Oklahoma City Thunder",
+      "Miami Heat",
+      "New York Knicks"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1974",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Milwaukee Bucks w finałach NBA w 1974 roku?",
+    "answers": [
+      "Detroit Pistons",
+      "San Antonio Spurs",
+      "Boston Celtics",
+      "Orlando Magic"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1976",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Phoenix Suns w finałach NBA w 1976 roku?",
+    "answers": [
+      "Boston Celtics",
+      "Toronto Raptors",
+      "Utah Jazz",
+      "Detroit Pistons"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1977",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Philadelphia 76ers w finałach NBA w 1977 roku?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Detroit Pistons",
+      "Denver Nuggets",
+      "Portland Trail Blazers"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1980",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Philadelphia 76ers w finałach NBA w 1980 roku?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "New York Knicks",
+      "Indiana Pacers"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1984",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1984 roku?",
+    "answers": [
+      "Boston Celtics",
+      "San Antonio Spurs",
+      "Houston Rockets",
+      "Seattle SuperSonics"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1985",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Boston Celtics w finałach NBA w 1985 roku?",
+    "answers": [
+      "Portland Trail Blazers",
+      "Chicago Bulls",
+      "Philadelphia 76ers",
+      "Los Angeles Lakers"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1986",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Houston Rockets w finałach NBA w 1986 roku?",
+    "answers": [
+      "Philadelphia 76ers",
+      "Toronto Raptors",
+      "Boston Celtics",
+      "Miami Heat"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1987",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Boston Celtics w finałach NBA w 1987 roku?",
+    "answers": [
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Denver Nuggets",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1989",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Która drużyna pokonała Los Angeles Lakers w finałach NBA w 1989 roku?",
+    "answers": [
+      "Phoenix Suns",
+      "San Antonio Spurs",
+      "Milwaukee Bucks",
+      "Detroit Pistons"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1993",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Phoenix Suns w finałach NBA w 1993 roku?",
+    "answers": [
+      "Indiana Pacers",
+      "Oklahoma City Thunder",
+      "Miami Heat",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1997",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Utah Jazz w finałach NBA w 1997 roku?",
+    "answers": [
+      "Seattle SuperSonics",
+      "Phoenix Suns",
+      "Denver Nuggets",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-1999",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała New York Knicks w finałach NBA w 1999 roku?",
+    "answers": [
+      "Detroit Pistons",
+      "San Antonio Spurs",
+      "Houston Rockets",
+      "Orlando Magic"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Detroit Pistons w finałach NBA w 2005 roku?",
+    "answers": [
+      "Portland Trail Blazers",
+      "Boston Celtics",
+      "Golden State Warriors",
+      "San Antonio Spurs"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Która drużyna pokonała Dallas Mavericks w finałach NBA w 2006 roku?",
+    "answers": [
+      "Philadelphia 76ers",
+      "Houston Rockets",
+      "Miami Heat",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Oklahoma City Thunder w finałach NBA w 2012 roku?",
+    "answers": [
+      "Miami Heat",
+      "Phoenix Suns",
+      "San Antonio Spurs",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Golden State Warriors w finałach NBA w 2019 roku?",
+    "answers": [
+      "Detroit Pistons",
+      "Toronto Raptors",
+      "Houston Rockets",
+      "Orlando Magic"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Boston Celtics w finałach NBA w 2022 roku?",
+    "answers": [
+      "Seattle SuperSonics",
+      "New York Knicks",
+      "Golden State Warriors",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Dallas Mavericks w finałach NBA w 2024 roku?",
+    "answers": [
+      "Boston Celtics",
+      "San Antonio Spurs",
+      "Houston Rockets",
+      "Seattle SuperSonics"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-FINALS-OPP-2025",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Która drużyna pokonała Indiana Pacers w finałach NBA w 2025 roku?",
+    "answers": [
+      "Milwaukee Bucks",
+      "Boston Celtics",
+      "New York Knicks",
+      "Oklahoma City Thunder"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-nba-champions"
   }
 ]
