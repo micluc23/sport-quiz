@@ -13006,5 +13006,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A16-001",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się olimpijska odmiana skateboardingu rozgrywana na torze przypominającym basen z zaokrąglonymi ścianami?",
+    "answers": [
+      "Park",
+      "Street",
+      "Vert",
+      "Downhill"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-002",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile konkurencji medalowych skateboardingu znalazło się w programie igrzysk Paryż 2024?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-003",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ilu zawodników łącznie przewidywał olimpijski limit miejsc w skateboardingu na Paryż 2024?",
+    "answers": [
+      "44",
+      "66",
+      "88",
+      "110"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-004",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Ile miejsc w skateboardingu na Paryż 2024 przewidziano łącznie dla kobiet?",
+    "answers": [
+      "22",
+      "32",
+      "44",
+      "48"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-005",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "W jakim paryskim miejscu zaplanowano olimpijskie konkurencje skateboardingu w 2024 roku?",
+    "answers": [
+      "Place de la Concorde",
+      "Champ de Mars",
+      "Stade Roland-Garros",
+      "Parc des Princes"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-006",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "W którym miesiącu 2024 roku rozegrano olimpijskie konkurencje skateboardingu park w Paryżu?",
+    "answers": [
+      "Czerwcu",
+      "Lipcu",
+      "Sierpniu",
+      "Wrześniu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-007",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Ilu finalistów przewidywał format olimpijskiej konkurencji street na Paryż 2024?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-008",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile indywidualnych prób trików przysługiwało zawodnikowi w olimpijskim street w Paryżu 2024?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-009",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Ekspert",
+    "question": "W której fazie olimpijskiego street w Paryżu 2024 zawodnik mógł skorzystać z procedury odrzucenia oceny próby?",
+    "answers": [
+      "W indywidualnych trikach",
+      "W rozgrzewce",
+      "W kwalifikacji krajowej",
+      "Podczas ceremonii medalowej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A16-010",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Która część występu w olimpijskim street w Paryżu 2024 musiała obowiązkowo znaleźć się w końcowej punktacji?",
+    "answers": [
+      "Co najmniej jeden przejazd",
+      "Wszystkie pięć trików",
+      "Oba przejazdy",
+      "Wyłącznie triki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A16-011",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się system punktowania rund stosowany według przepisów World Boxing z 2024 roku?",
+    "answers": [
+      "Ten Point Must",
+      "Golden Point",
+      "Sudden Death",
+      "Rally Point"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-012",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Ile punktów przyznaje sędzia zwycięzcy rundy według systemu World Boxing „Ten Point Must”?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-013",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Jaka jest najwyższa liczba punktów, którą przegrywający rundę może otrzymać od sędziego w systemie World Boxing?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-014",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Czy według przepisów World Boxing 2024 sędzia może zapisać rundę wynikiem 10:10?",
+    "answers": [
+      "Tak, zawsze",
+      "Tak, tylko w finale",
+      "Nie, runda musi mieć zwycięzcę",
+      "Tak, tylko po kontuzji"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-015",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Jaką najniższą notę przegrywającemu rundę przewiduje podstawowa skala World Boxing z 2024 roku?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-016",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Które kryterium jest pierwsze w hierarchii oceny rundy według World Boxing 2024?",
+    "answers": [
+      "Liczba celnych punktowanych ciosów",
+      "Głośność dopingu",
+      "Waga rękawic",
+      "Kolor narożnika"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-017",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Co zajmuje drugie miejsce w hierarchii kryteriów oceny rundy World Boxing 2024?",
+    "answers": [
+      "Przewaga techniczna i taktyczna",
+      "Liczba ostrzeżeń trenera",
+      "Czas odpoczynku",
+      "Wiek zawodnika"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-018",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Ekspert",
+    "question": "Które kryterium zajmuje trzecie miejsce w hierarchii oceny rundy World Boxing 2024?",
+    "answers": [
+      "Przewaga wzrostu",
+      "Aktywność i rywalizacja (competitiveness)",
+      "Długość kariery",
+      "Ranking światowy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-019",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Którą częścią rękawicy powinien zostać zadany punktowany cios według World Boxing?",
+    "answers": [
+      "Powierzchnią kostek pięści",
+      "Wewnętrzną stroną dłoni",
+      "Mankietem",
+      "Przedramieniem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-020",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Który warunek musi spełniać punktowany cios według World Boxing?",
+    "answers": [
+      "Sędzia musi mieć wyraźny widok trafienia",
+      "Musi być zadany po gongu",
+      "Musi trafić w rękawicę przeciwnika",
+      "Musi być zadany z wyskoku"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
   }
 ]
