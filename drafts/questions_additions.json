@@ -10126,5 +10126,357 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-20261120-BAL2-001",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Która gimnastyczka zdobyła srebrny medal olimpijskiego wieloboju indywidualnego w Paryżu 2024?",
+    "answers": [
+      "Sofia Raffaeli",
+      "Boryana Kaleyn",
+      "Darja Varfolomeev",
+      "Daria Atamanov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nbcolympics.com/news/olympic-rhythmic-gymnastics-paris-2024-biggest-stories-replays-medal-results-top-athletes"
+  },
+  {
+    "id": "GS-20261120-BAL2-002",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Dla którego kraju Sofia Raffaeli zdobyła brąz w wieloboju indywidualnym Paryż 2024?",
+    "answers": [
+      "Bułgarii",
+      "Niemiec",
+      "Włoch",
+      "Izraela"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-003",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Kto zajął drugie miejsce w olimpijskim wieloboju zespołowym gimnastyki artystycznej w 2024 roku?",
+    "answers": [
+      "Izrael",
+      "Bułgaria",
+      "Włochy",
+      "Chiny"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-004",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Która reprezentacja zdobyła brąz w olimpijskim wieloboju zespołowym gimnastyki artystycznej w Paryżu?",
+    "answers": [
+      "Francja",
+      "Hiszpania",
+      "Włochy",
+      "Ukraina"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-005",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Która zawodniczka zdobyła pierwszy w historii Włoch medal olimpijski w indywidualnym wieloboju gimnastyki artystycznej?",
+    "answers": [
+      "Milena Baldassarri",
+      "Sofia Raffaeli",
+      "Alexandra Agiurgiuculese",
+      "Julieta Cantaluppi"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-006",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Który kraj reprezentowała Regina Weber, brązowa medalistka olimpijska gimnastyki artystycznej z 1984 roku?",
+    "answers": [
+      "RFN",
+      "NRD",
+      "Austria",
+      "Szwajcaria"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://yearbook.gymnastics.sport/2024/static/_content/fig-yearbook-2024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-007",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Łatwy",
+    "question": "Na których letnich igrzyskach breaking po raz pierwszy znalazł się w programie olimpijskim?",
+    "answers": [
+      "Tokio 2020",
+      "Rio 2016",
+      "Paryż 2024",
+      "Londyn 2012"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-008",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Z jakim krajem związany był B-Boy Shigekix, półfinalista breakingu w Paryżu 2024?",
+    "answers": [
+      "Japonią",
+      "Kanadą",
+      "Francją",
+      "Kazachstanem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-009",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Który B-Boy pokonał Victora w półfinale igrzysk w Paryżu 2024?",
+    "answers": [
+      "Phil Wizard",
+      "Dany Dann",
+      "Shigekix",
+      "Hiro10"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-010",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Kto przegrał z B-Boyem Victorem pojedynek o brąz olimpijski w 2024 roku?",
+    "answers": [
+      "Dany Dann",
+      "Phil Wizard",
+      "Shigekix",
+      "Jeffro"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-011",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Ekspert",
+    "question": "Ile rund wygrał Phil Wizard w półfinale olimpijskim z Shigekixem w Paryżu 2024?",
+    "answers": [
+      "Jedną",
+      "Dwie",
+      "Trzy",
+      "Żadnej"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worlddancesport.org/News/Olympic-Breaking-Paris-2024-B-Boys-Journey-to-Gold-3464"
+  },
+  {
+    "id": "GS-20261120-BAL2-012",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaką klasą jednoosobowej łodzi rywalizowali mężczyźni w żeglarstwie olimpijskim Paryż 2024?",
+    "answers": [
+      "ILCA 7",
+      "ILCA 6",
+      "49er FX",
+      "Nacra 17"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-013",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "W której edycji igrzysk wprowadzono do żeglarstwa olimpijskiego konkurencje Formula Kite kobiet i mężczyzn?",
+    "answers": [
+      "Rio 2016",
+      "Tokio 2020",
+      "Paryż 2024",
+      "Londyn 2012"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-014",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Jak nazywał się sprzęt olimpijski do windsurfingu używany w Paryżu 2024 zamiast wcześniejszej klasy RS:X?",
+    "answers": [
+      "iQFOiL",
+      "Finn",
+      "470",
+      "Laser Radial"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-015",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Która zawodniczka wywalczyła złoto w olimpijskiej klasie ILCA 6 w Paryżu 2024?",
+    "answers": [
+      "Anne-Marie Rindom",
+      "Marit Bouwmeester",
+      "Emma Plasschaert",
+      "Maria Erdi"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.sailweb.co.uk/2024/08/05/paris-2024-olympics-four-days-of-racing-and-six-gold-medals-still-to-be-won/"
+  },
+  {
+    "id": "GS-20261120-BAL2-016",
+    "region": "Świat",
+    "sport": "Żeglarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która klasa katamaranu w programie żeglarskim Paryż 2024 była przeznaczona dla załóg mieszanych?",
+    "answers": [
+      "49er",
+      "ILCA 7",
+      "Nacra 17",
+      "Formula Kite"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-07/Paris%202024%20%E2%80%93%20Sailing%20Team%20Leaders%20Guide_July%202024.pdf"
+  },
+  {
+    "id": "GS-20261120-BAL2-017",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Z jakiego kraju pochodziła Baasankhuu Bavuudorj, srebrna medalistka judo do 48 kg w Paryżu 2024?",
+    "answers": [
+      "Mongolii",
+      "Japonii",
+      "Kazachstanu",
+      "Korei Południowej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
+  },
+  {
+    "id": "GS-20261120-BAL2-018",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Która Szwedka wywalczyła brąz w judo do 48 kg podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Anna Bernholm",
+      "Tara Babulfath",
+      "Frida Karlsson",
+      "Ida Eriksson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
+  },
+  {
+    "id": "GS-20261120-BAL2-019",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył złoto w judo kobiet do 52 kg na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Distria Krasniqi",
+      "Amandine Buchard",
+      "Diyora Keldiyorova",
+      "Larissa Pimenta"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/paris-2024-judo-tous-les-medailles-olympiques-exclu-CNT000002eAp0W.html"
+  },
+  {
+    "id": "GS-20261120-BAL2-020",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Który judoka zdobył złoto olimpijskie w kategorii mężczyzn do 90 kg w Paryżu 2024?",
+    "answers": [
+      "Sanshiro Murao",
+      "Lasha Bekauri",
+      "Zelym Kotsoiev",
+      "Hidayat Heydarov"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/paris-2024-judo-tous-les-medailles-olympiques-exclu-CNT000002eAp0W.html"
+  },
+  {
+    "id": "GS-20261120-BAL2-021",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Które państwo reprezentował Zelym Kotsoiev, mistrz olimpijski judo do 100 kg w Paryżu 2024?",
+    "answers": [
+      "Gruzję",
+      "Azerbejdżan",
+      "Uzbekistan",
+      "Kazachstan"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/paris-2024-judo-tous-les-medailles-olympiques-exclu-CNT000002eAp0W.html"
+  },
+  {
+    "id": "GS-20261120-BAL2-022",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "Kto był rywalem Natsumi Tsunody w finale olimpijskiego judo do 48 kg w Paryżu 2024?",
+    "answers": [
+      "Shirine Boukli",
+      "Tara Babulfath",
+      "Baasankhuu Bavuudorj",
+      "Abiba Abuzhakynova"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ijf.org/news/show/48-kg-tsunoda-takes-the-biggest-prize-of-all"
   }
 ]
