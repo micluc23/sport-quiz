@@ -12702,5 +12702,309 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A15-001",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najniższa ocena punktowa ponownie wprowadzona do judo przez IJF w 2025 roku?",
+    "answers": [
+      "Yuko",
+      "Ippon",
+      "Waza-ari",
+      "Hansoku-make"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-002",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Ile sekund skutecznego trzymania w parterze wystarczało do przyznania yuko według zmian IJF na 2025 rok?",
+    "answers": [
+      "3 sekundy",
+      "5 sekund",
+      "10 sekund",
+      "15 sekund"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-003",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Jaki przedział czasu trzymania w parterze odpowiadał yuko w przepisach IJF wprowadzonych w 2025 roku?",
+    "answers": [
+      "1–4 sekundy",
+      "5–9 sekund",
+      "10–14 sekund",
+      "15–19 sekund"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-004",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Ile czasu na przygotowanie ataku po klasycznym uchwycie przewidywały przepisy IJF przedstawione w grudniu 2024 roku?",
+    "answers": [
+      "15 sekund",
+      "20 sekund",
+      "30 sekund",
+      "45 sekund"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-005",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Jaką karę przewidywały zmiany IJF na 2025 rok za celowe wyjście poza pole walki?",
+    "answers": [
+      "Yuko",
+      "Shido",
+      "Waza-ari",
+      "Ippon"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-006",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "W jakiej kategorii wiekowej IJF zabroniła w 2025 roku używania głowy przy rzucie, dopuszczając tę technikę u juniorów i seniorów?",
+    "answers": [
+      "Seniorów",
+      "Juniorów",
+      "Kadetów",
+      "Weteranów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-007",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "Jaką sankcję przewidywały przepisy IJF z 2025 roku za niebezpieczną dźwignię podczas rzutu, gdy przeciwnik nie ma możliwości uniknięcia urazu?",
+    "answers": [
+      "Shido",
+      "Yuko",
+      "Hansoku-make",
+      "Waza-ari"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-008",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się w judo uchwyt za strój przeciwnika, którego zasady zmodyfikowano w cyklu rozpoczętym w 2025 roku?",
+    "answers": [
+      "Kumi-kata",
+      "Osae-komi",
+      "Ukemi",
+      "Randori"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-009",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "W którym turnieju po raz pierwszy na arenie międzynarodowej miały obowiązywać nowe zasady IJF na rok 2025?",
+    "answers": [
+      "Grand Slam Paryż",
+      "Mistrzostwa świata Budapeszt",
+      "Grand Slam Tokio",
+      "Mistrzostwa Europy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-010",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "Do których mistrzostw świata włącznie IJF planowała obserwować nowe przepisy w pierwszej połowie 2025 roku?",
+    "answers": [
+      "Doha",
+      "Taszkent",
+      "Budapeszt",
+      "Abu Zabi"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-011",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Którego przyrządu nie używano w wieloboju indywidualnym gimnastyki artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Obręczy",
+      "Piłki",
+      "Skakanki",
+      "Wstążki"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-012",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Ile przyrządów obejmował wielobój indywidualny gimnastyki artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Trzy",
+      "Cztery",
+      "Pięć",
+      "Sześć"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-013",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Ile obręczy używał zespół w jednym z dwóch układów grupowych podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Trzy",
+      "Cztery",
+      "Pięć",
+      "Sześć"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-014",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Jakie przyrządy łączono w mieszanym układzie grupowym gimnastyki artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Trzy wstążki i dwie piłki",
+      "Trzy obręcze i dwie pary maczug",
+      "Dwie wstążki i trzy obręcze",
+      "Trzy piłki i dwie obręcze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-015",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Ile wstążek wykorzystywała drużyna w mieszanym układzie grupowym na igrzyskach Paryż 2024?",
+    "answers": [
+      "Dwie",
+      "Trzy",
+      "Cztery",
+      "Pięć"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-017",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Ilu sędziów oceniało błędy artystyczne w jednej grupie sędziowskiej gimnastyki artystycznej według dokumentacji Paryż 2024?",
+    "answers": [
+      "Dwóch",
+      "Trzech",
+      "Czterech",
+      "Pięciu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-018",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Które wyniki sędziowskie służyły do wyliczenia średniej potrąceń za artyzm w dokumentacji gimnastyki artystycznej Paryż 2024?",
+    "answers": [
+      "Dwa skrajne",
+      "Dwa środkowe",
+      "Najwyższy i najniższy osobno",
+      "Wszystkie cztery"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-019",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Od ilu punktów odejmowano potrącenia za artyzm w gimnastyce artystycznej według dokumentacji Paryż 2024?",
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-020",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Jakie dwie części trudności oceniano osobno w gimnastyce artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Trudność ciała i przyrządu",
+      "Trudność muzyki i kostiumu",
+      "Trudność układu i skoku",
+      "Trudność rytmu i szybkości"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
   }
 ]
