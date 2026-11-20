@@ -10814,5 +10814,325 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261120-A09-001",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Ile kilometrów wynosi etap biegowy w triathlonie na dystansie standardowym?",
+    "answers": [
+      "10 km",
+      "5 km",
+      "20 km",
+      "15 km"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-002",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Ile metrów pływania obejmuje standardowy triathlon olimpijski?",
+    "answers": [
+      "750 m",
+      "1500 m",
+      "400 m",
+      "2000 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-003",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Jak długi jest odcinek kolarski w triathlonie na dystansie sprint?",
+    "answers": [
+      "10 km",
+      "40 km",
+      "20 km",
+      "30 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-004",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jaki dystans biegu kończy triathlon w formule sprint?",
+    "answers": [
+      "2,5 km",
+      "10 km",
+      "7,5 km",
+      "5 km"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-005",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jaką długość ma odcinek pływacki triathlonowego supersprintu według zestawienia World Triathlon?",
+    "answers": [
+      "400 m",
+      "250 m",
+      "750 m",
+      "1500 m"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-006",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile kilometrów łącznie pokonuje zawodnik w standardowym triathlonie (pływanie, rower i bieg)?",
+    "answers": [
+      "50 km",
+      "51,5 km",
+      "55 km",
+      "41,5 km"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-007",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Co oznacza dozwolony drafting podczas etapu kolarskiego elitarnego triathlonu krótkodystansowego?",
+    "answers": [
+      "Zakaz jazdy w grupie",
+      "Obowiązek jazdy na czas indywidualnie",
+      "Jazdę w aerodynamicznym cieniu innego zawodnika",
+      "Wymianę roweru podczas wyścigu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/elite"
+  },
+  {
+    "id": "SPORT-N20261120-A09-008",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "W jakiej kolejności startują zawodnicy sztafety mieszanej World Triathlon według przepisów obowiązujących od 2025 roku?",
+    "answers": [
+      "Mężczyzna – kobieta – mężczyzna – kobieta",
+      "Kobieta – kobieta – mężczyzna – mężczyzna",
+      "Mężczyzna – mężczyzna – kobieta – kobieta",
+      "Kobieta – mężczyzna – kobieta – mężczyzna"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-A09-009",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Do ilu punktów zwykle rozgrywa się pojedynczy set badmintona, jeśli nie występuje remis 20:20?",
+    "answers": [
+      "21",
+      "15",
+      "11",
+      "25"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-010",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Jaka przewaga punktowa jest potrzebna do wygrania seta badmintona przy wyniku 20:20, zanim padnie 29:29?",
+    "answers": [
+      "Jednego punktu",
+      "Dwóch punktów",
+      "Trzech punktów",
+      "Czterech punktów"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-011",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Jaki wynik kończy seta badmintona, gdy zawodnicy osiągnęli remis 29:29?",
+    "answers": [
+      "31:29",
+      "32:30",
+      "30:29",
+      "30:30"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-012",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Ile maksymalnie setów może mieć standardowy mecz badmintona rozgrywany do dwóch wygranych setów?",
+    "answers": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-013",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Z której części pola serwisowego zagrywa zawodnik w singlu badmintona, gdy ma parzystą liczbę punktów?",
+    "answers": [
+      "Z prawej",
+      "Z lewej",
+      "Z dowolnej",
+      "Z pola środkowego"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-014",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Przy ilu punktach prowadzącego zawodnika w trzecim secie badmintona następuje zmiana stron?",
+    "answers": [
+      "7",
+      "11",
+      "15",
+      "21"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-015",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ilu wioślarzy napędza łódź w konkurencji jedynki (1x)?",
+    "answers": [
+      "Dwóch",
+      "Czterech",
+      "Jeden",
+      "Ośmiu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-016",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile wioseł trzyma każdy zawodnik w konkurencji dwójki podwójnej (2x)?",
+    "answers": [
+      "Jedno",
+      "Trzy",
+      "Cztery",
+      "Dwa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-017",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Co oznacza znak plus w oznaczeniu wioślarskiej ósemki (8+)?",
+    "answers": [
+      "Obecność sternika",
+      "Dodatkowego wioślarza",
+      "Wiosłowanie parami",
+      "Dodatkowy bieg finałowy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-018",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile wioseł łącznie używa załoga czwórki podwójnej (4x)?",
+    "answers": [
+      "4",
+      "8",
+      "6",
+      "10"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-019",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Co oznacza litera x w oznaczeniu wioślarskiej konkurencji 2x?",
+    "answers": [
+      "Obecność sternika",
+      "Brak sternika w konkurencji wiosłowania jednym wiosłem",
+      "Wiosłowanie dwoma wiosłami przez każdego zawodnika",
+      "Start załogi mieszanej"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/2024/07/09/the-top-10-most-asked-questions-about-rowing-at-the-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-020",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaką rolę pełni sternik w wioślarskiej ósemce?",
+    "answers": [
+      "Wiosłuje na dziobie",
+      "Mierzy czas z brzegu",
+      "Zastępuje zmęczonego wioślarza",
+      "Kieruje łodzią i koordynuje załogę"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
   }
 ]
