@@ -8622,5 +8622,405 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://cdn-uat.nba.com/news/most-triple-doubles-in-nba-history"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-001",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który koszykarz zdobył nagrodę NBA Most Improved Player za sezon 2024/25?",
+    "answers": [
+      "Dyson Daniels",
+      "Tyrese Maxey",
+      "Jalen Johnson",
+      "Cade Cunningham"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-002",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został laureatem nagrody NBA Most Improved Player w sezonie 2023/24?",
+    "answers": [
+      "Jalen Brunson",
+      "Tyrese Maxey",
+      "Coby White",
+      "Alperen Şengün"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-003",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który reprezentant Finlandii został najbardziej poprawiającym się graczem NBA w sezonie 2022/23?",
+    "answers": [
+      "Lauri Markkanen",
+      "Sasu Salin",
+      "Mikael Jantunen",
+      "Petteri Koponen"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-004",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który gracz Memphis Grizzlies otrzymał nagrodę Most Improved Player za sezon 2021/22?",
+    "answers": [
+      "Desmond Bane",
+      "Jaren Jackson Jr.",
+      "Ja Morant",
+      "Dillon Brooks"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-005",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto odebrał nagrodę Most Improved Player NBA w sezonie 2020/21 jako gracz New York Knicks?",
+    "answers": [
+      "RJ Barrett",
+      "Julius Randle",
+      "Immanuel Quickley",
+      "Mitchell Robinson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-006",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył nagrodę Most Improved Player NBA w sezonie 2019/20?",
+    "answers": [
+      "Zion Williamson",
+      "Brandon Ingram",
+      "Lonzo Ball",
+      "Jrue Holiday"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-007",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Toronto Raptors otrzymał wyróżnienie Most Improved Player za sezon 2018/19?",
+    "answers": [
+      "Fred VanVleet",
+      "OG Anunoby",
+      "Pascal Siakam",
+      "Kyle Lowry"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-008",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył nagrodę Most Improved Player w sezonie NBA 2017/18, reprezentując Indiana Pacers?",
+    "answers": [
+      "Myles Turner",
+      "Domantas Sabonis",
+      "Victor Oladipo",
+      "Bojan Bogdanović"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-009",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym sezonie Giannis Antetokounmpo został laureatem NBA Most Improved Player?",
+    "answers": [
+      "2014/15",
+      "2016/17",
+      "2018/19",
+      "2020/21"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-010",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Portland Trail Blazers zdobył nagrodę Most Improved Player za sezon 2015/16?",
+    "answers": [
+      "Damian Lillard",
+      "CJ McCollum",
+      "Allen Crabbe",
+      "Meyers Leonard"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-011",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto został nagrodzony jako Most Improved Player NBA za sezon 2014/15?",
+    "answers": [
+      "Jimmy Butler",
+      "Kawhi Leonard",
+      "Klay Thompson",
+      "Draymond Green"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-012",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W barwach którego klubu Goran Dragić zdobył nagrodę Most Improved Player w sezonie 2013/14?",
+    "answers": [
+      "Miami Heat",
+      "Houston Rockets",
+      "Phoenix Suns",
+      "Toronto Raptors"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-013",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Indiana Pacers wygrał NBA Most Improved Player za sezon 2012/13?",
+    "answers": [
+      "Roy Hibbert",
+      "Paul George",
+      "David West",
+      "George Hill"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-014",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto otrzymał nagrodę NBA Most Improved Player za sezon 2010/11?",
+    "answers": [
+      "Kevin Love",
+      "Blake Griffin",
+      "Kevin Durant",
+      "LaMarcus Aldridge"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-015",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Houston Rockets zdobył NBA Most Improved Player w sezonie 2009/10?",
+    "answers": [
+      "Kyle Lowry",
+      "Aaron Brooks",
+      "Luis Scola",
+      "Kevin Martin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "W którym klubie Hedo Türkoğlu grał, gdy zdobył nagrodę Most Improved Player za sezon 2007/08?",
+    "answers": [
+      "Sacramento Kings",
+      "Toronto Raptors",
+      "Orlando Magic",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-017",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył nagrodę Most Improved Player w sezonie NBA 2005/06?",
+    "answers": [
+      "Boris Diaw",
+      "Steve Nash",
+      "Amar'e Stoudemire",
+      "Raja Bell"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-018",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz Golden State Warriors został Most Improved Player za sezon 2002/03?",
+    "answers": [
+      "Jason Richardson",
+      "Gilbert Arenas",
+      "Antawn Jamison",
+      "Mike Dunleavy Jr."
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-019",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Orlando Magic wygrał Most Improved Player w sezonie 2000/01?",
+    "answers": [
+      "Grant Hill",
+      "Mike Miller",
+      "Tracy McGrady",
+      "Darrell Armstrong"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-020",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto był laureatem NBA Most Improved Player za sezon 1995/96?",
+    "answers": [
+      "Gheorghe Mureșan",
+      "Dikembe Mutombo",
+      "Shawn Bradley",
+      "Arvydas Sabonis"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-021",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "W jakiej drużynie grał Scott Skiles, kiedy otrzymał NBA Most Improved Player za sezon 1990/91?",
+    "answers": [
+      "Indiana Pacers",
+      "Orlando Magic",
+      "Chicago Bulls",
+      "Milwaukee Bucks"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-022",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który koszykarz otrzymał pierwszą w historii nagrodę NBA Most Improved Player, za sezon 1985/86?",
+    "answers": [
+      "Alvin Robertson",
+      "Dale Ellis",
+      "Kevin Johnson",
+      "Michael Jordan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-023",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik Miami Heat został NBA Most Improved Player w sezonie 1989/90?",
+    "answers": [
+      "Rony Seikaly",
+      "Glen Rice",
+      "Steve Smith",
+      "Sherman Douglas"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-024",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zdobył NBA Most Improved Player za sezon 1999/2000 w barwach Indiana Pacers?",
+    "answers": [
+      "Reggie Miller",
+      "Jalen Rose",
+      "Rik Smits",
+      "Mark Jackson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
+  },
+  {
+    "id": "SPORT-N20261120-MIP-025",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik został NBA Most Improved Player w sezonie 2006/07?",
+    "answers": [
+      "Monta Ellis",
+      "Baron Davis",
+      "Stephen Jackson",
+      "Al Harrington"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-most-improved-award-winners"
   }
 ]
