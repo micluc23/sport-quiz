@@ -11134,5 +11134,325 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A10-001",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Ile przyborów obejmował program indywidualny seniorek w gimnastyce artystycznej w latach 2025–2028?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-002",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Który z przyborów gimnastyki artystycznej składa się z dwóch osobnych elementów trzymanych w dłoniach?",
+    "answers": [
+      "Obręcz",
+      "Piłka",
+      "Maczugi",
+      "Wstążka"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-003",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Jaka jest minimalna długość wstążki używanej przez seniorki w gimnastyce artystycznej według opisu FIG?",
+    "answers": [
+      "4 m",
+      "5 m",
+      "6 m",
+      "7 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-004",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Jaka jest dopuszczalna średnica piłki do gimnastyki artystycznej według FIG?",
+    "answers": [
+      "12–14 cm",
+      "15–17 cm",
+      "18–20 cm",
+      "21–23 cm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-005",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Ile wynosi minimalna masa obręczy gimnastyki artystycznej według FIG?",
+    "answers": [
+      "200 g",
+      "250 g",
+      "300 g",
+      "400 g"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-006",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach gimnastyka artystyczna zadebiutowała jako odrębna dyscyplina olimpijska?",
+    "answers": [
+      "Moskwa 1980",
+      "Los Angeles 1984",
+      "Seul 1988",
+      "Barcelona 1992"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/rg-presentation.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-007",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Na których igrzyskach po raz pierwszy rozegrano olimpijski wielobój zespołowy gimnastyki artystycznej?",
+    "answers": [
+      "Seul 1988",
+      "Barcelona 1992",
+      "Atlanta 1996",
+      "Sydney 2000"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/rg-presentation.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-008",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Ile zawodniczek liczy zespół w rywalizacji grupowej gimnastyki artystycznej według FIG?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/ele-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-009",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Ile przejazdów po 45 sekund wykonywał zawodnik w fazie przejazdów olimpijskiego street w Paryżu 2024?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-010",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile najwyżej punktów można było otrzymać za pojedynczy przejazd w skateboardingu street podczas igrzysk Paryż 2024?",
+    "answers": [
+      "10",
+      "50",
+      "100",
+      "200"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-011",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile najlepszych indywidualnych trików zawodnika wliczano do wyniku końcowego street w Paryżu 2024?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-012",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Jaka była maksymalna suma punktów możliwa do uzyskania w olimpijskim skateboardingu street w Paryżu 2024?",
+    "answers": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-013",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Która kombinacja wyników składała się na rezultat końcowy skateboardingu street w Paryżu 2024?",
+    "answers": [
+      "Dwa najlepsze przejazdy i jeden trik",
+      "Najlepszy przejazd i dwa najlepsze triki",
+      "Trzy najlepsze triki bez przejazdu",
+      "Dwa przejazdy bez trików"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-014",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Ekspert",
+    "question": "Co oznaczała procedura „Scoring Refusal” w skateboardingu street według zasad Paryża 2024?",
+    "answers": [
+      "Możliwość anulowania oceny triku w celu ponownej próby",
+      "Prawo do zmiany sędziego w finale",
+      "Automatyczne odrzucenie najgorszego przejazdu",
+      "Obowiązek powtórzenia triku po upadku"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-015",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "W którym roku boks po raz pierwszy pojawił się w programie nowożytnych igrzysk olimpijskich?",
+    "answers": [
+      "1896",
+      "1900",
+      "1904",
+      "1908"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-016",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście odbyły się igrzyska, na których boks zadebiutował w 1904 roku?",
+    "answers": [
+      "Paryż",
+      "St. Louis",
+      "Londyn",
+      "Antwerpia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-017",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Dlaczego na igrzyskach w Sztokholmie w 1912 roku nie rozgrywano zawodów bokserskich?",
+    "answers": [
+      "Z powodu szwedzkiego zakazu uprawiania boksu",
+      "Z powodu strajku sędziów",
+      "Z powodu braku rękawic",
+      "Z powodu zbyt małej liczby zgłoszeń"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-018",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "W którym roku boks kobiet zadebiutował w programie igrzysk olimpijskich?",
+    "answers": [
+      "2004",
+      "2008",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-019",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Która Brytyjka została pierwszą w historii mistrzynią olimpijską w boksie kobiet podczas Londynu 2012?",
+    "answers": [
+      "Katie Taylor",
+      "Nicola Adams",
+      "Claressa Shields",
+      "Savannah Marshall"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/women-and-sport-leaping-forward"
+  },
+  {
+    "id": "SPORT-N20261120-A10-020",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Która organizacja uzyskała tymczasowe uznanie MKOl jako międzynarodowa federacja bokserska przed zatwierdzeniem boksu na igrzyska Los Angeles 2028?",
+    "answers": [
+      "AIBA",
+      "World Boxing",
+      "WBC",
+      "WBA"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/boxing-to-be-part-of-la28-sports-programme"
   }
 ]
