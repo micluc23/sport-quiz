@@ -9390,5 +9390,357 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.nba.com/news/history-nba-champions"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-01",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Kto wygrał pierwszą edycję konkursu rzutów za trzy punkty podczas NBA All-Star Weekend w 1986 roku?",
+    "answers": [
+      "Larry Bird",
+      "Craig Hodges",
+      "Dale Ellis",
+      "Mark Price"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-02",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik wygrał konkurs trójek NBA w 1989 roku, przerywając serię Larry'ego Birda?",
+    "answers": [
+      "Steve Kerr",
+      "Glen Rice",
+      "Reggie Miller",
+      "Dale Ellis"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-03",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zwyciężał w konkursie trójek NBA przez trzy kolejne lata 1990–1992?",
+    "answers": [
+      "Mark Price",
+      "Jeff Hornacek",
+      "Craig Hodges",
+      "Larry Bird"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-04",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Chicago Bulls triumfował w konkursie trójek NBA w 1997 roku?",
+    "answers": [
+      "Toni Kukoč",
+      "Steve Kerr",
+      "Michael Jordan",
+      "Scottie Pippen"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-05",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał konkurs rzutów za trzy punkty NBA w 2001 roku?",
+    "answers": [
+      "Ray Allen",
+      "Peja Stojaković",
+      "Dirk Nowitzki",
+      "Jason Terry"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-06",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Cleveland Cavaliers zwyciężył w konkursie trójek NBA w 1993 roku?",
+    "answers": [
+      "Brad Daugherty",
+      "Terrell Brandon",
+      "Larry Nance",
+      "Mark Price"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-07",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał konkurs trójek NBA w 2016 roku jako zawodnik Golden State Warriors?",
+    "answers": [
+      "Draymond Green",
+      "Harrison Barnes",
+      "Klay Thompson",
+      "Stephen Curry"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-08",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Który gracz Brooklyn Nets wygrał konkurs trójek NBA w 2019 roku?",
+    "answers": [
+      "Caris LeVert",
+      "Joe Harris",
+      "Spencer Dinwiddie",
+      "D'Angelo Russell"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-09",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał konkurs trójek NBA w 2022 roku, reprezentując Minnesota Timberwolves?",
+    "answers": [
+      "Karl-Anthony Towns",
+      "Anthony Edwards",
+      "D'Angelo Russell",
+      "Malik Beasley"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-10",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Miami Heat zwyciężył w konkursie trójek NBA w 2025 roku?",
+    "answers": [
+      "Duncan Robinson",
+      "Jimmy Butler",
+      "Bam Adebayo",
+      "Tyler Herro"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-3-point-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-11",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał pierwszą edycję konkursu wsadów NBA w 1984 roku?",
+    "answers": [
+      "Michael Jordan",
+      "Julius Erving",
+      "Larry Nance",
+      "Dominique Wilkins"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-12",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który niski rozgrywający Atlanta Hawks zwyciężył w konkursie wsadów NBA w 1986 roku?",
+    "answers": [
+      "Dee Brown",
+      "Spud Webb",
+      "Muggsy Bogues",
+      "Nate Robinson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-13",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Kto wygrał konkurs wsadów NBA w 1997 roku jako gracz Los Angeles Lakers?",
+    "answers": [
+      "Kobe Bryant",
+      "Shaquille O'Neal",
+      "Eddie Jones",
+      "Nick Van Exel"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-14",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik Toronto Raptors triumfował w konkursie wsadów NBA w 2000 roku?",
+    "answers": [
+      "Tracy McGrady",
+      "Chris Bosh",
+      "DeMar DeRozan",
+      "Vince Carter"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-15",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który gracz Orlando Magic wygrał konkurs wsadów NBA w 2008 roku?",
+    "answers": [
+      "Hedo Türkoğlu",
+      "Rashard Lewis",
+      "Dwight Howard",
+      "Jameer Nelson"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-16",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Kto zwyciężył w konkursie wsadów NBA w 2011 roku jako zawodnik Los Angeles Clippers?",
+    "answers": [
+      "Chris Paul",
+      "Blake Griffin",
+      "DeAndre Jordan",
+      "Eric Gordon"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-17",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "Który koszykarz Minnesota Timberwolves wygrał konkurs wsadów NBA w 2015 roku?",
+    "answers": [
+      "Zach LaVine",
+      "Andrew Wiggins",
+      "Karl-Anthony Towns",
+      "Ricky Rubio"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-18",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Trudny",
+    "question": "Kto wygrał konkurs wsadów NBA w 2022 roku jako zawodnik New York Knicks?",
+    "answers": [
+      "RJ Barrett",
+      "Julius Randle",
+      "Immanuel Quickley",
+      "Obi Toppin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/news/history-slam-dunk-contest"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-19",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Kto zanotował pierwsze oficjalnie odnotowane quadruple-double w historii NBA w 1974 roku?",
+    "answers": [
+      "Bill Russell",
+      "Kareem Abdul-Jabbar",
+      "Nate Thurmond",
+      "Wilt Chamberlain"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-20",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik San Antonio Spurs uzyskał quadruple-double przeciw Detroit Pistons w lutym 1994 roku?",
+    "answers": [
+      "Sean Elliott",
+      "David Robinson",
+      "Tim Duncan",
+      "Alvin Robertson"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-21",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Który zawodnik uzyskał quadruple-double w NBA w 1986 roku, notując 10 przechwytów?",
+    "answers": [
+      "Alvin Robertson",
+      "Nate Thurmond",
+      "Hakeem Olajuwon",
+      "David Robinson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
+  },
+  {
+    "id": "SPORT-N20261120-ASW-22",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Ekspert",
+    "question": "Z jaką drużyną Nate Thurmond zmierzył się podczas swojego pierwszego quadruple-double w 1974 roku?",
+    "answers": [
+      "Boston Celtics",
+      "New York Knicks",
+      "Milwaukee Bucks",
+      "Atlanta Hawks"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.nba.com/bulls/history/nbas-first-recorded-quadruple-double"
   }
 ]
