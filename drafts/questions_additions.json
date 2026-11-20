@@ -14654,5 +14654,325 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/news/death-of-irena-szewinska-ioc-member"
+  },
+  {
+    "id": "GS-N20261120-2058-001",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej pozycji saneczkarz pokonuje lodowy tor w konkurencji jedynek?",
+    "answers": [
+      "Leżąc na plecach, stopami do przodu",
+      "Leżąc na brzuchu, głową do przodu",
+      "Siedząc twarzą do kierunku jazdy",
+      "Stojąc na jednej nodze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-luge-federation"
+  },
+  {
+    "id": "GS-N20261120-2058-002",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście saneczkarstwo zadebiutowało na zimowych igrzyskach olimpijskich w 1964 roku?",
+    "answers": [
+      "Sapporo",
+      "Innsbruck",
+      "Oslo",
+      "Grenoble"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/all-you-need-to-know-about-luge"
+  },
+  {
+    "id": "GS-N20261120-2058-003",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Łatwy",
+    "question": "Co decyduje o zwycięstwie w olimpijskich jedynkach saneczkarskich?",
+    "answers": [
+      "Najwyższa prędkość na ostatnim zjeździe",
+      "Najdłuższy pokonany dystans",
+      "Najniższa suma czasów przejazdów",
+      "Najlepszy pojedynczy przejazd"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-luge-federation"
+  },
+  {
+    "id": "GS-N20261120-2058-004",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ile przejazdów składa się na olimpijską rywalizację w saneczkarskich jedynkach?",
+    "answers": [
+      "Dwa",
+      "Trzy",
+      "Pięć",
+      "Cztery"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-luge-federation"
+  },
+  {
+    "id": "GS-N20261120-2058-005",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile przejazdów wykonuje para w olimpijskiej konkurencji saneczkarskich dwójek?",
+    "answers": [
+      "Dwa",
+      "Cztery",
+      "Jeden",
+      "Trzy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-luge-federation"
+  },
+  {
+    "id": "GS-N20261120-2058-006",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Co zawodnik sztafety saneczkarskiej musi nacisnąć na mecie, by umożliwić start następnej osadzie?",
+    "answers": [
+      "Przycisk na kasku",
+      "Panel dotykowy",
+      "Dźwignię przy sankach",
+      "Przycisk na kierownicy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-luge-federation"
+  },
+  {
+    "id": "GS-N20261120-2058-007",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "W którym roku olimpijski debiut miała sztafeta saneczkarska?",
+    "answers": [
+      "2006",
+      "2010",
+      "2014",
+      "2018"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/all-you-need-to-know-about-luge"
+  },
+  {
+    "id": "GS-N20261120-2058-008",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Który element stroju saneczkarza pomaga odpychać się od lodu tuż po starcie?",
+    "answers": [
+      "Łyżwy",
+      "Nakolanniki",
+      "Ochraniacze łokci",
+      "Rękawice z kolcami"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=186593&parentDocumentId=186592&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-009",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Normalny",
+    "question": "Z jaką dokładnością mierzono oficjalne czasy saneczkarstwa na igrzyskach Pekin 2022?",
+    "answers": [
+      "Do tysięcznej części sekundy",
+      "Do jednej dziesiątej sekundy",
+      "Do pełnej sekundy",
+      "Do jednej setnej minuty"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/default/digitalcollection/digitalcollectionattachmentdownloadhandler.ashx?documentid=1568646&parentdocumentid=1568639"
+  },
+  {
+    "id": "GS-N20261120-2058-010",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Jaki warunek musi spełnić saneczkarz przekraczający metę, aby jego przejazd uznano za ważny według zasad Pekin 2022?",
+    "answers": [
+      "Musi trzymać obie ręce na sankach",
+      "Musi pozostawać w kontakcie z sankami",
+      "Musi mieć zamknięte oczy",
+      "Musi przekroczyć metę wyłącznie na plecach"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/default/digitalcollection/digitalcollectionattachmentdownloadhandler.ashx?documentid=1568646&parentdocumentid=1568639"
+  },
+  {
+    "id": "GS-N20261120-2058-011",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Trudny",
+    "question": "Która część sanek styka się z lodem podczas ślizgu i podlega kontroli temperatury?",
+    "answers": [
+      "Oparcie",
+      "Uchwyty startowe",
+      "Stalowe płozy",
+      "Siedzisko"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/default/digitalcollection/digitalcollectionattachmentdownloadhandler.ashx?documentid=1568646&parentdocumentid=1568639"
+  },
+  {
+    "id": "GS-N20261120-2058-012",
+    "region": "Świat",
+    "sport": "Saneczkarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaka organizacja międzynarodowa zarządza sportowym saneczkarstwem?",
+    "answers": [
+      "FIS",
+      "IBU",
+      "ISU",
+      "FIL"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-luge-federation"
+  },
+  {
+    "id": "GS-N20261120-2058-013",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Do ilu trafień zwykle rozgrywa się indywidualny pojedynek szermierczy w fazie pucharowej igrzysk?",
+    "answers": [
+      "15",
+      "5",
+      "21",
+      "45"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-014",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Jaki jest maksymalny łączny wynik jednej drużyny w olimpijskim meczu szermierczym?",
+    "answers": [
+      "30 trafień",
+      "45 trafień",
+      "15 trafień",
+      "60 trafień"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-015",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ile pojedynków składa się na pełny mecz dwóch trzyosobowych drużyn szermierczych?",
+    "answers": [
+      "Trzy",
+      "Sześć",
+      "Dziewięć",
+      "Dwanaście"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-016",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ile minut trwa jedna standardowa runda indywidualnej walki na florety lub szpady?",
+    "answers": [
+      "Jedną minutę",
+      "Dwie minuty",
+      "Pięć minut",
+      "Trzy minuty"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-017",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ile minut przerwy przewidziano pomiędzy rundami indywidualnej walki florecistów i szpadzistów?",
+    "answers": [
+      "Jedną",
+      "Dwie",
+      "Trzy",
+      "Cztery"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-018",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Po zdobyciu ilu trafień przez jednego zawodnika następuje przerwa w indywidualnej walce na szable?",
+    "answers": [
+      "Pięciu",
+      "Ośmiu",
+      "Dziesięciu",
+      "Dwunastu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-019",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Jak rozstrzyga się remis po upływie regulaminowego czasu indywidualnej walki szermierczej?",
+    "answers": [
+      "Losuje się zwycięzcę bez dogrywki",
+      "Liczy się wcześniejsze trafienia",
+      "Rozgrywa się minutową dogrywkę z przyznanym priorytetem",
+      "Powtarza się cały pojedynek"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3415863&parentDocumentId=3415862&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "GS-N20261120-2058-020",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Jakie urządzenie wskazuje trafienia we współczesnej szermierce olimpijskiej?",
+    "answers": [
+      "Stoper mechaniczny",
+      "Czujnik GPS",
+      "Kamera termowizyjna",
+      "Elektroniczny system sygnalizacji"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
   }
 ]
