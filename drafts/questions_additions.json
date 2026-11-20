@@ -14974,5 +14974,309 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "GS-N20261120-22-001",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Na których igrzyskach nowożytnych po raz pierwszy rozegrano konkurencje podnoszenia ciężarów?",
+    "answers": [
+      "Ateny 1896",
+      "Paryż 1900",
+      "Londyn 1908",
+      "Antwerpia 1920"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-002",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jakie dwie odmiany podnoszenia ciężarów były w programie igrzysk w Atenach w 1896 roku?",
+    "answers": [
+      "Jednorącz i oburącz",
+      "Rwanie i podrzut",
+      "Rwanie i wyciskanie",
+      "Dwubój i trójbój"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-003",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Kto zwyciężył w olimpijskim podnoszeniu ciężarów jedną ręką w Atenach w 1896 roku?",
+    "answers": [
+      "Launceston Elliot",
+      "Viggo Jensen",
+      "Louis Hostin",
+      "Naim Süleymanoğlu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-004",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Który Duńczyk zdobył tytuł w podnoszeniu ciężarów oburącz na igrzyskach w Atenach 1896?",
+    "answers": [
+      "Viggo Jensen",
+      "Launceston Elliot",
+      "Svend Rindom",
+      "Poul Anderson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-005",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście podnoszenie ciężarów powróciło do programu olimpijskiego w 1920 roku?",
+    "answers": [
+      "Antwerpia",
+      "Sztokholm",
+      "Berlin",
+      "Amsterdam"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-006",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach po raz ostatni rozegrano podnoszenie ciężarów jedną ręką?",
+    "answers": [
+      "Paryż 1924",
+      "Amsterdam 1928",
+      "Londyn 1948",
+      "Helsinki 1952"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-007",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Na których igrzyskach olimpijskich po raz pierwszy rywalizowały kobiety w podnoszeniu ciężarów?",
+    "answers": [
+      "Sydney 2000",
+      "Atlanta 1996",
+      "Ateny 2004",
+      "Pekin 2008"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-008",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Który bój usunięto z olimpijskiego podnoszenia ciężarów przed igrzyskami w Monachium w 1972 roku?",
+    "answers": [
+      "Wyciskanie",
+      "Rwanie",
+      "Podrzut",
+      "Martwy ciąg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-009",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "W którym roku wprowadzono olimpijskie kategorie wagowe ciężarowców od 60 do 82,5 kg?",
+    "answers": [
+      "1920",
+      "1896",
+      "1936",
+      "1972"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-010",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Ile kategorii wagowych kobiet rozegrano w podnoszeniu ciężarów na igrzyskach Paryż 2024?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-011",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile kategorii wagowych kobiet zaplanowano w podnoszeniu ciężarów na igrzyska Los Angeles 2028?",
+    "answers": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/weightlifting-olympics-rules-history-snatch-clean-and-jerk"
+  },
+  {
+    "id": "GS-N20261120-22-012",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Który polski ciężarowiec otrzymał srebrny medal igrzysk Londyn 2012 w kategorii 105 kg po zmianie wyników?",
+    "answers": [
+      "Bartłomiej Bonk",
+      "Adrian Zieliński",
+      "Szymon Kołecki",
+      "Marcin Dołęga"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ioc-executive-board-approves-medal-reallocations-from-olympic-games-london-2012"
+  },
+  {
+    "id": "GS-N20261120-22-013",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "W jakiej kategorii wagowej Bartłomiej Bonk otrzymał srebro olimpijskie za Londyn 2012?",
+    "answers": [
+      "105 kg",
+      "94 kg",
+      "85 kg",
+      "+105 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ioc-executive-board-approves-medal-reallocations-from-olympic-games-london-2012"
+  },
+  {
+    "id": "GS-N20261120-22-014",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Który zapaśnik zdobył trzy kolejne złote medale olimpijskie w stylu klasycznym w latach 1988–1996?",
+    "answers": [
+      "Aleksandr Karelin",
+      "Rulon Gardner",
+      "Gable Steveson",
+      "Hassan Yazdani"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/the-karelin-style"
+  },
+  {
+    "id": "GS-N20261120-22-015",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Kto pokonał Aleksandra Karelina w olimpijskim finale w Sydney w 2000 roku?",
+    "answers": [
+      "Rulon Gardner",
+      "Mijaín López",
+      "Artur Tajmazow",
+      "Aleksandr Medved"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/the-karelin-style"
+  },
+  {
+    "id": "GS-N20261120-22-016",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W którym mieście Aleksandr Karelin zdobył pierwszy złoty medal olimpijski?",
+    "answers": [
+      "Seul",
+      "Barcelona",
+      "Atlanta",
+      "Sydney"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/the-karelin-style"
+  },
+  {
+    "id": "GS-N20261120-22-017",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Ile złotych medali mistrzostw świata w zapasach zdobył Aleksandr Karelin w latach 1989–1999?",
+    "answers": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/the-karelin-style"
+  },
+  {
+    "id": "GS-N20261120-22-018",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Na których igrzyskach nowożytnych po raz pierwszy odbyły się zawody w zapasach?",
+    "answers": [
+      "Ateny 1896",
+      "Paryż 1900",
+      "Sztokholm 1912",
+      "Berlin 1936"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
+  },
+  {
+    "id": "GS-N20261120-22-019",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W którym roku po raz pierwszy włączono zapasy kobiet do programu olimpijskiego?",
+    "answers": [
+      "2004",
+      "2008",
+      "2000",
+      "2012"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-weight-categories-olympic-wrestling-competition"
   }
 ]
