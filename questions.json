@@ -21134,5 +21134,3701 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.nbcolympics.com/news/judo-paris-2024-biggest-stories-replays-medal-results-top-athletes-new-records"
+  },
+  {
+    "id": "SPORT-N20261120-A09-001",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Ile kilometrów wynosi etap biegowy w triathlonie na dystansie standardowym?",
+    "answers": [
+      "10 km",
+      "5 km",
+      "20 km",
+      "15 km"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-002",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Ile metrów pływania obejmuje standardowy triathlon olimpijski?",
+    "answers": [
+      "750 m",
+      "1500 m",
+      "400 m",
+      "2000 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-003",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Jak długi jest odcinek kolarski w triathlonie na dystansie sprint?",
+    "answers": [
+      "10 km",
+      "40 km",
+      "20 km",
+      "30 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-004",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jaki dystans biegu kończy triathlon w formule sprint?",
+    "answers": [
+      "2,5 km",
+      "10 km",
+      "7,5 km",
+      "5 km"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-005",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jaką długość ma odcinek pływacki triathlonowego supersprintu według zestawienia World Triathlon?",
+    "answers": [
+      "400 m",
+      "250 m",
+      "750 m",
+      "1500 m"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-006",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile kilometrów łącznie pokonuje zawodnik w standardowym triathlonie (pływanie, rower i bieg)?",
+    "answers": [
+      "50 km",
+      "51,5 km",
+      "55 km",
+      "41,5 km"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/agegroup"
+  },
+  {
+    "id": "SPORT-N20261120-A09-007",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Co oznacza dozwolony drafting podczas etapu kolarskiego elitarnego triathlonu krótkodystansowego?",
+    "answers": [
+      "Zakaz jazdy w grupie",
+      "Obowiązek jazdy na czas indywidualnie",
+      "Jazdę w aerodynamicznym cieniu innego zawodnika",
+      "Wymianę roweru podczas wyścigu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/elite"
+  },
+  {
+    "id": "SPORT-N20261120-A09-008",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "W jakiej kolejności startują zawodnicy sztafety mieszanej World Triathlon według przepisów obowiązujących od 2025 roku?",
+    "answers": [
+      "Mężczyzna – kobieta – mężczyzna – kobieta",
+      "Kobieta – kobieta – mężczyzna – mężczyzna",
+      "Mężczyzna – mężczyzna – kobieta – kobieta",
+      "Kobieta – mężczyzna – kobieta – mężczyzna"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-A09-009",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Do ilu punktów zwykle rozgrywa się pojedynczy set badmintona, jeśli nie występuje remis 20:20?",
+    "answers": [
+      "21",
+      "15",
+      "11",
+      "25"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-010",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Jaka przewaga punktowa jest potrzebna do wygrania seta badmintona przy wyniku 20:20, zanim padnie 29:29?",
+    "answers": [
+      "Jednego punktu",
+      "Dwóch punktów",
+      "Trzech punktów",
+      "Czterech punktów"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-011",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Jaki wynik kończy seta badmintona, gdy zawodnicy osiągnęli remis 29:29?",
+    "answers": [
+      "31:29",
+      "32:30",
+      "30:29",
+      "30:30"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-012",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Ile maksymalnie setów może mieć standardowy mecz badmintona rozgrywany do dwóch wygranych setów?",
+    "answers": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-013",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Z której części pola serwisowego zagrywa zawodnik w singlu badmintona, gdy ma parzystą liczbę punktów?",
+    "answers": [
+      "Z prawej",
+      "Z lewej",
+      "Z dowolnej",
+      "Z pola środkowego"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-014",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Przy ilu punktach prowadzącego zawodnika w trzecim secie badmintona następuje zmiana stron?",
+    "answers": [
+      "7",
+      "11",
+      "15",
+      "21"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Statutes/CHAPTER-4---RULES-OF-THE-GAME/SECTION%204.1-%20Laws%20of%20Badminton.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A09-015",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ilu wioślarzy napędza łódź w konkurencji jedynki (1x)?",
+    "answers": [
+      "Dwóch",
+      "Czterech",
+      "Jeden",
+      "Ośmiu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-016",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile wioseł trzyma każdy zawodnik w konkurencji dwójki podwójnej (2x)?",
+    "answers": [
+      "Jedno",
+      "Trzy",
+      "Cztery",
+      "Dwa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-017",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Co oznacza znak plus w oznaczeniu wioślarskiej ósemki (8+)?",
+    "answers": [
+      "Obecność sternika",
+      "Dodatkowego wioślarza",
+      "Wiosłowanie parami",
+      "Dodatkowy bieg finałowy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-018",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile wioseł łącznie używa załoga czwórki podwójnej (4x)?",
+    "answers": [
+      "4",
+      "8",
+      "6",
+      "10"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-019",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Co oznacza litera x w oznaczeniu wioślarskiej konkurencji 2x?",
+    "answers": [
+      "Obecność sternika",
+      "Brak sternika w konkurencji wiosłowania jednym wiosłem",
+      "Wiosłowanie dwoma wiosłami przez każdego zawodnika",
+      "Start załogi mieszanej"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/2024/07/09/the-top-10-most-asked-questions-about-rowing-at-the-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261120-A09-020",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaką rolę pełni sternik w wioślarskiej ósemce?",
+    "answers": [
+      "Wiosłuje na dziobie",
+      "Mierzy czas z brzegu",
+      "Zastępuje zmęczonego wioślarza",
+      "Kieruje łodzią i koordynuje załogę"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A10-001",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Ile przyborów obejmował program indywidualny seniorek w gimnastyce artystycznej w latach 2025–2028?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-002",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Który z przyborów gimnastyki artystycznej składa się z dwóch osobnych elementów trzymanych w dłoniach?",
+    "answers": [
+      "Obręcz",
+      "Piłka",
+      "Maczugi",
+      "Wstążka"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-003",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Jaka jest minimalna długość wstążki używanej przez seniorki w gimnastyce artystycznej według opisu FIG?",
+    "answers": [
+      "4 m",
+      "5 m",
+      "6 m",
+      "7 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-004",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Jaka jest dopuszczalna średnica piłki do gimnastyki artystycznej według FIG?",
+    "answers": [
+      "12–14 cm",
+      "15–17 cm",
+      "18–20 cm",
+      "21–23 cm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-005",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Ile wynosi minimalna masa obręczy gimnastyki artystycznej według FIG?",
+    "answers": [
+      "200 g",
+      "250 g",
+      "300 g",
+      "400 g"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/app-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-006",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach gimnastyka artystyczna zadebiutowała jako odrębna dyscyplina olimpijska?",
+    "answers": [
+      "Moskwa 1980",
+      "Los Angeles 1984",
+      "Seul 1988",
+      "Barcelona 1992"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/rg-presentation.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-007",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Na których igrzyskach po raz pierwszy rozegrano olimpijski wielobój zespołowy gimnastyki artystycznej?",
+    "answers": [
+      "Seul 1988",
+      "Barcelona 1992",
+      "Atlanta 1996",
+      "Sydney 2000"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/rg-presentation.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-008",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Ile zawodniczek liczy zespół w rywalizacji grupowej gimnastyki artystycznej według FIG?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.gymnastics.sport/site/pages/disciplines/ele-rg.php"
+  },
+  {
+    "id": "SPORT-N20261120-A10-009",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Ile przejazdów po 45 sekund wykonywał zawodnik w fazie przejazdów olimpijskiego street w Paryżu 2024?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-010",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile najwyżej punktów można było otrzymać za pojedynczy przejazd w skateboardingu street podczas igrzysk Paryż 2024?",
+    "answers": [
+      "10",
+      "50",
+      "100",
+      "200"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-011",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile najlepszych indywidualnych trików zawodnika wliczano do wyniku końcowego street w Paryżu 2024?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-012",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Jaka była maksymalna suma punktów możliwa do uzyskania w olimpijskim skateboardingu street w Paryżu 2024?",
+    "answers": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-013",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Która kombinacja wyników składała się na rezultat końcowy skateboardingu street w Paryżu 2024?",
+    "answers": [
+      "Dwa najlepsze przejazdy i jeden trik",
+      "Najlepszy przejazd i dwa najlepsze triki",
+      "Trzy najlepsze triki bez przejazdu",
+      "Dwa przejazdy bez trików"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-014",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Ekspert",
+    "question": "Co oznaczała procedura „Scoring Refusal” w skateboardingu street według zasad Paryża 2024?",
+    "answers": [
+      "Możliwość anulowania oceny triku w celu ponownej próby",
+      "Prawo do zmiany sędziego w finale",
+      "Automatyczne odrzucenie najgorszego przejazdu",
+      "Obowiązek powtórzenia triku po upadku"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A10-015",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "W którym roku boks po raz pierwszy pojawił się w programie nowożytnych igrzysk olimpijskich?",
+    "answers": [
+      "1896",
+      "1900",
+      "1904",
+      "1908"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-016",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście odbyły się igrzyska, na których boks zadebiutował w 1904 roku?",
+    "answers": [
+      "Paryż",
+      "St. Louis",
+      "Londyn",
+      "Antwerpia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-017",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Dlaczego na igrzyskach w Sztokholmie w 1912 roku nie rozgrywano zawodów bokserskich?",
+    "answers": [
+      "Z powodu szwedzkiego zakazu uprawiania boksu",
+      "Z powodu strajku sędziów",
+      "Z powodu braku rękawic",
+      "Z powodu zbyt małej liczby zgłoszeń"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-018",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "W którym roku boks kobiet zadebiutował w programie igrzysk olimpijskich?",
+    "answers": [
+      "2004",
+      "2008",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Games/OG/History-of-sports/Reference-document-Boxing-History-at-the-OG.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A10-019",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Która Brytyjka została pierwszą w historii mistrzynią olimpijską w boksie kobiet podczas Londynu 2012?",
+    "answers": [
+      "Katie Taylor",
+      "Nicola Adams",
+      "Claressa Shields",
+      "Savannah Marshall"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/women-and-sport-leaping-forward"
+  },
+  {
+    "id": "SPORT-N20261120-A10-020",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Która organizacja uzyskała tymczasowe uznanie MKOl jako międzynarodowa federacja bokserska przed zatwierdzeniem boksu na igrzyska Los Angeles 2028?",
+    "answers": [
+      "AIBA",
+      "World Boxing",
+      "WBC",
+      "WBA"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/boxing-to-be-part-of-la28-sports-programme"
+  },
+  {
+    "id": "SPORT-N20261120-A11-001",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Łatwy",
+    "question": "W którym roku breaking zadebiutował na letnich igrzyskach olimpijskich?",
+    "answers": [
+      "2020",
+      "2024",
+      "2016",
+      "2028"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-A11-002",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Łatwy",
+    "question": "W której dzielnicy Nowego Jorku narodził się breaking?",
+    "answers": [
+      "Queens",
+      "Brooklyn",
+      "Bronx",
+      "Manhattan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-A11-003",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Ilu zawodników i zawodniczek łącznie przewidziano w olimpijskich zawodach breakingu w Paryżu 2024?",
+    "answers": [
+      "16",
+      "24",
+      "32",
+      "48"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-A11-004",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Który B-Boy wygrał etap Olympic Qualifier Series w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Lee",
+      "Dany Dann",
+      "Victor",
+      "Shigekix"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-A11-005",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Która B-Girl zwyciężyła w budapeszteńskim etapie Olympic Qualifier Series 2024?",
+    "answers": [
+      "Ayumi",
+      "Ami",
+      "Nicka",
+      "India"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-A11-006",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Która B-Girl wygrała etap Olympic Qualifier Series w Szanghaju w 2024 roku?",
+    "answers": [
+      "Ami",
+      "Ayumi",
+      "Nicka",
+      "Logistx"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympic-qualifier-series-electrifies-athletes-and-fans-in-shanghai"
+  },
+  {
+    "id": "SPORT-N20261120-A11-007",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście rozegrano drugi, finałowy etap Olympic Qualifier Series w 2024 roku?",
+    "answers": [
+      "Szanghaj",
+      "Budapeszt",
+      "Paryż",
+      "Tokio"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-A11-009",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Który zestaw zawiera wszystkie trzy bronie współczesnej szermierki olimpijskiej?",
+    "answers": [
+      "Floret, szpada, szabla",
+      "Floret, rapier, szabla",
+      "Szpada, rapier, halabarda",
+      "Szabla, pałasz, rapier"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-010",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Od których nowożytnych igrzysk olimpijskich szermierka mężczyzn jest nieprzerwanie w programie?",
+    "answers": [
+      "Paryż 1900",
+      "Ateny 1896",
+      "Londyn 1908",
+      "Sztokholm 1912"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-011",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały w szermierce na igrzyskach olimpijskich?",
+    "answers": [
+      "1900",
+      "1912",
+      "1924",
+      "1936"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-012",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się specjalna plansza, na której rozgrywany jest pojedynek szermierczy?",
+    "answers": [
+      "Tatami",
+      "Tor",
+      "Pista",
+      "Rzutnia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-013",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Jaką długość ma standardowa plansza szermiercza opisana przez MKOl?",
+    "answers": [
+      "10 metrów",
+      "12 metrów",
+      "14 metrów",
+      "16 metrów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-014",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ilu zawodników liczy podstawowy skład drużyny w olimpijskim pojedynku szermierczym?",
+    "answers": [
+      "Dwóch",
+      "Trzech",
+      "Czterech",
+      "Pięciu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-016",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Przy wyniku 29:29 w secie badmintona który punkt rozstrzyga zwycięstwo?",
+    "answers": [
+      "30.",
+      "31.",
+      "32.",
+      "33."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-017",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Przy jakim wyniku lidera w secie badmintona przysługuje przerwa do 60 sekund?",
+    "answers": [
+      "7 punktów",
+      "9 punktów",
+      "11 punktów",
+      "15 punktów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-018",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Kiedy zawodnicy zmieniają strony w trzecim secie standardowego meczu badmintona?",
+    "answers": [
+      "Przy 7 punktach lidera",
+      "Przy 11 punktach lidera",
+      "Przy 15 punktach lidera",
+      "Dopiero po secie"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-019",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Z której strony pola serwisowego wykonuje się serwis w singlu badmintona, gdy wynik serwującego jest parzysty?",
+    "answers": [
+      "Z prawej",
+      "Z lewej",
+      "Z dowolnej",
+      "Z linii środkowej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-020",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Ile maksymalnie trwa regulaminowa przerwa między setami w badmintonie?",
+    "answers": [
+      "60 sekund",
+      "90 sekund",
+      "120 sekund",
+      "180 sekund"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A12-001",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Na jaką odległość strzelają zawodnicy z łuku klasycznego (recurve) w międzynarodowym łucznictwie tarczowym na otwartym stadionie?",
+    "answers": [
+      "50 m",
+      "60 m",
+      "70 m",
+      "90 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-002",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Jaką średnicę ma tarcza w międzynarodowej konkurencji recurve na 70 metrów?",
+    "answers": [
+      "80 cm",
+      "100 cm",
+      "122 cm",
+      "150 cm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-003",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile strzał oddaje łucznik recurve podczas rundy kwalifikacyjnej w zawodach międzynarodowych?",
+    "answers": [
+      "36",
+      "60",
+      "72",
+      "90"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-004",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Do ilu punktów setowych gra się indywidualny mecz recurve w systemie World Archery?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-005",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile punktów setowych otrzymuje łucznik recurve za wygranie seta w pojedynku indywidualnym?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-006",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile strzał oddaje jeden zawodnik w secie indywidualnego meczu recurve?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-007",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Ile strzał łącznie oddaje drużyna mieszana recurve w jednym secie meczu?",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/equipment/recurve"
+  },
+  {
+    "id": "SPORT-N20261120-A12-008",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Z jakiej odległości strzelają zawodnicy z łuku bloczkowego (compound) w międzynarodowym łucznictwie tarczowym?",
+    "answers": [
+      "30 m",
+      "50 m",
+      "60 m",
+      "70 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/news/201820/beginners-guide-tlaxcala-2024-hyundai-archery-world-cup-final"
+  },
+  {
+    "id": "SPORT-N20261120-A12-009",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Trudny",
+    "question": "Ile strzał obejmuje mecz indywidualny compound rozgrywany według punktacji sumarycznej?",
+    "answers": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/news/201820/beginners-guide-tlaxcala-2024-hyundai-archery-world-cup-final"
+  },
+  {
+    "id": "SPORT-N20261120-A12-010",
+    "region": "Świat",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Który kolor na tarczy łuczniczej odpowiada pierścieniom za 7 i 8 punktów?",
+    "answers": [
+      "Żółty",
+      "Czerwony",
+      "Niebieski",
+      "Czarny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.worldarchery.sport/sport/disciplines/target-archery"
+  },
+  {
+    "id": "SPORT-N20261120-A12-011",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się bój, w którym sztangę przenosi się z pomostu nad głowę jednym ciągłym ruchem?",
+    "answers": [
+      "Podrzut",
+      "Rwanie",
+      "Wyciskanie",
+      "Zarzut"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/2025/03/29/iwf120y-47-2025-knowing-one-of-the-basic-lifts-snatch/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-012",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Który bój odbywa się jako pierwszy w zawodach podnoszenia ciężarów według IWF?",
+    "answers": [
+      "Podrzut",
+      "Rwanie",
+      "Wyciskanie",
+      "Zarzut"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-013",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile prób rwania przysługuje zawodnikowi w standardowych zawodach IWF?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-014",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile prób podrzutu przysługuje zawodnikowi w standardowych zawodach IWF?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-015",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile minut przed startem danej grupy zawodników rozpoczyna się oficjalne ważenie według IWF?",
+    "answers": [
+      "60",
+      "90",
+      "120",
+      "180"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-016",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Ile trwa oficjalne ważenie grupy zawodników w zawodach IWF?",
+    "answers": [
+      "30 minut",
+      "45 minut",
+      "60 minut",
+      "90 minut"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-017",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile czasu na wykonanie próby ma ciężarowiec, gdy wykonuje dwie próby bezpośrednio po sobie?",
+    "answers": [
+      "1 minutę",
+      "2 minuty",
+      "3 minuty",
+      "4 minuty"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-018",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jak oblicza się wynik dwuboju w podnoszeniu ciężarów według przepisów IWF z 2025 roku?",
+    "answers": [
+      "Sumuje się wszystkie udane próby",
+      "Sumuje się najlepsze rwanie i najlepszy podrzut",
+      "Liczy się tylko cięższy z dwóch bojów",
+      "Uśrednia się dwie najlepsze próby"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/2025/11/05/updated-iwf-tcrr-is-now-available/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-019",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jaki minimalny wzrost ciężaru obowiązuje przy automatycznym podniesieniu sztangi po udanej próbie w zawodach IWF?",
+    "answers": [
+      "0,5 kg",
+      "1 kg",
+      "2 kg",
+      "5 kg"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A12-020",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Ile minut przerwy przewiduje opis przebiegu zawodów IWF między rwaniem a podrzutem?",
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://iwf.sport/weightlifting_/competition-flow/"
+  },
+  {
+    "id": "SPORT-N20261120-A13-001",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Który styl zapasów olimpijskich zabrania aktywnego używania nóg do wykonania akcji?",
+    "answers": [
+      "Styl klasyczny",
+      "Styl wolny",
+      "Zapasy kobiet",
+      "Zapasy plażowe"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-002",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Jaką przewagę punktową trzeba uzyskać w stylu klasycznym, aby wygrać przez przewagę techniczną?",
+    "answers": [
+      "6 punktów",
+      "8 punktów",
+      "10 punktów",
+      "12 punktów"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-003",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Jaka przewaga punktowa kończy walkę przez przewagę techniczną w zapasach w stylu wolnym?",
+    "answers": [
+      "6 punktów",
+      "8 punktów",
+      "10 punktów",
+      "12 punktów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-004",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "W którym olimpijskim stylu zapasów dozwolone są ataki na nogi przeciwnika?",
+    "answers": [
+      "Wyłącznie w stylu klasycznym",
+      "W stylu wolnym",
+      "W żadnym stylu",
+      "Wyłącznie w zapasach plażowych"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-005",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Trudny",
+    "question": "Która technika jest według UWW zabroniona w zapasach kobiet, mimo że inne reguły odpowiadają stylowi wolnemu?",
+    "answers": [
+      "Podwójny nelson (double Nelson)",
+      "Chwyt za nadgarstek",
+      "Obejście za plecy",
+      "Przejście do parteru"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-006",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Która organizacja zarządza międzynarodowymi zapasami olimpijskimi?",
+    "answers": [
+      "World Aquatics",
+      "United World Wrestling",
+      "World Athletics",
+      "International Judo Federation"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-007",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Który styl zapasów olimpijskich pozwala zawodnikom wykorzystywać zarówno ręce, jak i nogi w atakach?",
+    "answers": [
+      "Styl klasyczny",
+      "Styl wolny",
+      "Wyłącznie sumo",
+      "Wyłącznie grappling"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://uww.org/node/14578"
+  },
+  {
+    "id": "SPORT-N20261120-A13-008",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Jaka jest wysokość standardowej ściany we wspinaczce sportowej na czas?",
+    "answers": [
+      "10 m",
+      "12 m",
+      "15 m",
+      "20 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www1.ifsc-climbing.org/~/speed/index"
+  },
+  {
+    "id": "SPORT-N20261120-A13-009",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Co w finałowym pojedynku wspinaczki na czas decyduje o zwycięstwie?",
+    "answers": [
+      "Liczba chwytów",
+      "Pierwsze dotknięcie panelu mety na szczycie",
+      "Ocena stylu",
+      "Liczba odpoczynków"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www1.ifsc-climbing.org/~/speed/index"
+  },
+  {
+    "id": "SPORT-N20261120-A13-010",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Ile minut ma zawodnik na próbę w konkurencji prowadzenie (lead) według opisu World Climbing?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-011",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Co jest podstawą klasyfikacji w konkurencji prowadzenie (lead)?",
+    "answers": [
+      "Najwyżej osiągnięty chwyt",
+      "Najkrótszy czas wejścia",
+      "Liczba wykonanych skoków",
+      "Liczba wykorzystanych lin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-012",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Co oznacza znak „+” dopisany do wyniku zawodnika w prowadzeniu (lead)?",
+    "answers": [
+      "Przekroczenie limitu czasu",
+      "Ruch w kierunku kolejnego chwytu",
+      "Dotknięcie ściany stopą",
+      "Ukończenie drogi bez liny"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-013",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Ile minut trwa wspólna obserwacja drogi przed finałową próbą w prowadzeniu według World Climbing?",
+    "answers": [
+      "3",
+      "4",
+      "6",
+      "10"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-014",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Jakim zabezpieczeniem posługują się zawodnicy w konkurencji prowadzenie (lead)?",
+    "answers": [
+      "Liną asekuracyjną",
+      "Wyłącznie materacem",
+      "Pasem biodrowym bez liny",
+      "Siatką pod ścianą"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ifsc-climbing.org/lead"
+  },
+  {
+    "id": "SPORT-N20261120-A13-015",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Trudny",
+    "question": "Która konkurencja wspinaczki ma oficjalnie uznawane rekordy świata czasu przejścia trasy?",
+    "answers": [
+      "Bouldering",
+      "Prowadzenie",
+      "Wspinaczka na czas",
+      "Kombinacja boulder i prowadzenie"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www1.ifsc-climbing.org/~/speed/index"
+  },
+  {
+    "id": "SPORT-N20261120-A13-016",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Ile osób tworzy drużynę triathlonowej sztafety mieszanej?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-017",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się w triathlonie linia, za którą wolno dopiero wsiąść na rower?",
+    "answers": [
+      "Finish line",
+      "Mount line",
+      "Start line",
+      "Penalty line"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-018",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się w triathlonie wydzielone miejsce odbywania kary czasowej?",
+    "answers": [
+      "Penalty box",
+      "Start gate",
+      "Feed zone",
+      "Finish chute"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-019",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile kilometrów wynosi odcinek rowerowy w długim triathlonie opisanym w słowniku World Triathlon (4 km pływania, 30 km biegu)?",
+    "answers": [
+      "90 km",
+      "100 km",
+      "120 km",
+      "180 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A13-020",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Łatwy",
+    "question": "Jaką czynność wykonuje każdy uczestnik triathlonowej sztafety mieszanej przed przekazaniem zmiany?",
+    "answers": [
+      "Pływanie, jazdę na rowerze i bieg",
+      "Tylko pływanie",
+      "Tylko jazdę na rowerze",
+      "Pływanie i bieg bez roweru"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/talk-like-a-triathlete"
+  },
+  {
+    "id": "SPORT-N20261120-A14-001",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Jaka jest minimalna masa łodzi klasy 1x według tabeli World Rowing?",
+    "answers": [
+      "14 kg",
+      "22 kg",
+      "27 kg",
+      "32 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-002",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Która klasa łodzi ma według World Rowing minimalną masę 52 kg?",
+    "answers": [
+      "Czwórka podwójna (4x)",
+      "Czwórka bez sternika (4-)",
+      "Dwójka podwójna (2x)",
+      "Ósemka (8+)"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-003",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile wynosi minimalna masa ósemki (8+) według World Rowing?",
+    "answers": [
+      "96 kg",
+      "52 kg",
+      "75 kg",
+      "110 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-004",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ile wioseł używa łącznie osada czwórki bez sternika (4-)?",
+    "answers": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/2024/07/09/the-top-10-most-asked-questions-about-rowing-at-the-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-005",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Co oznacza znak „x” w symbolu wioślarskiej klasy 2x?",
+    "answers": [
+      "Wiosłowanie na dwa wiosła przez zawodnika",
+      "Obecność sternika",
+      "Wyścig na skróconym dystansie",
+      "Osadę mieszaną"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/wp-content/uploads/2022/05/real_0518_2022-WR-Season-media-guide-v6.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-006",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile konkurencji wioślarskich znalazło się w programie igrzysk Paryż 2024?",
+    "answers": [
+      "14",
+      "12",
+      "16",
+      "18"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-007",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ile kobiecych konkurencji wioślarskich przewidywał program igrzysk Paryż 2024?",
+    "answers": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-008",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Która z wymienionych konkurencji była w programie wioślarskim Paryża 2024?",
+    "answers": [
+      "Dwójka podwójna wagi lekkiej kobiet",
+      "Jedynka wagi lekkiej kobiet",
+      "Czwórka podwójna wagi lekkiej kobiet",
+      "Dwójka ze sternikiem kobiet"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-009",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile miejsc zawodniczych w wioślarstwie przewidywał program igrzysk Paryż 2024?",
+    "answers": [
+      "502",
+      "330",
+      "400",
+      "600"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris-2024-Event-Programme.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-010",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "W którym roku para-wioślarstwo zadebiutowało na igrzyskach paralimpijskich?",
+    "answers": [
+      "2008",
+      "2000",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-011",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakim mieście odbyły się pierwsze paralimpijskie zawody wioślarskie w 2008 roku?",
+    "answers": [
+      "Pekin",
+      "Londyn",
+      "Ateny",
+      "Rio de Janeiro"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-012",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Na jakim dystansie odbywają się zawody para-wioślarskie po zmianie w 2017 roku opisanej przez World Rowing?",
+    "answers": [
+      "2000 m",
+      "500 m",
+      "1000 m",
+      "1500 m"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-013",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Ile klas łodzi para-wioślarskich wymienia World Rowing w opisie dyscypliny?",
+    "answers": [
+      "9",
+      "5",
+      "7",
+      "12"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-014",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Trudny",
+    "question": "Ile z klas para-wioślarskich World Rowing zalicza do klas paralimpijskich?",
+    "answers": [
+      "5",
+      "4",
+      "7",
+      "9"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-015",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się wioślarska klasa łodzi oznaczona symbolem 2-?",
+    "answers": [
+      "Dwójka bez sternika",
+      "Dwójka podwójna",
+      "Dwójka ze sternikiem",
+      "Jedynka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-016",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ile osób wiosłuje w osadzie ósemki (8+), nie licząc sternika?",
+    "answers": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/2024/07/09/the-top-10-most-asked-questions-about-rowing-at-the-olympic-games/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-017",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Jaka jest minimalna masa czwórki bez sternika (4-) według World Rowing?",
+    "answers": [
+      "50 kg",
+      "52 kg",
+      "51 kg",
+      "40 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-018",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "W której klasie każdy zawodnik ma jedno wiosło?",
+    "answers": [
+      "Czwórka bez sternika (4-)",
+      "Czwórka podwójna (4x)",
+      "Dwójka podwójna (2x)",
+      "Jedynka (1x)"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/wp-content/uploads/2022/05/real_0518_2022-WR-Season-media-guide-v6.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A14-019",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Ilu wioślarzy (bez sternika) zasiada w łodzi klasy 2+?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/events/rowing-and-para-rowing/"
+  },
+  {
+    "id": "SPORT-N20261120-A14-020",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Ekspert",
+    "question": "Która para klas ma taką samą minimalną masę 27 kg według World Rowing?",
+    "answers": [
+      "2x i 2-",
+      "1x i 2x",
+      "4x i 4-",
+      "2+ i 4+"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldrowing.com/technical/equipment-technology/equipment-compliance/"
+  },
+  {
+    "id": "SPORT-N20261120-A15-001",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się najniższa ocena punktowa ponownie wprowadzona do judo przez IJF w 2025 roku?",
+    "answers": [
+      "Yuko",
+      "Ippon",
+      "Waza-ari",
+      "Hansoku-make"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-002",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Ile sekund skutecznego trzymania w parterze wystarczało do przyznania yuko według zmian IJF na 2025 rok?",
+    "answers": [
+      "3 sekundy",
+      "5 sekund",
+      "10 sekund",
+      "15 sekund"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-003",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Jaki przedział czasu trzymania w parterze odpowiadał yuko w przepisach IJF wprowadzonych w 2025 roku?",
+    "answers": [
+      "1–4 sekundy",
+      "5–9 sekund",
+      "10–14 sekund",
+      "15–19 sekund"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-004",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Ile czasu na przygotowanie ataku po klasycznym uchwycie przewidywały przepisy IJF przedstawione w grudniu 2024 roku?",
+    "answers": [
+      "15 sekund",
+      "20 sekund",
+      "30 sekund",
+      "45 sekund"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-005",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "Jaką karę przewidywały zmiany IJF na 2025 rok za celowe wyjście poza pole walki?",
+    "answers": [
+      "Yuko",
+      "Shido",
+      "Waza-ari",
+      "Ippon"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-006",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "W jakiej kategorii wiekowej IJF zabroniła w 2025 roku używania głowy przy rzucie, dopuszczając tę technikę u juniorów i seniorów?",
+    "answers": [
+      "Seniorów",
+      "Juniorów",
+      "Kadetów",
+      "Weteranów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-007",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "Jaką sankcję przewidywały przepisy IJF z 2025 roku za niebezpieczną dźwignię podczas rzutu, gdy przeciwnik nie ma możliwości uniknięcia urazu?",
+    "answers": [
+      "Shido",
+      "Yuko",
+      "Hansoku-make",
+      "Waza-ari"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-008",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Jak nazywa się w judo uchwyt za strój przeciwnika, którego zasady zmodyfikowano w cyklu rozpoczętym w 2025 roku?",
+    "answers": [
+      "Kumi-kata",
+      "Osae-komi",
+      "Ukemi",
+      "Randori"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-009",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Trudny",
+    "question": "W którym turnieju po raz pierwszy na arenie międzynarodowej miały obowiązywać nowe zasady IJF na rok 2025?",
+    "answers": [
+      "Grand Slam Paryż",
+      "Mistrzostwa świata Budapeszt",
+      "Grand Slam Tokio",
+      "Mistrzostwa Europy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-010",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Ekspert",
+    "question": "Do których mistrzostw świata włącznie IJF planowała obserwować nowe przepisy w pierwszej połowie 2025 roku?",
+    "answers": [
+      "Doha",
+      "Taszkent",
+      "Budapeszt",
+      "Abu Zabi"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://ijf.org/news/new-rules-what-to-remember"
+  },
+  {
+    "id": "SPORT-N20261120-A15-011",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Łatwy",
+    "question": "Którego przyrządu nie używano w wieloboju indywidualnym gimnastyki artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Obręczy",
+      "Piłki",
+      "Skakanki",
+      "Wstążki"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-012",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Ile przyrządów obejmował wielobój indywidualny gimnastyki artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Trzy",
+      "Cztery",
+      "Pięć",
+      "Sześć"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-013",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Ile obręczy używał zespół w jednym z dwóch układów grupowych podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Trzy",
+      "Cztery",
+      "Pięć",
+      "Sześć"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-014",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Jakie przyrządy łączono w mieszanym układzie grupowym gimnastyki artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Trzy wstążki i dwie piłki",
+      "Trzy obręcze i dwie pary maczug",
+      "Dwie wstążki i trzy obręcze",
+      "Trzy piłki i dwie obręcze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-015",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Trudny",
+    "question": "Ile wstążek wykorzystywała drużyna w mieszanym układzie grupowym na igrzyskach Paryż 2024?",
+    "answers": [
+      "Dwie",
+      "Trzy",
+      "Cztery",
+      "Pięć"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-017",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Ilu sędziów oceniało błędy artystyczne w jednej grupie sędziowskiej gimnastyki artystycznej według dokumentacji Paryż 2024?",
+    "answers": [
+      "Dwóch",
+      "Trzech",
+      "Czterech",
+      "Pięciu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-018",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Które wyniki sędziowskie służyły do wyliczenia średniej potrąceń za artyzm w dokumentacji gimnastyki artystycznej Paryż 2024?",
+    "answers": [
+      "Dwa skrajne",
+      "Dwa środkowe",
+      "Najwyższy i najniższy osobno",
+      "Wszystkie cztery"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-019",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "Od ilu punktów odejmowano potrącenia za artyzm w gimnastyce artystycznej według dokumentacji Paryż 2024?",
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A15-020",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Ekspert",
+    "question": "Jakie dwie części trudności oceniano osobno w gimnastyce artystycznej na igrzyskach Paryż 2024?",
+    "answers": [
+      "Trudność ciała i przyrządu",
+      "Trudność muzyki i kostiumu",
+      "Trudność układu i skoku",
+      "Trudność rytmu i szybkości"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3416200&parentDocumentId=3416166&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261120-A16-001",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się olimpijska odmiana skateboardingu rozgrywana na torze przypominającym basen z zaokrąglonymi ścianami?",
+    "answers": [
+      "Park",
+      "Street",
+      "Vert",
+      "Downhill"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-002",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile konkurencji medalowych skateboardingu znalazło się w programie igrzysk Paryż 2024?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-003",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ilu zawodników łącznie przewidywał olimpijski limit miejsc w skateboardingu na Paryż 2024?",
+    "answers": [
+      "44",
+      "66",
+      "88",
+      "110"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-004",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Ile miejsc w skateboardingu na Paryż 2024 przewidziano łącznie dla kobiet?",
+    "answers": [
+      "22",
+      "32",
+      "44",
+      "48"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-005",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "W jakim paryskim miejscu zaplanowano olimpijskie konkurencje skateboardingu w 2024 roku?",
+    "answers": [
+      "Place de la Concorde",
+      "Champ de Mars",
+      "Stade Roland-Garros",
+      "Parc des Princes"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-006",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "W którym miesiącu 2024 roku rozegrano olimpijskie konkurencje skateboardingu park w Paryżu?",
+    "answers": [
+      "Czerwcu",
+      "Lipcu",
+      "Sierpniu",
+      "Wrześniu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-007",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Ilu finalistów przewidywał format olimpijskiej konkurencji street na Paryż 2024?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-008",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Normalny",
+    "question": "Ile indywidualnych prób trików przysługiwało zawodnikowi w olimpijskim street w Paryżu 2024?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympic.sk/sites/default/files/field_media_file/2024-04/Paris%202024%20-%20Olympic%20Sports%20Guide_September%202023.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-009",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Ekspert",
+    "question": "W której fazie olimpijskiego street w Paryżu 2024 zawodnik mógł skorzystać z procedury odrzucenia oceny próby?",
+    "answers": [
+      "W indywidualnych trikach",
+      "W rozgrzewce",
+      "W kwalifikacji krajowej",
+      "Podczas ceremonii medalowej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A16-010",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Trudny",
+    "question": "Która część występu w olimpijskim street w Paryżu 2024 musiała obowiązkowo znaleźć się w końcowej punktacji?",
+    "answers": [
+      "Co najmniej jeden przejazd",
+      "Wszystkie pięć trików",
+      "Oba przejazdy",
+      "Wyłącznie triki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-the-scoring-for-skateboarding-street-will-work-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-A16-011",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się system punktowania rund stosowany według przepisów World Boxing z 2024 roku?",
+    "answers": [
+      "Ten Point Must",
+      "Golden Point",
+      "Sudden Death",
+      "Rally Point"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-012",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Ile punktów przyznaje sędzia zwycięzcy rundy według systemu World Boxing „Ten Point Must”?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-013",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Jaka jest najwyższa liczba punktów, którą przegrywający rundę może otrzymać od sędziego w systemie World Boxing?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-014",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Czy według przepisów World Boxing 2024 sędzia może zapisać rundę wynikiem 10:10?",
+    "answers": [
+      "Tak, zawsze",
+      "Tak, tylko w finale",
+      "Nie, runda musi mieć zwycięzcę",
+      "Tak, tylko po kontuzji"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-015",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Jaką najniższą notę przegrywającemu rundę przewiduje podstawowa skala World Boxing z 2024 roku?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-016",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Które kryterium jest pierwsze w hierarchii oceny rundy według World Boxing 2024?",
+    "answers": [
+      "Liczba celnych punktowanych ciosów",
+      "Głośność dopingu",
+      "Waga rękawic",
+      "Kolor narożnika"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-017",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Co zajmuje drugie miejsce w hierarchii kryteriów oceny rundy World Boxing 2024?",
+    "answers": [
+      "Przewaga techniczna i taktyczna",
+      "Liczba ostrzeżeń trenera",
+      "Czas odpoczynku",
+      "Wiek zawodnika"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-018",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Ekspert",
+    "question": "Które kryterium zajmuje trzecie miejsce w hierarchii oceny rundy World Boxing 2024?",
+    "answers": [
+      "Przewaga wzrostu",
+      "Aktywność i rywalizacja (competitiveness)",
+      "Długość kariery",
+      "Ranking światowy"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-019",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Którą częścią rękawicy powinien zostać zadany punktowany cios według World Boxing?",
+    "answers": [
+      "Powierzchnią kostek pięści",
+      "Wewnętrzną stroną dłoni",
+      "Mankietem",
+      "Przedramieniem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A16-020",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Trudny",
+    "question": "Który warunek musi spełniać punktowany cios według World Boxing?",
+    "answers": [
+      "Sędzia musi mieć wyraźny widok trafienia",
+      "Musi być zadany po gongu",
+      "Musi trafić w rękawicę przeciwnika",
+      "Musi być zadany z wyskoku"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://worldboxing.org/wp-content/uploads/2025/09/World-Boxing-Competition-Rules-Nov-2024-Approved-4.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-001",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik jest autorem rekordu świata na 50 m stylem dowolnym ustanowionego w marcu 2026 roku?",
+    "answers": [
+      "Cameron McEvoy",
+      "Caeleb Dressel",
+      "Florent Manaudou",
+      "Ben Proud"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-002",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "W którym chińskim mieście Cameron McEvoy uzyskał rekordowe 20,88 s na 50 m stylem dowolnym w marcu 2026 roku?",
+    "answers": [
+      "Shenzhen",
+      "Szanghaj",
+      "Pekin",
+      "Hangzhou"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-003",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Trudny",
+    "question": "W jakiej konkurencji pływackiej Kliment Kolesnikov uzyskał rekord świata 23,55 s w lipcu 2023 roku?",
+    "answers": [
+      "50 m stylem grzbietowym",
+      "50 m stylem dowolnym",
+      "50 m stylem motylkowym",
+      "50 m stylem klasycznym"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-004",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Ekspert",
+    "question": "Podczas jakiej imprezy Kliment Kolesnikov ustanowił rekord świata na 50 m stylem grzbietowym w 2023 roku?",
+    "answers": [
+      "Puchar Rosji w Kazaniu",
+      "Mistrzostwa świata w Fukuoce",
+      "Mistrzostwa Europy w Rzymie",
+      "Igrzyska w Tokio"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-005",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "W jakim roku Paul Biedermann ustanowił rekord świata na 200 m stylem dowolnym, który utrzymał się co najmniej do 2026 roku?",
+    "answers": [
+      "2009",
+      "2012",
+      "2016",
+      "2021"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/swimming-long-course-world-records"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-006",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "Kto opracował technikę aerodynamiczną skoków narciarskich z nartami prowadzonymi równolegle w latach 50. XX wieku?",
+    "answers": [
+      "Andreas Dascher",
+      "Jan Boklöv",
+      "Matti Nykänen",
+      "Birger Ruud"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/sporting-innovations"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-007",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Ekspert",
+    "question": "Z jakiego kraju pochodził Andreas Dascher, pionier techniki skoków narciarskich z lat 50. XX wieku?",
+    "answers": [
+      "Szwajcaria",
+      "Szwecja",
+      "Finlandia",
+      "Norwegia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/sporting-innovations"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-008",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Który kraj reprezentował Simon Ammann, czterokrotny indywidualny mistrz olimpijski w skokach?",
+    "answers": [
+      "Szwajcarię",
+      "Austrię",
+      "Niemcy",
+      "Norwegię"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jumping-takes-off-as-a-year-round-sport"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-009",
+    "region": "Świat",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Trudny",
+    "question": "W jakim roku rozegrano pierwszy olimpijski konkurs skoków narciarskich kobiet?",
+    "answers": [
+      "2014",
+      "2010",
+      "2018",
+      "2022"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ski-jumping-takes-off-as-a-year-round-sport"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-010",
+    "region": "Polska",
+    "sport": "Skoki narciarskie",
+    "difficulty": "Normalny",
+    "question": "Jakie dwa rodzaje skoczni przyniosły Kamilowi Stochowi złote medale w Soczi 2014?",
+    "answers": [
+      "Normalna i duża",
+      "Dwie duże",
+      "Normalna i mamucia",
+      "Dwie normalne"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/polish-president-andrzej-duda-welcomed-by-ioc-president-thomas-bach-in-lausanne"
+  },
+  {
+    "id": "SPORT-N20261120-R10B-011",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ile srebrnych medali olimpijskich zdobył Wojciech Zabłocki w drużynowej szabli?",
+    "answers": [
+      "Dwa",
+      "Jeden",
+      "Trzy",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/noc-news/poland"
+  },
+  {
+    "id": "SPORT-N20261120-R11-001",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Jak zmienia się kolejność serwowania w tenisie stołowym po wyniku 10:10 w secie?",
+    "answers": [
+      "Serw co jeden punkt",
+      "Serw co dwa punkty",
+      "Serw co trzy punkty",
+      "Serw co cztery punkty"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-002",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "Jaki minimalny odstęp punktowy musi uzyskać zwycięzca seta przy stanie 10:10 w tenisie stołowym?",
+    "answers": [
+      "Jeden punkt",
+      "Dwa punkty",
+      "Trzy punkty",
+      "Cztery punkty"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-003",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Na jaką minimalną wysokość trzeba podrzucić piłeczkę przy prawidłowym serwisie w tenisie stołowym?",
+    "answers": [
+      "10 cm",
+      "12 cm",
+      "16 cm",
+      "20 cm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-004",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jaką średnicę ma standardowa plastikowa piłeczka do tenisa stołowego oznaczona 40+?",
+    "answers": [
+      "38 mm",
+      "39 mm",
+      "40 mm",
+      "42 mm"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-005",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Jakiej wysokości jest siatka do tenisa stołowego według podstawowych przepisów?",
+    "answers": [
+      "12,25 cm",
+      "15,25 cm",
+      "17,25 cm",
+      "20,25 cm"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-006",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "Ile setów musi wygrać zawodnik w meczu tenisa stołowego rozgrywanym do czterech wygranych setów?",
+    "answers": [
+      "Dwa",
+      "Trzy",
+      "Cztery",
+      "Pięć"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-007",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Co przewidują przepisy tenisa stołowego, gdy prawidłowy serwis dotknie siatki i trafi na właściwą połowę stołu?",
+    "answers": [
+      "Punkt dla odbierającego",
+      "Powtórzenie serwisu",
+      "Punkt dla serwującego",
+      "Zmianę stron"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-008",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Gdzie względem końcowej krawędzi stołu musi nastąpić kontakt rakietki z piłeczką przy serwisie?",
+    "answers": [
+      "Za linią końcową",
+      "Nad środkiem stołu",
+      "Nad siatką",
+      "Przed linią końcową"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.usatt.org/officials/basic-rules-of-table-tennis"
+  },
+  {
+    "id": "SPORT-N20261120-R11-009",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Jaki minimalny wiek przewidywały przepisy World Triathlon z 2025 r. dla startu na dystansie standardowym?",
+    "answers": [
+      "15 lat",
+      "16 lat",
+      "17 lat",
+      "18 lat"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-010",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Jaki minimalny wiek przewidywały przepisy World Triathlon z 2025 r. dla startu na dystansie sprint?",
+    "answers": [
+      "15 lat",
+      "16 lat",
+      "17 lat",
+      "18 lat"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-011",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaki maksymalny dystans pływacki określono w 2025 r. dla triathlonu na dystansie super sprint?",
+    "answers": [
+      "300 m",
+      "400 m",
+      "500 m",
+      "750 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-012",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Jaki maksymalny dystans rowerowy określono w 2025 r. dla triathlonu na dystansie super sprint?",
+    "answers": [
+      "10 km",
+      "13 km",
+      "15 km",
+      "20 km"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-013",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "Ile kilometrów biegu przewiduje standardowy dystans triathlonu według przepisów World Triathlon z 2025 r.?",
+    "answers": [
+      "5 km",
+      "8 km",
+      "10 km",
+      "15 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-014",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Jaki zakres długości etapu rowerowego określono w 2025 r. dla triathlonu na dystansie średnim?",
+    "answers": [
+      "40–60 km",
+      "60–70 km",
+      "80–90 km",
+      "100–120 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-015",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaki minimalny dystans pływacki przewidują przepisy World Triathlon z 2025 r. dla dystansu długiego?",
+    "answers": [
+      "1900 m",
+      "2500 m",
+      "3000 m",
+      "4000 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.triathlonquebec.org/wp-content/uploads/2025/06/World-Triathlon_Competition-Rules_20250124.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-R11-016",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile wynosiła od 27 lutego 2025 r. kara czasowa za naruszenie zasad draftingu na dystansie sprint według World Triathlon?",
+    "answers": [
+      "10 sekund",
+      "20 sekund",
+      "30 sekund",
+      "60 sekund"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-017",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Ile wynosiła od 27 lutego 2025 r. kara czasowa za drafting na dystansie średnim według World Triathlon?",
+    "answers": [
+      "1 minuta",
+      "2 minuty",
+      "3 minuty",
+      "5 minut"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-018",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaką długość strefy draftingu przyjęto od 27 lutego 2025 r. w przepisach World Triathlon?",
+    "answers": [
+      "7 m",
+      "10 m",
+      "12 m",
+      "15 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-019",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Trudny",
+    "question": "Ile sekund przewidziano od 27 lutego 2025 r. na wyprzedzenie zawodnika w strefie draftingu według World Triathlon?",
+    "answers": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R11-020",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Ekspert",
+    "question": "Jaką karę czasową za inne naruszenia przepisów wprowadzono dla super sprintu w regulacjach World Triathlon z 2025 r.?",
+    "answers": [
+      "5 sekund",
+      "10 sekund",
+      "15 sekund",
+      "30 sekund"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://triathlon.org/es/news/world-triathlon-approves-updates-on-the-competition-rules"
+  },
+  {
+    "id": "SPORT-N20261120-R12-001",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście odbyło się spotkanie założycielskie poprzedzające powstanie ITTF w styczniu 1926 roku?",
+    "answers": [
+      "Berlin",
+      "Londyn",
+      "Paryż",
+      "Wiedeń"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-002",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Którego dnia stycznia 1926 roku przedstawiciele czterech krajów spotkali się w sprawie utworzenia ITTF?",
+    "answers": [
+      "16 stycznia",
+      "6 stycznia",
+      "26 stycznia",
+      "31 stycznia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-003",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Ile państw miało przedstawicieli na berlińskim spotkaniu inicjującym ITTF w 1926 roku?",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-004",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto zaoferował pokrycie ewentualnych strat organizacji pierwszych mistrzostw świata w tenisie stołowym?",
+    "answers": [
+      "Ivor Montagu",
+      "Victor Barna",
+      "Jan-Ove Waldner",
+      "Richard Bergmann"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/16/100-years-ago-today-the-berlin-meeting-that-launched-the-ittf/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-005",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście rozegrano pierwsze mistrzostwa świata w tenisie stołowym w 1926 roku?",
+    "answers": [
+      "Londyn",
+      "Berlin",
+      "Praga",
+      "Budapeszt"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/05/ittf-kicks-off-centenary-year-as-world-table-tennis-championships-returns-to-london-100-years-on/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-006",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W którym roku powstała Międzynarodowa Federacja Tenisa Stołowego ITTF?",
+    "answers": [
+      "1926",
+      "1900",
+      "1936",
+      "1948"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/05/ittf-kicks-off-centenary-year-as-world-table-tennis-championships-returns-to-london-100-years-on/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-007",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Łatwy",
+    "question": "W jakim roku po raz pierwszy rozegrano olimpijski turniej tenisa stołowego?",
+    "answers": [
+      "1988",
+      "1984",
+      "1992",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-table-tennis-at-paris-2024-the-olympics-qualification-system-"
+  },
+  {
+    "id": "SPORT-N20261120-R12-008",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Które igrzyska jako pierwsze gościły olimpijski tenis stołowy?",
+    "answers": [
+      "Seul 1988",
+      "Barcelona 1992",
+      "Los Angeles 1984",
+      "Atlanta 1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-009",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto został pierwszym mistrzem olimpijskim w singlu mężczyzn w tenisie stołowym?",
+    "answers": [
+      "Yoo Nam-kyu",
+      "Ma Long",
+      "Jan-Ove Waldner",
+      "Liu Guoliang"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-010",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył pierwsze złoto olimpijskie w singlu kobiet w tenisie stołowym?",
+    "answers": [
+      "Chen Jing",
+      "Deng Yaping",
+      "Sun Yingsha",
+      "Chen Meng"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-011",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Ilu zawodników wystąpiło w olimpijskim turnieju tenisa stołowego w Seulu 1988?",
+    "answers": [
+      "129",
+      "96",
+      "172",
+      "64"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-012",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Ile reprezentacji narodowych wystąpiło w olimpijskim tenisie stołowym w Seulu 1988?",
+    "answers": [
+      "41",
+      "24",
+      "32",
+      "56"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/07/27/every-olympics-has-a-beginning-table-tennis-seoul-to-la28/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-013",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach konkurencje drużynowe zastąpiły deble w olimpijskim tenisie stołowym?",
+    "answers": [
+      "Pekin 2008",
+      "Ateny 2004",
+      "Londyn 2012",
+      "Rio 2016"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-table-tennis-at-paris-2024-the-olympics-qualification-system-"
+  },
+  {
+    "id": "SPORT-N20261120-R12-014",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Na których igrzyskach olimpijskich zadebiutował mikst w tenisie stołowym?",
+    "answers": [
+      "Tokio 2020",
+      "Paryż 2024",
+      "Rio 2016",
+      "Londyn 2012"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-table-tennis-at-paris-2024-the-olympics-qualification-system-"
+  },
+  {
+    "id": "SPORT-N20261120-R12-015",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "W którym roku zainaugurowano Puchar Świata mężczyzn w singlu tenisa stołowego?",
+    "answers": [
+      "1980",
+      "1972",
+      "1990",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2020/05/19/message-ceo-i-world-table-tennis-origins/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-016",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "W którym roku po raz pierwszy zorganizowano Puchar Świata kobiet w singlu tenisa stołowego?",
+    "answers": [
+      "1996",
+      "1980",
+      "1988",
+      "2004"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2020/05/19/message-ceo-i-world-table-tennis-origins/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-017",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jak pierwotnie nazywał się cykl turniejów ITTF uruchomiony w 1996 roku?",
+    "answers": [
+      "Pro Tour",
+      "Grand Slam",
+      "Champions League",
+      "World Series"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2020/05/19/message-ceo-i-world-table-tennis-origins/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-018",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "Kogo pokonał Fan Zhendong w finale singla mistrzostw świata 2023?",
+    "answers": [
+      "Wang Chuqina",
+      "Ma Longa",
+      "Liang Jingkuna",
+      "Tomokazu Harimoto"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ittf-world-table-tennis-championships-finals-2023-results"
+  },
+  {
+    "id": "SPORT-N20261120-R12-019",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Jakim wynikiem setowym zakończył się finał singla mężczyzn MŚ 2023 Fan Zhendong–Wang Chuqin?",
+    "answers": [
+      "4:2",
+      "4:0",
+      "4:1",
+      "4:3"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ittf-world-table-tennis-championships-finals-2023-results"
+  },
+  {
+    "id": "SPORT-N20261120-R12-020",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła tytuł mistrzów świata w deblu mężczyzn w 2023 roku?",
+    "answers": [
+      "Fan Zhendong i Wang Chuqin",
+      "Ma Long i Lin Gaoyuan",
+      "Jang Woojin i Lim Jonghoon",
+      "Dimitrij Ovtcharov i Patrick Franziska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/ittf-world-table-tennis-championships-finals-2023-results"
+  },
+  {
+    "id": "SPORT-N20261120-R12-021",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "W jakich dwóch obiektach zaplanowano drużynowe MŚ w tenisie stołowym w Londynie w 2026 roku?",
+    "answers": [
+      "OVO Arena Wembley i Copper Box Arena",
+      "O2 Arena i Wembley Stadium",
+      "Royal Albert Hall i Emirates Arena",
+      "Alexandra Palace i ExCeL London"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2026/01/05/ittf-kicks-off-centenary-year-as-world-table-tennis-championships-returns-to-london-100-years-on/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-022",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Trudny",
+    "question": "Który kraj wygrał pierwsze drużynowe mistrzostwa świata mężczyzn w tenisie stołowym w 1926 roku?",
+    "answers": [
+      "Węgry",
+      "Austria",
+      "Anglia",
+      "Niemcy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2016/12/06/raise-glass-90-years-ago-today-first-ball-struck-world-championships/"
+  },
+  {
+    "id": "SPORT-N20261120-R12-023",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Ekspert",
+    "question": "Kogo Węgry pokonały w dodatkowym meczu o tytuł drużynowych mistrzów świata w 1926 roku?",
+    "answers": [
+      "Austrię",
+      "Anglię",
+      "Niemcy",
+      "Czechosłowację"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.ittf.com/2016/12/06/raise-glass-90-years-ago-today-first-ball-struck-world-championships/"
+  },
+  {
+    "id": "SPORT-N20261120-R13-002",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Ilu łącznie uczestników przewidywał olimpijski turniej breakingu w Paryżu 2024?",
+    "answers": [
+      "32",
+      "16",
+      "48",
+      "64"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-003",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "W jakiej formule odbywały się olimpijskie pojedynki breakingowe w Paryżu 2024?",
+    "answers": [
+      "Indywidualne bitwy",
+      "Duety mieszane",
+      "Drużyny pięcioosobowe",
+      "Sztafety"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-004",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "W jakim mieście przedstawiono alaskańską scenę breakingu w serii Breaking Life?",
+    "answers": [
+      "Anchorage",
+      "Juneau",
+      "Fairbanks",
+      "Nome"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-005",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Jak nazywa się dokumentalna seria olimpijska poświęcona kulturze breakingu?",
+    "answers": [
+      "Breaking Life",
+      "Dance Olympic",
+      "Urban Rhythm",
+      "Battle Stories"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-006",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Ekspert",
+    "question": "Która kolumbijska organizacja edukacyjna pojawia się w olimpijskiej serii Breaking Life?",
+    "answers": [
+      "4ESKuela",
+      "Ballet Nacional",
+      "Casa del Ritmo",
+      "Escuela Andina"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-R13-007",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Który B-Boy wygrał etap kwalifikacji olimpijskich w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Lee",
+      "Victor",
+      "Phil Wizard",
+      "Dany Dann"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-008",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Która B-Girl wygrała budapeszteński etap kwalifikacji olimpijskich 2024?",
+    "answers": [
+      "Ami",
+      "Nicka",
+      "India",
+      "671"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-009",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "W jakim mieście odbył się pierwszy etap Olympic Qualifier Series 2024 przed Budapesztem?",
+    "answers": [
+      "Szanghaj",
+      "Osaka",
+      "Seul",
+      "Londyn"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-010",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "W którym roku badminton po raz pierwszy znalazł się w programie igrzysk jako sport medalowy?",
+    "answers": [
+      "1992",
+      "1984",
+      "1996",
+      "2000"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-011",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Które miasto gościło olimpijski debiut badmintona jako dyscypliny medalowej?",
+    "answers": [
+      "Barcelona",
+      "Atlanta",
+      "Seul",
+      "Sydney"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-012",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Ile łącznie miejsc startowych przewidziano w badmintonie na igrzyska Paryż 2024?",
+    "answers": [
+      "172",
+      "128",
+      "192",
+      "160"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-013",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Na jaki dzień ustalono ranking kwalifikacyjny do turnieju badmintona Paryż 2024?",
+    "answers": [
+      "30 kwietnia 2024",
+      "1 stycznia 2024",
+      "30 czerwca 2024",
+      "31 grudnia 2023"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-014",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Ile par rywalizowało w każdej z trzech konkurencji deblowych badmintona na igrzyskach Paryż 2024?",
+    "answers": [
+      "16",
+      "8",
+      "24",
+      "32"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-015",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Ekspert",
+    "question": "Który turniej drużynowy badmintona zaliczano do rankingu kwalifikacyjnego Paryż 2024?",
+    "answers": [
+      "Puchar Sudirmana",
+      "Puchar Davisa",
+      "Puchar Hopmana",
+      "Puchar Laver"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/how-to-qualify-for-badminton-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261120-R13-016",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Który Duńczyk obronił olimpijski tytuł w badmintonowym singlu mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Viktor Axelsen",
+      "Anders Antonsen",
+      "Peter Gade",
+      "Jan Ø. Jørgensen"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-017",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Która para zdobyła złoto w deblu kobiet na igrzyskach Tokio 2020?",
+    "answers": [
+      "Greysia Polii i Apriyani Rahayu",
+      "Chen Qingchen i Jia Yifan",
+      "Kim So-yeong i Kong Hee-yong",
+      "Yuki Fukushima i Sayaka Hirota"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-018",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Trudny",
+    "question": "Który kraj zdobył złoto w mikście badmintona na igrzyskach Tokio 2020?",
+    "answers": [
+      "Chiny",
+      "Japonia",
+      "Indonezja",
+      "Korea Południowa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympics-badminton-history-winners-debut-barcelona-1992"
+  },
+  {
+    "id": "SPORT-N20261120-R13-019",
+    "region": "Polska",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Która Polka wygrała zawody wspinaczki na czas podczas kwalifikacji olimpijskich w Budapeszcie 2024?",
+    "answers": [
+      "Aleksandra Kałucka",
+      "Aleksandra Mirosław",
+      "Natalia Kałucka",
+      "Kinga Ociepka-Grzegulska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-020",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał męską konkurencję boulder i prowadzenie w budapeszteńskim etapie OQS 2024?",
+    "answers": [
+      "Sam Avezou",
+      "Adam Ondra",
+      "Jakob Schubert",
+      "Toby Roberts"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-R13-021",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Kto wygrał kobiecą konkurencję boulder i prowadzenie w Budapeszcie podczas OQS 2024?",
+    "answers": [
+      "Brooke Raboutou",
+      "Janja Garnbret",
+      "Natalia Grossman",
+      "Ai Mori"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
   }
 ]
