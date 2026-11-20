@@ -11454,5 +11454,293 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-20",
     "source": "https://www.olympics.com/ioc/news/boxing-to-be-part-of-la28-sports-programme"
+  },
+  {
+    "id": "SPORT-N20261120-A11-001",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Łatwy",
+    "question": "W którym roku breaking zadebiutował na letnich igrzyskach olimpijskich?",
+    "answers": [
+      "2020",
+      "2024",
+      "2016",
+      "2028"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-A11-002",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Łatwy",
+    "question": "W której dzielnicy Nowego Jorku narodził się breaking?",
+    "answers": [
+      "Queens",
+      "Brooklyn",
+      "Bronx",
+      "Manhattan"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-A11-003",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Ilu zawodników i zawodniczek łącznie przewidziano w olimpijskich zawodach breakingu w Paryżu 2024?",
+    "answers": [
+      "16",
+      "24",
+      "32",
+      "48"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/new-breaking-life-series-on-olympics-com-explores-breaking-culture-around-the-world"
+  },
+  {
+    "id": "SPORT-N20261120-A11-004",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "Który B-Boy wygrał etap Olympic Qualifier Series w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Lee",
+      "Dany Dann",
+      "Victor",
+      "Shigekix"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-A11-005",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Która B-Girl zwyciężyła w budapeszteńskim etapie Olympic Qualifier Series 2024?",
+    "answers": [
+      "Ayumi",
+      "Ami",
+      "Nicka",
+      "India"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-A11-006",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Trudny",
+    "question": "Która B-Girl wygrała etap Olympic Qualifier Series w Szanghaju w 2024 roku?",
+    "answers": [
+      "Ami",
+      "Ayumi",
+      "Nicka",
+      "Logistx"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/olympic-qualifier-series-electrifies-athletes-and-fans-in-shanghai"
+  },
+  {
+    "id": "SPORT-N20261120-A11-007",
+    "region": "Świat",
+    "sport": "Breaking",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście rozegrano drugi, finałowy etap Olympic Qualifier Series w 2024 roku?",
+    "answers": [
+      "Szanghaj",
+      "Budapeszt",
+      "Paryż",
+      "Tokio"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261120-A11-009",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Który zestaw zawiera wszystkie trzy bronie współczesnej szermierki olimpijskiej?",
+    "answers": [
+      "Floret, szpada, szabla",
+      "Floret, rapier, szabla",
+      "Szpada, rapier, halabarda",
+      "Szabla, pałasz, rapier"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-010",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Od których nowożytnych igrzysk olimpijskich szermierka mężczyzn jest nieprzerwanie w programie?",
+    "answers": [
+      "Paryż 1900",
+      "Ateny 1896",
+      "Londyn 1908",
+      "Sztokholm 1912"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-011",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały w szermierce na igrzyskach olimpijskich?",
+    "answers": [
+      "1900",
+      "1912",
+      "1924",
+      "1936"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-012",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się specjalna plansza, na której rozgrywany jest pojedynek szermierczy?",
+    "answers": [
+      "Tatami",
+      "Tor",
+      "Pista",
+      "Rzutnia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-013",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Trudny",
+    "question": "Jaką długość ma standardowa plansza szermiercza opisana przez MKOl?",
+    "answers": [
+      "10 metrów",
+      "12 metrów",
+      "14 metrów",
+      "16 metrów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-014",
+    "region": "Świat",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Ilu zawodników liczy podstawowy skład drużyny w olimpijskim pojedynku szermierczym?",
+    "answers": [
+      "Dwóch",
+      "Trzech",
+      "Czterech",
+      "Pięciu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://www.olympics.com/ioc/international-fencing-federation"
+  },
+  {
+    "id": "SPORT-N20261120-A11-016",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Przy wyniku 29:29 w secie badmintona który punkt rozstrzyga zwycięstwo?",
+    "answers": [
+      "30.",
+      "31.",
+      "32.",
+      "33."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-017",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Przy jakim wyniku lidera w secie badmintona przysługuje przerwa do 60 sekund?",
+    "answers": [
+      "7 punktów",
+      "9 punktów",
+      "11 punktów",
+      "15 punktów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-018",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Kiedy zawodnicy zmieniają strony w trzecim secie standardowego meczu badmintona?",
+    "answers": [
+      "Przy 7 punktach lidera",
+      "Przy 11 punktach lidera",
+      "Przy 15 punktach lidera",
+      "Dopiero po secie"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-019",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Łatwy",
+    "question": "Z której strony pola serwisowego wykonuje się serwis w singlu badmintona, gdy wynik serwującego jest parzysty?",
+    "answers": [
+      "Z prawej",
+      "Z lewej",
+      "Z dowolnej",
+      "Z linii środkowej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
+  },
+  {
+    "id": "SPORT-N20261120-A11-020",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "Ile maksymalnie trwa regulaminowa przerwa między setami w badmintonie?",
+    "answers": [
+      "60 sekund",
+      "90 sekund",
+      "120 sekund",
+      "180 sekund"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-20",
+    "source": "https://system.bwfbadminton.com/documents/folder_1_81/Regulations/Simplified-Rules/Simplified%20Rules%20of%20Badminton%20-%20Dec%202015.pdf"
   }
 ]
