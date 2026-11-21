@@ -16206,5 +16206,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://www.olimpijski.pl/Media/files/edukacja/materialy/90lat_PKOl.pdf"
+  },
+  {
+    "id": "GS-N20261121-0157-001",
+    "region": "Polska",
+    "sport": "Judo",
+    "difficulty": "Łatwy",
+    "question": "Który polski judoka zdobył srebrny medal olimpijski w Monachium w 1972 roku?",
+    "answers": [
+      "Antoni Zajkowski",
+      "Waldemar Legień",
+      "Paweł Nastula",
+      "Rafał Kubacki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-002",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywała się polska łuczniczka, która wywalczyła srebro w Monachium 1972?",
+    "answers": [
+      "Katarzyna Klata",
+      "Irena Szydłowska",
+      "Justyna Mospinek",
+      "Sylwia Zyzańska"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-003",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która para zdobyła brąz w kajakowym K2 na 1000 m podczas igrzysk w Monachium?",
+    "answers": [
+      "Naja i Puławska",
+      "Piszcz i Szuszkiewicz",
+      "Dopierała i Freimut",
+      "Kotowicz i Krawców"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-004",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakiej kategorii wagowej Czesław Kwieciński zdobył brąz w stylu klasycznym w Monachium 1972?",
+    "answers": [
+      "62 kg",
+      "74 kg",
+      "90 kg",
+      "100 kg"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-005",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Który polski zapaśnik zdobył brąz olimpijski w kategorii 62 kg stylu klasycznego w 1972 roku?",
+    "answers": [
+      "Kazimierz Lipień",
+      "Andrzej Supron",
+      "Józef Tracz",
+      "Ryszard Wolny"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-006",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Ryszard Katus zdobył brązowy medal igrzysk w Monachium?",
+    "answers": [
+      "Skok wzwyż",
+      "Dziesięciobój",
+      "Rzut oszczepem",
+      "Bieg na 400 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-007",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Którzy kolarze zdobyli dla Polski brąz w torowym wyścigu tandemów na igrzyskach Monachium 1972?",
+    "answers": [
+      "Bek i Kocot",
+      "Szurkowski i Szozda",
+      "Mytnik i Barcik",
+      "Jaskuła i Piasecki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-008",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Jaki medal wywalczył Zbigniew Kaczmarek w podnoszeniu ciężarów w Monachium 1972?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żadnego"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-009",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "W której kategorii wagowej Leszek Błażyński zdobył brąz olimpijski w 1972 roku?",
+    "answers": [
+      "Muszej",
+      "Lekkiej",
+      "Półśredniej",
+      "Ciężkiej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-010",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "W jakiej wadze Norbert Ozimek zdobył srebro na igrzyskach w Monachium?",
+    "answers": [
+      "52 kg",
+      "67,5 kg",
+      "82,5 kg",
+      "110 kg"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-011",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "Który polski pięściarz został srebrnym medalistą w wadze lekkośredniej w Monachium 1972?",
+    "answers": [
+      "Wiesław Rudkowski",
+      "Jan Szczepański",
+      "Janusz Gortat",
+      "Jerzy Kulej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-012",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Trudny",
+    "question": "Na jakim dystansie polska czwórka kolarska zdobyła srebro w drużynowej jeździe na czas w Monachium 1972?",
+    "answers": [
+      "25 km",
+      "50 km",
+      "100 km",
+      "200 km"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-013",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "W jakiej broni polska drużyna mężczyzn zdobyła złoto w Monachium 1972?",
+    "answers": [
+      "Szpada",
+      "Floret",
+      "Szabla",
+      "Rapier"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-014",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "W jakiej wadze Janusz Gortat wywalczył brąz na igrzyskach Monachium 1972?",
+    "answers": [
+      "Półciężkiej",
+      "Ciężkiej",
+      "Lekkiej",
+      "Koguciej"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-015",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Władysław Komar zdobył olimpijskie złoto w 1972 roku?",
+    "answers": [
+      "Pchnięciu kulą",
+      "Rzucie dyskiem",
+      "Rzucie młotem",
+      "Skoku w dal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-016",
+    "region": "Polska",
+    "sport": "Strzelectwo",
+    "difficulty": "Trudny",
+    "question": "Ilu polskich strzelców znalazło się w kadrze olimpijskiej Monachium 1972 według PKOl?",
+    "answers": [
+      "7",
+      "9",
+      "13",
+      "18"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-017",
+    "region": "Polska",
+    "sport": "Żeglarstwo",
+    "difficulty": "Trudny",
+    "question": "Ilu żeglarzy liczyła polska kadra olimpijska Monachium 1972, łącznie z rezerwowymi?",
+    "answers": [
+      "6",
+      "9",
+      "13",
+      "17"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-018",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ile kobiet było w czteroosobowej polskiej ekipie łuczniczej na igrzyskach Monachium 1972?",
+    "answers": [
+      "Jedna",
+      "Dwie",
+      "Trzy",
+      "Cztery"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-019",
+    "region": "Polska",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "Ilu judoków reprezentowało Polskę na igrzyskach w Monachium w 1972 roku?",
+    "answers": [
+      "Dwóch",
+      "Czterech",
+      "Sześciu",
+      "Ośmiu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0157-020",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Kto był chorążym reprezentacji Polski na ceremonii otwarcia igrzysk Monachium 1972?",
+    "answers": [
+      "Waldemar Baszanowski",
+      "Zygmunt Smalcerz",
+      "Władysław Komar",
+      "Witold Woyda"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
   }
 ]
