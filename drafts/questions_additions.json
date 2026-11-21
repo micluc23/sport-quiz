@@ -17966,5 +17966,149 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-1702",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył pierwszy medal olimpijski dla Albanii w Paryżu 2024 w zapasach w stylu wolnym do 74 kg?",
+    "answers": [
+      "Chermen Valiev",
+      "Taha Akgül",
+      "Kyle Dake",
+      "Geno Petriashvili"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-1703",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi David de Pina, pierwszy olimpijski medalista swojego kraju w Paryżu 2024?",
+    "answers": [
+      "Republika Zielonego Przylądka",
+      "Angola",
+      "Mozambik",
+      "Gwinea Bissau"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-1704",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał po ponownym przydziale złoty medal olimpijski za bieg na 400 m przez płotki kobiet w Londynie 2012?",
+    "answers": [
+      "Lashinda Demus",
+      "Zuzana Hejnová",
+      "Kaliese Spencer",
+      "Dalilah Muhammad"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-1705",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Kto został złotym medalistą skoku wzwyż mężczyzn z Londynu 2012 po ponownym przydziale medali?",
+    "answers": [
+      "Erik Kynard",
+      "Derek Drouin",
+      "Mutaz Essa Barshim",
+      "Ivan Ukhov"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-1706",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która jamajska zawodniczka otrzymała po ponownym przydziale brąz olimpijski w skoku w dal z Pekinu 2008?",
+    "answers": [
+      "Chelsea Hammond-Ross",
+      "Beverly McDonald",
+      "Shelly-Ann Fraser-Pryce",
+      "Veronica Campbell-Brown"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-1707",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył pierwszy medal olimpijski w historii Turkmenistanu na igrzyskach Tokio 2020?",
+    "answers": [
+      "Polina Guryeva",
+      "Hidilyn Diaz",
+      "Kuo Hsing-chun",
+      "Maude Charron"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/olympic-solidarity-inspires-record-number-of-nocs-to-medal"
+  },
+  {
+    "id": "SPORT-N20261121-1708",
+    "region": "Świat",
+    "sport": "Strzelectwo",
+    "difficulty": "Normalny",
+    "question": "Która reprezentantka San Marino zdobyła w Tokio 2020 pierwszy medal olimpijski w historii tego kraju?",
+    "answers": [
+      "Alessandra Perilli",
+      "Adriana Ruano Oliva",
+      "Amber English",
+      "Fatima Gálvez"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/olympic-solidarity-inspires-record-number-of-nocs-to-medal"
+  },
+  {
+    "id": "SPORT-N20261121-1709",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył pierwszy medal olimpijski w historii Burkina Faso w Tokio 2020?",
+    "answers": [
+      "Hugues Fabrice Zango",
+      "Christian Taylor",
+      "Pedro Pichardo",
+      "Will Claye"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/olympic-solidarity-inspires-record-number-of-nocs-to-medal"
+  },
+  {
+    "id": "SPORT-N20261121-1710",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Który kraj wygrał pierwszy olimpijski maraton chodu w sztafecie mieszanej w Paryżu 2024?",
+    "answers": [
+      "Hiszpania",
+      "Ekwador",
+      "Australia",
+      "Włochy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-athletics-spain-takes-inaugural-gold-marathon-race-walk-mixed-relay"
   }
 ]
