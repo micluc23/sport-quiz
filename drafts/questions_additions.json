@@ -18110,5 +18110,213 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://www.olympics.com/ioc/news/paris-2024-athletics-spain-takes-inaugural-gold-marathon-race-walk-mixed-relay"
+  },
+  {
+    "id": "SPORT-N20261121-18-002",
+    "region": "Świat",
+    "sport": "Kolarstwo torowe",
+    "difficulty": "Łatwy",
+    "question": "Która reprezentacja ustanowiła rekord świata 3:40,730 w drużynowym wyścigu na dochodzenie mężczyzn w Paryżu 2024?",
+    "answers": [
+      "Australia",
+      "Francja",
+      "Niemcy",
+      "Włochy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-18-005",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Jaki czas dał Mollie O'Callaghan rekord olimpijski na 200 m stylem dowolnym w Paryżu 2024?",
+    "answers": [
+      "1:53,27",
+      "1:53,50",
+      "1:54,12",
+      "1:52,98"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-18-006",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Kto obronił tytuł olimpijski na 100 m stylem grzbietowym kobiet w Paryżu 2024?",
+    "answers": [
+      "Kaylee McKeown",
+      "Regan Smith",
+      "Kylie Masse",
+      "Mollie O'Callaghan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-18-007",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Jaki kraj wygrał sztafetę 4 × 200 m stylem dowolnym kobiet w Paryżu 2024?",
+    "answers": [
+      "Australia",
+      "USA",
+      "Chiny",
+      "Kanada"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-18-009",
+    "region": "Świat",
+    "sport": "Chód sportowy",
+    "difficulty": "Łatwy",
+    "question": "Jakie miejsce zajęła reprezentacja Ekwadoru w olimpijskiej sztafecie mieszanej maratonu w chodzie w Paryżu 2024?",
+    "answers": [
+      "Drugie",
+      "Pierwsze",
+      "Trzecie",
+      "Czwarte"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-athletics-spain-takes-inaugural-gold-marathon-race-walk-mixed-relay"
+  },
+  {
+    "id": "SPORT-N20261121-18-010",
+    "region": "Świat",
+    "sport": "Chód sportowy",
+    "difficulty": "Łatwy",
+    "question": "Kto tworzył zwycięską hiszpańską parę w mieszanym maratonie w chodzie na igrzyskach Paryż 2024?",
+    "answers": [
+      "Álvaro Martín i María Pérez",
+      "Brian Pintado i Glenda Morejón",
+      "Rhydian Cowley i Jemima Montag",
+      "Massimo Stano i Antonella Palmisano"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-athletics-spain-takes-inaugural-gold-marathon-race-walk-mixed-relay"
+  },
+  {
+    "id": "SPORT-N20261121-18-011",
+    "region": "Świat",
+    "sport": "Chód sportowy",
+    "difficulty": "Łatwy",
+    "question": "Jaki dystans łącznie pokonywała para w mieszanej sztafecie maratonu w chodzie na igrzyskach Paryż 2024?",
+    "answers": [
+      "42,195 km",
+      "20 km",
+      "35 km",
+      "50 km"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-athletics-spain-takes-inaugural-gold-marathon-race-walk-mixed-relay"
+  },
+  {
+    "id": "SPORT-N20261121-18-014",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Thea LaFond zdobyła złoto w Paryżu 2024?",
+    "answers": [
+      "Trójskok kobiet",
+      "Skok w dal kobiet",
+      "Skok wzwyż kobiet",
+      "Bieg na 100 m kobiet"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-18-015",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Która pięściarka zdobyła pierwszy medal olimpijski dla reprezentacji uchodźców w Paryżu 2024?",
+    "answers": [
+      "Cindy Ngamba",
+      "Imane Khelif",
+      "Lin Yu-ting",
+      "Kellie Harrington"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-18-016",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "W jakiej kategorii wagowej Cindy Ngamba wywalczyła brąz w Paryżu 2024?",
+    "answers": [
+      "75 kg kobiet",
+      "60 kg kobiet",
+      "66 kg kobiet",
+      "54 kg kobiet"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-18-018",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Letsile Tebogo zdobył złoto w Paryżu 2024?",
+    "answers": [
+      "200 m mężczyzn",
+      "100 m mężczyzn",
+      "400 m mężczyzn",
+      "Sztafeta 4 × 100 m"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-18-019",
+    "region": "Świat",
+    "sport": "Skateboarding",
+    "difficulty": "Łatwy",
+    "question": "Który Australijczyk obronił tytuł olimpijski w skateboardingu w Paryżu 2024?",
+    "answers": [
+      "Keegan Palmer",
+      "Arisa Trew",
+      "Yuto Horigome",
+      "Jagger Eaton"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-medals-tally-winners-table"
+  },
+  {
+    "id": "SPORT-N20261121-18-021",
+    "region": "Świat",
+    "sport": "Kajakarstwo górskie",
+    "difficulty": "Łatwy",
+    "question": "Która Australijka obroniła tytuł olimpijski w kajakarstwie górskim w Paryżu 2024?",
+    "answers": [
+      "Jessica Fox",
+      "Mallory Franklin",
+      "Ricarda Funk",
+      "Kimberley Woods"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-medals-tally-winners-table"
   }
 ]
