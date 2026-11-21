@@ -17502,5 +17502,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-07-001",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie badminton?",
+    "answers": [
+      "1992",
+      "1900",
+      "1912",
+      "1924"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-002",
+    "region": "Świat",
+    "sport": "Judo",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie judo?",
+    "answers": [
+      "1992",
+      "1928",
+      "1936",
+      "1964"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-003",
+    "region": "Świat",
+    "sport": "Taekwondo",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie taekwondo?",
+    "answers": [
+      "2000",
+      "1976",
+      "1980",
+      "1984"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-004",
+    "region": "Świat",
+    "sport": "Triathlon",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie triathlon?",
+    "answers": [
+      "2000",
+      "1988",
+      "1992",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-005",
+    "region": "Świat",
+    "sport": "Tenis stołowy",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie tenis stołowy?",
+    "answers": [
+      "1988",
+      "1924",
+      "1928",
+      "1936"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-006",
+    "region": "Świat",
+    "sport": "Siatkówka plażowa",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie siatkówka plażowa?",
+    "answers": [
+      "1996",
+      "1964",
+      "1976",
+      "1980"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-007",
+    "region": "Świat",
+    "sport": "Kolarstwo górskie",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie kolarstwo górskie?",
+    "answers": [
+      "1996",
+      "1984",
+      "1988",
+      "1992"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-008",
+    "region": "Świat",
+    "sport": "Kolarstwo BMX",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie kolarstwo bmx?",
+    "answers": [
+      "2008",
+      "1912",
+      "1924",
+      "1928"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-009",
+    "region": "Świat",
+    "sport": "Gimnastyka na trampolinie",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie gimnastyka na trampolinie?",
+    "answers": [
+      "2000",
+      "1936",
+      "1964",
+      "1976"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-010",
+    "region": "Świat",
+    "sport": "Gimnastyka artystyczna",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie gimnastyka artystyczna?",
+    "answers": [
+      "1984",
+      "1980",
+      "1988",
+      "1992"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-011",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie podnoszenie ciężarów?",
+    "answers": [
+      "2000",
+      "1900",
+      "1912",
+      "1924"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-012",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie boks?",
+    "answers": [
+      "2012",
+      "1928",
+      "1936",
+      "1964"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-013",
+    "region": "Świat",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie piłka nożna?",
+    "answers": [
+      "1996",
+      "1976",
+      "1980",
+      "1984"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-014",
+    "region": "Świat",
+    "sport": "Hokej na trawie",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie hokej na trawie?",
+    "answers": [
+      "1980",
+      "1992",
+      "1996",
+      "2000"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-015",
+    "region": "Świat",
+    "sport": "Piłka ręczna",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie piłka ręczna?",
+    "answers": [
+      "1976",
+      "1924",
+      "1928",
+      "1936"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-016",
+    "region": "Świat",
+    "sport": "Koszykówka",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie koszykówka?",
+    "answers": [
+      "1976",
+      "1964",
+      "1980",
+      "1984"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-017",
+    "region": "Świat",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie wioślarstwo?",
+    "answers": [
+      "1976",
+      "1988",
+      "1992",
+      "1996"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-018",
+    "region": "Świat",
+    "sport": "Zapasy w stylu wolnym",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie zapasy w stylu wolnym?",
+    "answers": [
+      "2004",
+      "1912",
+      "1924",
+      "1928"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-019",
+    "region": "Świat",
+    "sport": "Skoki do wody",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie skoki do wody?",
+    "answers": [
+      "1912",
+      "1964",
+      "1976",
+      "1980"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-07-020",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "W którym roku kobiety po raz pierwszy rywalizowały na igrzyskach olimpijskich w dyscyplinie pływanie?",
+    "answers": [
+      "1912",
+      "1984",
+      "1988",
+      "1992"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
   }
 ]
