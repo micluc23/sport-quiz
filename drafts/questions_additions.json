@@ -16574,5 +16574,293 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://thephryge.com/paris-2024-results/sports/badminton"
+  },
+  {
+    "id": "GS-N20261121-0404-001",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej odmianie kolarstwa Daria Pikulik wywalczyła srebro olimpijskie w Paryżu 2024?",
+    "answers": [
+      "Kolarstwo górskie",
+      "Kolarstwo torowe",
+      "Kolarstwo szosowe",
+      "BMX"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-002",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Która Polka zdobyła srebrny medal w slalomie kajakowym K-1 podczas igrzysk w Paryżu 2024?",
+    "answers": [
+      "Klaudia Zwolińska",
+      "Karolina Naja",
+      "Anna Puławska",
+      "Dorota Borowska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-003",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej broni polska drużyna kobiet zdobyła brąz w Paryżu 2024?",
+    "answers": [
+      "Floret",
+      "Szabla",
+      "Szpada",
+      "Rapier"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-004",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Ile osób tworzy osadę wioślarskiej czwórki podwójnej, w której Polacy zdobyli brąz w Paryżu 2024?",
+    "answers": [
+      "Dwie",
+      "Trzy",
+      "Cztery",
+      "Osiem"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-005",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal zdobyła Julia Szeremeta na igrzyskach olimpijskich Paryż 2024?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-006",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "Na jakim dystansie Natalia Kaczmarek zdobyła indywidualny medal olimpijski w Paryżu 2024?",
+    "answers": [
+      "200 m",
+      "400 m",
+      "800 m",
+      "1500 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-007",
+    "region": "Polska",
+    "sport": "Tenis",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal olimpijski zdobyła Iga Świątek w singlu w Paryżu 2024?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żaden"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-008",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Który z wymienionych zawodników należał do polskiej brązowej czwórki podwójnej w Paryżu 2024?",
+    "answers": [
+      "Mateusz Biskup",
+      "Michał Jeliński",
+      "Adam Korol",
+      "Konrad Wasielewski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-009",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Która z wymienionych zawodniczek należała do polskiej drużyny szpadzistek z brązem Paryża 2024?",
+    "answers": [
+      "Aleksandra Jarecka",
+      "Sylwia Gruchała",
+      "Marta Puda",
+      "Angelika Wątor"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0404-010",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Karolina Naja i Anna Puławska zdobyły srebro w Tokio 2020?",
+    "answers": [
+      "K-1 200 m",
+      "K-2 500 m",
+      "K-4 200 m",
+      "C-2 500 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-011",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Która z wymienionych Polek zdobyła srebro w wioślarskiej czwórce podwójnej w Tokio 2020?",
+    "answers": [
+      "Katarzyna Zillmann",
+      "Natalia Madaj",
+      "Magdalena Fularczyk",
+      "Julia Michalska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-012",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Dawid Tomala zdobył złoto olimpijskie w Tokio 2020?",
+    "answers": [
+      "Maraton",
+      "Chód na 50 km",
+      "Bieg na 10 000 m",
+      "Chód na 20 km"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-013",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Patryk Dobek zdobył brąz na igrzyskach Tokio 2020?",
+    "answers": [
+      "400 m przez płotki",
+      "800 m",
+      "1500 m",
+      "Sztafeta 4 × 400 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-014",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakim stylu zapaśniczym Tadeusz Michalik zdobył brąz w Tokio 2020?",
+    "answers": [
+      "Wolnym",
+      "Klasycznym",
+      "Plażowym",
+      "Catch wrestling"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-015",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobyła Maria Andrejczyk w rzucie oszczepem w Tokio 2020?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żaden"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-016",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka należała do polskiej brązowej osady K-4 500 m w Tokio 2020?",
+    "answers": [
+      "Justyna Iskrzycka",
+      "Klaudia Zwolińska",
+      "Dorota Borowska",
+      "Marta Walczykiewicz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-017",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Który Polak zdobył brąz w rzucie młotem podczas igrzysk Tokio 2020?",
+    "answers": [
+      "Paweł Fajdek",
+      "Wojciech Nowicki",
+      "Szymon Ziółkowski",
+      "Piotr Małachowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0404-018",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji polska sztafeta mieszana zdobyła złoto w Tokio 2020?",
+    "answers": [
+      "4 × 100 m",
+      "4 × 400 m",
+      "4 × 800 m",
+      "4 × 200 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
   }
 ]
