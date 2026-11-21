@@ -18318,5 +18318,277 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-medals-tally-winners-table"
+  },
+  {
+    "id": "SPORT-N20261121-19-001",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Której zawodniczce przyznano złoty medal biegu na 400 m przez płotki z Londynu 2012 podczas ceremonii w Paryżu 2024?",
+    "answers": [
+      "Lashinda Demus",
+      "Zuzana Hejnová",
+      "Kaliese Spencer",
+      "Natalia Antyukh"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-002",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał ponownie przydzielony złoty medal olimpijski w skoku wzwyż mężczyzn z Londynu 2012?",
+    "answers": [
+      "Erik Kynard",
+      "Derek Drouin",
+      "Mutaz Essa Barshim",
+      "Ivan Ukhov"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-003",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Który Egipcjanin otrzymał w Paryżu 2024 brąz olimpijski w kategorii 85 kg za Londyn 2012?",
+    "answers": [
+      "Tarek Yehia",
+      "Kianoush Rostami",
+      "Apti Aukhadov",
+      "Tian Tao"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-004",
+    "region": "Świat",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Trudny",
+    "question": "Który reprezentant Korei Południowej odebrał w Paryżu 2024 brąz za podnoszenie ciężarów +105 kg na igrzyskach Londyn 2012?",
+    "answers": [
+      "Sangguen Jeon",
+      "Behdad Salimi",
+      "Ruslan Albegov",
+      "Hossein Rezazadeh"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-005",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która Jamajka odebrała w Paryżu 2024 brąz za bieg na 200 m kobiet z igrzysk Sydney 2000?",
+    "answers": [
+      "Beverly McDonald",
+      "Merlene Ottey",
+      "Veronica Campbell-Brown",
+      "Shelly-Ann Fraser-Pryce"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-006",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która Jamajka odebrała w Paryżu 2024 brąz za skok w dal kobiet z igrzysk Pekin 2008?",
+    "answers": [
+      "Chelsea Hammond-Ross",
+      "Brittney Reese",
+      "Tatyana Lebedeva",
+      "Maurren Maggi"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-007",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Która Czeszka odebrała w Paryżu 2024 srebro olimpijskie za 400 m przez płotki z Londynu 2012?",
+    "answers": [
+      "Zuzana Hejnová",
+      "Lashinda Demus",
+      "Kaliese Spencer",
+      "Denisa Rosolová"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-008",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Trudny",
+    "question": "Która reprezentantka Etiopii odebrała w Paryżu 2024 brąz za bieg na 1500 m z Londynu 2012?",
+    "answers": [
+      "Abeba Aregawi",
+      "Genzebe Dibaba",
+      "Tirunesh Dibaba",
+      "Meseret Defar"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/ten-olympians-from-three-editions-of-the-olympic-games-awarded-their-olympic-medals-during-reallocation-ceremony-at-paris-2024"
+  },
+  {
+    "id": "SPORT-N20261121-19-009",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "W jakiej kategorii wagowej Cindy Ngamba zdobyła pierwszy medal olimpijski dla reprezentacji uchodźców w Paryżu 2024?",
+    "answers": [
+      "75 kg kobiet",
+      "60 kg kobiet",
+      "66 kg kobiet",
+      "81 kg kobiet"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-19-010",
+    "region": "Świat",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Chermen Valiev zdobył pierwszy medal olimpijski dla Albanii w Paryżu 2024?",
+    "answers": [
+      "Styl wolny mężczyzn 74 kg",
+      "Styl klasyczny mężczyzn 77 kg",
+      "Styl wolny mężczyzn 86 kg",
+      "Styl klasyczny mężczyzn 67 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-19-011",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Normalny",
+    "question": "W jakiej kategorii David de Pina wywalczył pierwszy medal olimpijski dla Republiki Zielonego Przylądka w Paryżu 2024?",
+    "answers": [
+      "51 kg mężczyzn",
+      "57 kg mężczyzn",
+      "63,5 kg mężczyzn",
+      "71 kg mężczyzn"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-19-012",
+    "region": "Świat",
+    "sport": "Strzelectwo",
+    "difficulty": "Normalny",
+    "question": "W której konkurencji Adriana Ruano Oliva zdobyła pierwsze olimpijskie złoto dla Gwatemali w Paryżu 2024?",
+    "answers": [
+      "Trap kobiet",
+      "Skeet kobiet",
+      "Karabin pneumatyczny 10 m",
+      "Pistolet sportowy 25 m"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-19-014",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji Julien Alfred zdobyła pierwsze olimpijskie złoto dla Saint Lucia w Paryżu 2024?",
+    "answers": [
+      "Bieg na 100 m kobiet",
+      "Bieg na 200 m kobiet",
+      "Bieg na 400 m kobiet",
+      "Bieg na 100 m przez płotki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field"
+  },
+  {
+    "id": "SPORT-N20261121-19-016",
+    "region": "Świat",
+    "sport": "Sport olimpijski",
+    "difficulty": "Łatwy",
+    "question": "Z jakiej paryskiej budowli pochodził metal umieszczony w medalach olimpijskich Paryż 2024?",
+    "answers": [
+      "Wieża Eiffla",
+      "Łuk Triumfalny",
+      "Katedra Notre-Dame",
+      "Luwr"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower"
+  },
+  {
+    "id": "SPORT-N20261121-19-017",
+    "region": "Świat",
+    "sport": "Sport olimpijski",
+    "difficulty": "Normalny",
+    "question": "Jaki kształt miał centralny fragment żelaza z Wieży Eiffla na medalach Paryża 2024?",
+    "answers": [
+      "Sześciokąt",
+      "Pięciokąt",
+      "Ośmiokąt",
+      "Koło"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower"
+  },
+  {
+    "id": "SPORT-N20261121-19-018",
+    "region": "Świat",
+    "sport": "Sport olimpijski",
+    "difficulty": "Trudny",
+    "question": "Ile gramów żelaza z Wieży Eiffla znajdowało się w każdym medalu Paryża 2024?",
+    "answers": [
+      "18 g",
+      "8 g",
+      "28 g",
+      "38 g"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower"
+  },
+  {
+    "id": "SPORT-N20261121-19-019",
+    "region": "Świat",
+    "sport": "Sport olimpijski",
+    "difficulty": "Normalny",
+    "question": "W jakim języku zapisano nazwy konkurencji na krawędziach medali olimpijskich Paryża 2024?",
+    "answers": [
+      "Francuskim",
+      "Angielskim",
+      "Łacińskim",
+      "Greckim"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower"
   }
 ]
