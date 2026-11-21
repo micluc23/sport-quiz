@@ -16862,5 +16862,213 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0502-001",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej odmianie kajakarstwa Klaudia Zwolińska zdobyła srebro olimpijskie w Paryżu 2024?",
+    "answers": [
+      "Slalom kajakowy",
+      "Sprint kajakowy",
+      "Kajak polo",
+      "Maraton kajakowy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-002",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Która z tych zawodniczek należała do brązowej drużyny polskich szpadzistek w Paryżu 2024?",
+    "answers": [
+      "Alicja Klasik",
+      "Sylwia Gruchała",
+      "Aleksandra Sołtan",
+      "Marta Puda"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-003",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Normalny",
+    "question": "Która zawodniczka zdobyła brąz w drużynowej szpadzie kobiet na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Renata Knapik-Miazga",
+      "Anna Rybicka",
+      "Małgorzata Wojtkowiak",
+      "Bogna Jóźwiak"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-004",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "W jakiej konkurencji polscy wioślarze wywalczyli brąz w Paryżu 2024?",
+    "answers": [
+      "Czwórka podwójna",
+      "Ósemka",
+      "Dwójka bez sternika",
+      "Jedynka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-005",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Który z wymienionych wioślarzy zdobył brąz w czwórce podwójnej w Paryżu 2024?",
+    "answers": [
+      "Fabian Barański",
+      "Michał Jeliński",
+      "Adam Korol",
+      "Konrad Wasielewski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-006",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Który z wymienionych sportowców był członkiem brązowej czwórki podwójnej z Paryża 2024?",
+    "answers": [
+      "Dominik Czaja",
+      "Paweł Rańda",
+      "Marek Kolbowicz",
+      "Szymon Ziółkowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-007",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal zdobyła polska kobieca czwórka podwójna w Tokio 2020?",
+    "answers": [
+      "Srebrny",
+      "Złoty",
+      "Brązowy",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0502-008",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Która z wymienionych zawodniczek była w srebrnej osadzie czwórki podwójnej w Tokio 2020?",
+    "answers": [
+      "Marta Wieliczko",
+      "Katarzyna Pawłowska",
+      "Maja Włoszczowska",
+      "Karolina Naja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0502-009",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "Która z wymienionych kajakarek wywalczyła brąz w K-4 500 m w Tokio 2020?",
+    "answers": [
+      "Helena Wiśniewska",
+      "Agnieszka Skrzypulec",
+      "Maria Andrejczyk",
+      "Katarzyna Zillmann"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0502-010",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakiej kategorii wagowej Tadeusz Michalik zdobył medal w Tokio 2020?",
+    "answers": [
+      "97 kg",
+      "87 kg",
+      "77 kg",
+      "130 kg"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0502-011",
+    "region": "Polska",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "Która z wymienionych zawodniczek zdobyła srebro w klasie 470 w Tokio 2020?",
+    "answers": [
+      "Agnieszka Skrzypulec",
+      "Zofia Klepacka",
+      "Małgorzata Białecka",
+      "Maja Dziarnowska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska-xxxii-olimpiady-tokio-2020-zakonczone/"
+  },
+  {
+    "id": "GS-N20261121-0502-012",
+    "region": "Polska",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal wywalczyła Julia Szeremeta na igrzyskach w Paryżu 2024?",
+    "answers": [
+      "Srebrny",
+      "Złoty",
+      "Brązowy",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "GS-N20261121-0502-013",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Łatwy",
+    "question": "W której konkurencji kolarskiej Daria Pikulik zdobyła srebro w Paryżu 2024?",
+    "answers": [
+      "Omnium",
+      "Keirin",
+      "Sprint drużynowy",
+      "Madison"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
   }
 ]
