@@ -17070,5 +17070,437 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://olimpijski.pl/wojewodztwo-lubelskie-partnerem-gali-olimpijskiej-paryz-2024/"
+  },
+  {
+    "id": "SPORT-N20261121-06-001",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal wywalczyli Andrzej Gronowicz i Jerzy Opara na igrzyskach w Montrealu w 1976 roku?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Nie zdobyli medalu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-002",
+    "region": "Polska",
+    "sport": "Kajakarstwo",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Andrzej Gronowicz i Jerzy Opara zdobyli medal olimpijski w 1976 roku?",
+    "answers": [
+      "K2 1000 m",
+      "C2 500 m",
+      "C1 500 m",
+      "K4 1000 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-003",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Łatwy",
+    "question": "Jakiego koloru medal olimpijski zdobył Grzegorz Cziura w Montrealu w 1976 roku?",
+    "answers": [
+      "Brązowy",
+      "Złoty",
+      "Srebrny",
+      "Nie zdobył medalu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-004",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Który polski ciężarowiec zdobył brąz w kategorii 67,5 kg na igrzyskach w Montrealu?",
+    "answers": [
+      "Tadeusz Rutkowski",
+      "Kazimierz Czarnecki",
+      "Grzegorz Cziura",
+      "Marek Seweryn"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-005",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Który polski ciężarowiec zdobył brąz w wadze ponad 110 kg w Montrealu w 1976 roku?",
+    "answers": [
+      "Tadeusz Rutkowski",
+      "Grzegorz Cziura",
+      "Tadeusz Dembończyk",
+      "Kazimierz Czarnecki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-006",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "W jakiej dyscyplinie Andrzej Skrzydlewski zdobył brązowy medal w Montrealu w 1976 roku?",
+    "answers": [
+      "Judo",
+      "Zapasy",
+      "Boks",
+      "Podnoszenie ciężarów"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-007",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakim stylu zapaśniczym Kazimierz Lipień wywalczył złoto olimpijskie w 1976 roku?",
+    "answers": [
+      "Wolnym",
+      "Klasycznym",
+      "Plażowym",
+      "Dowolnym drużynowym"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-008",
+    "region": "Polska",
+    "sport": "Piłka ręczna",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal zdobyli polscy piłkarze ręczni na igrzyskach w Montrealu w 1976 roku?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żaden"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-009",
+    "region": "Polska",
+    "sport": "Piłka ręczna",
+    "difficulty": "Normalny",
+    "question": "Który z wymienionych zawodników był w polskiej brązowej drużynie piłki ręcznej z Montrealu 1976?",
+    "answers": [
+      "Jerzy Klempel",
+      "Karol Bielecki",
+      "Sławomir Szmal",
+      "Mariusz Jurasik"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-010",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Na jakim dystansie Bronisław Malinowski zdobył srebro olimpijskie w Montrealu w 1976 roku?",
+    "answers": [
+      "1500 m",
+      "5000 m",
+      "3000 m z przeszkodami",
+      "10000 m"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-011",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Polska zdobyła srebro dzięki sztafecie Jaremski–Pietrzyk–Podlas–Werner w Montrealu 1976?",
+    "answers": [
+      "4 × 100 m",
+      "4 × 400 m",
+      "4 × 800 m",
+      "4 × 200 m"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-012",
+    "region": "Polska",
+    "sport": "Strzelectwo",
+    "difficulty": "Normalny",
+    "question": "Ilu polskich strzelców liczyła kadra olimpijska na Montreal 1976 według PKOl?",
+    "answers": [
+      "6",
+      "8",
+      "12",
+      "16"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-013",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ilu polskich łuczników znalazło się w kadrze olimpijskiej na Montreal 1976?",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/en/igrzyska_letnie/montreal-1976/"
+  },
+  {
+    "id": "SPORT-N20261121-06-014",
+    "region": "Polska",
+    "sport": "Jeździectwo",
+    "difficulty": "Łatwy",
+    "question": "Który Polak zdobył złoty medal olimpijski w skokach przez przeszkody w Moskwie w 1980 roku?",
+    "answers": [
+      "Jan Kowalczyk",
+      "Marian Kozicki",
+      "Wiesław Hartman",
+      "Janusz Bobik"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-015",
+    "region": "Polska",
+    "sport": "Jeździectwo",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobyła polska drużyna w skokach przez przeszkody na igrzyskach w Moskwie 1980?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-016",
+    "region": "Polska",
+    "sport": "Jeździectwo",
+    "difficulty": "Normalny",
+    "question": "Który z tych jeźdźców należał do polskiej srebrnej drużyny skoków przez przeszkody w Moskwie 1980?",
+    "answers": [
+      "Wiesław Hartman",
+      "Andrzej Sałacki",
+      "Jarosław Skrzyczyński",
+      "Marek Lewicki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-017",
+    "region": "Polska",
+    "sport": "Pływanie",
+    "difficulty": "Łatwy",
+    "question": "Która Polka zdobyła brązowy medal w pływaniu na igrzyskach w Moskwie w 1980 roku?",
+    "answers": [
+      "Otylia Jędrzejczak",
+      "Agnieszka Czopek",
+      "Alicja Tchórz",
+      "Katarzyna Baranowska"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-018",
+    "region": "Polska",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "W jakiej konkurencji Agnieszka Czopek zdobyła brąz olimpijski w Moskwie 1980?",
+    "answers": [
+      "200 m stylem grzbietowym",
+      "400 m stylem zmiennym",
+      "100 m stylem motylkowym",
+      "800 m stylem dowolnym"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-019",
+    "region": "Polska",
+    "sport": "Szermierka",
+    "difficulty": "Łatwy",
+    "question": "Która Polka zdobyła brąz w indywidualnym florecie na igrzyskach w Moskwie w 1980 roku?",
+    "answers": [
+      "Sylwia Gruchała",
+      "Barbara Wysoczańska",
+      "Danuta Dmowska-Andrzejuk",
+      "Aleksandra Sołtan"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-020",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Normalny",
+    "question": "W jakim stylu Aleksander Cichoń zdobył medal olimpijski w Moskwie w 1980 roku?",
+    "answers": [
+      "Klasycznym",
+      "Wolnym",
+      "Sumo",
+      "Grecko-rzymskim drużynowym"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-021",
+    "region": "Polska",
+    "sport": "Zapasy",
+    "difficulty": "Łatwy",
+    "question": "Jaki medal olimpijski zdobył Adam Sandurski w Moskwie w 1980 roku?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Żaden"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-022",
+    "region": "Polska",
+    "sport": "Podnoszenie ciężarów",
+    "difficulty": "Normalny",
+    "question": "Który Polak zdobył brąz olimpijski w kategorii 60 kg w Moskwie w 1980 roku?",
+    "answers": [
+      "Marek Seweryn",
+      "Grzegorz Cziura",
+      "Tadeusz Rutkowski",
+      "Kazimierz Czarnecki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-023",
+    "region": "Polska",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył srebrny medal w skoku wzwyż na igrzyskach w Moskwie w 1980 roku dla Polski?",
+    "answers": [
+      "Jacek Wszoła",
+      "Artur Partyka",
+      "Tadeusz Ślusarski",
+      "Urszula Kielan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-024",
+    "region": "Polska",
+    "sport": "Kolarstwo",
+    "difficulty": "Łatwy",
+    "question": "Który Polak zdobył srebro w kolarskim wyścigu ze startu wspólnego na igrzyskach w Moskwie 1980?",
+    "answers": [
+      "Czesław Lang",
+      "Ryszard Szurkowski",
+      "Zenon Jaskuła",
+      "Michał Kwiatkowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-025",
+    "region": "Polska",
+    "sport": "Wioślarstwo",
+    "difficulty": "Normalny",
+    "question": "Jaki medal zdobyła polska czwórka ze sternikiem w Moskwie w 1980 roku?",
+    "answers": [
+      "Złoty",
+      "Srebrny",
+      "Brązowy",
+      "Nie zdobyła medalu"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-026",
+    "region": "Polska",
+    "sport": "Żeglarstwo",
+    "difficulty": "Normalny",
+    "question": "W jakim mieście odbyły się olimpijskie regaty żeglarskie podczas igrzysk Moskwa 1980?",
+    "answers": [
+      "Soczi",
+      "Tallinn",
+      "Odessa",
+      "Ryga"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
+  },
+  {
+    "id": "SPORT-N20261121-06-027",
+    "region": "Polska",
+    "sport": "Łucznictwo",
+    "difficulty": "Normalny",
+    "question": "Ilu polskich łuczników znalazło się w kadrze olimpijskiej na Moskwę 1980?",
+    "answers": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://olimpijski.pl/igrzyska_letnie/moskwa-1980/"
   }
 ]
