@@ -16526,5 +16526,53 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://olimpijski.pl/igrzyska_letnie/monachium-1972/"
+  },
+  {
+    "id": "GS-N20261121-0255-001",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Jakiej narodowości była Deng Lijuan, srebrna medalistka olimpijska we wspinaczce na czas w Paryżu 2024?",
+    "answers": [
+      "Japońskiej",
+      "Indonezyjskiej",
+      "Chińskiej",
+      "Koreańskiej"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.nbcolympics.com/news/olympic-sport-climbing-paris-2024-biggest-stories-replays-medal-results-top-athletes-new"
+  },
+  {
+    "id": "GS-N20261121-0255-002",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Jaką wysokość miała standardowa ściana we wspinaczce na czas na igrzyskach Paryż 2024?",
+    "answers": [
+      "10 metrów",
+      "12 metrów",
+      "15 metrów",
+      "20 metrów"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.reuters.com/sports/olympics/climbing-polands-miroslaw-wins-gold-medal-speed-event-2024-08-07/"
+  },
+  {
+    "id": "GS-N20261121-0255-003",
+    "region": "Świat",
+    "sport": "Badminton",
+    "difficulty": "Ekspert",
+    "question": "W jakim obiekcie rozgrywano olimpijskiego badmintona podczas igrzysk Paryż 2024?",
+    "answers": [
+      "Bercy Arena",
+      "Grand Palais",
+      "Porte de La Chapelle Arena",
+      "Stade Pierre-Mauroy"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://thephryge.com/paris-2024-results/sports/badminton"
   }
 ]
