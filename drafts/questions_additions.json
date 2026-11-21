@@ -17822,5 +17822,149 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=157475&parentDocumentId=61587&skipCopyright=true&skipWatermark=true"
+  },
+  {
+    "id": "SPORT-N20261121-13-001",
+    "region": "Świat",
+    "sport": "Kolarstwo BMX",
+    "difficulty": "Łatwy",
+    "question": "Kto wygrał męską konkurencję BMX freestyle podczas zawodów Olympic Qualifier Series w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Anthony Jeanjean",
+      "Logan Martin",
+      "Kieran Reilly",
+      "Justin Dowell"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261121-13-002",
+    "region": "Świat",
+    "sport": "Kolarstwo BMX",
+    "difficulty": "Łatwy",
+    "question": "Która zawodniczka zwyciężyła w kobiecym BMX freestyle podczas zawodów Olympic Qualifier Series w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Hannah Roberts",
+      "Charlotte Worthington",
+      "Perris Benegas",
+      "Natalya Diehm"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261121-13-003",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Łatwy",
+    "question": "Kto zwyciężył w męskiej konkurencji boulder i lead podczas Olympic Qualifier Series w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Sam Avezou",
+      "Adam Ondra",
+      "Jakob Schubert",
+      "Toby Roberts"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261121-13-004",
+    "region": "Świat",
+    "sport": "Wspinaczka sportowa",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik wygrał męską wspinaczkę na czas podczas Olympic Qualifier Series w Budapeszcie w 2024 roku?",
+    "answers": [
+      "Wu Peng",
+      "Veddriq Leonardo",
+      "Sam Watson",
+      "Bassa Mawem"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/over-150-athletes-stamp-their-tickets-for-paris-2024-as-olympic-qualifier-series-comes-to-a-sensational-close-in-budapest"
+  },
+  {
+    "id": "SPORT-N20261121-13-005",
+    "region": "Świat",
+    "sport": "Boks",
+    "difficulty": "Łatwy",
+    "question": "Która bokserka zdobyła pierwszy w historii Australii medal olimpijski w boksie kobiet podczas Paryża 2024?",
+    "answers": [
+      "Caitlin Parker",
+      "Eumir Marcial",
+      "Tina Rahimi",
+      "Marissa Williamson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-13-006",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Która Australijka zdobyła srebro w biegu na 1500 m kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Jessica Hull",
+      "Faith Kipyegon",
+      "Georgia Bell",
+      "Gudaf Tsegay"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-13-007",
+    "region": "Świat",
+    "sport": "Rugby",
+    "difficulty": "Normalny",
+    "question": "Ile przyłożeń zdobyła Maddison Levi podczas olimpijskiego turnieju rugby siedmioosobowego kobiet w Paryżu 2024?",
+    "answers": [
+      "14",
+      "10",
+      "12",
+      "16"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-13-008",
+    "region": "Świat",
+    "sport": "Pływanie",
+    "difficulty": "Normalny",
+    "question": "Jaki czas uzyskała Kaylee McKeown, wygrywając olimpijski finał 100 m stylem grzbietowym kobiet w Paryżu 2024?",
+    "answers": [
+      "57,33 s",
+      "57,47 s",
+      "58,12 s",
+      "56,98 s"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
+  },
+  {
+    "id": "SPORT-N20261121-13-009",
+    "region": "Świat",
+    "sport": "Lekkoatletyka",
+    "difficulty": "Normalny",
+    "question": "Która Australijka zdobyła brąz na 20 km chodu kobiet na igrzyskach Paryż 2024?",
+    "answers": [
+      "Jemima Montag",
+      "Jane Saville",
+      "Maria Perez",
+      "Rebecca Henderson"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-21",
+    "source": "https://www.olympics.com/ioc/news/paris-2024-olympics-australia-records"
   }
 ]
