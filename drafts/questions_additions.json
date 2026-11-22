@@ -18590,5 +18590,293 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-21",
     "source": "https://www.olympics.com/ioc/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower"
+  },
+  {
+    "id": "GS-EK-20261123-00-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył mistrzostwo Polski w piłce nożnej w sezonie 2018/2019?",
+    "answers": [
+      "Piast Gliwice",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Lechia Gdańsk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/en/company/history/"
+  },
+  {
+    "id": "GS-EK-20261123-00-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobył pierwsze w swojej historii mistrzostwo Polski w 2023 roku?",
+    "answers": [
+      "Raków Częstochowa",
+      "Pogoń Szczecin",
+      "Górnik Zabrze",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/en/company/history/"
+  },
+  {
+    "id": "GS-EK-20261123-00-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub został mistrzem Polski w sezonie 2023/2024?",
+    "answers": [
+      "Jagiellonia Białystok",
+      "Śląsk Wrocław",
+      "Lech Poznań",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/en/company/history/"
+  },
+  {
+    "id": "GS-EK-20261123-00-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto został mistrzem Polski w sezonie 2011/2012?",
+    "answers": [
+      "Śląsk Wrocław",
+      "Wisła Kraków",
+      "Ruch Chorzów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/en/company/history/"
+  },
+  {
+    "id": "GS-EK-20261123-00-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub wygrał Ekstraklasę w sezonie 2006/2007?",
+    "answers": [
+      "Zagłębie Lubin",
+      "Wisła Kraków",
+      "GKS Bełchatów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/en/company/history/"
+  },
+  {
+    "id": "GS-EK-20261123-00-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto prowadził Lecha Poznań jako trener podczas mistrzowskiego sezonu 2024/2025?",
+    "answers": [
+      "Niels Frederiksen",
+      "Maciej Skorża",
+      "John van den Brom",
+      "Mariusz Rumak"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2025-05-25/lech-poznan-mistrzem-polski-dziewiaty-triumf-kolejorza"
+  },
+  {
+    "id": "GS-EK-20261123-00-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z którym klubem Lech Poznań wygrał 1:0 w ostatniej kolejce sezonu 2024/2025, pieczętując mistrzostwo?",
+    "answers": [
+      "Piast Gliwice",
+      "Raków Częstochowa",
+      "Jagiellonia Białystok",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2025-05-25/lech-poznan-mistrzem-polski-dziewiaty-triumf-kolejorza"
+  },
+  {
+    "id": "GS-EK-20261123-00-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile punktów zdobył Lech Poznań w mistrzowskim sezonie Ekstraklasy 2024/2025?",
+    "answers": [
+      "70",
+      "68",
+      "72",
+      "74"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2025-05-25/lech-poznan-mistrzem-polski-dziewiaty-triumf-kolejorza"
+  },
+  {
+    "id": "GS-EK-20261123-00-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto był najlepszym strzelcem Lecha Poznań w sezonie ligowym 2024/2025?",
+    "answers": [
+      "Mikael Ishak",
+      "Afonso Sousa",
+      "Filip Szymczak",
+      "Patrik Wålemark"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2025-05-25/lech-poznan-mistrzem-polski-dziewiaty-triumf-kolejorza"
+  },
+  {
+    "id": "GS-EK-20261123-00-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Pogoni Szczecin został królem strzelców Ekstraklasy 2024/2025?",
+    "answers": [
+      "Efthymis Koulouris",
+      "Kamil Grosicki",
+      "Mikael Ishak",
+      "Jesús Imaz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2025-05-25/lech-poznan-mistrzem-polski-dziewiaty-triumf-kolejorza"
+  },
+  {
+    "id": "GS-EK-20261123-00-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile bramek zdobył Efthymis Koulouris w sezonie Ekstraklasy 2024/2025?",
+    "answers": [
+      "29",
+      "21",
+      "25",
+      "32"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2025-05-25/lech-poznan-mistrzem-polski-dziewiaty-triumf-kolejorza"
+  },
+  {
+    "id": "GS-EK-20261123-00-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto prowadził Legię Warszawa przez cały sezon Ekstraklasy 2022/2023?",
+    "answers": [
+      "Kosta Runjaić",
+      "Czesław Michniewicz",
+      "Aleksandar Vuković",
+      "Marek Papszun"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/legia-warszawa-z-wicemistrzostwem-polski/"
+  },
+  {
+    "id": "GS-EK-20261123-00-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Które miejsce zajęła Legia Warszawa w Ekstraklasie w sezonie 2021/2022?",
+    "answers": [
+      "10.",
+      "2.",
+      "4.",
+      "6."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/legia-warszawa-z-wicemistrzostwem-polski/"
+  },
+  {
+    "id": "GS-EK-20261123-00-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile razy Legia Warszawa została wicemistrzem Polski do końca sezonu 2022/2023?",
+    "answers": [
+      "14",
+      "12",
+      "13",
+      "16"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/legia-warszawa-z-wicemistrzostwem-polski/"
+  },
+  {
+    "id": "GS-EK-20261123-00-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który trener zdobył z Lechem Poznań mistrzostwo Polski w 1982 i 1984 roku?",
+    "answers": [
+      "Wojciech Łazarek",
+      "Franciszek Smuda",
+      "Jacek Zieliński",
+      "Czesław Michniewicz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2024-11-01/wspomnienie-zmarlych"
+  },
+  {
+    "id": "GS-EK-20261123-00-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub prowadził Franciszek Smuda w fazie grupowej Ligi Mistrzów UEFA w sezonie 1996/1997?",
+    "answers": [
+      "Widzew Łódź",
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.pzpn.pl/federacja/aktualnosci/2024-11-01/wspomnienie-zmarlych"
+  },
+  {
+    "id": "GS-EK-20261123-00-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Od którego miesiąca i roku Live Park jest wyłącznym producentem sygnału telewizyjnego meczów Ekstraklasy?",
+    "answers": [
+      "Lipca 2011",
+      "Lipca 2005",
+      "Sierpnia 2015",
+      "Marca 2020"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-00-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub jako pierwszy polski zespół w XXI wieku awansował do fazy grupowej Ligi Mistrzów UEFA?",
+    "answers": [
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Wisła Kraków",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
