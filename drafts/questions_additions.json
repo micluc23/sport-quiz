@@ -18878,5 +18878,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym miesiącu 1927 roku rozpoczął się pierwszy sezon polskiej ligi piłkarskiej?",
+    "answers": [
+      "Kwietniu",
+      "Marcu",
+      "Maju",
+      "Sierpniu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku wznowiono regularne rozgrywki ligowe w Polsce po II wojnie światowej?",
+    "answers": [
+      "1948",
+      "1945",
+      "1946",
+      "1950"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Pod jaką nazwą występowała Wisła Kraków w okresie stalinowskich zmian nazw klubów?",
+    "answers": [
+      "Gwardia",
+      "Ogniwo",
+      "Unia",
+      "CWKS"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Jak nazywała się Cracovia w okresie narzuconych po wojnie zmian nazw klubowych?",
+    "answers": [
+      "Ogniwo",
+      "Gwardia",
+      "Unia",
+      "Stal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Jaką nazwę nosił Ruch Chorzów w okresie stalinowskich zmian nazw klubów?",
+    "answers": [
+      "Unia",
+      "Gwardia",
+      "Ogniwo",
+      "CWKS"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "W którym roku odbyła się pierwsza telewizyjna transmisja meczu polskiej ligi piłkarskiej?",
+    "answers": [
+      "1957",
+      "1948",
+      "1962",
+      "1970"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub zagrał w pierwszej edycji Pucharu Europejskich Mistrzów Klubowych?",
+    "answers": [
+      "Gwardia Warszawa",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który polski klub zdobył Puchar Rappana w 1965 roku?",
+    "answers": [
+      "Polonia Bytom",
+      "Górnik Zabrze",
+      "Ruch Chorzów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zdobył pięć kolejnych mistrzostw Polski w latach sześćdziesiątych XX wieku?",
+    "answers": [
+      "Górnik Zabrze",
+      "Ruch Chorzów",
+      "Legia Warszawa",
+      "Polonia Bytom"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile mistrzostw Polski zdobył Górnik Zabrze w latach 1961–1970?",
+    "answers": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub wyeliminował Liverpool w drodze do półfinału Pucharu Europy w 1983 roku?",
+    "answers": [
+      "Widzew Łódź",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub osiągnął półfinał Pucharu Europy Mistrzów Klubowych w 1983 roku?",
+    "answers": [
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Wisła Kraków",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub wywalczył mistrzostwo Polski jako beniaminek po pierwszym w historii spadku z Ekstraklasy?",
+    "answers": [
+      "Ruch Chorzów",
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Lecha Poznań został królem strzelców turnieju olimpijskiego w Barcelonie w 1992 roku?",
+    "answers": [
+      "Andrzej Juskowiak",
+      "Wojciech Kowalczyk",
+      "Marek Citko",
+      "Piotr Świerczewski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zakończył sezon 1995/1996 Ekstraklasy bez porażki?",
+    "answers": [
+      "Widzew Łódź",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile zwycięstw w sezonie 1996/1997 odniosły zarówno Widzew Łódź, jak i Legia Warszawa, ustanawiając rekord ligi?",
+    "answers": [
+      "27",
+      "25",
+      "26",
+      "28"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile kolejnych meczów ligowych wygrał Widzew Łódź w swojej rekordowej serii z sezonu 1996/1997?",
+    "answers": [
+      "13",
+      "10",
+      "11",
+      "15"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub wyeliminował Manchester City i Herthę Berlin z Pucharu UEFA w sezonie 2003/2004?",
+    "answers": [
+      "Dyskobolia Grodzisk Wielkopolski",
+      "Amica Wronki",
+      "Wisła Kraków",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-021",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wyeliminował Schalke 04 z Pucharu UEFA w sezonie 2002/2003?",
+    "answers": [
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Dyskobolia Grodzisk Wielkopolski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-01-022",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Z którym włoskim klubem Wisła Kraków rywalizowała w 1/8 finału Pucharu UEFA w sezonie 2002/2003?",
+    "answers": [
+      "Lazio Rzym",
+      "AC Milan",
+      "AS Roma",
+      "Inter Mediolan"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
