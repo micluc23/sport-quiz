@@ -19060,12 +19060,12 @@
     "region": "Polska",
     "sport": "Piłka nożna",
     "difficulty": "Normalny",
-    "question": "Który polski klub osiągnął półfinał Pucharu Europy Mistrzów Klubowych w 1983 roku?",
+    "question": "W którym roku CANAL+ rozpoczął transmitowanie meczów polskiej Ekstraklasy?",
     "answers": [
-      "Widzew Łódź",
-      "Lech Poznań",
-      "Wisła Kraków",
-      "Śląsk Wrocław"
+      "1995",
+      "1992",
+      "1998",
+      "2001"
     ],
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
