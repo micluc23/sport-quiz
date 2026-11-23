@@ -21102,5 +21102,149 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W której kolejce sezonu 2005/06 rozegrano pierwszy mecz pod zarządem Ekstraklasy SA?",
+    "answers": [
+      "14.",
+      "1.",
+      "8.",
+      "20."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W której minucie padł pierwszy gol w erze zarządzania ligą przez Ekstraklasę SA?",
+    "answers": [
+      "40.",
+      "12.",
+      "58.",
+      "75."
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Legii strzelił dwa gole w pierwszym meczu ery Ekstraklasy SA?",
+    "answers": [
+      "Piotr Włodarczyk",
+      "Dawid Janczyk",
+      "Miroslav Radović",
+      "Roger Guerreiro"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Górnika Zabrze zdobył bramkę głową w meczu z Legią 18 listopada 2005?",
+    "answers": [
+      "Jacek Wiśniewski",
+      "Kamil Król",
+      "Dawid Janczyk",
+      "Piotr Włodarczyk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z jakim rywalem Korona Kielce wygrała 2:1 w listopadzie 2005 w kolejce inaugurującej erę Ekstraklasy SA?",
+    "answers": [
+      "GKS Bełchatów",
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Cracovia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile goli łącznie padło w pierwszej kolejce prowadzonej przez Ekstraklasę SA?",
+    "answers": [
+      "20",
+      "12",
+      "25",
+      "31"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ile klubów najwyższej ligi podpisało w czerwcu 2005 umowę o powołaniu Ekstraklasy SA?",
+    "answers": [
+      "16",
+      "12",
+      "18",
+      "20"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile wyniosła rekordowa wypłata Ekstraklasy SA dla mistrza Polski za sezon 2024/25?",
+    "answers": [
+      "36 mln zł",
+      "20 mln zł",
+      "48 mln zł",
+      "15 mln zł"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-R11-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jaka firma przygotowała dedykowaną piłkę Ekstraklasa PRO na sezon 2026/27?",
+    "answers": [
+      "adidas",
+      "Nike",
+      "Puma",
+      "Select"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/ekstraklasa-rozpoczyna-obchody-stulecia-rozgrywek-ligowych-nowe-logo-pilka-ekstraklasa-pro-i-jubileuszowe-trofeum-mistrza-polski-zaprezentowane-przed-sezonem-2026-27/"
   }
 ]
