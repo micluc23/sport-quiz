@@ -20414,5 +20414,341 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/aktualnosci/ekstraklasa-rozpoczyna-obchody-stulecia-rozgrywek-ligowych-nowe-logo-pilka-ekstraklasa-pro-i-jubileuszowe-trofeum-mistrza-polski-zaprezentowane-przed-sezonem-2026-27/"
+  },
+  {
+    "id": "SPORT-N20261123-701",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile goli padło w 306 meczach Ekstraklasy w sezonie 2024/2025?",
+    "answers": [
+      "843",
+      "804",
+      "901",
+      "786"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-702",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zespół został wicemistrzem Polski w sezonie 2024/2025?",
+    "answers": [
+      "Raków Częstochowa",
+      "Jagiellonia Białystok",
+      "Pogoń Szczecin",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-703",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zajął trzecie miejsce w Ekstraklasie w sezonie 2024/2025?",
+    "answers": [
+      "Jagiellonia Białystok",
+      "Raków Częstochowa",
+      "Lech Poznań",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-704",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile bramek zdobył król strzelców Ekstraklasy w sezonie 2024/2025?",
+    "answers": [
+      "28",
+      "24",
+      "21",
+      "31"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-705",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którego klubu pochodził król strzelców Ekstraklasy sezonu 2024/2025?",
+    "answers": [
+      "Pogoń Szczecin",
+      "Lech Poznań",
+      "Raków Częstochowa",
+      "Cracovia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-706",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub dotarł do ćwierćfinału Ligi Konferencji UEFA w sezonie 2024/2025 obok Legii Warszawa?",
+    "answers": [
+      "Jagiellonia Białystok",
+      "Raków Częstochowa",
+      "Śląsk Wrocław",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-707",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile klubów z Polski miało uzyskać miejsce w europejskich rozgrywkach sezonu 2026/2027 dzięki wynikom sezonu 2024/2025?",
+    "answers": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/raport-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261123-708",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile razy Górnik Zabrze zdobył mistrzostwo Polski w latach 1961–1970?",
+    "answers": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-709",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który klub wywalczył Puchar Rappana w 1965 roku?",
+    "answers": [
+      "Polonia Bytom",
+      "Górnik Zabrze",
+      "Ruch Chorzów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-710",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub dotarł do ćwierćfinału Pucharu Zdobywców Pucharów w 1977 roku?",
+    "answers": [
+      "Śląsk Wrocław",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-711",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wygrał mistrzostwo Polski w sezonie 1995/1996 bez żadnej porażki?",
+    "answers": [
+      "Widzew Łódź",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-712",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile kolejnych zwycięstw ligowych odniósł Widzew Łódź w swojej rekordowej serii z lat 90.?",
+    "answers": [
+      "13",
+      "11",
+      "15",
+      "10"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-713",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile zwycięstw w jednej edycji Ekstraklasy zanotowały Widzew i Legia w sezonie 1996/1997?",
+    "answers": [
+      "27",
+      "25",
+      "29",
+      "23"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-714",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku CANAL+ rozpoczął transmisje meczów Ekstraklasy?",
+    "answers": [
+      "1995",
+      "1992",
+      "1998",
+      "2001"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-715",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub wyeliminowała Wisła Kraków w Pucharze UEFA 2002/2003 oprócz Schalke 04?",
+    "answers": [
+      "AC Parma",
+      "AS Roma",
+      "Olympique Lyon",
+      "Valencia CF"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-716",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z którym włoskim klubem Wisła Kraków rywalizowała w Pucharze UEFA 2002/2003 o awans do ćwierćfinału?",
+    "answers": [
+      "Lazio Rzym",
+      "AC Milan",
+      "Inter Mediolan",
+      "SSC Napoli"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-717",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobył sześć mistrzostw Polski w latach 2011–2020?",
+    "answers": [
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Wisła Kraków",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-718",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Jak nazywa się spółka produkująca od lipca 2011 roku sygnał telewizyjny ze wszystkich meczów Ekstraklasy?",
+    "answers": [
+      "Live Park",
+      "Ekstraklasa TV",
+      "Polsat Sport",
+      "TVP Sport"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-719",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "W którym roku pierwsza polska drużyna, Gwardia Warszawa, zagrała w premierowej edycji Pucharu Europy?",
+    "answers": [
+      "1955",
+      "1952",
+      "1958",
+      "1960"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-720",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub nosił w okresie stalinowskim nazwę Ogniwo?",
+    "answers": [
+      "Cracovia",
+      "Wisła Kraków",
+      "Ruch Chorzów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-721",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub w okresie stalinowskim występował pod nazwą Unia?",
+    "answers": [
+      "Ruch Chorzów",
+      "Cracovia",
+      "Wisła Kraków",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
