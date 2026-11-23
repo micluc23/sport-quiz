@@ -21246,5 +21246,309 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/aktualnosci/ekstraklasa-rozpoczyna-obchody-stulecia-rozgrywek-ligowych-nowe-logo-pilka-ekstraklasa-pro-i-jubileuszowe-trofeum-mistrza-polski-zaprezentowane-przed-sezonem-2026-27/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku Lech Poznań rozegrał pierwszy mecz na stadionie przy Bułgarskiej?",
+    "answers": [
+      "1980",
+      "1972",
+      "1990",
+      "1968"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/aktualnosci,2,pierwszy-mecz-przy-bulgarskiej,24716.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakim klubem Lech Poznań rozegrał inauguracyjny mecz przy Bułgarskiej?",
+    "answers": [
+      "Motor Lublin",
+      "Legia Warszawa",
+      "Widzew Łódź",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/aktualnosci,2,pierwszy-mecz-przy-bulgarskiej,24716.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jakim wynikiem zakończył się pierwszy mecz Lecha Poznań przy Bułgarskiej w 1980 roku?",
+    "answers": [
+      "1:1",
+      "2:0",
+      "0:0",
+      "3:1"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/aktualnosci,2,pierwszy-mecz-przy-bulgarskiej,24716.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto strzelił pierwszego gola dla Lecha Poznań na stadionie przy Bułgarskiej?",
+    "answers": [
+      "Marek Skurczyński",
+      "Piotr Reiss",
+      "Robert Lewandowski",
+      "Mirosław Okoński"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/aktualnosci,2,pierwszy-mecz-przy-bulgarskiej,24716.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku rozpoczęła się budowa stadionu Lecha Poznań przy Bułgarskiej?",
+    "answers": [
+      "1968",
+      "1980",
+      "1976",
+      "1955"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W jakiej dzielnicy Poznania znajduje się stadion Lecha przy Bułgarskiej?",
+    "answers": [
+      "Grunwald",
+      "Jeżyce",
+      "Wilda",
+      "Nowe Miasto"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Przy jakiej ulicy znajduje się stadion Lecha Poznań?",
+    "answers": [
+      "Bułgarskiej",
+      "Łazienkowskiej",
+      "Kałuży",
+      "Reymonta"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Z którym klubem Lech Poznań grał w meczu rekordowej frekwencji przy Bułgarskiej 8 kwietnia 1984 roku?",
+    "answers": [
+      "Widzew Łódź",
+      "Wisła Kraków",
+      "Legia Warszawa",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ilu widzów według oficjalnej historii Lecha oglądało mecz rekordowej frekwencji przy Bułgarskiej w kwietniu 1984 roku?",
+    "answers": [
+      "45 tysięcy",
+      "30 tysięcy",
+      "55 tysięcy",
+      "20 tysięcy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piosenkarz wystąpił podczas otwarcia przebudowanego stadionu Lecha Poznań w 2010 roku?",
+    "answers": [
+      "Sting",
+      "Bono",
+      "Elton John",
+      "Bryan Adams"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jaki obiekt stoi przed stadionem Lecha Poznań i nawiązuje do kolejowej historii klubu?",
+    "answers": [
+      "Lokomotywa",
+      "Samolot",
+      "Pomnik żubra",
+      "Statek"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku zakończono przebudowę stadionu Lecha Poznań związaną z Euro 2012?",
+    "answers": [
+      "2010",
+      "2006",
+      "2012",
+      "2015"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/ul-bulgarska,129.html"
+  },
+  {
+    "id": "SPORT-N20261123-R12-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W jakim klubie występował Tomas Bobček, król strzelców Ekstraklasy 2025/2026?",
+    "answers": [
+      "Lechia Gdańsk",
+      "Lech Poznań",
+      "Raków Częstochowa",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile bramek zdobył Tomas Bobček w Ekstraklasie w sezonie 2025/2026?",
+    "answers": [
+      "20",
+      "28",
+      "16",
+      "24"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi Tomas Bobček, król strzelców Ekstraklasy 2025/2026?",
+    "answers": [
+      "Słowacja",
+      "Czechy",
+      "Serbia",
+      "Chorwacja"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto przed Tomasem Bobčkiem był królem strzelców Ekstraklasy w barwach Lechii Gdańsk?",
+    "answers": [
+      "Marco Paixão",
+      "Flávio Paixão",
+      "Łukasz Zwoliński",
+      "Patryk Lipski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile punktów w klasyfikacji kanadyjskiej zgromadził Tomas Bobček w Ekstraklasie 2025/2026?",
+    "answers": [
+      "26",
+      "20",
+      "30",
+      "24"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile dubletów zanotował Tomas Bobček w sezonie Ekstraklasy 2025/2026?",
+    "answers": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-N20261123-R12-021",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub był rywalem Lecha Poznań w pierwszym meczu po modernizacji stadionu w 2010 roku?",
+    "answers": [
+      "Red Bull Salzburg",
+      "Manchester City",
+      "Juventus",
+      "Sporting Braga"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/pl/aktualnosci,2,od-grzybowej-do-bulgarskiej,30218.html"
   }
 ]
