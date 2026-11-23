@@ -22030,5 +22030,341 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-12-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku otwarto Arenę Kielce, jeden z pierwszych nowoczesnych stadionów ligowych w Polsce?",
+    "answers": [
+      "2006",
+      "2012",
+      "1998",
+      "2018"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W jakim mieście znajduje się Arena Kielce, otwarta w 2006 roku?",
+    "answers": [
+      "Kielce",
+      "Radom",
+      "Lublin",
+      "Tychy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Które mistrzostwa Europy były ważnym impulsem do modernizacji stadionów w Polsce?",
+    "answers": [
+      "EURO 2012",
+      "EURO 2004",
+      "EURO 2016",
+      "EURO 2024"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku otwarto bursztynowy stadion piłkarski w Gdańsku?",
+    "answers": [
+      "2011",
+      "2006",
+      "2016",
+      "2021"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym polskim mieście rozegrano finał Ligi Europy UEFA w 2021 roku?",
+    "answers": [
+      "Gdańsk",
+      "Warszawa",
+      "Wrocław",
+      "Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym polskim mieście odbył się finał Ligi Konferencji UEFA w 2025 roku?",
+    "answers": [
+      "Wrocław",
+      "Gdańsk",
+      "Poznań",
+      "Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zmierzył się z Realem Madryt w Superpucharze UEFA 2024 na Stadionie Narodowym?",
+    "answers": [
+      "Atalanta Bergamo",
+      "Inter Mediolan",
+      "Bayer Leverkusen",
+      "Sevilla FC"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście rozegrano Superpuchar UEFA 2024?",
+    "answers": [
+      "Warszawa",
+      "Gdańsk",
+      "Wrocław",
+      "Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Na miejscu jakiego dawnego stadionu wybudowano Stadion Narodowy w Warszawie?",
+    "answers": [
+      "Stadionu Dziesięciolecia",
+      "Stadionu Wojska Polskiego",
+      "Stadionu Śląskiego",
+      "Stadionu Polonii"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakim surowcem kojarzy się elewacja stadionu piłkarskiego w Gdańsku?",
+    "answers": [
+      "Bursztynem",
+      "Granitem",
+      "Marmurem",
+      "Miedzią"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W jakiej miejscowości znajduje się ośrodek treningowy Lecha Poznań wymieniany przez Ekstraklasę?",
+    "answers": [
+      "Wronki",
+      "Książenice",
+      "Rączna",
+      "Spała"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W jakiej miejscowości Cracovia ma bazę treningową opisaną przez Ekstraklasę?",
+    "answers": [
+      "Rączna",
+      "Wronki",
+      "Książenice",
+      "Spała"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku Polska zorganizowała mistrzostwa świata FIFA U-20 mężczyzn?",
+    "answers": [
+      "2019",
+      "2015",
+      "2023",
+      "2011"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Które z miast było gospodarzem meczów mistrzostw świata FIFA U-20 w Polsce w 2019 roku?",
+    "answers": [
+      "Gdynia",
+      "Kraków",
+      "Szczecin",
+      "Opole"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym regionie Polski rozegrano kobiece mistrzostwa Europy UEFA U-19 w 2025 roku?",
+    "answers": [
+      "Podkarpacie",
+      "Pomorze",
+      "Mazowsze",
+      "Wielkopolska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Które miasto gościło mecze kobiecego EURO U-19 w Polsce w 2025 roku?",
+    "answers": [
+      "Mielec",
+      "Gdynia",
+      "Poznań",
+      "Olsztyn"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile nowych stadionów gościło mecze Ekstraklasy w ciągu dwóch dekad według opracowania ligi z maja 2026 roku?",
+    "answers": [
+      "29",
+      "12",
+      "18",
+      "45"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile wyniosły łączne przychody klubów Ekstraklasy w sezonie 2024/25 według ligi?",
+    "answers": [
+      "1,27 mld zł",
+      "127 mln zł",
+      "3,9 mld zł",
+      "309 mln zł"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-021",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile środków przeznaczyły kluby Ekstraklasy na akademie w sezonie 2024/25 według ligi?",
+    "answers": [
+      "98 mln zł",
+      "9,8 mln zł",
+      "309 mln zł",
+      "480 mln zł"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-022",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym mieście rozegrano mecze mistrzostw świata U-20 w 2019 roku?",
+    "answers": [
+      "Bydgoszcz",
+      "Warszawa",
+      "Kielce",
+      "Rzeszów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-12-024",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W jakim roku odbył się Superpuchar UEFA na PGE Narodowym w Warszawie?",
+    "answers": [
+      "2024",
+      "2021",
+      "2018",
+      "2025"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
   }
 ]
