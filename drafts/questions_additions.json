@@ -21550,5 +21550,245 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://www.lechpoznan.pl/pl/aktualnosci,2,od-grzybowej-do-bulgarskiej,30218.html"
+  },
+  {
+    "id": "SPORT-EK20261123B-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile klubów poparło powstanie ligi piłkarskiej w Polsce w grudniu 1926 roku?",
+    "answers": [
+      "12",
+      "8",
+      "16",
+      "20"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku przerwano trzynastą edycję przedwojennej ligi z powodu wybuchu wojny?",
+    "answers": [
+      "1939",
+      "1938",
+      "1940",
+      "1937"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Które miasto utraciła polska piłka klubowa po II wojnie światowej wraz z Pogonią i Czarnymi?",
+    "answers": [
+      "Lwów",
+      "Poznań",
+      "Kraków",
+      "Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który przedwojenny klub Ekstraklasy pochodził z Wilna?",
+    "answers": [
+      "Śmigły",
+      "Hasmonea",
+      "Pogoń",
+      "Lechia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W jakim systemie wyłaniano piłkarskiego mistrza Polski przez dwa sezony po 1945 roku?",
+    "answers": [
+      "Pucharowym",
+      "Ligowym każdy z każdym",
+      "Play-off z czterech zespołów",
+      "Dwumeczów finałowych"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Od którego roku po II wojnie światowej polska liga piłkarska działa nieprzerwanie?",
+    "answers": [
+      "1948",
+      "1945",
+      "1950",
+      "1952"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz był znanym bramkarzem polskiej ligi w latach 60.?",
+    "answers": [
+      "Edward Szymkowiak",
+      "Kazimierz Deyna",
+      "Ernest Pohl",
+      "Lucjan Brychczy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ile razy z rzędu Górnik Zabrze zdobył mistrzostwo Polski w swojej rekordowej serii?",
+    "answers": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobył dwa kolejne mistrzostwa Polski w latach 1969 i 1970?",
+    "answers": [
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Ruch Chorzów",
+      "Polonia Bytom"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile sezonów z rzędu Górnik Zabrze kończył na podium ligi, zanim seria zakończyła się w 1972 roku?",
+    "answers": [
+      "16",
+      "12",
+      "10",
+      "18"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz został królem strzelców igrzysk olimpijskich w 1972 roku?",
+    "answers": [
+      "Kazimierz Deyna",
+      "Grzegorz Lato",
+      "Andrzej Szarmach",
+      "Włodzimierz Lubański"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub zdobył mistrzostwo Polski jako beniaminek po rocznej przerwie w Ekstraklasie pod koniec lat 80.?",
+    "answers": [
+      "Ruch Chorzów",
+      "Lech Poznań",
+      "ŁKS Łódź",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub wyeliminował Herthę Berlin w Pucharze UEFA w pierwszej dekadzie XXI wieku?",
+    "answers": [
+      "Dyskobolia Grodzisk Wielkopolski",
+      "Wisła Kraków",
+      "Amica Wronki",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W jakiej dekadzie Legia Warszawa kończyła każdy sezon Ekstraklasy na podium, zdobywając sześć tytułów?",
+    "answers": [
+      "2011–2020",
+      "1991–2000",
+      "1981–1990",
+      "2001–2010"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-EK20261123B-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który piłkarz zajął drugie miejsce w klasyfikacji strzelców igrzysk olimpijskich 1992, za Andrzejem Juskowiakiem?",
+    "answers": [
+      "Wojciech Kowalczyk",
+      "Kazimierz Deyna",
+      "Grzegorz Lato",
+      "Marek Citko"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
