@@ -21790,5 +21790,245 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub z Warszawy uczestniczył w pierwszej edycji Pucharu Europy Mistrzów Klubowych?",
+    "answers": [
+      "Gwardia Warszawa",
+      "Legia Warszawa",
+      "Polonia Warszawa",
+      "Warszawianka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jaką nazwę nosiła Cracovia w okresie przymusowych zmian nazw klubów po wojnie?",
+    "answers": [
+      "Ogniwo",
+      "Gwardia",
+      "CWKS",
+      "Unia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz słynął z gry w obronie Ekstraklasy w latach sześćdziesiątych?",
+    "answers": [
+      "Stanisław Oślizło",
+      "Edward Szymkowiak",
+      "Ernest Pohl",
+      "Lucjan Brychczy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który polski klub dotarł do półfinału Pucharu Europy w sezonie 1969/70?",
+    "answers": [
+      "Legia Warszawa",
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W którym roku Polonia Bytom zdobyła Puchar Rappana?",
+    "answers": [
+      "1965",
+      "1962",
+      "1970",
+      "1975"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub wystąpił w ćwierćfinale Pucharu Europy w 1979 roku?",
+    "answers": [
+      "Wisła Kraków",
+      "Śląsk Wrocław",
+      "Stal Mielec",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobył cztery mistrzostwa Polski z rzędu w drugiej połowie lat 80.?",
+    "answers": [
+      "Górnik Zabrze",
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub awansował do półfinału Pucharu Zdobywców Pucharów po meczach z Sampdorią Genua?",
+    "answers": [
+      "Legia Warszawa",
+      "Widzew Łódź",
+      "Wisła Kraków",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku rozpoczęła się wieloletnia współpraca Ekstraklasy z CANAL+?",
+    "answers": [
+      "1995",
+      "1991",
+      "2001",
+      "2005"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub jako pierwszy z polskich drużyn zagrał w fazie grupowej Ligi Mistrzów obok Legii Warszawa?",
+    "answers": [
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Wisła Kraków",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-11-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto zdobył mistrzostwo Polski jako trener Lecha Poznań w 1992 roku?",
+    "answers": [
+      "Henryk Apostel",
+      "Maciej Skorża",
+      "Wojciech Łazarek",
+      "Jacek Zieliński"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/aktualnosci,119,dwunasty-zagraniczny-pierwszy-z-mistrzostwem,45827.html"
+  },
+  {
+    "id": "SPORT-N20261123-11-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który trener prowadził Lecha Poznań w końcówce mistrzowskiego sezonu 1992/93?",
+    "answers": [
+      "Roman Jakóbczak",
+      "Henryk Apostel",
+      "Wojciech Łazarek",
+      "Jerzy Kopa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/aktualnosci,119,dwunasty-zagraniczny-pierwszy-z-mistrzostwem,45827.html"
+  },
+  {
+    "id": "SPORT-N20261123-11-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który trener zdobył z Lechem Poznań mistrzostwa Polski w 2015 i 2022 roku?",
+    "answers": [
+      "Maciej Skorża",
+      "Jacek Zieliński",
+      "Adam Nawałka",
+      "Dariusz Żuraw"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/aktualnosci,119,dwunasty-zagraniczny-pierwszy-z-mistrzostwem,45827.html"
+  },
+  {
+    "id": "SPORT-N20261123-11-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik rozegrał wszystkie mecze w Ekstraklasie dla ŁKS-u Łódź i jest rekordzistą występów w jednym klubie?",
+    "answers": [
+      "Marek Chojnacki",
+      "Marcin Malinowski",
+      "Łukasz Trałka",
+      "Arkadiusz Głowacki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-11-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym klubie Marcin Malinowski rozegrał większość swoich spotkań w Ekstraklasie?",
+    "answers": [
+      "Odra Wodzisław Śląski",
+      "Ruch Chorzów",
+      "Lechia Gdańsk",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
   }
 ]
