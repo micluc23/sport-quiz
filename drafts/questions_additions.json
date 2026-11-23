@@ -20990,5 +20990,117 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywała się Wisła Kraków w okresie przymusowych zmian nazw klubów po wojnie?",
+    "answers": [
+      "Gwardia",
+      "Ogniwo",
+      "Unia",
+      "CWKS"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub wygrał w USA Puchar Ameryki i Interligę w latach 60.?",
+    "answers": [
+      "Polonia Bytom",
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub awansował do ćwierćfinału Pucharu UEFA w 1974 roku?",
+    "answers": [
+      "Ruch Chorzów",
+      "Stal Mielec",
+      "Górnik Zabrze",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub wyeliminował Manchester United i Juventus w Pucharze UEFA 1980/81?",
+    "answers": [
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub występował w Ekstraklasie pod nazwą Hoop-Polonia?",
+    "answers": [
+      "Polonia Warszawa",
+      "Polonia Bytom",
+      "Ruch Chorzów",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W którym roku Live Park rozpoczął wyłączną produkcję sygnału ze wszystkich meczów Ekstraklasy?",
+    "answers": [
+      "2011",
+      "2005",
+      "2015",
+      "2008"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-R10-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który polski klub awansował do fazy grupowej Pucharu UEFA w sezonie 2004/05?",
+    "answers": [
+      "Amica Wronki",
+      "Dyskobolia Grodzisk Wielkopolski",
+      "Śląsk Wrocław",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
