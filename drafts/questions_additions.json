@@ -22366,5 +22366,165 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/aktualnosci/rewolucja-na-miare-nowoczesnej-europy-20-lat-rozwoju-infrastruktury-pilkarskiej-w-polsce/"
+  },
+  {
+    "id": "SPORT-N20261123-13-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto został mistrzem Polski jako beniaminek po powrocie do Ekstraklasy w latach 80.?",
+    "answers": [
+      "Ruch Chorzów",
+      "Lech Poznań",
+      "ŁKS Łódź",
+      "Stal Mielec"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub był ostatnim nieprzerwanym uczestnikiem Ekstraklasy od sezonu 1927 aż do swojego pierwszego spadku?",
+    "answers": [
+      "Ruch Chorzów",
+      "Wisła Kraków",
+      "Cracovia",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub w latach 90. wprowadził do swojej nazwy człon „Hoop”?",
+    "answers": [
+      "Polonia Warszawa",
+      "Legia Warszawa",
+      "Wisła Kraków",
+      "ŁKS Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub w latach 90. występował jako Legia-Daewoo?",
+    "answers": [
+      "Legia Warszawa",
+      "Polonia Bytom",
+      "Górnik Zabrze",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto finansowo wspierał Wisłę Kraków w okresie jej sukcesów na przełomie wieków?",
+    "answers": [
+      "Bogusław Cupiał",
+      "Antoni Ptak",
+      "Andrzej Grajewski",
+      "Janusz Romanowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z którym klubem związany był w latach 90. biznesmen Antoni Ptak?",
+    "answers": [
+      "ŁKS Łódź",
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-022",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który polski piłkarz dojrzewał w Ekstraklasie w latach 2001–2010, zanim stał się gwiazdą światowego futbolu?",
+    "answers": [
+      "Robert Lewandowski",
+      "Arkadiusz Milik",
+      "Wojciech Szczęsny",
+      "Jakub Kiwior"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-024",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Która firma od lipca 2011 roku produkuje sygnał telewizyjny z meczów Ekstraklasy?",
+    "answers": [
+      "Live Park",
+      "TVP Sport",
+      "Polsat Sport",
+      "Eleven Sports"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-029",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście odbywały się igrzyska, na których Polska zdobyła srebro w piłce nożnej w 1992 roku?",
+    "answers": [
+      "Barcelona",
+      "Atlanta",
+      "Seul",
+      "Sydney"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-13-030",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Legii Warszawa był drugi w klasyfikacji strzelców igrzysk 1992?",
+    "answers": [
+      "Wojciech Kowalczyk",
+      "Kazimierz Deyna",
+      "Robert Gadocha",
+      "Lucjan Brychczy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
