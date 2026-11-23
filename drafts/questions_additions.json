@@ -22750,5 +22750,245 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który bramkarz był jedną z największych gwiazd Ekstraklasy lat 60. według oficjalnej historii ligi?",
+    "answers": [
+      "Edward Szymkowiak",
+      "Józef Młynarczyk",
+      "Artur Boruc",
+      "Łukasz Fabiański"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który obrońca został wskazany w historii Ekstraklasy jako wzór gry defensywnej w latach 60.?",
+    "answers": [
+      "Stanisław Oślizło",
+      "Jakub Wawrzyniak",
+      "Kamil Glik",
+      "Michał Żewłakow"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz z zagranicy, król strzelców mundialu, występował w polskiej lidze w latach 90.?",
+    "answers": [
+      "Oleg Salenko",
+      "Davor Šuker",
+      "Gary Lineker",
+      "Paolo Rossi"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który wicemistrz Europy występował w Ekstraklasie w latach 90.?",
+    "answers": [
+      "Anatolij Demjanienko",
+      "Luka Modrić",
+      "Ivan Rakitić",
+      "Andrij Szewczenko"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zdobywca Pucharu Zdobywców Pucharów grał w polskiej lidze w latach 90.?",
+    "answers": [
+      "Ulrich Borowka",
+      "Miroslav Klose",
+      "Toni Kroos",
+      "Thomas Müller"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub wygrał mistrzostwo Polski jako beniaminek po powrocie z pierwszego spadku w latach 80.?",
+    "answers": [
+      "Ruch Chorzów",
+      "ŁKS Łódź",
+      "Stal Mielec",
+      "Odra Opole"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wyeliminował Juventus w Pucharze UEFA na początku lat 80.?",
+    "answers": [
+      "Widzew Łódź",
+      "Górnik Zabrze",
+      "Śląsk Wrocław",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub w latach 70. doprowadził serię kolejnych sezonów na podium Ekstraklasy do 16?",
+    "answers": [
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Ruch Chorzów",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który piłkarz jako pierwszy rozegrał ponad 100 spotkań Ekstraklasy w trzech różnych klubach?",
+    "answers": [
+      "Łukasz Surma",
+      "Marcin Malinowski",
+      "Marek Chojnacki",
+      "Łukasz Trałka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123B-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik w zestawieniu Ekstraklasy z lipca 2026 zajmował czwarte miejsce pod względem liczby meczów?",
+    "answers": [
+      "Arkadiusz Głowacki",
+      "Łukasz Surma",
+      "Łukasz Trałka",
+      "Marcin Malinowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123B-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który piłkarz według zestawienia Ekstraklasy z lipca 2026 rozegrał 431 meczów w lidze?",
+    "answers": [
+      "Łukasz Trałka",
+      "Łukasz Surma",
+      "Marek Chojnacki",
+      "Marcin Malinowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123B-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakim klubem Arkadiusz Głowacki zdobywał wielokrotnie mistrzostwo Polski?",
+    "answers": [
+      "Wisła Kraków",
+      "Lechia Gdańsk",
+      "Widzew Łódź",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123B-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku Ekstraklasa SA przejęła prowadzenie rozgrywek najwyższej ligi?",
+    "answers": [
+      "2005",
+      "1995",
+      "2011",
+      "2015"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub grał w fazie grupowej Pucharu UEFA w pierwszej dekadzie XXI wieku?",
+    "answers": [
+      "Amica Wronki",
+      "Odra Wodzisław Śląski",
+      "Polonia Bytom",
+      "GKS Katowice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123B-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub był finalistą Pucharu Rappana w edycji poprzedzającej triumf w 1965 roku?",
+    "answers": [
+      "Polonia Bytom",
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
