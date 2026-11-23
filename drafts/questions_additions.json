@@ -20772,7 +20772,7 @@
     "region": "Polska",
     "sport": "Piłka nożna",
     "difficulty": "Normalny",
-    "question": "Który klub zakończył lata 70. XX wieku swoim pierwszym mistrzostwem Polski?",
+    "question": "Który klub zdobył swoje pierwsze mistrzostwo Polski w 1980 roku?",
     "answers": [
       "Szombierki Bytom",
       "GKS Katowice",
@@ -20970,22 +20970,6 @@
       "FC Porto",
       "Olympique Marsylia",
       "Celtic Glasgow"
-    ],
-    "correctIndex": 0,
-    "status": "zweryfikowano_zrodlo_2026-11-23",
-    "source": "https://ekstraklasa.org/100-lecie/historia/"
-  },
-  {
-    "id": "SPORT-N20261123-736",
-    "region": "Polska",
-    "sport": "Piłka nożna",
-    "difficulty": "Łatwy",
-    "question": "Jak nazywa się spółka córka Ekstraklasy produkująca transmisje telewizyjne meczów ligowych?",
-    "answers": [
-      "Live Park",
-      "Ekstraklasa Media",
-      "PZPN TV",
-      "Canal Sport Polska"
     ],
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
