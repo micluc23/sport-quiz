@@ -19198,5 +19198,309 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-02-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto strzelił pierwszego gola w meczu otwierającym erę rozgrywek prowadzonych przez Ekstraklasę SA 18 listopada 2005 roku?",
+    "answers": [
+      "Dawid Janczyk",
+      "Piotr Włodarczyk",
+      "Jacek Wiśniewski",
+      "Kamil Król"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "GS-EK-20261123-02-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jakim wynikiem zakończył się mecz Legia Warszawa – Górnik Zabrze 18 listopada 2005 roku?",
+    "answers": [
+      "3:2",
+      "2:1",
+      "1:1",
+      "4:0"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "GS-EK-20261123-02-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z kim Legia Warszawa rozegrała pierwszy mecz ligowy po przejęciu rozgrywek przez Ekstraklasę SA?",
+    "answers": [
+      "Górnikiem Zabrze",
+      "Wisłą Kraków",
+      "Lechem Poznań",
+      "Ruchem Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "GS-EK-20261123-02-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub wygrał jedyny wyjazdowy mecz w kolejce rozpoczynającej erę Ekstraklasy SA w listopadzie 2005 roku?",
+    "answers": [
+      "Korona Kielce",
+      "GKS Bełchatów",
+      "Legia Warszawa",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/wideo-rocznica-pierwszego-meczu-w-historii-ekstraklasy-sa/"
+  },
+  {
+    "id": "GS-EK-20261123-02-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto zajmuje pierwsze miejsce w historycznej klasyfikacji liczby występów w Ekstraklasie według zestawienia z lipca 2026 roku?",
+    "answers": [
+      "Łukasz Surma",
+      "Marcin Malinowski",
+      "Marek Chojnacki",
+      "Arkadiusz Głowacki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "GS-EK-20261123-02-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile występów w Ekstraklasie zaliczono Łukaszowi Surmie w historycznym zestawieniu opublikowanym w lipcu 2026 roku?",
+    "answers": [
+      "559",
+      "458",
+      "435",
+      "431"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "GS-EK-20261123-02-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik zajmuje drugie miejsce w klasyfikacji występów w Ekstraklasie według zestawienia z lipca 2026 roku?",
+    "answers": [
+      "Marcin Malinowski",
+      "Łukasz Trałka",
+      "Marek Chojnacki",
+      "Arkadiusz Głowacki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "GS-EK-20261123-02-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz z czołówki historycznej klasyfikacji występów w Ekstraklasie całą karierę ligową spędził w ŁKS-ie Łódź?",
+    "answers": [
+      "Marek Chojnacki",
+      "Łukasz Surma",
+      "Marcin Malinowski",
+      "Łukasz Trałka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "GS-EK-20261123-02-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Z jakim klubem Łukasz Surma zdobył mistrzostwo Polski w sezonie 2005/2006?",
+    "answers": [
+      "Legia Warszawa",
+      "Ruch Chorzów",
+      "Wisła Kraków",
+      "Lechia Gdańsk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "GS-EK-20261123-02-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto był trenerem Górnika Zabrze, gdy klub zdobył wicemistrzostwo Polski w sezonie 2025/2026?",
+    "answers": [
+      "Michal Gašparík",
+      "Jan Urban",
+      "Adam Nawałka",
+      "Marcin Brosz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/gornik-zabrze-wicemistrzem-polski-2025-2026/"
+  },
+  {
+    "id": "GS-EK-20261123-02-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Którego rywala Górnik Zabrze pokonał 6:2 w ostatniej kolejce sezonu 2025/2026?",
+    "answers": [
+      "Radomiaka Radom",
+      "Piasta Gliwice",
+      "Koronę Kielce",
+      "Cracovię"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/gornik-zabrze-wicemistrzem-polski-2025-2026/"
+  },
+  {
+    "id": "GS-EK-20261123-02-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz Górnika Zabrze ustanowił w maju 2026 roku rekord wieku zawodnika z pola występującego w Ekstraklasie?",
+    "answers": [
+      "Lukas Podolski",
+      "Erik Janža",
+      "Damian Rasak",
+      "Paweł Olkowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/gornik-zabrze-wicemistrzem-polski-2025-2026/"
+  },
+  {
+    "id": "GS-EK-20261123-02-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto był pierwszym zagranicznym trenerem, który zdobył mistrzostwo Polski z Lechem Poznań?",
+    "answers": [
+      "Niels Frederiksen",
+      "Nenad Bjelica",
+      "José Mari Bakero",
+      "Mariusz Rumak"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/aktualnosci,119,dwunasty-zagraniczny-pierwszy-z-mistrzostwem,45827.html"
+  },
+  {
+    "id": "GS-EK-20261123-02-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który trener poprowadził Lecha Poznań do mistrzostw Polski w 2015 i 2022 roku?",
+    "answers": [
+      "Maciej Skorża",
+      "Jacek Zieliński",
+      "Henryk Apostel",
+      "Wojciech Łazarek"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/aktualnosci,119,dwunasty-zagraniczny-pierwszy-z-mistrzostwem,45827.html"
+  },
+  {
+    "id": "GS-EK-20261123-02-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który szkoleniowiec Lecha Poznań zdobył z nim mistrzostwo Polski w 1992 roku?",
+    "answers": [
+      "Henryk Apostel",
+      "Jerzy Kopa",
+      "Roman Jakóbczak",
+      "Wojciech Łazarek"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://www.lechpoznan.pl/aktualnosci,119,dwunasty-zagraniczny-pierwszy-z-mistrzostwem,45827.html"
+  },
+  {
+    "id": "GS-EK-20261123-02-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile razy Lucjan Brychczy został królem strzelców najwyższej polskiej ligi?",
+    "answers": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://legia.com/articles/historia-ostatni-mecz-mistrza-z-elka-na-piersi"
+  },
+  {
+    "id": "GS-EK-20261123-02-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W którym roku Lucjan Brychczy po raz pierwszy został trenerem Legii Warszawa?",
+    "answers": [
+      "1972",
+      "1969",
+      "1975",
+      "1980"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://legia.com/articles/historia-ostatni-mecz-mistrza-z-elka-na-piersi"
+  },
+  {
+    "id": "GS-EK-20261123-02-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który klub wystąpił jako pierwszy polski przedstawiciel w Pucharze Europejskich Mistrzów Klubowych?",
+    "answers": [
+      "Gwardia Warszawa",
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-02-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku po II wojnie światowej wznowiono w Polsce ligowy system wyłaniania mistrza kraju?",
+    "answers": [
+      "1948",
+      "1945",
+      "1946",
+      "1950"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
