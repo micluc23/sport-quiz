@@ -20750,5 +20750,261 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-722",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub zdobył w Stanach Zjednoczonych Puchar Ameryki i Interligę w latach 60.?",
+    "answers": [
+      "Polonia Bytom",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-723",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zakończył lata 70. XX wieku swoim pierwszym mistrzostwem Polski?",
+    "answers": [
+      "Szombierki Bytom",
+      "GKS Katowice",
+      "Pogoń Szczecin",
+      "Zagłębie Sosnowiec"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-724",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wywalczył niespodziewanie mistrzostwo Polski na początku lat 90. XX wieku?",
+    "answers": [
+      "Zagłębie Lubin",
+      "Odra Wodzisław",
+      "GKS Bełchatów",
+      "Stomil Olsztyn"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-725",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub był związany z przedsiębiorcą Bogusławem Cupiałem w latach 90.?",
+    "answers": [
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Górnik Zabrze",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-726",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub piłkarski przejął w latach 90. Antoni Ptak?",
+    "answers": [
+      "ŁKS Łódź",
+      "Widzew Łódź",
+      "Polonia Warszawa",
+      "GKS Katowice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-727",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który przedsiębiorca wspierał Legię Warszawa, a następnie Polonię Warszawa w latach 90.?",
+    "answers": [
+      "Janusz Romanowski",
+      "Bogusław Cupiał",
+      "Antoni Ptak",
+      "Andrzej Pawelec"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-728",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Pod jaką nazwą występowała w latach 90. Polonia Warszawa w związku z umową sponsorską?",
+    "answers": [
+      "Hoop-Polonia Warszawa",
+      "Polonia-Daewoo Warszawa",
+      "Gwardia-Polonia Warszawa",
+      "Polonia-Amica Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-729",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub Ekstraklasy z lat 90. występował pod nazwą Lechia/Olimpia Gdańsk?",
+    "answers": [
+      "Lechia Gdańsk",
+      "Arka Gdynia",
+      "Pogoń Szczecin",
+      "Bałtyk Gdynia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-730",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który piłkarz, wicemistrz Europy, występował w polskiej lidze w latach 90. XX wieku?",
+    "answers": [
+      "Anatolij Demjanienko",
+      "Luka Modrić",
+      "Andrij Szewczenko",
+      "Ivan Rakitić"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-731",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W którym roku Wisła Kraków pokonała FC Barcelonę w europejskich pucharach po golu Clebera?",
+    "answers": [
+      "2008",
+      "2002",
+      "2005",
+      "2010"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-732",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub polskiej ligi wystąpił w fazie grupowej Pucharu UEFA w pierwszej dekadzie XXI wieku?",
+    "answers": [
+      "Amica Wronki",
+      "Odra Wodzisław",
+      "Stomil Olsztyn",
+      "Ruch Radzionków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-733",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz dojrzewał do wielkiej kariery w Ekstraklasie pod koniec pierwszej dekady XXI wieku?",
+    "answers": [
+      "Robert Lewandowski",
+      "Arkadiusz Milik",
+      "Piotr Zieliński",
+      "Kamil Glik"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-734",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Która polska drużyna dotarła do finału Pucharu Intertoto w latach 90. XX wieku?",
+    "answers": [
+      "Ruch Chorzów",
+      "Wisła Kraków",
+      "Górnik Zabrze",
+      "Zagłębie Lubin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-735",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub wyeliminowała Legia Warszawa w drodze do półfinału Pucharu Zdobywców Pucharów w 1991 roku?",
+    "answers": [
+      "Sampdoria Genua",
+      "FC Porto",
+      "Olympique Marsylia",
+      "Celtic Glasgow"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-736",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się spółka córka Ekstraklasy produkująca transmisje telewizyjne meczów ligowych?",
+    "answers": [
+      "Live Park",
+      "Ekstraklasa Media",
+      "PZPN TV",
+      "Canal Sport Polska"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-737",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub w latach 90. wspierali przedsiębiorcy Andrzej Pawelec i Andrzej Grajewski?",
+    "answers": [
+      "Widzew Łódź",
+      "ŁKS Łódź",
+      "Legia Warszawa",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
