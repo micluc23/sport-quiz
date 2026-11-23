@@ -22526,5 +22526,229 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który angielski klub został wyeliminowany przez Widzew Łódź w drodze do półfinału PEMK w 1983 roku?",
+    "answers": [
+      "Liverpool FC",
+      "Arsenal FC",
+      "Chelsea FC",
+      "Everton FC"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który niemiecki klub został wyeliminowany przez Dyskobolię Grodzisk Wielkopolski w Pucharze UEFA?",
+    "answers": [
+      "Hertha Berlin",
+      "Bayern Monachium",
+      "Borussia Dortmund",
+      "Werder Brema"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który polski klub wywalczył Puchar Ameryki podczas występów w USA w latach 60.?",
+    "answers": [
+      "Polonia Bytom",
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub zagrał w ćwierćfinale Pucharu UEFA w 1974 roku?",
+    "answers": [
+      "Ruch Chorzów",
+      "GKS Katowice",
+      "Górnik Zabrze",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zdobył mistrzostwo Polski w sezonie 1995/96 bez ani jednej porażki?",
+    "answers": [
+      "Widzew Łódź",
+      "Legia Warszawa",
+      "Wisła Kraków",
+      "ŁKS Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile kolejnych zwycięstw ligowych zanotował rekordowo Widzew Łódź w sezonie 1996/97?",
+    "answers": [
+      "13",
+      "10",
+      "11",
+      "15"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub był mistrzem Polski na początku lat 90., zanim nastąpiły dublety Lecha, Legii i Widzewa?",
+    "answers": [
+      "Zagłębie Lubin",
+      "GKS Katowice",
+      "Ruch Chorzów",
+      "Stal Mielec"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub z Warszawy grał w półfinale Pucharu Zdobywców Pucharów na początku lat 90.?",
+    "answers": [
+      "Legia Warszawa",
+      "Polonia Warszawa",
+      "Gwardia Warszawa",
+      "Hutnik Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który włoski klub był rywalem Legii w drodze do półfinału Pucharu Zdobywców Pucharów w 1991 roku?",
+    "answers": [
+      "Sampdoria",
+      "Juventus",
+      "Fiorentina",
+      "Atalanta"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który polski klub był znany jako Ogniwo w okresie stalinowskim?",
+    "answers": [
+      "Cracovia",
+      "Wisła Kraków",
+      "Ruch Chorzów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który polski klub występował jako Gwardia w okresie stalinowskim?",
+    "answers": [
+      "Wisła Kraków",
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "ŁKS Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku ruszyła ponownie nieprzerwana rywalizacja ligowa po II wojnie światowej?",
+    "answers": [
+      "1948",
+      "1945",
+      "1946",
+      "1950"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku po raz pierwszy transmitowano w telewizji mecz najwyższej polskiej ligi?",
+    "answers": [
+      "1957",
+      "1948",
+      "1962",
+      "1970"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-14B-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku odbył się pierwszy mecz najwyższej ligi pod zarządem Ekstraklasy SA?",
+    "answers": [
+      "2005",
+      "1999",
+      "2001",
+      "2010"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
