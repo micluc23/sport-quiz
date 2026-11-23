@@ -20078,5 +20078,341 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "SPORT-N20261123-05-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który sezon Ekstraklasy był setną edycją piłkarskich mistrzostw Polski?",
+    "answers": [
+      "2025/2026",
+      "2023/2024",
+      "2024/2025",
+      "2026/2027"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ile drużyn występowało w Ekstraklasie w sezonie 2025/2026?",
+    "answers": [
+      "18",
+      "16",
+      "20",
+      "14"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Ile kolejek liczył sezon Ekstraklasy 2025/2026?",
+    "answers": [
+      "34",
+      "30",
+      "32",
+      "37"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile maksymalnie punktów mógł zdobyć klub w sezonie Ekstraklasy 2025/2026?",
+    "answers": [
+      "102",
+      "96",
+      "99",
+      "108"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub otwierał tabelę wszech czasów Ekstraklasy przed sezonem 2025/2026?",
+    "answers": [
+      "Legia Warszawa",
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zajmował drugie miejsce w tabeli wszech czasów Ekstraklasy przed sezonem 2025/2026?",
+    "answers": [
+      "Wisła Kraków",
+      "Ruch Chorzów",
+      "Górnik Zabrze",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile punktów miała Legia Warszawa w tabeli wszech czasów przed sezonem Ekstraklasy 2025/2026?",
+    "answers": [
+      "3595",
+      "3495",
+      "3695",
+      "3295"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Ile meczów w Ekstraklasie rozegrała Legia Warszawa do początku sezonu 2025/2026?",
+    "answers": [
+      "2468",
+      "2368",
+      "2568",
+      "2268"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W którym roku po raz pierwszy nie rozegrano mistrzostw Polski z powodu igrzysk olimpijskich?",
+    "answers": [
+      "1924",
+      "1928",
+      "1932",
+      "1920"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W którym roku tytuł mistrza Polski przyznano zdobywcy Pucharu Polski zamiast zwycięzcy ligi?",
+    "answers": [
+      "1951",
+      "1950",
+      "1952",
+      "1949"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/aktualnosci/setny-boj-o-tytul-start-sezonu-2025-2026-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261123-05-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto był rekordzistą Ekstraklasy pod względem występów dla jednego klubu według zestawienia z lipca 2026?",
+    "answers": [
+      "Marek Chojnacki",
+      "Łukasz Surma",
+      "Łukasz Trałka",
+      "Marcin Malinowski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-dla-jednego-klubu-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W jakim klubie Marek Chojnacki rozegrał wszystkie swoje mecze w Ekstraklasie?",
+    "answers": [
+      "ŁKS Łódź",
+      "Widzew Łódź",
+      "Ruch Chorzów",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-dla-jednego-klubu-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile meczów w Ekstraklasie dla ŁKS-u Łódź rozegrał Marek Chojnacki?",
+    "answers": [
+      "452",
+      "435",
+      "458",
+      "431"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-dla-jednego-klubu-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz zajmował drugie miejsce w klasyfikacji występów Ekstraklasy według zestawienia z lipca 2026?",
+    "answers": [
+      "Marcin Malinowski",
+      "Marek Chojnacki",
+      "Arkadiusz Głowacki",
+      "Łukasz Trałka"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile występów w Ekstraklasie zaliczono Marcinowi Malinowskiemu w zestawieniu z lipca 2026?",
+    "answers": [
+      "458",
+      "452",
+      "435",
+      "431"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub reprezentował Łukasz Surma podczas zdobycia mistrzostwa Polski w sezonie 2005/2006?",
+    "answers": [
+      "Legia Warszawa",
+      "Lechia Gdańsk",
+      "Ruch Chorzów",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-021",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jaki klub zdobył wicemistrzostwo Polski z Marcinem Malinowskim w składzie?",
+    "answers": [
+      "Ruch Chorzów",
+      "Odra Wodzisław Śląski",
+      "ŁKS Łódź",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-022",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz z czołowej piątki występów w Ekstraklasie był wielokrotnym mistrzem Polski z Wisłą Kraków?",
+    "answers": [
+      "Arkadiusz Głowacki",
+      "Łukasz Trałka",
+      "Marcin Malinowski",
+      "Marek Chojnacki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-023",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem Łukasz Trałka zdobył mistrzostwo Polski?",
+    "answers": [
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Wisła Kraków",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/100latesa-zawodnicy-z-najwieksza-liczba-wystepow-w-ekstraklasie/"
+  },
+  {
+    "id": "SPORT-N20261123-05-024",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jak nazywa się oficjalna piłka jubileuszowego sezonu Ekstraklasy 2026/2027?",
+    "answers": [
+      "Ekstraklasa PRO",
+      "Ekstraklasa Elite",
+      "Ekstraklasa Match",
+      "Ekstraklasa 100"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/ekstraklasa-rozpoczyna-obchody-stulecia-rozgrywek-ligowych-nowe-logo-pilka-ekstraklasa-pro-i-jubileuszowe-trofeum-mistrza-polski-zaprezentowane-przed-sezonem-2026-27/"
+  },
+  {
+    "id": "SPORT-N20261123-05-025",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Na jaki dzień zaplanowano kulminację obchodów stulecia pierwszej kolejki ligi?",
+    "answers": [
+      "3 kwietnia 2027",
+      "18 lipca 2027",
+      "3 maja 2027",
+      "18 listopada 2027"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/aktualnosci/ekstraklasa-rozpoczyna-obchody-stulecia-rozgrywek-ligowych-nowe-logo-pilka-ekstraklasa-pro-i-jubileuszowe-trofeum-mistrza-polski-zaprezentowane-przed-sezonem-2026-27/"
   }
 ]
