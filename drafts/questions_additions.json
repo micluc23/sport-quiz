@@ -19758,5 +19758,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-23",
     "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Jaka była najniższa granica średniej goli na mecz, poniżej której nie spadła polska liga w latach 1927–1939?",
+    "answers": [
+      "3,6",
+      "2,5",
+      "3,0",
+      "4,5"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub ze Lwowa występował w polskiej lidze przed II wojną światową?",
+    "answers": [
+      "Pogoń Lwów",
+      "Śmigły Wilno",
+      "Warta Poznań",
+      "Garbarnia Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z jakiego miasta pochodził przedwojenny ligowy klub Śmigły?",
+    "answers": [
+      "Wilno",
+      "Lwów",
+      "Kraków",
+      "Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Pod jaką nazwą występowała Legia Warszawa w okresie stalinowskich zmian nazw klubów?",
+    "answers": [
+      "CWKS",
+      "Gwardia",
+      "Ogniwo",
+      "Unia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "W których dwóch latach reprezentacja Polski złożona z ligowców uczestniczyła w igrzyskach olimpijskich w dekadzie 1948–1960?",
+    "answers": [
+      "1952 i 1960",
+      "1948 i 1956",
+      "1952 i 1956",
+      "1956 i 1960"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który bramkarz był gwiazdą polskiej ligi w latach sześćdziesiątych XX wieku według historii Ekstraklasy?",
+    "answers": [
+      "Edward Szymkowiak",
+      "Józef Młynarczyk",
+      "Jan Tomaszewski",
+      "Wojciech Szczęsny"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który obrońca został wyróżniony w historii Ekstraklasy jako wzór gry defensywnej lat sześćdziesiątych?",
+    "answers": [
+      "Stanisław Oślizło",
+      "Antoni Szymanowski",
+      "Władysław Żmuda",
+      "Łukasz Piszczek"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył mistrzostwo Polski w piłce nożnej w 1962 roku?",
+    "answers": [
+      "Polonia Bytom",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zdobył mistrzostwo Polski w piłce nożnej w 1968 roku?",
+    "answers": [
+      "Ruch Chorzów",
+      "Polonia Bytom",
+      "Legia Warszawa",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wywalczył mistrzostwo Polski w 1969 i 1970 roku?",
+    "answers": [
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Ruch Chorzów",
+      "Polonia Bytom"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub dotarł do ćwierćfinału Pucharu Europy Mistrzów Klubowych w 1975 roku?",
+    "answers": [
+      "Ruch Chorzów",
+      "Legia Warszawa",
+      "Górnik Zabrze",
+      "Stal Mielec"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub dotarł do ćwierćfinału Pucharu Europy Mistrzów Klubowych w 1979 roku?",
+    "answers": [
+      "Wisła Kraków",
+      "Śląsk Wrocław",
+      "Lech Poznań",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który polski klub zagrał w ćwierćfinale Pucharu Zdobywców Pucharów w 1977 roku?",
+    "answers": [
+      "Śląsk Wrocław",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Ekspert",
+    "question": "Który polski klub dotarł do ćwierćfinału Pucharu UEFA w 1976 roku?",
+    "answers": [
+      "Stal Mielec",
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Polonia Bytom"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Legii Warszawa był drugim najlepszym strzelcem turnieju olimpijskiego w Barcelonie w 1992 roku?",
+    "answers": [
+      "Wojciech Kowalczyk",
+      "Andrzej Juskowiak",
+      "Roman Kosecki",
+      "Kazimierz Deyna"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który warszawski klub występował w latach dziewięćdziesiątych pod nazwą Legia-Daewoo?",
+    "answers": [
+      "Legia Warszawa",
+      "Polonia Warszawa",
+      "Gwardia Warszawa",
+      "Hutnik Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub Ekstraklasy był w latach dziewięćdziesiątych transmitowany przez TVN w związku ze sponsoringiem stacji?",
+    "answers": [
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Widzew Łódź",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku piłkarze z polskiej Ekstraklasy zadebiutowali na mistrzostwach Europy?",
+    "answers": [
+      "2008",
+      "2004",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile razy Legia Warszawa kończyła sezon na podium Ekstraklasy w latach 2011–2020?",
+    "answers": [
+      "10",
+      "8",
+      "6",
+      "9"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
+  },
+  {
+    "id": "GS-EK-20261123-04-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Na który sezon przypada jubileusz stulecia rozgrywek ligowych w Polsce według Ekstraklasy?",
+    "answers": [
+      "2026/2027",
+      "2025/2026",
+      "2027/2028",
+      "2024/2025"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-23",
+    "source": "https://ekstraklasa.org/100-lecie/historia/"
   }
 ]
