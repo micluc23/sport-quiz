@@ -25982,5 +25982,325 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-24",
     "source": "https://ekstraklasa.org/aktualnosci/derby-dla-wisly-twierdza-wciaz-niezdobyta-podsumowanie-14-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub jako pierwszy zapewnił sobie utrzymanie w Ekstraklasie 2025/26, po 29. kolejce?",
+    "answers": [
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Raków Częstochowa",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto pokonał Motor Lublin 3:2 w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Piast Gliwice",
+      "GKS Katowice",
+      "Korona Kielce",
+      "Arka Gdynia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zespół pokonał Widzew Łódź 2:1 w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Wisła Płock",
+      "Lechia Gdańsk",
+      "Radomiak Radom",
+      "Cracovia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z kim Górnik Zabrze wygrał 1:0 w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Motor Lublin",
+      "Legia Warszawa",
+      "Pogoń Szczecin",
+      "Korona Kielce"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wygrał 3:1 na wyjeździe z Termaliką w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Wisła Płock",
+      "Wisła Kraków",
+      "Widzew Łódź",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto pokonał Cracovię 4:1 w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Lech Poznań",
+      "Raków Częstochowa",
+      "GKS Katowice",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem Jagiellonia wygrała 3:0 na wyjeździe w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Lechia Gdańsk",
+      "Pogoń Szczecin",
+      "Arka Gdynia",
+      "Motor Lublin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakim zespołem Piast Gliwice zremisował 1:1 w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Cracovia",
+      "Radomiak Radom",
+      "Wisła Płock",
+      "Lechia Gdańsk"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub rozegrał swój 600. mecz w Ekstraklasie w kwietniu 2026 roku, przeciwko Górnikowi Zabrze?",
+    "answers": [
+      "Korona Kielce",
+      "Piast Gliwice",
+      "Motor Lublin",
+      "Arka Gdynia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik w kwietniu 2026 roku przekroczył rekord liczby bramek obcokrajowca w Ekstraklasie, zdobywając gole numer 109 i 110?",
+    "answers": [
+      "Mikael Ishak",
+      "Jesus Imaz",
+      "Flávio Paixão",
+      "Afimico Pululu"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Czyja seria 93 pełnych meczów ligowych zakończyła się w spotkaniu Pogoni z Lechem w kwietniu 2026?",
+    "answers": [
+      "Valentin Cojocaru",
+      "Sławomir Abramowicz",
+      "Bartosz Mrozek",
+      "Oliwier Zych"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który trener Rakowa po raz pierwszy w swojej kadencji wygrał mecz mimo straty gola w spotkaniu z Cracovią w kwietniu 2026?",
+    "answers": [
+      "Marek Papszun",
+      "Dawid Szwarga",
+      "Leszek Ojrzyński",
+      "Łukasz Tomczyk"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub jako pierwszy osiągnął dziesięć zwycięstw domowych w sezonie Ekstraklasy 2025/26?",
+    "answers": [
+      "Górnik Zabrze",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz GKS Katowice do 29. kolejki sezonu 2025/26 zdobywał bramki w trzech meczach Ekstraklasy, za każdym razem po dwie?",
+    "answers": [
+      "Bartosz Nowak",
+      "Eman Marković",
+      "Adam Zreľák",
+      "Alan Czerwiński"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto w 29. kolejce Ekstraklasy 2025/26 wykonał najwięcej podań (89)?",
+    "answers": [
+      "Patrik Hellebrand",
+      "Bartosz Nowak",
+      "Bogdan Racovitan",
+      "Juergen Elitim"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który bramkarz obronił dziewięć strzałów w 29. kolejce Ekstraklasy 2025/26, najwięcej spośród wszystkich?",
+    "answers": [
+      "Oliwier Zych",
+      "Bartosz Mrozek",
+      "Jasmin Burić",
+      "Valentin Cojocaru"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Piasta zanotował sześć udanych dryblingów, najwięcej w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Leandro Sanca",
+      "Mikael Ishak",
+      "Luis Palma",
+      "Paul Mukairu"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto wykonał sześć kluczowych podań, najwięcej w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Bartosz Nowak",
+      "Aleksandar Ćirković",
+      "Patrik Hellebrand",
+      "Bogdan Racovitan"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zespół zakończył serię 16 spotkań bez remisu w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Widzew Łódź",
+      "Górnik Zabrze",
+      "Piast Gliwice",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R17-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub pokonał Zagłębie Lubin 1:0 w 29. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Lech Poznań",
+      "Motor Lublin",
+      "Pogoń Szczecin",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
   }
 ]
