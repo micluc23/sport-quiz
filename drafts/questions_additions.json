@@ -26942,5 +26942,277 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-24",
     "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który słowacki napastnik zdobył koronę króla strzelców Ekstraklasy w 2013 roku?",
+    "answers": [
+      "Robert Demjan",
+      "Tomas Bobcek",
+      "Erik Jirka",
+      "Ondrej Duda"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który król strzelców sezonu 2016/17 uzyskał tyle samo bramek co Marco Paixão?",
+    "answers": [
+      "Igor Angulo",
+      "Marcin Robak",
+      "Nemanja Nikolić",
+      "Tomas Pekhart"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tomas-bobcek-krolem-strzelcow-sezonu-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W barwach którego klubu Tomas Pekhart zdobył mistrzostwa Polski w 2020 i 2021 roku?",
+    "answers": [
+      "Lech Poznań",
+      "Raków Częstochowa",
+      "Legia Warszawa",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/bezkrolewie-letnie-odejscia-snajperow-w-naszej-lidze/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi napastnik Tomas Pekhart, król strzelców Ekstraklasy 2020/21?",
+    "answers": [
+      "Słowacja",
+      "Słowenia",
+      "Chorwacja",
+      "Czechy"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/bezkrolewie-letnie-odejscia-snajperow-w-naszej-lidze/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile bramek ligowych zdobył Tomas Pekhart w sezonie 2020/21, gdy został królem strzelców?",
+    "answers": [
+      "22",
+      "18",
+      "26",
+      "30"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/bezkrolewie-letnie-odejscia-snajperow-w-naszej-lidze/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym belgijskim klubie grał Karol Czubak po odejściu z Arki Gdynia?",
+    "answers": [
+      "Club Brugge",
+      "KV Kortrijk",
+      "Anderlecht",
+      "KRC Genk"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-karol-czubak-motor-lublin/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W barwach którego klubu Andrzej Szarmach został królem strzelców drugiego szczebla rozgrywek w sezonie 1971/72?",
+    "answers": [
+      "Górnik Zabrze",
+      "Stal Mielec",
+      "Arka Gdynia",
+      "Lech Poznań"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-karol-czubak-motor-lublin/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który późniejszy reprezentant Polski zdobył koronę strzelców drugiej ligi w barwach Arki w sezonie 1975/76?",
+    "answers": [
+      "Grzegorz Lato",
+      "Kazimierz Deyna",
+      "Włodzimierz Lubański",
+      "Janusz Kupcewicz"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-karol-czubak-motor-lublin/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym klubie Adrian Przyborek zdobywał bramki w trzech kolejnych sezonach Ekstraklasy od 2023/24 do 2025/26?",
+    "answers": [
+      "Pogoń Szczecin",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/trzy-sezony-z-golem-mlodziezowca/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Przeciwko któremu klubowi Adrian Przyborek zdobył bramkę w sezonie Ekstraklasy 2023/24?",
+    "answers": [
+      "Widzew Łódź",
+      "Ruch Chorzów",
+      "Stal Mielec",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/trzy-sezony-z-golem-mlodziezowca/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Przeciwko któremu klubowi Jesus Imaz zdobył setną bramkę w Ekstraklasie w sierpniu 2025 roku?",
+    "answers": [
+      "Raków Częstochowa",
+      "Legia Warszawa",
+      "Radomiak Radom",
+      "Motor Lublin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/jesus-imaz-w-klubie-100-drugi-obcokrajowiec-w-historii/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz Rakowa Częstochowa został królem strzelców Ekstraklasy w sezonie 2021/22?",
+    "answers": [
+      "Mikael Ishak",
+      "Karol Angielski",
+      "Tomas Pekhart",
+      "Ivi López"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Radomiaka był najskuteczniejszym Polakiem w Ekstraklasie w sezonie 2021/22?",
+    "answers": [
+      "Karol Angielski",
+      "Kamil Biliński",
+      "Bartosz Nowak",
+      "Patryk Makuch"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który piłkarz został królem strzelców polskiej ligi w sezonie 1999/2000?",
+    "answers": [
+      "Tomasz Frankowski",
+      "Adam Kompała",
+      "Maciej Żurawski",
+      "Marcin Mięciel"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który irański piłkarz został wybrany piłkarzem miesiąca Ekstraklasy w maju 2025 roku?",
+    "answers": [
+      "Sardar Azmoun",
+      "Mehdi Taremi",
+      "Ali Gholizadeh",
+      "Alireza Jahanbakhsh"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-ii-kwartal/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz otrzymał nagrodę młodzieżowca miesiąca Ekstraklasy w kwietniu 2025 roku?",
+    "answers": [
+      "Kacper Sezonienko",
+      "Adrian Przyborek",
+      "Dawid Drachal",
+      "Tomasz Pieńko"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-ii-kwartal/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N16-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz otrzymał nagrodę młodzieżowca miesiąca Ekstraklasy w maju 2025 roku?",
+    "answers": [
+      "Kacper Sezonienko",
+      "Tomasz Pieńko",
+      "Adrian Przyborek",
+      "Dawid Drachal"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-ii-kwartal/"
   }
 ]
