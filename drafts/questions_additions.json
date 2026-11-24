@@ -26622,5 +26622,325 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-24",
     "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-24-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub rozgrywa domowe mecze na stadionie im. Floriana Krygiera?",
+    "answers": [
+      "Pogoń Szczecin",
+      "Lechia Gdańsk",
+      "Arka Gdynia",
+      "Motor Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tour-de-stadion/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który krakowski klub korzysta ze stadionu im. Henryka Reymana?",
+    "answers": [
+      "Wieczysta Kraków",
+      "Wisła Kraków",
+      "Cracovia",
+      "Hutnik Kraków"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tour-de-stadion/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub gra na stadionie im. Piotra Wieczorka?",
+    "answers": [
+      "Ruch Chorzów",
+      "GKS Katowice",
+      "Piast Gliwice",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/bilety/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub jest gospodarzem stadionu im. Braci Czachorów?",
+    "answers": [
+      "Korona Kielce",
+      "Motor Lublin",
+      "Wisła Płock",
+      "Radomiak Radom"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/bilety/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub gra na stadionie im. Józefa Piłsudskiego w Krakowie?",
+    "answers": [
+      "Cracovia",
+      "Wisła Kraków",
+      "Hutnik Kraków",
+      "Wieczysta Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/bilety/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Przy jakiej ulicy znajduje się stadion Cracovii opisany w zestawieniu stadionów Ekstraklasy z sezonu 2016/17?",
+    "answers": [
+      "Cichej",
+      "Kałuży",
+      "Reymonta",
+      "Bułgarskiej"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tour-de-stadion/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który stadion Ekstraklasy w sezonie 2016/17 był położony najdalej na północ?",
+    "answers": [
+      "Stadion Miejski w Białymstoku",
+      "Stadion Miejski w Szczecinie",
+      "Stadion Miejski w Gdyni",
+      "Arena Lublin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tour-de-stadion/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub gościł Polonię Bytom przy Cichej w sierpniu 1957 roku przy około 55 tysiącach widzów?",
+    "answers": [
+      "Górnik Zabrze",
+      "Piast Gliwice",
+      "GKS Katowice",
+      "Ruch Chorzów"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/tour-de-stadion/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który z beniaminków sezonu 2023/24 Ekstraklasy miał rozpocząć rozgrywki wyjazdem do Legii Warszawa?",
+    "answers": [
+      "ŁKS Łódź",
+      "Ruch Chorzów",
+      "Puszcza Niepołomice",
+      "Motor Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/zestaw-par-nowego-sezonu-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym łódzkim klubem Puszcza Niepołomice miała rozegrać pierwszą kolejkę Ekstraklasy 2023/24?",
+    "answers": [
+      "UKS SMS Łódź",
+      "Widzew Łódź",
+      "ŁKS Łódź",
+      "Łódzki KS II"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/zestaw-par-nowego-sezonu-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub miał być rywalem Radomiaka na inaugurację obiektu przy ulicy Struga w sezonie 2023/24?",
+    "answers": [
+      "Lech Poznań",
+      "Korona Kielce",
+      "Cracovia",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/zestaw-par-nowego-sezonu-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym mieście Ruch Chorzów miał rozpocząć sezon 2023/24 w roli gospodarza przed przenosinami na Stadion Śląski?",
+    "answers": [
+      "Zabrze",
+      "Sosnowiec",
+      "Bytom",
+      "Gliwice"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/zestaw-par-nowego-sezonu-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jaki wynik osiągnął Ruch Chorzów w rekordowym ligowym zwycięstwie nad Widzewem w 1948 roku?",
+    "answers": [
+      "13:1",
+      "8:0",
+      "10:2",
+      "7:1"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/derby-mecz-przyjazni-wojewodzka-rywalizacja-12-kolejka-2023-2024-niedziela/"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który z bramkarzy Lechii Gdańsk pobił w sezonie 2021/22 rekord występów obcokrajowców w Ekstraklasie?",
+    "answers": [
+      "Dante Stipica",
+      "Dušan Kuciak",
+      "Matúš Putnocký",
+      "František Plach"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zagraniczny piłkarz jako pierwszy osiągnął 100 bramek w Ekstraklasie w kwietniu 2022 roku?",
+    "answers": [
+      "Carlitos",
+      "Nemanja Nikolić",
+      "Flávio Paixão",
+      "Marco Paixão"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Pogoni Szczecin dołączył w sezonie 2021/22 do Klubu 300 występów w Ekstraklasie?",
+    "answers": [
+      "Kamil Grosicki",
+      "Rafał Murawski",
+      "Adam Frączczak",
+      "Michał Kucharczyk"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Górnika Łęczna dołączył w sezonie 2021/22 do Klubu 300 występów w Ekstraklasie?",
+    "answers": [
+      "Bartosz Rymaniak",
+      "Maciej Jankowski",
+      "Rafał Janicki",
+      "Maciej Gajos"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Stali Mielec dołączył w sezonie 2021/22 do Klubu 300 występów w Ekstraklasie?",
+    "answers": [
+      "Maciej Gajos",
+      "Maciej Jankowski",
+      "Bartosz Rymaniak",
+      "Rafał Janicki"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Górnika Zabrze dołączył w sezonie 2021/22 do Klubu 300 występów w Ekstraklasie?",
+    "answers": [
+      "Maciej Jankowski",
+      "Maciej Gajos",
+      "Rafał Janicki",
+      "Bartosz Rymaniak"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
+  },
+  {
+    "id": "SPORT-EK-20261124-N12-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Lechii Gdańsk dołączył w sezonie 2021/22 do Klubu 300 występów w Ekstraklasie?",
+    "answers": [
+      "Bartosz Rymaniak",
+      "Maciej Jankowski",
+      "Rafał Janicki",
+      "Maciej Gajos"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://media.cms.ekstraklasa.org/documents/RAPORT_EKSTRAKLASA_2021_22_-_WERSJA_POLSKA.pdf"
   }
 ]
