@@ -26302,5 +26302,325 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-24",
     "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-29-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kogo Wisła Płock pokonała 1:0 w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Lechia Gdańsk",
+      "Arka Gdynia",
+      "Motor Lublin",
+      "Korona Kielce"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z kim Korona Kielce zremisowała 1:1 w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Lech Poznań",
+      "Jagiellonia Białystok",
+      "Legia Warszawa",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub Widzew Łódź pokonał 1:0 w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Radomiak Radom",
+      "Górnik Zabrze",
+      "Bruk-Bet Termalica Nieciecza",
+      "Cracovia"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto przegrał z Zagłębiem Lubin 0:1 w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Pogoń Szczecin",
+      "GKS Katowice",
+      "Wisła Płock",
+      "Radomiak Radom"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z kim Legia Warszawa podzieliła się punktami w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Górnik Zabrze",
+      "Raków Częstochowa",
+      "Lechia Gdańsk",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jaki wynik padł w meczu Cracovii z Arką Gdynia w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "0:0",
+      "2:2",
+      "1:0",
+      "3:1"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z kim Motor Lublin zremisował 1:1 w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Widzew Łódź",
+      "Pogoń Szczecin",
+      "Raków Częstochowa",
+      "Wisła Płock"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zremisował z Lechem Poznań 3:3 w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Górnik Zabrze",
+      "Jagiellonia Białystok",
+      "Legia Warszawa",
+      "GKS Katowice"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zespół jako jedyny wygrał na wyjeździe w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Pogoń Szczecin",
+      "Arka Gdynia",
+      "Raków Częstochowa",
+      "Lechia Gdańsk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile kolejnych spotkań bez porażki w Ekstraklasie miał Motor Lublin po 28. kolejce sezonu 2025/26?",
+    "answers": [
+      "4",
+      "7",
+      "9",
+      "12"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Na które miejsce w rankingu występów w Ekstraklasie dla jednego klubu awansował Taras Romanczuk po 28. kolejce sezonu 2025/26?",
+    "answers": [
+      "3.",
+      "10.",
+      "7.",
+      "12."
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile remisów odnotowano w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "2",
+      "3",
+      "7",
+      "5"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub po 28. kolejce sezonu 2025/26 miał zdobyte bramki przez co najmniej jedną ze stron we wszystkich swoich ligowych meczach?",
+    "answers": [
+      "GKS Katowice",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Motor Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-28-kolejki-2026-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jakim wynikiem Zagłębie Lubin odniosło swoje najwyższe zwycięstwo nad Radomiakiem w Ekstraklasie do 11 kwietnia 2026?",
+    "answers": [
+      "5:0",
+      "6:1",
+      "4:0",
+      "7:2"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/o-punkty-na-dole-i-na-gorze-28-kolejka-2025-2026-sobota/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Kto prowadził Zagłębie Lubin przed meczem z Radomiakiem w 28. kolejce Ekstraklasy 2025/26?",
+    "answers": [
+      "Marek Papszun",
+      "Aleksandar Vuković",
+      "Leszek Ojrzyński",
+      "Niels Frederiksen"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/o-punkty-na-dole-i-na-gorze-28-kolejka-2025-2026-sobota/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik zdobył trzy ostatnie gole Legii w jej wygranych meczach ligowych przed 28. kolejką sezonu 2025/26?",
+    "answers": [
+      "Bartosz Kapustka",
+      "Paweł Wszołek",
+      "Marc Gual",
+      "Mileta Rajović"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/o-punkty-na-dole-i-na-gorze-28-kolejka-2025-2026-sobota/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który beniaminek Ekstraklasy jako pierwszy w XXI wieku został liderem na przerwę zimową w sezonie 2025/26?",
+    "answers": [
+      "Wisła Płock",
+      "Motor Lublin",
+      "GKS Katowice",
+      "Arka Gdynia"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-zalegle-mecze-1-3-4-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub miał najwyższą średnią punktów na mecz w Ekstraklasie po zakończeniu ligowych spotkań w 2025 roku?",
+    "answers": [
+      "Wisła Płock",
+      "Jagiellonia Białystok",
+      "Górnik Zabrze",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-zalegle-mecze-1-3-4-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub objął prowadzenie w tabeli Ekstraklasy po 24. kolejce sezonu 2025/26?",
+    "answers": [
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Zagłębie Lubin",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-24-kolejki-2025-2026/"
+  },
+  {
+    "id": "SPORT-EK-20261124-R18-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub po serii 11 ligowych meczów bez porażki zanotował pięć kolejnych przegranych do 24. kolejki sezonu 2025/26?",
+    "answers": [
+      "Arka Gdynia",
+      "Korona Kielce",
+      "Radomiak Radom",
+      "Wisła Płock"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-24",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-24-kolejki-2025-2026/"
   }
 ]
