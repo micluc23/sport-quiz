@@ -28862,5 +28862,245 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/po-listopadowej-przerwie-walka-o-szczyt-i-nowe-otwarcia-15-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-19-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Przeciwko któremu klubowi Artur Jędrzejczyk rozegrał swój pierwszy mecz w Ekstraklasie?",
+    "answers": [
+      "ŁKS Łódź",
+      "Widzew Łódź",
+      "Lech Poznań",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
+  },
+  {
+    "id": "SPORT-N20261125-19-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z kim Legia grała w 34. kolejce sezonu 2024/25, gdy Artur Jędrzejczyk osiągnął 300 występów ligowych?",
+    "answers": [
+      "Górnik Zabrze",
+      "Stal Mielec",
+      "Piast Gliwice",
+      "Radomiak Radom"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
+  },
+  {
+    "id": "SPORT-N20261125-19-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który trener wprowadził Puszczę Niepołomice po raz pierwszy do Ekstraklasy w 2023 roku?",
+    "answers": [
+      "Marek Papszun",
+      "Jacek Zieliński",
+      "Tomasz Tułacz",
+      "Piotr Stokowiec"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-zwyciezca-barazy-o-awans-do-pko-bp-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-19-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kogo Puszcza Niepołomice pokonała w finale baraży o Ekstraklasę w czerwcu 2023 roku?",
+    "answers": [
+      "Wisłę Kraków",
+      "Arkę Gdynia",
+      "GKS Katowice",
+      "Bruk-Bet Termalikę Nieciecza"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-zwyciezca-barazy-o-awans-do-pko-bp-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-19-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył zwycięską bramkę dla Puszczy w finale baraży o Ekstraklasę w 2023 roku?",
+    "answers": [
+      "Konrad Stępień",
+      "Rafał Boguski",
+      "Artur Craciun",
+      "Roman Jakuba"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-zwyciezca-barazy-o-awans-do-pko-bp-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-19-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Które miejsce zajęła Puszcza Niepołomice w swoim debiutanckim sezonie Ekstraklasy 2023/24?",
+    "answers": [
+      "9.",
+      "14.",
+      "12.",
+      "16."
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-spada-z-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-19-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto był najlepszym strzelcem Puszczy Niepołomice w Ekstraklasie po zakończeniu sezonu 2024/25?",
+    "answers": [
+      "Artur Craciun",
+      "Roman Jakuba",
+      "Konrad Stępień",
+      "Rafał Boguski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-spada-z-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-19-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub reprezentował Igor Pieprzyca podczas rekordowo wczesnego debiutu w Ekstraklasie?",
+    "answers": [
+      "Stal Mielec",
+      "Cracovia",
+      "Puszcza Niepołomice",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-spada-z-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-19-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub był trzecim krakowskim zespołem w najwyższej lidze w 1953 roku obok Wisły i Cracovii?",
+    "answers": [
+      "Wawel Kraków",
+      "Hutnik Kraków",
+      "Wieczysta Kraków",
+      "Garbarnia Kraków"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/10-pytan-przed-pierwszym-gwizdkiem/"
+  },
+  {
+    "id": "SPORT-N20261125-19-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub z Poznania grał w Ekstraklasie w sezonie 1994/95 obok Lecha i Warty?",
+    "answers": [
+      "Polonia Poznań",
+      "Olimpia Poznań",
+      "Przemysław Poznań",
+      "TPS Winogrady"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/10-pytan-przed-pierwszym-gwizdkiem/"
+  },
+  {
+    "id": "SPORT-N20261125-19-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub spadł z najwyższej ligi w sezonie 1976/77 bezpośrednio po zajęciu miejsca w pierwszej dwójce poprzedniego sezonu?",
+    "answers": [
+      "Stal Mielec",
+      "Ruch Chorzów",
+      "GKS Tychy",
+      "ŁKS Łódź"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/slask-wroclaw-i-stal-mielec-spadaja-z-pko-bank-polski-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-19-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Od którego sezonu trwała nieprzerwana obecność Śląska Wrocław w Ekstraklasie zakończona spadkiem w 2025 roku?",
+    "answers": [
+      "2005/06",
+      "2010/11",
+      "2012/13",
+      "2008/09"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/slask-wroclaw-i-stal-mielec-spadaja-z-pko-bank-polski-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-19-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zajął drugie miejsce w Ekstraklasie w sezonie 2023/24, a rok później spadł z ligi?",
+    "answers": [
+      "Śląsk Wrocław",
+      "Stal Mielec",
+      "Puszcza Niepołomice",
+      "Warta Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/slask-wroclaw-i-stal-mielec-spadaja-z-pko-bank-polski-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-19-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Której świętej poświęcono specjalne koszulki Górnika Zabrze na jubileuszowy mecz ligowy w grudniu 2025 roku?",
+    "answers": [
+      "Świętej Jadwidze",
+      "Świętej Kindze",
+      "Świętej Barbarze",
+      "Świętej Annie"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/wyjatkowa-barborka-przed-nami-2000-mecz-gornika/"
+  },
+  {
+    "id": "SPORT-N20261125-19-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zajął piąte miejsce w I lidze 2022/23, a następnie awansował do Ekstraklasy przez baraże?",
+    "answers": [
+      "Wisła Kraków",
+      "Arka Gdynia",
+      "GKS Katowice",
+      "Puszcza Niepołomice"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-zwyciezca-barazy-o-awans-do-pko-bp-ekstraklasy/"
   }
 ]
