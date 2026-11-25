@@ -27214,5 +27214,325 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-24",
     "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-ii-kwartal/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Na jakiej pozycji występuje Jasmin Burić?",
+    "answers": [
+      "Bramkarz",
+      "Napastnik",
+      "Środkowy pomocnik",
+      "Skrzydłowy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem Jasmin Burić zdobył dwa mistrzostwa Polski?",
+    "answers": [
+      "Raków Częstochowa",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z jakiego kraju pochodzi Jasmin Burić?",
+    "answers": [
+      "Czechy",
+      "Albania",
+      "Bośnia i Hercegowina",
+      "Słowacja"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W jakim kraju grał Jasmin Burić po odejściu z Lecha w 2019 roku, a przed powrotem do Polski?",
+    "answers": [
+      "Grecja",
+      "Norwegia",
+      "Belgia",
+      "Izrael"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który bośniacki piłkarz zdobył mistrzostwo Polski z Legią w sezonach 2015/16 i 2016/17?",
+    "answers": [
+      "Stojan Vranješ",
+      "Semir Štilić",
+      "Gordan Bunoza",
+      "Bojan Nastić"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który bośniacki zawodnik zdobył mistrzostwo Polski z Wisłą Kraków w sezonie 2010/11?",
+    "answers": [
+      "Haris Handžić",
+      "Gordan Bunoza",
+      "Amir Spahić",
+      "Dino Hotić"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który bośniacki zawodnik zdobył mistrzostwo Polski ze Śląskiem Wrocław w sezonie 2011/12?",
+    "answers": [
+      "Bojan Nastić",
+      "Stojan Vranješ",
+      "Amir Spahić",
+      "Semir Štilić"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-jasmin-buric-kghm-zaglebie-lubin/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Na jakiej pozycji gra Rafał Leszczyński, reprezentant Polski debiutujący w 2014 roku?",
+    "answers": [
+      "Napastnik",
+      "Lewy pomocnik",
+      "Środkowy obrońca",
+      "Bramkarz"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-rafal-leszczynski-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z jakiego klubu Rafał Leszczyński został powołany na styczniowe zgrupowanie reprezentacji Polski w 2014 roku?",
+    "answers": [
+      "Dolcan Ząbki",
+      "Piast Gliwice",
+      "Śląsk Wrocław",
+      "Wisła Płock"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-rafal-leszczynski-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Przeciwko której reprezentacji Rafał Leszczyński zadebiutował w seniorskiej kadrze Polski w 2014 roku?",
+    "answers": [
+      "Finlandia",
+      "Norwegia",
+      "Mołdawia",
+      "Szwecja"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-rafal-leszczynski-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem Rafał Leszczyński wywalczył wicemistrzostwo Polski w sezonie 2023/24?",
+    "answers": [
+      "Lech Poznań",
+      "Pogoń Szczecin",
+      "Śląsk Wrocław",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-rafal-leszczynski-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem Bartosz Nowak zdobył mistrzostwo Polski w sezonie 2022/23?",
+    "answers": [
+      "GKS Katowice",
+      "Ruch Chorzów",
+      "Górnik Zabrze",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-bartosz-nowak-gks-katowice/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W barwach którego klubu Bartosz Nowak zadebiutował w Ekstraklasie w 2016 roku?",
+    "answers": [
+      "Ruch Chorzów",
+      "Górnik Zabrze",
+      "Raków Częstochowa",
+      "GKS Katowice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-bartosz-nowak-gks-katowice/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub Bartosz Nowak reprezentował bezpośrednio przed przejściem do Rakowa w 2022 roku?",
+    "answers": [
+      "Piast Gliwice",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Lech Poznań"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-bartosz-nowak-gks-katowice/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto był najskuteczniejszym strzelcem Rakowa w mistrzowskim sezonie 2022/23?",
+    "answers": [
+      "Vladan Kovačević",
+      "Kamil Piątkowski",
+      "Bartosz Nowak",
+      "Ivi López"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-bartosz-nowak-gks-katowice/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W barwach którego klubu Artur Jędrzejczyk zadebiutował w Ekstraklasie w 2006 roku?",
+    "answers": [
+      "Korona Kielce",
+      "Lech Poznań",
+      "Wisła Kraków",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub poza Legią reprezentował Artur Jędrzejczyk w Ekstraklasie do maja 2025 roku?",
+    "answers": [
+      "Korona Kielce",
+      "Górnik Zabrze",
+      "Pogoń Szczecin",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Czyje imię nadano Muzeum Legii Warszawa w styczniu 2023 roku?",
+    "answers": [
+      "Jacka Zielińskiego",
+      "Wiktora Bołby",
+      "Kazimierza Górskiego",
+      "Lucjana Brychczego"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/muzeum-legii-z-patronem/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku otwarto Muzeum Legii Warszawa z okazji 90-lecia klubu?",
+    "answers": [
+      "2016",
+      "2023",
+      "2006",
+      "1996"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/muzeum-legii-z-patronem/"
+  },
+  {
+    "id": "SPORT-N20261125-0100-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z którego klubu Taras Romanczuk przeszedł bezpośrednio do Jagiellonii Białystok?",
+    "answers": [
+      "Wisła Płock",
+      "Motor Lublin",
+      "Stal Mielec",
+      "Legionovia Legionowo"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-taras-romanczuk-jagiellonia-bialystok/"
   }
 ]
