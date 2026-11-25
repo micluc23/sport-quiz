@@ -29102,5 +29102,85 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-zwyciezca-barazy-o-awans-do-pko-bp-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-2300-1",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wrócił do Ekstraklasy w sezonie 2015/16 już po roku od spadku?",
+    "answers": [
+      "Zagłębie Lubin",
+      "Widzew Łódź",
+      "Cracovia",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/lechia-gdansk-wraca-do-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-2300-2",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Legii jako ostatni przed Arturem Jędrzejczykiem świętował jubileusz 300 występów w Ekstraklasie jako zawodnik warszawskiego klubu?",
+    "answers": [
+      "Miroslav Radović",
+      "Tomasz Kiełbowicz",
+      "Jakub Rzeźniczak",
+      "Marek Saganowski"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
+  },
+  {
+    "id": "SPORT-N20261125-2300-3",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Które dwa kluby osiągnęły granicę 2000 meczów w Ekstraklasie w sezonie 2015/16?",
+    "answers": [
+      "Lech Poznań i Legia Warszawa",
+      "Wisła Kraków i Ruch Chorzów",
+      "Górnik Zabrze i ŁKS Łódź",
+      "Pogoń Szczecin i Cracovia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/czwarty-w-klubie-2000/"
+  },
+  {
+    "id": "SPORT-N20261125-2300-4",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jaką różnicą bramek kończyły się wszystkie rozstrzygnięte mecze ostatniej kolejki Ekstraklasy 2024/25?",
+    "answers": [
+      "Dwóch",
+      "Trzech",
+      "Jednej",
+      "Czterech"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-34-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-2300-5",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile spotkań w Koronie Kielce rozegrał Artur Jędrzejczyk do chwili osiągnięcia 300 występów w Ekstraklasie?",
+    "answers": [
+      "11",
+      "21",
+      "31",
+      "41"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
   }
 ]
