@@ -27534,5 +27534,165 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-taras-romanczuk-jagiellonia-bialystok/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto prowadził Lechię Gdańsk podczas wywalczenia awansu do Ekstraklasy w maju 2024 roku?",
+    "answers": [
+      "Szymon Grabowski",
+      "John Carver",
+      "Piotr Stokowiec",
+      "Tomasz Kaczmarek"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/lechia-gdansk-wraca-do-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub jako pierwszy zapewnił sobie awans do Ekstraklasy na sezon 2024/25?",
+    "answers": [
+      "Motor Lublin",
+      "Lechia Gdańsk",
+      "GKS Katowice",
+      "Arka Gdynia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/lechia-gdansk-wraca-do-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub powrócił do Ekstraklasy w sezonie 2014/15 po zaledwie roku przerwy?",
+    "answers": [
+      "Górnik Łęczna",
+      "GKS Katowice",
+      "GKS Bełchatów",
+      "ŁKS Łódź"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/lechia-gdansk-wraca-do-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto otrzymał nagrodę Młodzieżowca Sezonu Ekstraklasy 2024/25?",
+    "answers": [
+      "Mateusz Skrzypczak",
+      "Dominik Marczuk",
+      "Bartosz Mrozek",
+      "Kacper Trelowski"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trzy-statuetki-dla-lecha-poznan-wybrano-najlepszych-w-sezonie-2024-25/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który z tych klubów zdobył komplet punktów w pierwszych dwóch kolejkach Ekstraklasy po zimowej przerwie w 2025 roku?",
+    "answers": [
+      "Piast Gliwice",
+      "Legia Warszawa",
+      "Raków Częstochowa",
+      "Lech Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-20-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub nie stracił żadnego gola w pierwszych dwóch kolejkach Ekstraklasy po zimowej przerwie w 2025 roku?",
+    "answers": [
+      "GKS Katowice",
+      "Pogoń Szczecin",
+      "Piast Gliwice",
+      "Cracovia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-20-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub pokonał Raków Częstochowa w 32. kolejce Ekstraklasy sezonu 2024/25, przyczyniając się do zmiany lidera?",
+    "answers": [
+      "Pogoń Szczecin",
+      "Legia Warszawa",
+      "Jagiellonia Białystok",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-32-kolejki-2024-25/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem Lech Poznań wygrał na wyjeździe w 32. kolejce Ekstraklasy 2024/25, odzyskując prowadzenie w tabeli?",
+    "answers": [
+      "Korona Kielce",
+      "Wisła Płock",
+      "Cracovia",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-32-kolejki-2024-25/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Ile bramek zdobył Jesus Imaz w trzech ligowych występach w sierpniu 2025 roku?",
+    "answers": [
+      "3",
+      "1",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-sierpnia-2025-jesus-imaz-jagiellonia-bialystok/"
+  },
+  {
+    "id": "SPORT-N20261125-0600-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ilu zawodników było uprawnionych do gry w Ekstraklasie po zamknięciu letniego okna transferowego w 2024 roku?",
+    "answers": [
+      "394",
+      "494",
+      "594",
+      "694"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/uzbrojeni-po-zeby-okno-transferowe-zostalo-zamkniete/"
   }
 ]
