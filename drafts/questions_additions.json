@@ -27822,5 +27822,181 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/nowy-w-top-10-rafal-janicki-wsrod-najlepszych/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto otrzymał nagrodę Trenera Miesiąca Ekstraklasy w lipcu 2025 roku?",
+    "answers": [
+      "Mariusz Misiura",
+      "Jacek Zieliński",
+      "Marek Papszun",
+      "Adrian Siemieniec"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-lipca-2025-mariusz-misiura-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto został Trenerem Miesiąca Ekstraklasy we wrześniu 2025 roku?",
+    "answers": [
+      "Dawid Szwarga",
+      "Kosta Runjaić",
+      "Jacek Zieliński",
+      "Robert Kolendowicz"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-iii-kwartal/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który szkoleniowiec Motoru Lublin został Trenerem Miesiąca Ekstraklasy w marcu 2026?",
+    "answers": [
+      "Gonçalo Feio",
+      "Maciej Skorża",
+      "Jan Urban",
+      "Mateusz Stolarski"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-maja-2026-marek-papszun-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który trener Zagłębia Lubin otrzymał wyróżnienie Trenera Miesiąca Ekstraklasy w lutym 2026?",
+    "answers": [
+      "Leszek Ojrzyński",
+      "Piotr Stokowiec",
+      "Waldemar Fornalik",
+      "Marcin Włodarski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-maja-2026-marek-papszun-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym klubie Marek Papszun zdobył nagrodę Trenera Miesiąca w maju 2026?",
+    "answers": [
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Raków Częstochowa",
+      "Lech Poznań"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-maja-2026-marek-papszun-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który szkoleniowiec Cracovii rozpoczął sezon 2025/26 od dwóch ligowych zwycięstw?",
+    "answers": [
+      "Michał Probierz",
+      "Dawid Kroczek",
+      "Luka Elsner",
+      "Jacek Zieliński"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-lipca-2025-mariusz-misiura-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto otrzymał nagrodę Trenera Miesiąca Ekstraklasy w lipcu 2022 jako szkoleniowiec Wisły Płock?",
+    "answers": [
+      "Jerzy Brzęczek",
+      "Radosław Sobolewski",
+      "Mariusz Misiura",
+      "Pavol Stano"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-lipca-2025-mariusz-misiura-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-09",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który trener beniaminka Górnika Zabrze zdobył nagrodę Trenera Miesiąca w lipcu 2017?",
+    "answers": [
+      "Marcin Brosz",
+      "Jan Urban",
+      "Adam Nawałka",
+      "Robert Warzycha"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-lipca-2025-mariusz-misiura-wisla-plock/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-10",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz Cracovii został Piłkarzem Lipca 2025 w Ekstraklasie?",
+    "answers": [
+      "Michał Rakoczy",
+      "Ajdin Hasić",
+      "Benjamin Källman",
+      "Patryk Makuch"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-iii-kwartal/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-11",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub pokonała Jagiellonia Białystok 5:2 w sierpniu 2025 w Ekstraklasie?",
+    "answers": [
+      "Radomiak Radom",
+      "Korona Kielce",
+      "Cracovia",
+      "Lechia Gdańsk"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-lipca-2025-adrian-siemieniec-jagiellonia-bialystok/"
+  },
+  {
+    "id": "SPORT-N20261125-1200-12",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto został Trenerem Miesiąca Ekstraklasy w lutym 2025 jako szkoleniowiec Pogoni Szczecin?",
+    "answers": [
+      "Jens Gustafsson",
+      "Kosta Runjaić",
+      "Maciej Stolarczyk",
+      "Robert Kolendowicz"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/trener-marca-2025-marek-papszun-rakow-czestochowa/"
   }
 ]
