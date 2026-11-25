@@ -28174,5 +28174,325 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/slask-wroclaw-i-stal-mielec-spadaja-z-pko-bank-polski-ekstraklasy-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto strzelił pierwszego gola Wieczystej Kraków w historii jej występów w Ekstraklasie?",
+    "answers": [
+      "Stefan Feiertag",
+      "Kamil Grosicki",
+      "Patryk Makuch",
+      "Rafał Wolski"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-1-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub był przeciwnikiem Wieczystej Kraków w jej debiucie w Ekstraklasie w sezonie 2026/27?",
+    "answers": [
+      "Motor Lublin",
+      "Radomiak Radom",
+      "Korona Kielce",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-1-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto skompletował pierwszego hat-tricka Ekstraklasy w sezonie 2026/27?",
+    "answers": [
+      "Angel Rodado",
+      "Karol Czubak",
+      "Tobias Christensen",
+      "Jesus Imaz"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-4-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wygrał pierwsze ekstraklasowe derby Cracovii i Wieczystej Kraków?",
+    "answers": [
+      "Wieczysta Kraków",
+      "Cracovia",
+      "Wisła Kraków",
+      "Hutnik Kraków"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-5-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zespół pokonał Wisłę Płock 5:0 w piątej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "GKS Katowice",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-5-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z kim Wieczysta Kraków odniosła pierwsze domowe zwycięstwo w Ekstraklasie?",
+    "answers": [
+      "Wisła Kraków",
+      "Korona Kielce",
+      "Wisła Płock",
+      "Motor Lublin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-10-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub jako pierwszy pokonał Legię Warszawa w Ekstraklasie w sezonie 2026/27?",
+    "answers": [
+      "Górnik Zabrze",
+      "Raków Częstochowa",
+      "Jagiellonia Białystok",
+      "Lech Poznań"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/bez-niepokonanych-podsumowanie-12-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym klubie Robert Kolendowicz zaliczył zwycięski debiut trenerski w 12. kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Korona Kielce",
+      "Pogoń Szczecin",
+      "Piast Gliwice",
+      "Motor Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/bez-niepokonanych-podsumowanie-12-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-09",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył obie bramki Rakowa Częstochowa w wygranym 2:1 meczu z Motorem Lublin w ósmej kolejce sezonu 2026/27?",
+    "answers": [
+      "Mahir Emreli",
+      "Patryk Makuch",
+      "Karol Czubak",
+      "Angel Rodado"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-8-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-10",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto strzelił oba gole Wisły Kraków w wygranym 2:0 meczu z Jagiellonią w ósmej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Jordi Sanchez",
+      "Jesus Imaz",
+      "Angel Rodado",
+      "Kamil Grosicki"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-8-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-11",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub Lech Poznań pokonał 6:1 w jedenastej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Widzew Łódź",
+      "Korona Kielce",
+      "Wisła Płock",
+      "Motor Lublin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/lech-goni-lidera-podsumowanie-11-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-12",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który bramkarz obronił rzut karny w meczu Motoru Lublin ze Śląskiem Wrocław w jedenastej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Karol Niemczycki",
+      "Xavier Dziekoński",
+      "Rafał Leszczyński",
+      "Filip Majchrowicz"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/lech-goni-lidera-podsumowanie-11-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-13",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który zawodnik Rakowa wykonał 92 podania w meczu z GKS Katowice w dziesiątej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Patryk Makuch",
+      "Mahir Emreli",
+      "Stratos Svarnas",
+      "Ajdin Hasić"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-10-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-14",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Wisły Kraków zdobywał bramkę w każdej z pierwszych trzech kolejek Ekstraklasy 2026/27?",
+    "answers": [
+      "Angel Rodado",
+      "Jordi Sanchez",
+      "Stefan Feiertag",
+      "Karol Czubak"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-3-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-15",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub wygrał 4:3 z Wisłą Kraków w drugiej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Piast Gliwice",
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-16",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub wygrał 4:1 na wyjeździe ze Śląskiem Wrocław w dziesiątej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "GKS Katowice",
+      "Lech Poznań",
+      "Cracovia",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-10-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-17",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub pokonał Motor Lublin 2:0 na wyjeździe w szóstej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Korona Kielce",
+      "Radomiak Radom",
+      "Piast Gliwice",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-6-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-18",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub Legia Warszawa pokonała 5:0 w czwartej kolejce Ekstraklasy 2026/27?",
+    "answers": [
+      "Radomiak Radom",
+      "Wisła Płock",
+      "Motor Lublin",
+      "GKS Katowice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-4-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-19",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Lecha Poznań zanotował 1500. podanie w Ekstraklasie w roku 2026 podczas meczu ze Śląskiem w dziesiątej kolejce?",
+    "answers": [
+      "Yannick Agnero",
+      "Wojciech Mońka",
+      "Pablo Rodriguez",
+      "Tobias Christensen"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-10-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-1314-20",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Które drużyny po raz pierwszy zremisowały ze sobą w historii ekstraklasowej rywalizacji w piątej kolejce sezonu 2026/27?",
+    "answers": [
+      "Legia i Lech",
+      "Cracovia i Wisła Kraków",
+      "Radomiak i Zagłębie Lubin",
+      "Motor i Raków"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-5-kolejki-20262027/"
   }
 ]
