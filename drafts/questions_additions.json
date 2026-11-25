@@ -29182,5 +29182,133 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/artur-jedrzejczyk-w-klubie-300/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który trener objął Radomiaka Radom przed inauguracją Ekstraklasy 2026/27?",
+    "answers": [
+      "Tomasz Kaczmarek",
+      "Adam Majewski",
+      "Dawid Kroczek",
+      "Bartosz Grzelak"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/debiut-wieczystej-powrot-wisly-i-hit-w-szczecinie-1-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który szkoleniowiec rozpoczął sezon 2026/27 jako trener Wisły Płock?",
+    "answers": [
+      "Dawid Kroczek",
+      "Adam Majewski",
+      "Jacek Zieliński",
+      "Tomasz Kaczmarek"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/debiut-wieczystej-powrot-wisly-i-hit-w-szczecinie-1-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto prowadził Raków Częstochowa na początku sezonu ligowego 2026/27?",
+    "answers": [
+      "Marek Papszun",
+      "Bartosz Grzelak",
+      "Dawid Kroczek",
+      "Adam Majewski"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/debiut-wieczystej-powrot-wisly-i-hit-w-szczecinie-1-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który trener wywalczył ze Śląskiem Wrocław powrót do Ekstraklasy w 2026 roku?",
+    "answers": [
+      "Piotr Stokowiec",
+      "Jacek Magiera",
+      "Jan Urban",
+      "Ante Simundza"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/debiut-wieczystej-powrot-wisly-i-hit-w-szczecinie-1-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Jak zakończyło się każde z pierwszych pięciu ligowych spotkań Cracovii pod wodzą Bartosza Grzelaka?",
+    "answers": [
+      "Zwycięstwem",
+      "Remisem",
+      "Porażką",
+      "Walkowerem"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/debiut-wieczystej-powrot-wisly-i-hit-w-szczecinie-1-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub zadebiutował w Ekstraklasie dokładnie tego samego dnia co Raków Częstochowa, 30 lipca 1994 roku?",
+    "answers": [
+      "Korona Kielce",
+      "Piast Gliwice",
+      "Wisła Płock",
+      "Motor Lublin"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/debiut-wieczystej-powrot-wisly-i-hit-w-szczecinie-1-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile klubów reprezentowali delegaci podpisujący umowę o utworzeniu Ekstraklasy S.A. w czerwcu 2005 roku?",
+    "answers": [
+      "16",
+      "18",
+      "14",
+      "12"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/historia-ekstraklasy-s-a/"
+  },
+  {
+    "id": "SPORT-EK-20261125-2359-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "W którym roku Ekstraklasa S.A. dołączyła do organizacji Europejskich Zawodowych Lig Piłkarskich (EPFL)?",
+    "answers": [
+      "2005",
+      "2007",
+      "2011",
+      "2015"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/historia-ekstraklasy-s-a/"
   }
 ]
