@@ -28494,5 +28494,325 @@
     "correctIndex": 2,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-5-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub Aleksandar Vuković objął w listopadzie 2026 roku?",
+    "answers": [
+      "Cracovia",
+      "Motor Lublin",
+      "Wisła Płock",
+      "Radomiak Radom"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zespół Jacek Zieliński poprowadził do zwycięstwa nad Motorem Lublin 23 listopada 2026 roku?",
+    "answers": [
+      "Cracovia",
+      "Piast Gliwice",
+      "Korona Kielce",
+      "Wieczysta Kraków"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto zdobył obie bramki Piasta Gliwice przeciwko Koronie Kielce w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Luis Palma",
+      "Patryk Makuch",
+      "Andreas Katsantonis",
+      "Dawid Błanik"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-004",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub odniósł pierwsze wyjazdowe zwycięstwo sezonu 2026/27 w Szczecinie w listopadzie?",
+    "answers": [
+      "Raków Częstochowa",
+      "Śląsk Wrocław",
+      "Lech Poznań",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-005",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto zdobył zwycięskiego gola Wieczystej przeciwko Motorowi w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Jose de la Rosa",
+      "Yannick Agnero",
+      "Łukasz Zjawiński",
+      "Patryk Makuch"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-006",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub przerwał wyjazdową passę bez porażki Górnika Zabrze w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "GKS Katowice",
+      "Wisła Kraków",
+      "Widzew Łódź",
+      "Zagłębie Lubin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-007",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto strzelił jedynego gola Lecha w ligowym meczu z GKS Katowice 22 listopada 2026 roku?",
+    "answers": [
+      "Patryk Makuch",
+      "Ajdin Hasić",
+      "Yannick Agnero",
+      "Luis Palma"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-008",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Kto zapewnił Legii zwycięstwo 1:0 nad Wisłą Płock 22 listopada 2026 roku?",
+    "answers": [
+      "Luis Palma",
+      "Łukasz Zjawiński",
+      "Patryk Makuch",
+      "Martin Remacle"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-009",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub zremisował bezbramkowo z Radomiakiem w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Wisła Kraków",
+      "Wisła Płock",
+      "Cracovia",
+      "Motor Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-010",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który bramkarz obronił najwięcej strzałów w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Rafał Leszczyński",
+      "Jasmin Burić",
+      "Kacper Tobiasz",
+      "Domen Gril"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-011",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz zanotował ósmą asystę sezonu 2026/27 podczas meczu Śląska z Pogonią w listopadzie?",
+    "answers": [
+      "Luis Palma",
+      "Martin Remacle",
+      "Piotr Samiec-Talar",
+      "Patryk Dziczek"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-012",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Wisły Płock wykonał najwięcej udanych dryblingów w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Dawid Błanik",
+      "Samuel Akere",
+      "Luis Palma",
+      "Ajdin Hasić"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-013",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Ile klubów w Ekstraklasie prowadził Jacek Zieliński po debiucie w Wieczystej w listopadzie 2026 roku?",
+    "answers": [
+      "11",
+      "7",
+      "9",
+      "13"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-014",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zespół miał najwyższe posiadanie piłki w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Motor Lublin",
+      "Raków Częstochowa",
+      "Legia Warszawa",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-015",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub oddał najwięcej celnych strzałów w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Piast Gliwice",
+      "Górnik Zabrze",
+      "Legia Warszawa",
+      "Wisła Kraków"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-016",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub wykonał najwięcej rzutów rożnych w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Lech Poznań",
+      "Raków Częstochowa",
+      "Korona Kielce",
+      "Motor Lublin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-017",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub pokonał Widzew Łódź 3:1 w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Raków Częstochowa",
+      "Cracovia",
+      "Lech Poznań",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-018",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz oddał najwięcej strzałów w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Patryk Makuch",
+      "Łukasz Zjawiński",
+      "Andreas Katsantonis",
+      "Luis Palma"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-019",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub miał najwyższą celność podań w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Lech Poznań",
+      "Wisła Kraków",
+      "Motor Lublin",
+      "Jagiellonia Białystok"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-15-020",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który piłkarz wykonał najwięcej przechwytów w 15. kolejce sezonu 2026/27?",
+    "answers": [
+      "Josema",
+      "Vincent Burlet",
+      "Antonio Milić",
+      "Patryk Dziczek"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
   }
 ]
