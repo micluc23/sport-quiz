@@ -27694,5 +27694,133 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/uzbrojeni-po-zeby-okno-transferowe-zostalo-zamkniete/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który bramkarz jako pierwszy osiągnął 300 występów w polskiej najwyższej lidze?",
+    "answers": [
+      "Edward Szymkowiak",
+      "Jan Tomaszewski",
+      "Hubert Kostka",
+      "Józef Młynarczyk"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/nowy-w-klubie-jubileusz-rafala-janickiego/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W barwach którego klubu Rafał Janicki zadebiutował w Ekstraklasie w 2010 roku?",
+    "answers": [
+      "Wisła Kraków",
+      "Lechia Gdańsk",
+      "Górnik Zabrze",
+      "Lech Poznań"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/nowy-w-klubie-jubileusz-rafala-janickiego/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Przeciwko komu Rafał Janicki zagrał w swoim debiucie w Ekstraklasie?",
+    "answers": [
+      "Ruch Chorzów",
+      "Piast Gliwice",
+      "Widzew Łódź",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/nowy-w-klubie-jubileusz-rafala-janickiego/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym roku Górnik Zabrze zadebiutował w najwyższej klasie rozgrywkowej?",
+    "answers": [
+      "1948",
+      "1962",
+      "1970",
+      "1956"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/czwarty-w-klubie-2000/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub jako pierwszy osiągnął 2000 spotkań w Ekstraklasie?",
+    "answers": [
+      "Legia Warszawa",
+      "Wisła Kraków",
+      "Ruch Chorzów",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/czwarty-w-klubie-2000/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Z którym klubem związany był ligowy jubileusz 350 występów Hieronima Barczaka?",
+    "answers": [
+      "Wisła Kraków",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "ŁKS Łódź"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/romanczuk-w-elitarnym-gronie/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Dla którego klubu Witold Bendkowski rozegrał co najmniej 350 meczów w najwyższej polskiej lidze?",
+    "answers": [
+      "Lech Poznań",
+      "Górnik Zabrze",
+      "ŁKS Łódź",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/romanczuk-w-elitarnym-gronie/"
+  },
+  {
+    "id": "SPORT-N20261125-0900-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z którym rywalem Górnika Zabrze Rafał Janicki rozegrał swój 395. mecz w Ekstraklasie w sezonie 2025/26?",
+    "answers": [
+      "Korona Kielce",
+      "Pogoń Szczecin",
+      "Motor Lublin",
+      "Radomiak Radom"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/nowy-w-top-10-rafal-janicki-wsrod-najlepszych/"
   }
 ]
