@@ -28814,5 +28814,53 @@
     "correctIndex": 1,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/dwa-debiuty-dwa-zwyciestwa-podsumowanie-15-kolejki-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-16-001",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Jaki gliwicki zabytek umieszczono na domowej koszulce Piasta w sezonie 2026/27?",
+    "answers": [
+      "Zamek Piastowski",
+      "Wieża Radiostacji",
+      "Ratusz",
+      "Palmiarnia"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/piast-przedstawil-stroje-z-motywem-radiostacji/"
+  },
+  {
+    "id": "SPORT-N20261125-16-002",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub przed 15. kolejką sezonu 2026/27 prowadził w ligowej statystyce wykonanych rzutów rożnych (95)?",
+    "answers": [
+      "Korona Kielce",
+      "Piast Gliwice",
+      "Lech Poznań",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/po-listopadowej-przerwie-walka-o-szczyt-i-nowe-otwarcia-15-kolejka-20262027/"
+  },
+  {
+    "id": "SPORT-N20261125-16-003",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Na stadionie którego klubu przed 15. kolejką sezonu 2026/27 padło najwięcej bramek (29)?",
+    "answers": [
+      "Legia Warszawa",
+      "Widzew Łódź",
+      "Piast Gliwice",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/po-listopadowej-przerwie-walka-o-szczyt-i-nowe-otwarcia-15-kolejka-20262027/"
   }
 ]
