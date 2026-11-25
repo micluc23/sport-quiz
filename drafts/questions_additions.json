@@ -27998,5 +27998,181 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-25",
     "source": "https://ekstraklasa.org/aktualnosci/trener-marca-2025-marek-papszun-rakow-czestochowa/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Piasta Gliwice zdobył swoją pierwszą bramkę w Ekstraklasie w meczu z Motorem Lublin w maju 2025?",
+    "answers": [
+      "Jean-Kévin Augustin",
+      "Tomas Huk",
+      "Jorge Félix",
+      "Michael Ameyaw"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-32-kolejki-2024-25/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który piłkarz Stali Mielec zdobył 13 bramek ligowych w sezonie 1995/96?",
+    "answers": [
+      "Grzegorz Lato",
+      "Bogusław Cygan",
+      "Andrzej Szarmach",
+      "Jan Domarski"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-32-kolejki-2024-25/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub przerwał serię dwunastu ligowych meczów bez porażki Jagiellonii Białystok w lutym 2025?",
+    "answers": [
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Stal Mielec",
+      "Korona Kielce"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-20-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub pokonał Górnika Zabrze 3:0 w 20. kolejce sezonu 2024/25?",
+    "answers": [
+      "Raków Częstochowa",
+      "Cracovia",
+      "Radomiak Radom",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-20-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który beniaminek wygrał z Rakowem Częstochowa 2:1 w lutym 2025?",
+    "answers": [
+      "GKS Katowice",
+      "Motor Lublin",
+      "Lechia Gdańsk",
+      "Puszcza Niepołomice"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-20-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który trener Stali Mielec pozostawał niepokonany u siebie po sześciu meczach domowych do 20. kolejki sezonu 2024/25?",
+    "answers": [
+      "John Carver",
+      "Janusz Niedźwiedź",
+      "Marek Papszun",
+      "Adrian Siemieniec"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-20-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym klubie występował Adam Basse, najmłodszy zawodnik 15. kolejki Ekstraklasy 2024/25?",
+    "answers": [
+      "Widzew Łódź",
+      "Legia Warszawa",
+      "Śląsk Wrocław",
+      "Lech Poznań"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-15-kolejki-2024-2025/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub miał najwięcej goli ze stałych fragmentów gry przed 26. kolejką sezonu 2024/25?",
+    "answers": [
+      "Puszcza Niepołomice",
+      "Lech Poznań",
+      "Legia Warszawa",
+      "Cracovia"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/wyrazny-podzial-26-kolejka-2024-2025-sobota/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-09",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub reprezentował Jonatan Braut Brunes, zdobywając sześć ligowych bramek w marcu 2025?",
+    "answers": [
+      "Raków Częstochowa",
+      "Pogoń Szczecin",
+      "Lech Poznań",
+      "Legia Warszawa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-2025-roku-i-kwartal/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-10",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który z wymienionych klubów spadł z Ekstraklasy po sezonie 2024/25?",
+    "answers": [
+      "Motor Lublin",
+      "Puszcza Niepołomice",
+      "GKS Katowice",
+      "Korona Kielce"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/puszcza-niepolomice-spada-z-pko-bank-polski-ekstraklasy/"
+  },
+  {
+    "id": "SPORT-N20261125-1300-11",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który z wymienionych klubów z Dolnego Śląska spadł z Ekstraklasy w sezonie 2024/25?",
+    "answers": [
+      "Zagłębie Lubin",
+      "Lech Poznań",
+      "Śląsk Wrocław",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-25",
+    "source": "https://ekstraklasa.org/aktualnosci/slask-wroclaw-i-stal-mielec-spadaja-z-pko-bank-polski-ekstraklasy-2024-2025/"
   }
 ]
