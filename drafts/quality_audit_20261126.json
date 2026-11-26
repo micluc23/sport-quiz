@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-26",
+  "main_sha": "8859b2329e289e4bbb911e80c1a35c1e2cdd905c",
+  "draft_sha": "6e1c424b5228bdbf776b9da45f59dc843af3c664",
+  "counts": {
+    "main": 2351,
+    "draft": 1878,
+    "unique_ids": 2566,
+    "shared_ids": 1663,
+    "conflicting_core_records": 0,
+    "normalized_exact_text_groups": 0
+  },
+  "reviewed_feedback_count": 14,
+  "statistics": {
+    "questions": 29,
+    "answers": 30,
+    "max_sample_per_question": 2
+  },
+  "reviewed_ids": [
+    "SPORT-0826",
+    "SPORT-0246",
+    "GS-N20261120-22-013"
+  ],
+  "proposals": [
+    {
+      "id": "SPORT-0826",
+      "action": "remove",
+      "reason": "Tautologia, odpowiedź wprost w pytaniu.",
+      "source": "https://www.itftennis.com/en/about-us/organisation/tennis-glossary/"
+    },
+    {
+      "id": "SPORT-0246",
+      "action": "remove",
+      "reason": "Jedyna odpowiedź zawierająca Zieloną Górę; poziom Ekspert nieadekwatny. Zgłoszenie 59f6249c-3a37-471d-87c6-2b0f9f40130d. Nie weryfikowano historii tytułów."
+    }
+  ],
+  "remove_ids": [
+    "SPORT-0826",
+    "SPORT-0246"
+  ],
+  "false_positive": {
+    "id": "GS-N20261120-22-013",
+    "reason": "105 kg oraz +105 kg to różne kategorie; normalizacja usuwająca plus nie może być podstawą odrzucenia."
+  },
+  "pending": [
+    {
+      "id": "SPORT-0384",
+      "reason": "Zgłoszenie testowe, wymaga niezależnej weryfikacji."
+    },
+    {
+      "id": "GS-PL-20261120-2300-017",
+      "reason": "Jedna ocena Za trudne i jedna błędna odpowiedź, 6 s; niewystarczająca próba."
+    }
+  ],
+  "limitations": "Pełna deduplikacja semantyczna i weryfikacja faktów pozostałych pytań nieukończona. Żadne zgłoszenie nie zostało zamknięte."
+}
