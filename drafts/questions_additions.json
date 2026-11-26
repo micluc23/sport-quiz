@@ -29806,5 +29806,245 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-26",
     "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub reprezentował Paweł Kieszek w 29. kolejce Ekstraklasy sezonu 2021/22?",
+    "answers": [
+      "Wisła Kraków",
+      "Wisła Płock",
+      "Piast Gliwice",
+      "Warta Poznań"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub reprezentował Deian Sorescu w kwietniu 2022 roku w Ekstraklasie?",
+    "answers": [
+      "Legia Warszawa",
+      "Raków Częstochowa",
+      "Cracovia",
+      "Lechia Gdańsk"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Warty Poznań zdobył zwycięską bramkę w 29. kolejce sezonu 2021/22 po podaniu Łukasza Trałki?",
+    "answers": [
+      "Kamil Pestka",
+      "Ariel Mosór",
+      "Dawid Szymonowicz",
+      "Damian Kądzior"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Lechii Gdańsk zdobył dwie bramki przeciw Górnikowi Zabrze w 29. kolejce sezonu 2021/22?",
+    "answers": [
+      "Michał Skóraś",
+      "Kamil Grosicki",
+      "Dawid Kownacki",
+      "Ilkay Durmus"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym klubie Ekstraklasy grał Heorhij Citaiszwili w kwietniu 2022 roku?",
+    "answers": [
+      "Wisła Kraków",
+      "Śląsk Wrocław",
+      "Piast Gliwice",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Piasta Gliwice pokonał Richarda Strebingera w meczu z Legią w 29. kolejce sezonu 2021/22?",
+    "answers": [
+      "Ariel Mosór",
+      "Damian Kądzior",
+      "Jakub Czerwiński",
+      "Kamil Pestka"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który napastnik Lecha Poznań znalazł się w jedenastce 29. kolejki sezonu 2021/22 po meczu z Wisłą Płock?",
+    "answers": [
+      "Filip Szymczak",
+      "Mikael Ishak",
+      "Dawid Kownacki",
+      "Artur Sobiech"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W barwach którego klubu Kamil Pestka trafił do jedenastki 29. kolejki sezonu 2021/22?",
+    "answers": [
+      "Piast Gliwice",
+      "Raków Częstochowa",
+      "Warta Poznań",
+      "Cracovia"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/jedenastka-29-kolejki-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-09",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Którego trenera zastąpił Marcin Prasoł w Górniku Łęczna w kwietniu 2022 roku?",
+    "answers": [
+      "Kamil Kiereś",
+      "Jan Urban",
+      "Piotr Tworek",
+      "Waldemar Fornalik"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/eksponowane-wyjazdy-28-kolejka-2021-2022-sobota/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-10",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym klubie Marcin Prasoł rozpoczynał pracę jako pierwszy trener w Ekstraklasie w kwietniu 2022 roku?",
+    "answers": [
+      "Górnik Zabrze",
+      "Górnik Łęczna",
+      "Piast Gliwice",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/eksponowane-wyjazdy-28-kolejka-2021-2022-sobota/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-11",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz zdobył zwycięską bramkę dla Pogoni Szczecin w wyjazdowym meczu ze Stalą Mielec w 22. kolejce sezonu 2021/22?",
+    "answers": [
+      "Kamil Drygas",
+      "Kamil Grosicki",
+      "Wahan Biczachczjan",
+      "Damian Kądzior"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/wydarzenie-22-kolejki-2021-2022-udana-pogon-portowcow/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-12",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Z którym klubem Pogoń Szczecin w lutym 2022 roku wygrała na wyjeździe w najwyższej lidze po raz pierwszy od 1986 roku?",
+    "answers": [
+      "Lech Poznań",
+      "Górnik Zabrze",
+      "Wisła Kraków",
+      "Stal Mielec"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/wydarzenie-22-kolejki-2021-2022-udana-pogon-portowcow/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-13",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub pokonał Legię Warszawa na wyjeździe w lutym 2022 roku po raz pierwszy od 1936 roku?",
+    "answers": [
+      "Warta Poznań",
+      "Radomiak Radom",
+      "Piast Gliwice",
+      "Raków Częstochowa"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/dwojki-i-zera-22-kolejka-2021-2022/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-14",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Trudny",
+    "question": "Który klub Ekstraklasy w 2022 roku uczestniczył w meczach ligowych z łączną liczbą 108 bramek, najwyższą w lidze w tym roku?",
+    "answers": [
+      "Lechia Gdańsk",
+      "Górnik Zabrze",
+      "Raków Częstochowa",
+      "Pogoń Szczecin"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/288-288-2-kolejka-2022-2023-piatek/"
+  },
+  {
+    "id": "SPORT-EK20261126-13-16",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który klub pokonał Wisłę Płock na wyjeździe w 26. kolejce sezonu 2021/22, mimo że płocczanie strzelili pierwsi?",
+    "answers": [
+      "Radomiak Radom",
+      "Lechia Gdańsk",
+      "Stal Mielec",
+      "Śląsk Wrocław"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/podsumowanie-26-kolejki-2021-22/"
   }
 ]
