@@ -29406,5 +29406,197 @@
     "correctIndex": 3,
     "status": "zweryfikowano_zrodlo_2026-11-26",
     "source": "https://ekstraklasa.org/aktualnosci/cos-ekstra-o-taras-romanczuk-jagiellonia-bialystok/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub reprezentował Leonardo Rocha, gdy został piłkarzem lipca 2024 w Ekstraklasie?",
+    "answers": [
+      "Radomiak Radom",
+      "Piast Gliwice",
+      "Legia Warszawa",
+      "Motor Lublin"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-lipca-2024-leonardo-rocha-radomiak-radom/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zespół prowadził John Carver w swoim debiucie trenerskim w Ekstraklasie w grudniu 2024?",
+    "answers": [
+      "Śląsk Wrocław",
+      "Lechia Gdańsk",
+      "Korona Kielce",
+      "Widzew Łódź"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/skrot-lechia-1-0-slask-zwycieski-debiut-carvera/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Kto strzelił jedynego gola w debiucie Johna Carvera w Ekstraklasie przeciw Śląskowi w grudniu 2024?",
+    "answers": [
+      "Dominik Piła",
+      "Kamil Grosicki",
+      "Bohdan Wjunnyk",
+      "Antoni Kozubal"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/skrot-lechia-1-0-slask-zwycieski-debiut-carvera/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W którym klubie grał Lawrence Ennali, gdy otrzymał nagrodę piłkarza kwietnia 2024 w Ekstraklasie?",
+    "answers": [
+      "Lech Poznań",
+      "Raków Częstochowa",
+      "Pogoń Szczecin",
+      "Górnik Zabrze"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-kwietnia-2024-lawrence-ennali-gornik-zabrze/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który klub reprezentował Jean Carlos Silva, zdobywając nagrodę piłkarza września 2024?",
+    "answers": [
+      "Wisła Kraków",
+      "Raków Częstochowa",
+      "Pogoń Szczecin",
+      "Lech Poznań"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-wrzesnia-2024-jean-carlos-silva-rakow-czestochowa/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "W barwach którego klubu Samuel Mraz został piłkarzem listopada 2024 w Ekstraklasie?",
+    "answers": [
+      "Piast Gliwice",
+      "Stal Mielec",
+      "Motor Lublin",
+      "Radomiak Radom"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-listopada-2024-samuel-mraz-motor-lublin/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Przeciwko komu Samuel Mraz zdobył pierwszego hat-tricka Motoru Lublin w Ekstraklasie w XXI wieku?",
+    "answers": [
+      "Legia Warszawa",
+      "Lech Poznań",
+      "Korona Kielce",
+      "Piast Gliwice"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-listopada-2024-samuel-mraz-motor-lublin/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-09",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz Jagiellonii został piłkarzem marca 2024 w Ekstraklasie?",
+    "answers": [
+      "Dominik Marczuk",
+      "Jesus Imaz",
+      "Taras Romanczuk",
+      "Nene"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-marca-2024-dominik-marczuk-jagiellonia-bialystok/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-10",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który zawodnik Pogoni Szczecin zdobył wyrównującą bramkę przeciw Zagłębiu Lubin w drugiej kolejce sezonu 2024/25?",
+    "answers": [
+      "Kamil Grosicki",
+      "Patryk Paryzek",
+      "Efthymis Koulouris",
+      "Alexander Gorgon"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-lipca-pko-banku-polskiego-2024-nominacje/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-11",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik został piłkarzem sierpnia 2024 w Ekstraklasie?",
+    "answers": [
+      "Leonardo Rocha",
+      "Jean Carlos Silva",
+      "Bartosz Kapustka",
+      "Samuel Mraz"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-wrzesnia-2024-jean-carlos-silva-rakow-czestochowa/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-12",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Stali Mielec jako pierwszy w historii klubu zdobył nagrodę piłkarza miesiąca Ekstraklasy w październiku 2022?",
+    "answers": [
+      "Ilja Szkurin",
+      "Piotr Wlazło",
+      "Krystian Getinger",
+      "Said Hamulic"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-lipca-2024-leonardo-rocha-radomiak-radom/"
+  },
+  {
+    "id": "SPORT-EK20261126-10-13",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz Górnika Zabrze otrzymał nagrodę młodzieżowca kwietnia 2024?",
+    "answers": [
+      "Kamil Lukoszek",
+      "Antoni Kozubal",
+      "Jan Ziółkowski",
+      "Patryk Paryzek"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-kwietnia-2024-lawrence-ennali-gornik-zabrze/"
   }
 ]
