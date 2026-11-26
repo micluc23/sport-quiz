@@ -32,7 +32,14 @@
     "SPORT-N20261120-A12-004",
     "SPORT-N20261120-A12-005",
     "SPORT-N20261120-A12-006",
-    "SPORT-N20261120-A12-007"
+    "SPORT-N20261120-A12-007",
+    "SPORT-0703",
+    "SPORT-0176",
+    "SPORT-0085",
+    "SPORT-0400",
+    "SPORT-N20261123-13-008",
+    "GS-EK-20261123-04-016",
+    "SPORT-N20261121-18-007"
   ],
   "proposals": [
     {
@@ -81,11 +88,35 @@
       "question": "Ile strzał oddaje łucznik klasyczny w rundzie kwalifikacyjnej międzynarodowych zawodów tarczowych na otwartym stadionie?",
       "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
       "reason": "Doprecyzowanie formatu zawodów; 72 strzały."
+    },
+    {
+      "id": "SPORT-0703",
+      "action": "remove",
+      "keep_id": "SPORT-0176",
+      "reason": "Duplikat znaczeniowy tego samego faktu, potwierdzony przez porównanie treści.",
+      "source": "https://it.volleyballworld.com/news/thousands-hail-wlazly-as-he-bids-emotional-farewell-to-competitive-volleyball"
+    },
+    {
+      "id": "SPORT-0085",
+      "action": "remove",
+      "keep_id": "SPORT-0400",
+      "reason": "Duplikat znaczeniowy tego samego faktu, potwierdzony przez porównanie treści.",
+      "source": "https://www.volleyhall.org/hubert-wagner.html"
+    },
+    {
+      "id": "SPORT-N20261123-13-008",
+      "action": "remove",
+      "keep_id": "GS-EK-20261123-04-016",
+      "reason": "Duplikat znaczeniowy tego samego faktu, potwierdzony przez porównanie treści.",
+      "source": "https://legia.com/en/articles/historia-kalendarium-legii-4-lutego-rozwod-legii-z-wojskiem"
     }
   ],
   "remove_ids": [
     "SPORT-0826",
-    "SPORT-0246"
+    "SPORT-0246",
+    "SPORT-0703",
+    "SPORT-0085",
+    "SPORT-N20261123-13-008"
   ],
   "false_positive": {
     "id": "GS-N20261120-22-013",
@@ -123,7 +154,14 @@
     "SPORT-N20261120-A12-004",
     "SPORT-N20261120-A12-005",
     "SPORT-N20261120-A12-006",
-    "SPORT-N20261120-A12-007"
+    "SPORT-N20261120-A12-007",
+    "SPORT-0703",
+    "SPORT-0176",
+    "SPORT-0085",
+    "SPORT-0400",
+    "SPORT-N20261123-13-008",
+    "GS-EK-20261123-04-016",
+    "SPORT-N20261121-18-007"
   ],
   "runs": [
     {
@@ -228,6 +266,77 @@
       "normalized_exact_text_groups": 0,
       "conflicts": 0,
       "semantic_note": "Pełna kontrola znaczeniowa nadal nieukończona; pytania łucznicze dotyczą odrębnych reguł."
+    },
+    {
+      "at": "2026-11-26T23:00:56+01:00",
+      "source_verified": [
+        {
+          "id": "SPORT-0703",
+          "source": "https://it.volleyballworld.com/news/thousands-hail-wlazly-as-he-bids-emotional-farewell-to-competitive-volleyball",
+          "result": "correct",
+          "note": "Klucz potwierdzony; para duplikatów znaczeniowych."
+        },
+        {
+          "id": "SPORT-0176",
+          "source": "https://it.volleyballworld.com/news/thousands-hail-wlazly-as-he-bids-emotional-farewell-to-competitive-volleyball",
+          "result": "correct",
+          "note": "Klucz potwierdzony; para duplikatów znaczeniowych."
+        },
+        {
+          "id": "SPORT-0085",
+          "source": "https://www.volleyhall.org/hubert-wagner.html",
+          "result": "correct",
+          "note": "Klucz potwierdzony; para duplikatów znaczeniowych."
+        },
+        {
+          "id": "SPORT-0400",
+          "source": "https://www.volleyhall.org/hubert-wagner.html",
+          "result": "correct",
+          "note": "Klucz potwierdzony; para duplikatów znaczeniowych."
+        },
+        {
+          "id": "SPORT-N20261123-13-008",
+          "source": "https://legia.com/en/articles/historia-kalendarium-legii-4-lutego-rozwod-legii-z-wojskiem",
+          "result": "correct",
+          "note": "Klucz potwierdzony; para duplikatów znaczeniowych."
+        },
+        {
+          "id": "GS-EK-20261123-04-016",
+          "source": "https://legia.com/en/articles/historia-kalendarium-legii-4-lutego-rozwod-legii-z-wojskiem",
+          "result": "correct",
+          "note": "Klucz potwierdzony; para duplikatów znaczeniowych."
+        },
+        {
+          "id": "SPORT-N20261121-18-007",
+          "source": "https://www.worldaquatics.com/news/4073503/summer-in-paris-mcintosh-wins-another-gold-in-fastest-200m-butterfly-in-15-years",
+          "result": "correct",
+          "note": "Australia; pojedyncza ocena trudności nie uzasadnia zmiany."
+        }
+      ],
+      "feedback_total": 50,
+      "new_feedback_since_saved": 33,
+      "feedback_note": "Dwa zgłoszenia powtórek potwierdzone; pozostałe nowe oceny wymagają dalszej analizy, nie oznaczono jako rozpatrzone.",
+      "rounds": 18,
+      "answers": 180,
+      "max_sample_per_question": 2,
+      "semantic_pairs": [
+        [
+          "SPORT-0703",
+          "SPORT-0176"
+        ],
+        [
+          "SPORT-0085",
+          "SPORT-0400"
+        ],
+        [
+          "SPORT-N20261123-13-008",
+          "GS-EK-20261123-04-016"
+        ]
+      ],
+      "structural_invalid_answers_or_index": 0,
+      "normalized_exact_text_groups": 0,
+      "semantic_note": "Porównano kandydatów o tej samej odpowiedzi i kategorii dla 8 wskazanych ID; pełna deduplikacja semantyczna nieukończona."
     }
-  ]
+  ],
+  "feedback_observed_count": 50
 }
