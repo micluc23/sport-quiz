@@ -19,7 +19,13 @@
   "reviewed_ids": [
     "SPORT-0826",
     "SPORT-0246",
-    "GS-N20261120-22-013"
+    "GS-N20261120-22-013",
+    "SPORT-0384",
+    "SPORT-0028",
+    "SPORT-0029",
+    "SPORT-0030",
+    "SPORT-0031",
+    "SPORT-0032"
   ],
   "proposals": [
     {
@@ -32,6 +38,29 @@
       "id": "SPORT-0246",
       "action": "remove",
       "reason": "Jedyna odpowiedź zawierająca Zieloną Górę; poziom Ekspert nieadekwatny. Zgłoszenie 59f6249c-3a37-471d-87c6-2b0f9f40130d. Nie weryfikowano historii tytułów."
+    },
+    {
+      "id": "SPORT-0028",
+      "action": "edit",
+      "question": "Ile co najmniej punktów musi zdobyć drużyna, aby wygrać jeden z pierwszych czterech setów siatkówki halowej?",
+      "region": "Świat",
+      "correctIndex": 2,
+      "reason": "Przepisy ogólne, nie polskie; minimalny próg 25.",
+      "source": "https://www.fivb.com/volleyball/the-game/basic-rules/"
+    },
+    {
+      "id": "SPORT-0031",
+      "action": "edit",
+      "question": "Które stwierdzenie o odbiciu piłki podczas wymiany w siatkówce halowej jest zgodne z przepisami?",
+      "answers": [
+        "Piłka może dotknąć dowolnej części ciała",
+        "Piłka może dotknąć wyłącznie dłoni",
+        "Piłka może dotknąć wyłącznie rąk i głowy",
+        "Piłka nie może dotknąć stopy"
+      ],
+      "correctIndex": 0,
+      "reason": "Jednoznaczne dystraktory; reguła 9.2.1.",
+      "source": "https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf"
     }
   ],
   "remove_ids": [
@@ -44,13 +73,67 @@
   },
   "pending": [
     {
-      "id": "SPORT-0384",
-      "reason": "Zgłoszenie testowe, wymaga niezależnej weryfikacji."
-    },
-    {
       "id": "GS-PL-20261120-2300-017",
       "reason": "Jedna ocena Za trudne i jedna błędna odpowiedź, 6 s; niewystarczająca próba."
     }
   ],
-  "limitations": "Pełna deduplikacja semantyczna i weryfikacja faktów pozostałych pytań nieukończona. Żadne zgłoszenie nie zostało zamknięte."
+  "limitations": "Pełna deduplikacja semantyczna i weryfikacja faktów pozostałych pytań nieukończona. Żadne zgłoszenie nie zostało zamknięte.",
+  "source_verified_ids": [
+    "SPORT-0384",
+    "SPORT-0028",
+    "SPORT-0029",
+    "SPORT-0030",
+    "SPORT-0031",
+    "SPORT-0032"
+  ],
+  "runs": [
+    {
+      "at": "2026-11-26T19:57:38+01:00",
+      "source_verified": [
+        {
+          "id": "SPORT-0384",
+          "source": "https://www.fiba.basketball/en/history/208-fiba-eurobasket/5134/games/43565-ESP-SRB",
+          "result": "correct",
+          "note": "Finał mężczyzn w Spodku, Katowice. Zgłoszenie Test nie wskazuje błędu; bez zamykania zgłoszenia."
+        },
+        {
+          "id": "SPORT-0028",
+          "source": "https://www.fivb.com/volleyball/the-game/basic-rules/",
+          "result": "correct_with_edit",
+          "note": "25 punktów i przewaga dwóch; region Świat, doprecyzować minimalny próg."
+        },
+        {
+          "id": "SPORT-0029",
+          "source": "https://www.fivb.com/volleyball/the-game/basic-rules/",
+          "result": "correct",
+          "note": "Mecz do trzech wygranych setów."
+        },
+        {
+          "id": "SPORT-0030",
+          "source": "https://www.fivb.com/volleyball/the-game/basic-rules/",
+          "result": "correct",
+          "note": "Libero, odmienny strój i obrona."
+        },
+        {
+          "id": "SPORT-0031",
+          "source": "https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf",
+          "result": "correct_with_edit",
+          "note": "Reguła 9.2.1; odpowiedzi Tak oraz Tylko w tie-breaku nie są rozłączne w sensie logicznym; poprawić dystraktory i doprecyzować akcję."
+        },
+        {
+          "id": "SPORT-0032",
+          "source": "https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf",
+          "result": "correct",
+          "note": "Reguła 9.1, trzy odbicia poza blokiem."
+        }
+      ],
+      "feedback_total": 14,
+      "new_feedback": 0,
+      "rounds": 3,
+      "answers": 30,
+      "structural_invalid_answers_or_index": 0,
+      "normalized_exact_text_groups": 0,
+      "semantic_note": "Sprawdzono kandydatów dotyczących finału EuroBasket 2009 i zasad siatkówki; pełna kontrola semantyczna nadal nieukończona."
+    }
+  ]
 }
