@@ -10,7 +10,7 @@
     "conflicting_core_records": 0,
     "normalized_exact_text_groups": 0
   },
-  "reviewed_feedback_count": 14,
+  "reviewed_feedback_count": 17,
   "statistics": {
     "questions": 29,
     "answers": 30,
@@ -25,7 +25,14 @@
     "SPORT-0029",
     "SPORT-0030",
     "SPORT-0031",
-    "SPORT-0032"
+    "SPORT-0032",
+    "SPORT-N20261119-168",
+    "SPORT-N20261121-13-001",
+    "SPORT-N20261120-A12-003",
+    "SPORT-N20261120-A12-004",
+    "SPORT-N20261120-A12-005",
+    "SPORT-N20261120-A12-006",
+    "SPORT-N20261120-A12-007"
   ],
   "proposals": [
     {
@@ -61,6 +68,19 @@
       "correctIndex": 0,
       "reason": "Jednoznaczne dystraktory; reguła 9.2.1.",
       "source": "https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf"
+    },
+    {
+      "id": "SPORT-N20261119-168",
+      "action": "edit",
+      "source": "https://iwf.sport/2024/08/10/paris-women-71kg-historic-gold-for-usas-reeves-and-two-silvers-on-the-day-for-colombia/",
+      "reason": "Źródło oficjalnej federacji IWF potwierdza klucz."
+    },
+    {
+      "id": "SPORT-N20261120-A12-003",
+      "action": "edit",
+      "question": "Ile strzał oddaje łucznik klasyczny w rundzie kwalifikacyjnej międzynarodowych zawodów tarczowych na otwartym stadionie?",
+      "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
+      "reason": "Doprecyzowanie formatu zawodów; 72 strzały."
     }
   ],
   "remove_ids": [
@@ -75,6 +95,18 @@
     {
       "id": "GS-PL-20261120-2300-017",
       "reason": "Jedna ocena Za trudne i jedna błędna odpowiedź, 6 s; niewystarczająca próba."
+    },
+    {
+      "id": "SPORT-N20261119-168",
+      "reason": "Pojedyncza ocena Za trudne; obserwacja, bez automatycznej zmiany poziomu."
+    },
+    {
+      "id": "SPORT-N20261121-13-001",
+      "reason": "Pojedyncza ocena Za trudne; obserwacja, bez automatycznej zmiany poziomu."
+    },
+    {
+      "id": "SPORT-N20261120-A12-004",
+      "reason": "Pojedyncza ocena Za trudne; obserwacja."
     }
   ],
   "limitations": "Pełna deduplikacja semantyczna i weryfikacja faktów pozostałych pytań nieukończona. Żadne zgłoszenie nie zostało zamknięte.",
@@ -84,7 +116,14 @@
     "SPORT-0029",
     "SPORT-0030",
     "SPORT-0031",
-    "SPORT-0032"
+    "SPORT-0032",
+    "SPORT-N20261119-168",
+    "SPORT-N20261121-13-001",
+    "SPORT-N20261120-A12-003",
+    "SPORT-N20261120-A12-004",
+    "SPORT-N20261120-A12-005",
+    "SPORT-N20261120-A12-006",
+    "SPORT-N20261120-A12-007"
   ],
   "runs": [
     {
@@ -134,6 +173,61 @@
       "structural_invalid_answers_or_index": 0,
       "normalized_exact_text_groups": 0,
       "semantic_note": "Sprawdzono kandydatów dotyczących finału EuroBasket 2009 i zasad siatkówki; pełna kontrola semantyczna nadal nieukończona."
+    },
+    {
+      "at": "2026-11-26T20:58:38+01:00",
+      "source_verified": [
+        {
+          "id": "SPORT-N20261119-168",
+          "source": "https://iwf.sport/2024/08/10/paris-women-71kg-historic-gold-for-usas-reeves-and-two-silvers-on-the-day-for-colombia/",
+          "note": "Olivia Reeves; źródło federacji zamiast portalu fitness.",
+          "result": "correct"
+        },
+        {
+          "id": "SPORT-N20261121-13-001",
+          "source": "https://www.fatbmx.com/bmx-freestyle/item/59684-olympic-qualifier-series-bmx-freestyle-park-budapest-hungary-20-23-june-2024",
+          "note": "Anthony Jeanjean; wyniki branżowe, oficjalna strona IOC niedostępna.",
+          "result": "correct"
+        },
+        {
+          "id": "SPORT-N20261120-A12-003",
+          "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
+          "note": "72 strzały; doprecyzować kwalifikacje międzynarodowego łucznictwa tarczowego na otwartym stadionie.",
+          "result": "correct"
+        },
+        {
+          "id": "SPORT-N20261120-A12-004",
+          "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
+          "note": "6 punktów setowych.",
+          "result": "correct"
+        },
+        {
+          "id": "SPORT-N20261120-A12-005",
+          "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
+          "note": "2 punkty setowe.",
+          "result": "correct"
+        },
+        {
+          "id": "SPORT-N20261120-A12-006",
+          "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
+          "note": "3 strzały.",
+          "result": "correct"
+        },
+        {
+          "id": "SPORT-N20261120-A12-007",
+          "source": "https://www.worldarchery.sport/news/202133/beginners-guide-2025-hyundai-world-archery-championships",
+          "note": "4 strzały.",
+          "result": "correct"
+        }
+      ],
+      "feedback_total": 17,
+      "new_feedback": 3,
+      "rounds": 3,
+      "answers": 30,
+      "structural_invalid_answers_or_index": 1,
+      "normalized_exact_text_groups": 0,
+      "conflicts": 0,
+      "semantic_note": "Pełna kontrola znaczeniowa nadal nieukończona; pytania łucznicze dotyczą odrębnych reguł."
     }
   ]
 }
