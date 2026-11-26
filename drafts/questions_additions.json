@@ -29598,5 +29598,213 @@
     "correctIndex": 0,
     "status": "zweryfikowano_zrodlo_2026-11-26",
     "source": "https://ekstraklasa.org/aktualnosci/pilkarz-kwietnia-2024-lawrence-ennali-gornik-zabrze/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-01",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który napastnik Legii Warszawa został młodzieżowcem maja 2023 w Ekstraklasie?",
+    "answers": [
+      "Maciej Rosołek",
+      "Filip Szymczak",
+      "Szymon Włodarczyk",
+      "Michał Rakoczy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-02",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik Miedzi Legnica zdobył nagrodę młodzieżowca września 2022 w Ekstraklasie?",
+    "answers": [
+      "Kajetan Szmyt",
+      "Olaf Kobacki",
+      "Dawid Drachal",
+      "Łukasz Bejger"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-03",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który piłkarz Cracovii został młodzieżowcem lipca 2022 w Ekstraklasie?",
+    "answers": [
+      "Ariel Mosór",
+      "Filip Marchwiński",
+      "Michał Rakoczy",
+      "Maciej Rosołek"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-04",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik Górnika Zabrze otrzymał nagrodę młodzieżowca sierpnia 2022 w Ekstraklasie?",
+    "answers": [
+      "Kajetan Szmyt",
+      "Olaf Kobacki",
+      "Łukasz Bejger",
+      "Aleksander Paluszek"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-05",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który napastnik Górnika Zabrze został młodzieżowcem października 2022 w Ekstraklasie?",
+    "answers": [
+      "Szymon Włodarczyk",
+      "Maciej Rosołek",
+      "Filip Szymczak",
+      "Michał Rakoczy"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-06",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który obrońca Śląska Wrocław został młodzieżowcem listopada 2023 w Ekstraklasie?",
+    "answers": [
+      "Ariel Mosór",
+      "Łukasz Bejger",
+      "Aleksander Paluszek",
+      "Arkadiusz Pyrka"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-grudnia-pko-banku-polskiego-2023-ariel-mosor-piast-gliwice/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-07",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik Rakowa Częstochowa zdobył nagrodę młodzieżowca września 2023 w Ekstraklasie?",
+    "answers": [
+      "Olaf Kobacki",
+      "Kajetan Szmyt",
+      "Dawid Drachal",
+      "Filip Szymczak"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-grudnia-pko-banku-polskiego-2023-ariel-mosor-piast-gliwice/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-08",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który zawodnik Warty Poznań został młodzieżowcem sierpnia 2023 w Ekstraklasie?",
+    "answers": [
+      "Dawid Drachal",
+      "Maciej Rosołek",
+      "Michał Rakoczy",
+      "Kajetan Szmyt"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-grudnia-pko-banku-polskiego-2023-ariel-mosor-piast-gliwice/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-09",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który bramkarz Puszczy Niepołomice został młodzieżowcem maja 2024 w Ekstraklasie?",
+    "answers": [
+      "Oliwier Zych",
+      "Gabriel Kobylak",
+      "Rafał Strączek",
+      "Karol Niemczycki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2024-oliwier-zych-puszcza-niepolomice/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-10",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Łatwy",
+    "question": "Który bramkarz Radomiaka Radom został młodzieżowcem lutego 2023 w Ekstraklasie?",
+    "answers": [
+      "Oliwier Zych",
+      "Gabriel Kobylak",
+      "Radosław Majecki",
+      "Xavier Dziekoński"
+    ],
+    "correctIndex": 1,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-lutego-pko-banku-polskiego-2023-gabriel-kobylak-radomiak-radom/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-11",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz jako pierwszy zdobył trzy nagrody młodzieżowca miesiąca Ekstraklasy, dokonując tego w grudniu 2023?",
+    "answers": [
+      "Filip Szymczak",
+      "Jakub Moder",
+      "Ariel Mosór",
+      "Dominik Marczuk"
+    ],
+    "correctIndex": 2,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-grudnia-pko-banku-polskiego-2023-ariel-mosor-piast-gliwice/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-12",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który piłkarz Lecha Poznań zdobył jednocześnie nagrody piłkarza i młodzieżowca lipca 2023 w Ekstraklasie?",
+    "answers": [
+      "Kamil Jóźwiak",
+      "Jakub Kamiński",
+      "Michał Skóraś",
+      "Filip Marchwiński"
+    ],
+    "correctIndex": 3,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/pilkarz-lipca-2023-filip-marchwinski-lech-poznan/"
+  },
+  {
+    "id": "SPORT-EK20261126-11-13",
+    "region": "Polska",
+    "sport": "Piłka nożna",
+    "difficulty": "Normalny",
+    "question": "Który napastnik Lecha Poznań zdobył nagrodę młodzieżowca listopada 2022 w Ekstraklasie?",
+    "answers": [
+      "Filip Szymczak",
+      "Maciej Rosołek",
+      "Szymon Włodarczyk",
+      "Olaf Kobacki"
+    ],
+    "correctIndex": 0,
+    "status": "zweryfikowano_zrodlo_2026-11-26",
+    "source": "https://ekstraklasa.org/aktualnosci/mlodziezowiec-maja-pko-banku-polskiego-2023-maciej-rosolek-legia-warszawa/"
   }
 ]
