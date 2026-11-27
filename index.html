@@ -68,6 +68,7 @@ async function init(){let d=store();$('nick').value=d.nick||'';try{let response=
 const by=id=>document.getElementById(id);
 const status=t=>by('accountStatus').textContent=t;
 const redirect='https://micluc23.github.io/sport-quiz/';
+let duelView=null,duelTimer=null,duelGeneration=0;
 let client, recovery=false, busy=false, profileUser=null, profileEpoch=0, guestNick=null, centerRequest=0, centerAbort=null, friendSeq=0, duelSeq=0, noticeSeq=0;
 function clearProfile(){closeDuel();noticeSeq++;by("noticeWrap").classList.add("hidden");by("noticePanel").classList.add("hidden");by("noticeBadge").classList.add("hidden");by("noticeBell").setAttribute("aria-expanded","false");by("noticeItems").replaceChildren();by("noticeStatus").textContent="";duelSeq++;for(const id of ["duelCount","duelStatus","duelIncoming","duelOutgoing","duelActive","duelClosed"])by(id).replaceChildren();friendSeq++;for(const id of ["friendResult","friendIncoming","friendOutgoing","friendList","friendCount","friendStatus"])by(id).replaceChildren();by("friendSearch").value="";centerAbort?.abort();centerRequest++;window.gsAccountOwner=null;for(const id of ["centerStats","centerTrophies","centerSports","centerHistory"])by(id).replaceChildren();by("centerStatus").textContent="Wczytywanie…";profileEpoch++;profileUser=null;by("profileNick").value="";by("profileAvatar").selectedIndex=0;by("profileStatus").textContent="";if(guestNick!==null){by("nick").value=guestNick;guestNick=null;}by("nick").readOnly=false;}
 let loadedProfile=null, profileRequest=0;
@@ -90,7 +91,7 @@ by('friendSearchForm').onsubmit=async e=>{e.preventDefault();const uid=profileUs
 by('friendRefresh').onclick=()=>loadFriends();by('friendsPanel').addEventListener('toggle',()=>{if(by('friendsPanel').open)loadFriends();});
 async function duelAction(action){const epoch=profileEpoch;try{const {data,error}=await action();if(error)throw error;if(epoch!==profileEpoch)return;if(!data||!data.length){by('duelStatus').textContent='Status już się zmienił. Odśwież.';return;}await loadDuels();loadNotices();}catch(e){if(epoch===profileEpoch)by('duelStatus').textContent=e.code==='23505'?'Macie już otwarty pojedynek.':'Nie udało się wykonać operacji.';}}
 async function sendDuel(target){const uid=profileUser;if(!uid)return;by('duelsPanel').open=true;await duelAction(()=>client.from('duels').insert({challenger:uid,opponent:target}).select('id')); }
-let duelView=null,duelTimer=null,duelGeneration=0;
+
 function closeDuel(){duelGeneration++;clearInterval(duelTimer);duelTimer=null;duelView?.remove();duelView=null;}
 async function openDuel(id,incoming){closeDuel();const gen=duelGeneration,epoch=profileEpoch,uid=profileUser;const panel=document.createElement('div');duelView=panel;panel.className='panel';panel.style.cssText='padding:12px;margin:12px 0';by('duelActive').before(panel);const body=document.createElement('div');panel.append(friendButton('Zamknij pojedynek',closeDuel),body);let busy=false;
 const valid=()=>gen===duelGeneration&&epoch===profileEpoch&&uid===profileUser;
